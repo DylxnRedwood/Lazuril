@@ -56,9 +56,9 @@ The Windmere Assembly sits in the Windmere Basin, on the eastern side of Arkhave
 
 It has access to the sea and to the waters of the [Godscar](../../Lore/Arkhaven%20Events/The%20Godscar.md), giving it strong maritime, river, and coastal trade potential.
 
-The state is geographically sandwiched between The Anvilspine Range to the west and Barak Thuldren of the Ashenbarrow Range to the north-west and north.
+The state lies south of both [Khuldovar](The%20Throne%20of%20Khuldovar.md) and the [Dornhal Empire](Dornhal%20Empire.md), where the mountain systems descend and meet around the middle of the Windmere Basin.
 
-These mountains feed rivers into the basin, enrich the soil, and create natural borders.
+Rivers from the Anvilspine Range and Barak Thuldren flow down into Windmere, enriching the basin, feeding its farmland, and linking the Assembly to the dwarven highlands without placing it between the two dwarven states.
 
 The land is greener, warmer, and more fertile than much of the north.
 
