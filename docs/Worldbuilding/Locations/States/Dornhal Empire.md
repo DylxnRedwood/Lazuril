@@ -1,5 +1,3 @@
-# Dornhal Empire
-
 The **Dornhal Empire** is a dwarven imperial state descended from [Khuldovar](The%20Throne%20of%20Khuldovar.md) but culturally and politically distinct from it.
 
 It is ruled by a queen and an all-female council, with a society shaped by central authority, hard mountain frontiers, imperial law, and practical ambition.

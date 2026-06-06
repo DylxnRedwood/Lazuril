@@ -1,5 +1,3 @@
-# The Scriptor Compact
-
 The **Scriptor Compact** is a formal religious and scholarly institution used across [Arkhaven](../../Locations/Continents/Arkhaven.md). Under the Compact, most recognised heads of major churches are assigned an elven mage-advisor known as a **Scriptor**.
 
 A Scriptor serves as a trained archivist, theological advisor, legal scholar, ritual witness, translator, magical examiner, and keeper of institutional memory. Their purpose is to preserve the continuity of religious doctrine across generations and to advise church leaders on matters where history, law, magic, and faith overlap.

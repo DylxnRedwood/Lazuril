@@ -1,5 +1,3 @@
-# Roads of Arkhaven
-
 The roads of [Arkhaven](../Locations/Continents/Arkhaven.md) form the primary overland transport network of the continent.
 
 Road quality varies considerably between regions.

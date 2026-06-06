@@ -1,5 +1,3 @@
-# Kharad Wildlands
-
 The **Kharad Wildlands** are a broad, arid frontier of open plains, mountain-fed rivers, and roaming peoples.
 
 They are not a unified kingdom, but a shared homeland and trade region for hardy tribes, travelling clans, and independent settlements that survive through mobility, negotiation, and knowledge of the land.

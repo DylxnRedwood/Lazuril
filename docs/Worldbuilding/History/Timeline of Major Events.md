@@ -1,5 +1,3 @@
-# Timeline of Major Events
-
 This page contains a broad historical framework for major recorded events in [Lazuril](../Locations/World/Lazuril.md).
 
 Exact dates remain disputed in many cases.

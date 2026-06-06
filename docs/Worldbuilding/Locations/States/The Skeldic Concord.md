@@ -1,5 +1,3 @@
-# The Skeldic Concord
-
 The **Skeldic Concord** is a human-led nomadic warrior society in the Floodlands of northern [Arkhaven](../Continents/Arkhaven.md).
 
 It is made up of roamers, drifters, exiles, oath-breakers, escaped serfs, displaced families, rejected soldiers, and outcasts from surrounding states who joined together for mutual defence and shared survival.

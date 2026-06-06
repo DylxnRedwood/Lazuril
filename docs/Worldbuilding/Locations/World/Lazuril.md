@@ -1,5 +1,3 @@
-# Lazuril
-
 Lazuril is the known world upon which the continent of [Arkhaven](../../Locations/Continents/Arkhaven.md) exists.
 
 The world is dominated by vast oceans, separated continental landmasses, deep climatic variation, ancient religious history, and long-lived civilisations whose records often contradict one another.

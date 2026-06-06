@@ -1,5 +1,3 @@
-
-
 **Tirith I Daur** means "Guard of the Forest" in the common translation.
 
 It is a wood elven realm of temperate forests, ancient groves, hidden halls, and disciplined border wardens who protect the woodland from corruption, invasion, and careless expansion.

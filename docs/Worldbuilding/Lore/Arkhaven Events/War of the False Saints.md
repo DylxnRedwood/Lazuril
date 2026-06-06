@@ -1,5 +1,3 @@
-# War of the False Saints
-
 The **War of the False Saints** was a period of religious conflict, political instability, and institutional failure in [Arkhaven](../../Locations/Continents/Arkhaven.md). The name refers to a series of related crises in which disputed holy figures, fabricated miracles, forged relics, altered doctrine, and religious propaganda were used to influence churches, rulers, and civilian populations.
 
 Despite the name, it was not a single war fought between two sides. It was a broad period of unrest involving separate regional conflicts, church schisms, local uprisings, accusations of heresy, contested sainthood, and the misuse of religious authority.

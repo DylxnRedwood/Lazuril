@@ -1,5 +1,3 @@
-# Tabaxi
-
 Tabaxi are a feline humanoid people found primarily in the northern territories of [Arkhaven](../Locations/Continents/Arkhaven.md), especially within the tropical rainforest, dense jungle, river basin, and coastal forest regions.
 
 They are widely known for their agility, curiosity, oral traditions, sharp senses, and ability to move through difficult forest terrain with unusual speed and confidence.

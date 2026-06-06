@@ -1,5 +1,3 @@
-# Veylrath Clans
-
 The **Veylrath Clans** are the dominant peoples of the north-eastern half of the Veylrain Expanse, a vast rainforest region of canopy settlements, river routes, ancient ruins, and dangerous wildlands.
 
 They are often described as the more honourable counterpart to the [Zul’Akari Clans](Zul’Akari%20Clans.md): still territorial, still dangerous to outsiders, but far less cruel and far more willing to trade, guide, and negotiate.

@@ -1,5 +1,3 @@
-# Humans
-
 Humans are the most widespread and politically dominant people on [Arkhaven](../Locations/Continents/Arkhaven.md), but they are not considered native to the continent.
 
 Human histories describe their arrival by sea aboard a small fleet of arks, expeditionary ships, and survival vessels. These ships carried several hundred sailors, settlers, priests, soldiers, craftspeople, and scholars from an older homeland beyond the horizon.

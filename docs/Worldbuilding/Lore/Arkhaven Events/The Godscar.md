@@ -1,5 +1,3 @@
-# The Godscar
-
 The **Godscar** is a major geological and religious feature of [Arkhaven](../../Locations/Continents/Arkhaven.md). It consists of a chain of vast vertical crevasses, deep rifts, lakes, drowned valleys, fjords, cliffs, and broken waterways that divide large areas of the continent.
 
 The Godscar is not a single canyon or river system. It is a connected series of fractures running through different landscapes, including plains, forests, mountains, lowlands, and coastal regions. Its shape, depth, width, and appearance vary considerably along its length.

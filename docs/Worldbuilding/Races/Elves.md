@@ -1,5 +1,3 @@
-# Elves
-
 Elves are one of the oldest surviving peoples of [Arkhaven](../Locations/Continents/Arkhaven.md). Their civilisation predates most modern kingdoms, organised churches, and written human histories on the continent.
 
 They are strongly associated with the south-western forests, particularly the vast temperate rainforests shaped by [The Green Silence](../Lore/Historical%20Events/The%20Green%20Silence.md). Although elves can be found throughout Arkhaven, the majority of major elven settlements, archives, academies, and noble houses remain concentrated within these regions.

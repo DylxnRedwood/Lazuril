@@ -1,5 +1,3 @@
-# Republic of Havenor
-
 The **Republic of Havenor** is the oldest human-founded state on [Arkhaven](../Continents/Arkhaven.md) and the original landing place of the Ark.
 
 It is a coastal republic of sailors, settlers, craftspeople, soldiers, farmers, clerics, mages, and a few Aasimar-descended families whose culture is shaped by survival, maritime trade, and the memory of first arrival.

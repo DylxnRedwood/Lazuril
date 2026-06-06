@@ -1,5 +1,3 @@
-# The Leridian Concord
-
 The **Leridian Concord** is a human-led state defined by magical education, espionage, military discipline, and active war against [The Vermillion Crown](The%20Vermillion%20Crown.md).
 
 It played a major role in the [War of the False Saints](../../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md) and remains one of the strongest non-elven magical powers on the continent.

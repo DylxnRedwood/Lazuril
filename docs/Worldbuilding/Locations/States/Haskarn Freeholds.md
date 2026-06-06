@@ -1,5 +1,3 @@
-# Haskarn Freeholds
-
 The **Haskarn Freeholds** are a loose collection of mostly human frontier settlements that expanded outward from [The Vermillion Crown](The%20Vermillion%20Crown.md).
 
 They are made up of independent villages, towns, and growing cities that exist as farming, fishing, and trade communities rather than as a single unified nation.

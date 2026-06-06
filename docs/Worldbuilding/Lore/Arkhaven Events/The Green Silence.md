@@ -1,5 +1,3 @@
-# The Green Silence
-
 **The Green Silence** is the name given to an ancient event that transformed the south-western forests of [Arkhaven](../../Locations/Continents/Arkhaven.md). The event is associated with the sudden expansion, deepening, or supernatural alteration of the forested region, resulting in the loss or abandonment of roads, settlements, shrines, towers, and other sites.
 
 The exact cause of the Green Silence is unknown. Surviving accounts are incomplete and often contradictory. Most traditions agree that the event was not a conventional war, invasion, fire, plague, or natural overgrowth. It is generally understood as a major historical and environmental transformation that permanently changed the region and its people.

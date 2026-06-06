@@ -1,5 +1,3 @@
-# The Vermillion Crown
-
 The **Vermillion Crown** is the crowning jewel of [Arkhaven](../Continents/Arkhaven.md): a very wealthy, highly organised, militarised human state that controls movement through the [Godscar](../../Lore/Arkhaven%20Events/The%20Godscar.md) regions and the [Crimson Chain](../Regions/The%20Crimson%20Chain.md).
 
 It is one of the continent’s greatest powers.

@@ -1,5 +1,3 @@
-# Dwarves
-
 Dwarves are one of the major civilised peoples of [Arkhaven](../Locations/Continents/Arkhaven.md). They are most strongly associated with the south-eastern mountain ranges of the continent, where their oldest kingdoms, deepest mines, and largest strongholds are located.
 
 Dwarven civilisation is heavily shaped by stone, metal, pressure, heat, and depth. Their settlements are commonly built within mountains rather than upon them, and many dwarven societies measure wealth, prestige, and history through craftsmanship, engineering, and the endurance of their halls.

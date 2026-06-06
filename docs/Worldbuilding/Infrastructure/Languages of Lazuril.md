@@ -1,5 +1,3 @@
-# Languages of Lazuril
-
 Numerous languages and regional dialects are spoken throughout [Lazuril](../Locations/World/Lazuril.md).
 
 Language distribution is influenced by geography, migration, trade, religion, conquest, and historical isolation.

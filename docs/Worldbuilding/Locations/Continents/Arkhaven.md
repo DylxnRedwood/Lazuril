@@ -1,5 +1,3 @@
-# Arkhaven
-
 Arkhaven is a major continent of [Lazuril](../World/Lazuril.md).
 
 The continent is defined by extreme geographic variation, fractured religious history, large wilderness regions, human colonial expansion, and the lasting influence of ancient catastrophic events.

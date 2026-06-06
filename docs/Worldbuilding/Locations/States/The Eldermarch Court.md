@@ -1,5 +1,3 @@
-# The Eldermarch Court
-
 The **Eldermarch Court** is an elven-ruled state in the north-west of [Arkhaven](../Continents/Arkhaven.md).
 
 It is known to its own people as **Calen-Êlwen**, meaning roughly "Land of the Elder Light".

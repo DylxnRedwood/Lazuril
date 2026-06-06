@@ -1,5 +1,3 @@
-# Inquisitor-Scriptor
-
 An **Inquisitor-Scriptor** is a Scriptor granted formal investigative authority by a recognised church or religious institution.
 
 All Inquisitor-Scriptors are Scriptors, but not all Scriptors possess inquisitorial authority.

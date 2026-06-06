@@ -1,5 +1,3 @@
-# The Deep Roads
-
 The **Deep Roads** are a vast network of subterranean tunnels, excavation routes, transport passages, mining corridors, and underground connections extending beneath large areas of [Arkhaven](../Locations/Continents/Arkhaven.md).
 
 Most known sections were created or expanded by dwarven kingdoms, though some lower routes are believed to predate modern recorded civilisation.

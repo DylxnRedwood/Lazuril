@@ -1,5 +1,3 @@
-# Court of Thalóriel
-
 The **Court of Thalóriel** is a central elven realm devoted to magical learning, religious study, historical preservation, and the training of scriptors.
 
 It is loyal to [The Martarië Crown](The%20Martarië%20Crown.md) and serves as one of the most important intellectual and spiritual institutions on the continent.

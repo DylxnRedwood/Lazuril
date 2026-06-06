@@ -1,5 +1,3 @@
-# The Verdant Confederacy
-
 The **Verdant Confederacy** is a human-elven confederation spread across fertile grassy plains, built around shared settlement, agriculture, trade, and mutual defence.
 
 It is one of the more stable and prosperous states in the region, with a culture that blends human practicality with elven land stewardship.

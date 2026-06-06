@@ -1,5 +1,3 @@
-# Khuldovar
-
 **Khuldovar** is a dwarven mountain kingdom built within **The Anvilspine Range**, known to dwarves as **Khar Dûmvar**, meaning "The Crowned Stone" or "The King-Stone Range".
 
 It is a state of stone halls, royal mines, fortified passes, ancestral law, and long-standing dwarven authority over the mountains that reach toward the Windmere Basin.
