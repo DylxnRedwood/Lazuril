@@ -1,3 +1,7 @@
+<div class="state-image-container">
+	<img src="/assets/images/windmere-assembly.jpg" alt="Windmere Assembly" class="state-thumb" onclick="openLightbox('/assets/images/windmere-assembly.jpg')">
+</div>
+
 The **Windmere Assembly** is a wealthy, multi-racial state on the eastern cape of [Arkhaven](../Continents/Arkhaven.md), built from human, dwarven, gnomish, halfling, and elven settlements.
 
 It is a fertile coastal assembly-state where rich grasslands, southern forests, mountain-fed rivers, and sea access have created one of the more prosperous societies on the continent.

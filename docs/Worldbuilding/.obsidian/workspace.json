@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Ages of Lazuril.md",
+                "file": "Locations/States/Dornhal Empire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ages of Lazuril"
+              "title": "Dornhal Empire"
             }
           }
         ]
@@ -180,8 +180,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "17719f01d043157a",
+  "active": "e1709d9b12caa494",
   "lastOpenFiles": [
+    "Locations/States/Court of Thalóriel.md",
+    "History/Ages of Lazuril.md",
     "History/Timeline of Major Events.md",
     "Infrastructure/Roads of Arkhaven.md",
     "Infrastructure/The Deep Roads.md",
@@ -206,8 +208,6 @@
     "Locations/States/The Skeldic Concord.md",
     "Locations/States/The Martarië Crown.md",
     "Locations/States/The Leridian Concord.md",
-    "Locations/States/The Eldermarch Court.md",
-    "Locations/States/Republic of Havenor.md",
     "Eldermarch.png",
     "Veylrath.png",
     "ZulAkari.png",

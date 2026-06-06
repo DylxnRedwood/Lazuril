@@ -1,3 +1,7 @@
+<div class="state-image-container">
+	<img src="/assets/images/the-martarie-crown.jpg" alt="The Martarië Crown" class="state-thumb" onclick="openLightbox('/assets/images/the-martarie-crown.jpg')">
+</div>
+
 The **Martarië Crown**, commonly translated as **The Fey Crown**, is the oldest and most prestigious elven state on [Arkhaven](../Continents/Arkhaven.md).
 
 It was formed by the union of two great elven houses under a single royal line.

@@ -1,3 +1,7 @@
+<div class="state-image-container">
+	<img src="/assets/images/republic-of-havenor.jpg" alt="Republic of Havenor" class="state-thumb" onclick="openLightbox('/assets/images/republic-of-havenor.jpg')">
+</div>
+
 The **Republic of Havenor** is the oldest human-founded state on [Arkhaven](../Continents/Arkhaven.md) and the original landing place of the Ark.
 
 It is a coastal republic of sailors, settlers, craftspeople, soldiers, farmers, clerics, mages, and a few Aasimar-descended families whose culture is shaped by survival, maritime trade, and the memory of first arrival.

@@ -1,3 +1,7 @@
+<div class="state-image-container">
+	<img src="/assets/images/the-skeldic-concord.jpg" alt="The Skeldic Concord" class="state-thumb" onclick="openLightbox('/assets/images/the-skeldic-concord.jpg')">
+</div>
+
 The **Skeldic Concord** is a human-led nomadic warrior society in the Floodlands of northern [Arkhaven](../Continents/Arkhaven.md).
 
 It is made up of roamers, drifters, exiles, oath-breakers, escaped serfs, displaced families, rejected soldiers, and outcasts from surrounding states who joined together for mutual defence and shared survival.

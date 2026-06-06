@@ -1,3 +1,7 @@
+<div class="state-image-container">
+	<img src="/assets/images/jhakur-clans.jpg" alt="Jhakur Clans" class="state-thumb" onclick="openLightbox('/assets/images/jhakur-clans.jpg')">
+</div>
+
 The **Jhakur Clans** are a loose collection of reptilian peoples who dominate the northern jungle frontier of [Arkhaven](../Continents/Arkhaven.md).
 
 They are the historic enemies of the [Republic of Havenor](Republic%20of%20Havenor.md) and are unified primarily by opposition to human settlement, especially the first human expansion that followed the landing of the Ark.

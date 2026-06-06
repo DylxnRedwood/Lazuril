@@ -1,3 +1,7 @@
+<div class="state-image-container">
+	<img src="/assets/images/zulakari-clans.jpg" alt="Zul’Akari Clans" class="state-thumb" onclick="openLightbox('/assets/images/zulakari-clans.jpg')">
+</div>
+
 The **Zul’Akari Clans** are a confederation of jungle, marsh, and lake-dwelling peoples in the north-west of [Arkhaven](../Continents/Arkhaven.md).
 
 They are difficult to conquer due to the density of their terrain, the danger of local wildlife and monsters, and the defensive knowledge of the clans who live there.

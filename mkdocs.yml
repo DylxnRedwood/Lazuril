@@ -32,6 +32,12 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
+extra_css:
+  - assets/stylesheets/state-lightbox.css
+
+extra_javascript:
+  - assets/javascripts/state-lightbox.js
+
 # Source directory (where your markdown files are)
 docs_dir: docs
 

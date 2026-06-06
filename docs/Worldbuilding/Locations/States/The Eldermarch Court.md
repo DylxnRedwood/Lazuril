@@ -1,3 +1,7 @@
+<div class="state-image-container">
+	<img src="/assets/images/the-eldermarch-court.jpg" alt="The Eldermarch Court" class="state-thumb" onclick="openLightbox('/assets/images/the-eldermarch-court.jpg')">
+</div>
+
 The **Eldermarch Court** is an elven-ruled state in the north-west of [Arkhaven](../Continents/Arkhaven.md).
 
 It is known to its own people as **Calen-Êlwen**, meaning roughly "Land of the Elder Light".

@@ -1,3 +1,7 @@
+<div class="state-image-container">
+	<img src="/assets/images/myruun-clans.jpg" alt="Myruun Clans" class="state-thumb" onclick="openLightbox('/assets/images/myruun-clans.jpg')">
+</div>
+
 The **Myruun Clans** are a jungle-based clan society at the top of the middle section of the [Crimson Chain](../Regions/The%20Crimson%20Chain.md).
 
 Their territory is bordered by the [Godscar](../../Lore/Arkhaven%20Events/The%20Godscar.md) on both sides, the northern sea above them, and [The Vermillion Crown](The%20Vermillion%20Crown.md) to the south.

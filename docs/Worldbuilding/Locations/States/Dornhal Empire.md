@@ -1,3 +1,7 @@
+<div class="state-image-container">
+	<img src="/assets/images/dornhal-empire.jpg" alt="Dornhal Empire" class="state-thumb" onclick="openLightbox('/assets/images/dornhal-empire.jpg')">
+</div>
+
 The **Dornhal Empire** is a dwarven imperial state descended from [Khuldovar](The%20Throne%20of%20Khuldovar.md) but culturally and politically distinct from it.
 
 It is ruled by a queen and an all-female council, with a society shaped by central authority, hard mountain frontiers, imperial law, and practical ambition.
