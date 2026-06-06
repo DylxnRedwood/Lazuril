@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/the-martarie-crown.jpg" alt="The Martarië Crown" class="state-thumb" onclick="openLightbox('/assets/images/the-martarie-crown.jpg')">
+	<img src="/assets/images/the-martarie-crown\.png" alt="The Martarië Crown" class="state-thumb" onclick="openLightbox('/assets/images/the-martarie-crown\.png')">
 </div>
 
 The **Martarië Crown**, commonly translated as **The Fey Crown**, is the oldest and most prestigious elven state on [Arkhaven](../Continents/Arkhaven.md).

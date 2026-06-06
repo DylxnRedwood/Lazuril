@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/jhakur-clans.jpg" alt="Jhakur Clans" class="state-thumb" onclick="openLightbox('/assets/images/jhakur-clans.jpg')">
+	<img src="/assets/images/jhakur-clans\.png" alt="Jhakur Clans" class="state-thumb" onclick="openLightbox('/assets/images/jhakur-clans\.png')">
 </div>
 
 The **Jhakur Clans** are a loose collection of reptilian peoples who dominate the northern jungle frontier of [Arkhaven](../Continents/Arkhaven.md).

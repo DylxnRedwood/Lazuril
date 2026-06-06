@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/the-skeldic-concord.jpg" alt="The Skeldic Concord" class="state-thumb" onclick="openLightbox('/assets/images/the-skeldic-concord.jpg')">
+	<img src="/assets/images/the-skeldic-concord\.png" alt="The Skeldic Concord" class="state-thumb" onclick="openLightbox('/assets/images/the-skeldic-concord\.png')">
 </div>
 
 The **Skeldic Concord** is a human-led nomadic warrior society in the Floodlands of northern [Arkhaven](../Continents/Arkhaven.md).

@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/kharad-wildlands.jpg" alt="Kharad Wildlands" class="state-thumb" onclick="openLightbox('/assets/images/kharad-wildlands.jpg')">
+	<img src="/assets/images/kharad-wildlands\.png" alt="Kharad Wildlands" class="state-thumb" onclick="openLightbox('/assets/images/kharad-wildlands\.png')">
 </div>
 
 The **Kharad Wildlands** are a broad, arid frontier of open plains, mountain-fed rivers, and roaming peoples.

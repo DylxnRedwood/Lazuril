@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/dornhal-empire.jpg" alt="Dornhal Empire" class="state-thumb" onclick="openLightbox('/assets/images/dornhal-empire.jpg')">
+	<img src="/assets/images/dornhal-empire\.png" alt="Dornhal Empire" class="state-thumb" onclick="openLightbox('/assets/images/dornhal-empire\.png')">
 </div>
 
 The **Dornhal Empire** is a dwarven imperial state descended from [Khuldovar](The%20Throne%20of%20Khuldovar.md) but culturally and politically distinct from it.
