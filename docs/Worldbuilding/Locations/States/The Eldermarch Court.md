@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/the-eldermarch-court\.png" alt="The Eldermarch Court" class="state-thumb" onclick="openLightbox('/assets/images/the-eldermarch-court\.png')">
+	<img src="/assets/images/the-eldermarch-court.png" alt="The Eldermarch Court" class="state-thumb" onclick="openLightbox('/assets/images/the-eldermarch-court.png')">
 </div>
 
 The **Eldermarch Court** is an elven-ruled state in the north-west of [Arkhaven](../Continents/Arkhaven.md).

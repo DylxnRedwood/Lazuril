@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/zulakari-clans\.png" alt="Zul’Akari Clans" class="state-thumb" onclick="openLightbox('/assets/images/zulakari-clans\.png')">
+	<img src="/assets/images/zulakari-clans.png" alt="Zul’Akari Clans" class="state-thumb" onclick="openLightbox('/assets/images/zulakari-clans.png')">
 </div>
 
 The **Zul’Akari Clans** are a confederation of jungle, marsh, and lake-dwelling peoples in the north-west of [Arkhaven](../Continents/Arkhaven.md).

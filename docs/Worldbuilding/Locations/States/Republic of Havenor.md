@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/republic-of-havenor\.png" alt="Republic of Havenor" class="state-thumb" onclick="openLightbox('/assets/images/republic-of-havenor\.png')">
+	<img src="/assets/images/republic-of-havenor.png" alt="Republic of Havenor" class="state-thumb" onclick="openLightbox('/assets/images/republic-of-havenor.png')">
 </div>
 
 The **Republic of Havenor** is the oldest human-founded state on [Arkhaven](../Continents/Arkhaven.md) and the original landing place of the Ark.

@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/windmere-assembly\.png" alt="Windmere Assembly" class="state-thumb" onclick="openLightbox('/assets/images/windmere-assembly\.png')">
+	<img src="/assets/images/windmere-assembly.png" alt="Windmere Assembly" class="state-thumb" onclick="openLightbox('/assets/images/windmere-assembly.png')">
 </div>
 
 The **Windmere Assembly** is a wealthy, multi-racial state on the eastern cape of [Arkhaven](../Continents/Arkhaven.md), built from human, dwarven, gnomish, halfling, and elven settlements.

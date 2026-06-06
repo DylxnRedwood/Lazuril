@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/houses-of-barathanaear\.png" alt="Houses of Bârathanaear" class="state-thumb" onclick="openLightbox('/assets/images/houses-of-barathanaear\.png')">
+	<img src="/assets/images/houses-of-barathanaear.png" alt="Houses of Bârathanaear" class="state-thumb" onclick="openLightbox('/assets/images/houses-of-barathanaear.png')">
 </div>
 
 The **Houses of Bârathanaear** (*Home beyond the sea* in common) are a coastal elven state south of [The Eldermarch Court](The%20Eldermarch%20Court.md), known for comfort, wealth, beauty, and political moderation.

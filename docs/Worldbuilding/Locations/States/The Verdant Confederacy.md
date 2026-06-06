@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/the-verdant-confederacy\.png" alt="The Verdant Confederacy" class="state-thumb" onclick="openLightbox('/assets/images/the-verdant-confederacy\.png')">
+	<img src="/assets/images/the-verdant-confederacy.png" alt="The Verdant Confederacy" class="state-thumb" onclick="openLightbox('/assets/images/the-verdant-confederacy.png')">
 </div>
 
 The **Verdant Confederacy** is a human-elven confederation spread across fertile grassy plains, built around shared settlement, agriculture, trade, and mutual defence.

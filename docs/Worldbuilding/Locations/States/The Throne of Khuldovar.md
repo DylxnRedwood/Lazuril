@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/the-throne-of-khuldovar\.png" alt="The Throne of Khuldovar" class="state-thumb" onclick="openLightbox('/assets/images/the-throne-of-khuldovar\.png')">
+	<img src="/assets/images/the-throne-of-khuldovar.png" alt="The Throne of Khuldovar" class="state-thumb" onclick="openLightbox('/assets/images/the-throne-of-khuldovar.png')">
 </div>
 
 **Khuldovar** is a dwarven mountain kingdom built within **The Anvilspine Range**, known to dwarves as **Khar Dûmvar**, meaning "The Crowned Stone" or "The King-Stone Range".

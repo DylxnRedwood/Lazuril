@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/veylrath-clans\.png" alt="Veylrath Clans" class="state-thumb" onclick="openLightbox('/assets/images/veylrath-clans\.png')">
+	<img src="/assets/images/veylrath-clans.png" alt="Veylrath Clans" class="state-thumb" onclick="openLightbox('/assets/images/veylrath-clans.png')">
 </div>
 
 The **Veylrath Clans** are the dominant peoples of the north-eastern half of the Veylrain Expanse, a vast rainforest region of canopy settlements, river routes, ancient ruins, and dangerous wildlands.

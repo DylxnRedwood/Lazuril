@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/the-leridian-concord\.png" alt="The Leridian Concord" class="state-thumb" onclick="openLightbox('/assets/images/the-leridian-concord\.png')">
+	<img src="/assets/images/the-leridian-concord.png" alt="The Leridian Concord" class="state-thumb" onclick="openLightbox('/assets/images/the-leridian-concord.png')">
 </div>
 
 The **Leridian Concord** is a human-led state defined by magical education, espionage, military discipline, and active war against [The Vermillion Crown](The%20Vermillion%20Crown.md).

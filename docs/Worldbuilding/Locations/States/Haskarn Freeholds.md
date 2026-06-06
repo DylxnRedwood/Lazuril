@@ -1,5 +1,5 @@
 <div class="state-image-container">
-	<img src="/assets/images/haskarn-freeholds\.png" alt="Haskarn Freeholds" class="state-thumb" onclick="openLightbox('/assets/images/haskarn-freeholds\.png')">
+	<img src="/assets/images/haskarn-freeholds.png" alt="Haskarn Freeholds" class="state-thumb" onclick="openLightbox('/assets/images/haskarn-freeholds.png')">
 </div>
 
 The **Haskarn Freeholds** are a loose collection of mostly human frontier settlements that expanded outward from [The Vermillion Crown](The%20Vermillion%20Crown.md).
