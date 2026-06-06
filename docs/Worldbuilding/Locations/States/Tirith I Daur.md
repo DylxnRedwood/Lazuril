@@ -1,4 +1,4 @@
-# Tirith I Daur
+
 
 **Tirith I Daur** means "Guard of the Forest" in the common translation.
 

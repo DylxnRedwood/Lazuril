@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/States/The Vermillion Crown.md",
+                "file": "Locations/Continents/Arkhaven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Vermillion Crown"
+              "title": "Arkhaven"
             }
           }
         ]
@@ -180,8 +180,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "17719f01d043157a",
+  "active": "e1709d9b12caa494",
   "lastOpenFiles": [
+    "Eldermarch.png",
+    "Veylrath.png",
+    "ZulAkari.png",
+    "Windmere Assem.png",
+    "Tirith.png",
+    "Martarie.png",
+    "Dornhal.png",
+    "Khuldovar.png",
+    "Vermillion.png",
+    "Skeldic.png",
+    "Verdant.png",
+    "Locations/States/The Martarië Crown.md",
+    "Locations/States/Tirith I Daur.md",
+    "Locations/States/Court of Thalóriel.md",
+    "Locations/States/The Vermillion Crown.md",
     "Religion/Heresy.md",
     "Institutions/Archive Houses.md",
     "Institutions/The Hall of Measures.md",
@@ -198,20 +213,12 @@
     "Locations/States/Republic of Havenor.md",
     "Locations/States/Windmere Assembly.md",
     "Locations/States/Veylrath Clans.md",
-    "Locations/States/The Vermillion Crown.md",
     "Locations/States/The Throne of Khuldovar.md",
     "Locations/States/The Skeldic Concord.md",
     "Locations/States/Myruun Clans.md",
     "Locations/States/Jhakur Clans.md",
     "Locations/States/Dornhal Empire.md",
-    "_Private/Lore/Arkhaven Events/The Green Silence.md",
-    "Arkhaven Regions.jpg",
-    "Arkhaven States.jpg",
-    "Locations/States/Court of Thalóriel.md",
-    "Locations/States/Tirith I Daur.md",
-    "Locations/States/The Martarië Crown.md",
     "Locations/States",
-    "5b048880-3946-47d6-a8ad-961aa5a45e49.png",
     "_Private/Materials",
     "Lore/Historical Events",
     "Lore/Historical Figures",
