@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/States/Dornhal Empire.md",
+                "file": "Locations/States/The Leridian Concord.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dornhal Empire"
+              "title": "The Leridian Concord"
             }
           }
         ]
@@ -182,6 +182,10 @@
   },
   "active": "e1709d9b12caa494",
   "lastOpenFiles": [
+    "Locations/States/Republic of Havenor.md",
+    "Locations/States/Kharad Wildlands.md",
+    "Locations/States/Houses of Bârathanaear.md",
+    "Locations/States/Haskarn Freeholds.md",
     "Locations/States/Court of Thalóriel.md",
     "Locations/States/Dornhal Empire.md",
     "Arkhaven States.jpg",
@@ -207,9 +211,6 @@
     "Locations/States/Veylrath Clans.md",
     "Locations/States/Tirith I Daur.md",
     "Locations/States/The Vermillion Crown.md",
-    "Locations/States/The Verdant Confederacy.md",
-    "Locations/States/The Throne of Khuldovar.md",
-    "Locations/States/The Skeldic Concord.md",
     "Eldermarch.png",
     "Veylrath.png",
     "ZulAkari.png",

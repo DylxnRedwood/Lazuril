@@ -1,3 +1,7 @@
+<div class="state-image-container">
+  <img src="/assets/images/court-of-thaloriel.png" alt="Court of Thalóriel" class="state-thumb" onclick="openLightbox('/assets/images/court-of-thaloriel.png')">
+</div>
+
 The **Court of Thalóriel** is a central elven realm devoted to magical learning, religious study, historical preservation, and the training of scriptors.
 
 It is loyal to [The Martarië Crown](The%20Martarië%20Crown.md) and serves as one of the most important intellectual and spiritual institutions on the continent.
