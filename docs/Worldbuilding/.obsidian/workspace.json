@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/States/The Leridian Concord.md",
+                "file": "Locations/States/Court of Thalóriel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Leridian Concord"
+              "title": "Court of Thalóriel"
             }
           }
         ]
@@ -182,12 +182,14 @@
   },
   "active": "e1709d9b12caa494",
   "lastOpenFiles": [
+    "Locations/States/index.md",
+    "Locations/States/Dornhal Empire.md",
+    "Locations/States/The Leridian Concord.md",
     "Locations/States/Republic of Havenor.md",
     "Locations/States/Kharad Wildlands.md",
     "Locations/States/Houses of Bârathanaear.md",
     "Locations/States/Haskarn Freeholds.md",
     "Locations/States/Court of Thalóriel.md",
-    "Locations/States/Dornhal Empire.md",
     "Arkhaven States.jpg",
     "Arkhaven Regions.jpg",
     "Bara.png",
@@ -209,8 +211,6 @@
     "Locations/States/Zul’Akari Clans.md",
     "Locations/States/Windmere Assembly.md",
     "Locations/States/Veylrath Clans.md",
-    "Locations/States/Tirith I Daur.md",
-    "Locations/States/The Vermillion Crown.md",
     "Eldermarch.png",
     "Veylrath.png",
     "ZulAkari.png",
