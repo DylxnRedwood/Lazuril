@@ -1,4 +1,3 @@
-# Campaign Premise: The Bindings Must Be Remade
 
 > DM-only working document. This file contains major campaign secrets, long-term reveals, player-character links, villain motives, chapter structure, level milestones, and unresolved clarification points.
 
