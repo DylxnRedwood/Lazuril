@@ -7,10 +7,6 @@
 
   const siteStructure = [
     {
-      title: 'Home',
-      href: new URL('.', siteRoot).href
-    },
-    {
       title: 'Arkhaven Lore',
       children: [
         { title: 'The Godscar', href: new URL('Worldbuilding/Arkhaven%20Lore/The%20Godscar/', siteRoot).href },
@@ -82,6 +78,18 @@
   ];
 
   function buildTopNav() {
+    // Make the h1 clickable to homepage
+    const h1 = document.querySelector('.torillic-header h1');
+    if (h1) {
+      const a = document.createElement('a');
+      a.href = siteRoot.href;
+      a.textContent = h1.textContent;
+      a.style.color = 'inherit';
+      a.style.textDecoration = 'none';
+      h1.innerHTML = '';
+      h1.appendChild(a);
+    }
+
     const headerNav = document.querySelector('.torillic-header nav');
     if (!headerNav) return;
 
@@ -100,6 +108,10 @@
         button.textContent = section.title;
         button.addEventListener('click', event => {
           event.stopPropagation();
+          // close other open top-nav items
+          document.querySelectorAll('.top-nav-item[aria-expanded="true"]').forEach(openItem => {
+            if (openItem !== item) openItem.setAttribute('aria-expanded', 'false');
+          });
           const expanded = item.getAttribute('aria-expanded') === 'true';
           item.setAttribute('aria-expanded', expanded ? 'false' : 'true');
         });
@@ -108,12 +120,39 @@
         const dropdown = document.createElement('div');
         dropdown.className = 'top-nav-dropdown';
 
-        section.children.forEach(child => {
-          const link = document.createElement('a');
-          link.href = child.href;
-          link.textContent = child.title;
-          dropdown.appendChild(link);
-        });
+        function createDropdown(container, children) {
+          children.forEach(child => {
+            if (child.children && child.children.length) {
+              const wrapper = document.createElement('div');
+              wrapper.className = 'has-sub';
+              wrapper.setAttribute('aria-expanded', 'false');
+
+              const childButton = document.createElement('button');
+              childButton.type = 'button';
+              childButton.className = 'top-nav-button sub-button';
+              childButton.textContent = child.title;
+              childButton.addEventListener('click', e => {
+                e.stopPropagation();
+                const expanded = wrapper.getAttribute('aria-expanded') === 'true';
+                wrapper.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+              });
+              wrapper.appendChild(childButton);
+
+              const sub = document.createElement('div');
+              sub.className = 'top-nav-subdropdown';
+              createDropdown(sub, child.children);
+              wrapper.appendChild(sub);
+              container.appendChild(wrapper);
+            } else {
+              const link = document.createElement('a');
+              link.href = child.href;
+              link.textContent = child.title;
+              container.appendChild(link);
+            }
+          });
+        }
+
+        createDropdown(dropdown, section.children);
 
         item.appendChild(dropdown);
       } else {
@@ -130,6 +169,10 @@
     document.addEventListener('click', () => {
       document.querySelectorAll('.top-nav-item[aria-expanded="true"]').forEach(openItem => {
         openItem.setAttribute('aria-expanded', 'false');
+      });
+      // also close any nested submenus
+      document.querySelectorAll('.has-sub[aria-expanded="true"]').forEach(openSub => {
+        openSub.setAttribute('aria-expanded', 'false');
       });
     });
   }
