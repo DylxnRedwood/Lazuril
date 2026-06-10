@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Lazuril.md",
+                "file": "Continents/Arkhaven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lazuril"
+              "title": "Arkhaven"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "8f512e2c992d60fc",
   "lastOpenFiles": [
+    "World/Lazuril.md",
     "History/Timeline of Major Events.md",
     "History/Ages of Lazuril.md",
     "Continents/Arkhaven.md",
@@ -196,7 +197,6 @@
     "Arkhaven States/Houses of Bârathanaear.md",
     "Arkhaven States/index.md",
     "Races/Dwarves.md",
-    "World/Lazuril.md",
     "Arkhaven States/Dornhal Empire.md",
     "_Private/Campaign Premise - The Bindings Must Be Remade.md",
     "5b048880-3946-47d6-a8ad-961aa5a45e49.png",

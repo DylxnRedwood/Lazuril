@@ -13,18 +13,25 @@ Many states occupy portions of multiple regions, while some regions contain seve
 
 The continent is broadly divided into eight major regions:
 
-| Region | Characteristics |
-|----------|----------|
-| [[Veylrain Expanse]] | Tropical rainforests, wetlands, river deltas, lakes, and coastal jungles |
-| [[The Thornbelt]] | Dry plains, scrublands, badlands, and frontier wilderness |
-| [[The Crimson Chain]] | The fractured waterways and cliffs of the Godscar |
-| [[The Floodlands]] | Marshes, lakes, floodplains, and river networks |
-| [[Arkenfall]] | Northern forests, lakes, and eastern coastal frontiers |
-| [[Windmere Basin]] | Fertile lowlands, river valleys, and southern agricultural heartlands |
-| [[Veridian March]] | Temperate forests, rolling hills, and mixed woodland realms |
-| [[The Silent Weald]] | Ancient forests, forgotten ruins, and lands touched by the Green Silence |
+| Region            | Characteristics                                                          |
+| ----------------- | ------------------------------------------------------------------------ |
+| Veylrain Expanse  | Tropical rainforests, wetlands, river deltas, lakes, and coastal jungles |
+| The Thornbelt     | Dry plains, scrublands, badlands, and frontier wilderness                |
+| The Crimson Chain | The fractured waterways and cliffs of the Godscar                        |
+| The Floodlands    | Marshes, lakes, floodplains, and river networks                          |
+| Arkenfall         | Northern forests, lakes, and eastern coastal frontiers                   |
+| Windmere Basin    | Fertile lowlands, river valleys, and southern agricultural heartlands    |
+| Veridian March    | Temperate forests, rolling hills, and mixed woodland realms              |
+| The Silent Weald  | Ancient forests, forgotten ruins, and lands touched by the Green Silence |
 
 ---
+# States within Arkhaven
+
+Many states occupy portions of multiple regions, while some regions contain several competing powers.
+
+<div class="state-image-container">
+  <img src="/assets/images/states1.png" alt="States of Arkhaven" class="state-thumb" onclick="openLightbox('/assets/images/states1.png')">
+</div>
 
 # Veylrain Expanse
 
