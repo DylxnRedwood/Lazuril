@@ -1,6 +1,7 @@
 /* Wikipedia-style layout overrides for the Torillic theme */
 
 :root {
+  --header-height: 6rem;
   color: #202124;
   background-color: #f8f9fa;
   font-family: 'Alegreya', sans-serif;
@@ -13,10 +14,13 @@ html {
 body {
   margin: 0;
   padding: 0;
+  padding-top: var(--header-height);
   background: #f8f9fa;
 }
 
-.torillic-background {
+.torillic-background,
+body.torillic-background,
+html.torillic-background {
   background: url('../images/torillic-bg.jpg') center center fixed no-repeat !important;
   background-size: cover !important;
 }
@@ -26,13 +30,13 @@ body {
   top: 0;
   left: 0;
   right: 0;
+  height: var(--header-height);
   z-index: 10000;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
+  justify-content: flex-start;
   gap: 1rem;
-  padding: 1rem 2rem;
+  padding: 0 2rem;
   background: rgba(255, 255, 255, 0.95);
   border-bottom: 1px solid #dfe1e5;
   backdrop-filter: blur(10px);
@@ -49,24 +53,20 @@ body {
 
 .torillic-header nav {
   flex: 1 1 auto;
-  display: grid;
-  grid-auto-flow: column;
-  grid-auto-columns: minmax(0, 1fr);
+  display: flex;
   gap: 0.75rem;
   align-items: center;
   justify-content: flex-start;
-  width: 100%;
 }
 
 .top-nav-item {
   position: relative;
-  width: 100%;
 }
 
 .top-nav-button,
 .top-nav-item > a.top-nav-button {
-  width: 100%;
   text-align: left;
+  display: inline-block;
 }
 
 .top-nav-button {
@@ -122,7 +122,7 @@ body {
 
 #wiki-sidebar {
   position: fixed;
-  top: 6rem;
+  top: var(--header-height);
   left: 0;
   bottom: 0;
   width: 280px;
@@ -151,11 +151,11 @@ body {
 }
 
 main.torillic-page {
-  margin: 6rem 2rem 2rem 300px;
+  margin: 1.5rem auto 2rem auto;
   padding: 1.5rem 2rem 2rem 2rem;
+  max-width: 1100px;
   width: calc(100% - 320px);
-  max-width: none;
-  min-height: calc(100vh - 8rem);
+  min-height: calc(100vh - var(--header-height) - 2rem);
   background: rgba(255, 255, 255, 0.96);
   box-shadow: 0 1px 4px rgba(60, 64, 67, 0.08);
   border-radius: 0.35rem;
@@ -176,8 +176,44 @@ main.torillic-page > * {
   margin-block-start: 0;
 }
 
+/* Make the main page title prominent and ensure it sits near the top of the content box */
+main.torillic-page h1,
+.torillic-page h1 {
+  font-size: 2rem;
+  margin: 0 0 1rem 0;
+  line-height: 1.15;
+  color: #2b2b2b;
+}
+
 body:not(.mobile-sidebar-hidden) .torillic-page {
   margin-left: 300px;
+}
+
+/* Improve image layout so it doesn't clip against the page border */
+.torillic-page figure,
+.torillic-page .image-frame {
+  padding: 0.75rem;
+  background: #fff;
+  border-radius: 0.35rem;
+  box-shadow: 0 1px 2px rgba(60, 64, 67, 0.06);
+  margin: 0 0 1.25rem 0;
+}
+
+.torillic-page img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Hide small, light subtitle/breadcrumb metadata that clutters the header area */
+.page-subtitle,
+.article-subtitle,
+.post-meta,
+.page-meta,
+.subtitle,
+.page-breadcrumb {
+  display: none !important;
 }
 
 .wiki-sidebar-item,
