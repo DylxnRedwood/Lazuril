@@ -93,8 +93,25 @@
     const headerNav = document.querySelector('.torillic-header nav');
     if (!headerNav) return;
 
+    const header = headerNav.closest('.torillic-header');
+    if (header && !header.querySelector('.mobile-nav-toggle')) {
+      const mobileToggle = document.createElement('button');
+      mobileToggle.type = 'button';
+      mobileToggle.className = 'mobile-nav-toggle';
+      mobileToggle.textContent = 'Menu';
+      mobileToggle.setAttribute('aria-controls', 'wiki-top-nav');
+      mobileToggle.setAttribute('aria-expanded', 'false');
+      mobileToggle.addEventListener('click', event => {
+        event.stopPropagation();
+        const open = document.body.classList.toggle('mobile-nav-open');
+        mobileToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+      header.insertBefore(mobileToggle, headerNav);
+    }
+
     headerNav.innerHTML = '';
     headerNav.classList.add('wiki-top-nav');
+    headerNav.id = 'wiki-top-nav';
 
     siteStructure.forEach(section => {
       const item = document.createElement('div');
@@ -175,6 +192,13 @@
         openSub.setAttribute('aria-expanded', 'false');
       });
     });
+
+    headerNav.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        document.body.classList.remove('mobile-nav-open');
+        document.querySelector('.mobile-nav-toggle')?.setAttribute('aria-expanded', 'false');
+      });
+    });
   }
 
   function removeLegacyToc() {
@@ -208,10 +232,25 @@
     const title = document.createElement('div');
     title.className = 'wiki-sidebar-title';
     title.textContent = 'Contents';
+
+    const mobileContentsToggle = document.createElement('button');
+    mobileContentsToggle.type = 'button';
+    mobileContentsToggle.className = 'mobile-contents-toggle';
+    mobileContentsToggle.textContent = 'Contents';
+    mobileContentsToggle.setAttribute('aria-controls', 'wiki-sidebar-list');
+    mobileContentsToggle.setAttribute('aria-expanded', 'false');
+    mobileContentsToggle.addEventListener('click', event => {
+      event.stopPropagation();
+      const open = sidebar.classList.toggle('mobile-contents-open');
+      mobileContentsToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+
     sidebar.appendChild(title);
+    sidebar.appendChild(mobileContentsToggle);
 
     const list = document.createElement('ul');
     list.className = 'wiki-sidebar-list';
+    list.id = 'wiki-sidebar-list';
 
     let currentSection = null;
     let currentSubsection = null;
@@ -251,6 +290,13 @@
           const details = summary.parentElement;
           details.open = !details.open;
         }
+      });
+    });
+
+    sidebar.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        sidebar.classList.remove('mobile-contents-open');
+        mobileContentsToggle.setAttribute('aria-expanded', 'false');
       });
     });
   }
