@@ -67,6 +67,12 @@ article {
   padding: 0 20px;
 }
 
+/* Custom background image override */
+body {
+  background: url('../images/torillic-bg.jpg') center center fixed no-repeat !important;
+  background-size: cover !important;
+}
+
 /* Responsive mobile */
 @media (max-width: 768px) {
   .md-sidebar {
