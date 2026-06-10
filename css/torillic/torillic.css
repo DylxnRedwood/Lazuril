@@ -90,9 +90,10 @@
 content, .typora-export-content  /* typora */
 {
   display: block;
-  background-image: url("assets/torillic-bg.jpg");
+  background-image: url("assets/torillic-bg.jpg") !important;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat !important;
   background-attachment: fixed;
 }
 @media print {
@@ -202,6 +203,7 @@ h3,
 h4, 
 h5, 
 h6 {
+  position: relative;
   margin-block-end: 2pt;
   margin-block-start: 1em;
   line-height: 1em;
@@ -223,6 +225,25 @@ h4 a,
 h5 a,
 h6 a {
   text-decoration: none;
+}
+.headerlink {
+  position: absolute;
+  inset: 0;
+  display: block;
+  color: transparent;
+  text-decoration: none;
+  text-indent: -9999px;
+  overflow: hidden;
+  cursor: pointer;
+}
+h1 a:not(.headerlink),
+h2 a:not(.headerlink),
+h3 a:not(.headerlink),
+h4 a:not(.headerlink),
+h5 a:not(.headerlink),
+h6 a:not(.headerlink) {
+  position: relative;
+  z-index: 2;
 }
 /* Major headings */
 h1, h2, h3, h4 {
