@@ -1,5 +1,5 @@
-mkdocs==1.6.0
-mkdocs-material==9.5.18
-pymdown-extensions==10.5
-mkdocs-awesome-pages-plugin
-mkdocs-exclude
+mkdocs==1.6.1
+mkdocs-torillic==2.4.2
+pymdown-extensions==10.21.3
+mkdocs-awesome-pages-plugin==2.10.1
+mkdocs-exclude==1.0.2
