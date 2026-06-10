@@ -7,6 +7,7 @@ theme:
 
 extra_css:
   - assets/stylesheets/state-lightbox.css
+  - assets/stylesheets/wiki-layout.css
 
 extra_javascript:
   - assets/javascripts/state-lightbox.js
