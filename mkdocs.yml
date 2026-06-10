@@ -4,6 +4,7 @@
 site_name: Lazuril Wiki
 theme:
   name: torillic
+  background_image: assets/images/torillic-bg.jpg
 
 extra_css:
   - assets/stylesheets/state-lightbox.css
