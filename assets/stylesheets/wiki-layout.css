@@ -17,22 +17,26 @@ body {
 }
 
 .torillic-background {
-  background: none !important;
+  background: url('../images/torillic-bg.jpg') center center fixed no-repeat !important;
+  background-size: cover !important;
 }
 
 .torillic-header {
-  position: sticky;
+  position: fixed;
   top: 0;
-  z-index: 1000;
+  left: 0;
+  right: 0;
+  z-index: 10000;
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 1rem;
-  padding: 0.75rem 1.25rem;
-  background: #fff;
+  padding: 1rem 2rem;
+  background: rgba(255, 255, 255, 0.95);
   border-bottom: 1px solid #dfe1e5;
-  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.08);
 }
 
 .torillic-header h1 {
@@ -40,17 +44,29 @@ body {
   font-size: 1.35rem;
   letter-spacing: 0.02em;
   color: #111;
+  white-space: nowrap;
 }
 
 .torillic-header nav {
-  display: flex;
+  flex: 1 1 auto;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(0, 1fr);
+  gap: 0.75rem;
   align-items: center;
-  gap: 0.5rem;
-  flex-wrap: wrap;
+  justify-content: flex-start;
+  width: 100%;
 }
 
 .top-nav-item {
   position: relative;
+  width: 100%;
+}
+
+.top-nav-button,
+.top-nav-item > a.top-nav-button {
+  width: 100%;
+  text-align: left;
 }
 
 .top-nav-button {
@@ -106,12 +122,12 @@ body {
 
 #wiki-sidebar {
   position: fixed;
-  top: 64px;
+  top: 6rem;
   left: 0;
   bottom: 0;
   width: 280px;
   overflow-y: auto;
-  background: #fff;
+  background: rgba(255, 255, 255, 0.98);
   border-right: 1px solid #dfe1e5;
   padding: 1rem 0.75rem 1rem 1rem;
   box-shadow: 1px 0 0 rgba(0, 0, 0, 0.03);
@@ -132,6 +148,36 @@ body {
   list-style: none;
   padding-left: 0;
   margin: 0;
+}
+
+main.torillic-page {
+  margin: 6rem 2rem 2rem 300px;
+  padding: 1.5rem 2rem 2rem 2rem;
+  width: calc(100% - 320px);
+  max-width: none;
+  min-height: calc(100vh - 8rem);
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 1px 4px rgba(60, 64, 67, 0.08);
+  border-radius: 0.35rem;
+  border: 1px solid #dfe1e5;
+  overflow: visible;
+  column-count: 1;
+  column-gap: normal;
+  column-width: auto;
+}
+
+main.torillic-page > * {
+  break-inside: avoid-column;
+}
+
+.torillic-page:first-child,
+#write:first-child,
+#typora-source:first-child {
+  margin-block-start: 0;
+}
+
+body:not(.mobile-sidebar-hidden) .torillic-page {
+  margin-left: 300px;
 }
 
 .wiki-sidebar-item,
@@ -193,38 +239,8 @@ details[open] .toc-toggle {
   margin-top: 0.15rem;
 }
 
-main.torillic-page {
-  margin: 1.5rem auto 2rem auto;
-  padding: 0 2rem 2rem 2rem;
-  max-width: 980px;
-  width: 100%;
-  background: #fff;
-  box-shadow: 0 1px 4px rgba(60, 64, 67, 0.08);
-  border-radius: 0.35rem;
-  border: 1px solid #dfe1e5;
-  overflow: visible;
-  column-count: 1;
-  column-gap: normal;
-  column-width: auto;
-}
-
-main.torillic-page > * {
-  break-inside: avoid-column;
-}
-
-.torillic-page:first-child,
-#write:first-child,
-#typora-source:first-child {
-  margin-block-start: 0;
-}
-
 blockquote.torillic-toc {
   display: none !important;
-}
-
-/* Make the content area leave room for the sidebar */
-body:not(.mobile-sidebar-hidden) .torillic-page {
-  margin-left: 300px;
 }
 
 @media (max-width: 992px) {
