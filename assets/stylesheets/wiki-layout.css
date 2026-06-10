@@ -1,89 +1,259 @@
-/* Convert torillic theme to single-column wiki-like layout */
+/* Wikipedia-style layout overrides for the Torillic theme */
 
-/* Main content area - single column */
-.md-container {
-  max-width: 900px;
-  margin: 0 auto;
+:root {
+  color: #202124;
+  background-color: #f8f9fa;
+  font-family: 'Alegreya', sans-serif;
 }
 
-/* Remove the two-column layout */
-.md-main {
-  display: block !important;
+html {
+  scroll-behavior: smooth;
 }
 
-.md-main__inner {
-  display: block !important;
+body {
+  margin: 0;
+  padding: 0;
+  background: #f8f9fa;
 }
 
-/* Content should be full width */
-.md-content {
-  width: 100% !important;
-  float: none !important;
+.torillic-background {
+  background: none !important;
 }
 
-/* Sidebar navigation styling */
-.md-sidebar {
-  width: 250px;
-  position: fixed;
+.torillic-header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 0.75rem 1.25rem;
+  background: #fff;
+  border-bottom: 1px solid #dfe1e5;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+}
+
+.torillic-header h1 {
+  margin: 0;
+  font-size: 1.35rem;
+  letter-spacing: 0.02em;
+  color: #111;
+}
+
+.torillic-header nav {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.top-nav-item {
+  position: relative;
+}
+
+.top-nav-button {
+  border: 1px solid transparent;
+  background: transparent;
+  padding: 0.45rem 0.8rem;
+  font: inherit;
+  color: #202124;
+  cursor: pointer;
+  border-radius: 0.35rem;
+}
+
+.top-nav-button:hover,
+.top-nav-button:focus {
+  background: #f1f3f4;
+  outline: none;
+}
+
+.top-nav-item[aria-expanded='true'] .top-nav-button {
+  background: #e8eaed;
+}
+
+.top-nav-dropdown {
+  display: none;
+  position: absolute;
+  top: calc(100% + 0.35rem);
   left: 0;
-  top: 56px;
-  bottom: 0;
-  overflow-y: auto;
-  background-color: #f5f5f5;
-  border-right: 1px solid #ddd;
+  min-width: 14rem;
+  background: #fff;
+  border: 1px solid #dfe1e5;
+  border-radius: 0.35rem;
+  box-shadow: 0 8px 16px rgba(60, 64, 67, 0.15);
+  padding: 0.25rem 0;
+  white-space: nowrap;
+  z-index: 1100;
 }
 
-.md-sidebar--secondary {
+.top-nav-item[aria-expanded='true'] .top-nav-dropdown {
+  display: block;
+}
+
+.top-nav-dropdown a {
+  display: block;
+  padding: 0.55rem 1rem;
+  color: #202124;
+  text-decoration: none;
+}
+
+.top-nav-dropdown a:hover,
+.top-nav-dropdown a:focus {
+  background: #f1f3f4;
+}
+
+#wiki-sidebar {
+  position: fixed;
+  top: 64px;
+  left: 0;
+  bottom: 0;
+  width: 280px;
+  overflow-y: auto;
+  background: #fff;
+  border-right: 1px solid #dfe1e5;
+  padding: 1rem 0.75rem 1rem 1rem;
+  box-shadow: 1px 0 0 rgba(0, 0, 0, 0.03);
+}
+
+.wiki-sidebar-title {
+  margin: 0 0 1rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #202124;
+}
+
+.wiki-sidebar-list,
+.wiki-sidebar-sublist,
+.wiki-sidebar-grandlist {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.wiki-sidebar-item,
+.wiki-sidebar-subitem {
+  margin-bottom: 0.4rem;
+}
+
+.wiki-sidebar a {
+  color: #1a0dab;
+  text-decoration: none;
+  display: inline-block;
+  padding: 0.2rem 0;
+}
+
+.wiki-sidebar a:hover,
+.wiki-sidebar a:focus {
+  text-decoration: underline;
+}
+
+.wiki-sidebar details {
+  border-radius: 0.35rem;
+}
+
+.wiki-sidebar-summary {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  cursor: pointer;
+  list-style: none;
+  padding: 0.15rem 0;
+}
+
+.wiki-sidebar summary::-webkit-details-marker {
   display: none;
 }
 
-/* Adjust main container for fixed sidebar */
-.md-container {
-  margin-left: 250px;
+.toc-toggle {
+  border: none;
+  background: transparent;
+  padding: 0;
+  width: 1.05rem;
+  color: #5f6368;
+  font-size: 0.95rem;
+  line-height: 1;
+  cursor: pointer;
 }
 
-/* Heading styles - keep them spanning single column */
-h1, h2 {
+details[open] .toc-toggle {
+  transform: rotate(90deg);
+}
+
+.wiki-sidebar-sublist {
+  margin-left: 1.2rem;
+  margin-top: 0.15rem;
+}
+
+.wiki-sidebar-grandlist {
+  margin-left: 1.2rem;
+  margin-top: 0.15rem;
+}
+
+main.torillic-page {
+  margin: 1.5rem auto 2rem auto;
+  padding: 0 2rem 2rem 2rem;
+  max-width: 980px;
   width: 100%;
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 0.3em;
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(60, 64, 67, 0.08);
+  border-radius: 0.35rem;
+  border: 1px solid #dfe1e5;
+  overflow: visible;
+  column-count: 1;
+  column-gap: normal;
+  column-width: auto;
 }
 
-h1 {
-  font-size: 2em;
-  border-bottom: 2px solid #333;
+main.torillic-page > * {
+  break-inside: avoid-column;
 }
 
-h2 {
-  font-size: 1.5em;
+.torillic-page:first-child,
+#write:first-child,
+#typora-source:first-child {
+  margin-block-start: 0;
 }
 
-/* Content width constraints */
-article {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 20px;
+blockquote.torillic-toc {
+  display: none !important;
 }
 
-/* Custom background image override */
-body {
-  background: url('../images/torillic-bg.jpg') center center fixed no-repeat !important;
-  background-size: cover !important;
+/* Make the content area leave room for the sidebar */
+body:not(.mobile-sidebar-hidden) .torillic-page {
+  margin-left: 300px;
 }
 
-/* Responsive mobile */
-@media (max-width: 768px) {
-  .md-sidebar {
-    width: 100%;
+@media (max-width: 992px) {
+  #wiki-sidebar {
     position: relative;
     top: 0;
+    width: 100%;
+    height: auto;
     border-right: none;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #dfe1e5;
   }
-  
-  .md-container {
+
+  body:not(.mobile-sidebar-hidden) .torillic-page {
     margin-left: 0;
+  }
+
+  .torillic-header {
+    position: relative;
+  }
+}
+
+@media (max-width: 768px) {
+  .torillic-header {
+    padding: 0.75rem 1rem;
+  }
+
+  .top-nav-dropdown {
+    position: static;
+    box-shadow: none;
+    border: none;
   }
 }
