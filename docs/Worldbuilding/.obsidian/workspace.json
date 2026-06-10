@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cb314a947b0b77f2",
+        "id": "a2592f60274280d3",
         "type": "tabs",
         "children": [
           {
-            "id": "8f512e2c992d60fc",
+            "id": "98b1bb828a23a030",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continents/Arkhaven.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Arkhaven"
+              "title": "New tab"
             }
           }
         ]
@@ -180,35 +176,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "8f512e2c992d60fc",
+  "active": "98b1bb828a23a030",
   "lastOpenFiles": [
-    "World/Lazuril.md",
-    "History/Timeline of Major Events.md",
+    "Arkhaven States/index.md",
+    "Arkhaven Lore/The Godscar.md",
+    "Veinstone.md",
+    "_Private/Campaign Premise - The Bindings Must Be Remade.md",
+    "_Private/README.md",
+    "_Private/Locations/README.md",
+    "_Private/Factions/README.md",
+    "_Private/Lore/README.md",
+    "_Private/Materials/README.md",
+    "_Private/NPCs/README.md",
+    "_Private/Materials/Veinstone.md",
     "History/Ages of Lazuril.md",
+    "History/Timeline of Major Events.md",
+    "History/Calendar System.md",
+    "Infrastructure/Languages of Lazuril.md",
+    "Infrastructure/Roads of Arkhaven.md",
+    "Infrastructure/The Deep Roads.md",
+    "Races/Dwarves.md",
     "Continents/Arkhaven.md",
+    "World/Lazuril.md",
     "Zul'Akari Clans.md",
     "Arkhaven States/Zul’Akari Clans.md",
     "Arkhaven States/Myruun Clans.md",
     "Arkhaven States/Court of Thalóriel.md",
-    "Arkhaven Lore/The Godscar.md",
     "Arkhaven Lore/The Green Silence.md",
     "Arkhaven Lore/The Scriptor Compact.md",
-    "Arkhaven Lore/War of the False Saints.md",
-    "Arkhaven States/Houses of Bârathanaear.md",
-    "Arkhaven States/index.md",
-    "Races/Dwarves.md",
-    "Arkhaven States/Dornhal Empire.md",
-    "_Private/Campaign Premise - The Bindings Must Be Remade.md",
     "5b048880-3946-47d6-a8ad-961aa5a45e49.png",
-    "Arkhaven States/The Leridian Concord.md",
-    "Arkhaven States/Windmere Assembly.md",
-    "Arkhaven States/Veylrath Clans.md",
-    "Arkhaven States/Tirith I Daur.md",
-    "Arkhaven States/The Vermillion Crown.md",
-    "Arkhaven States/The Verdant Confederacy.md",
-    "Arkhaven States/The Throne of Khuldovar.md",
-    "Arkhaven States/The Skeldic Concord.md",
-    "Arkhaven States/The Martarië Crown.md",
     "States/States",
     "_Private/Materials",
     "Lore/Historical Events",

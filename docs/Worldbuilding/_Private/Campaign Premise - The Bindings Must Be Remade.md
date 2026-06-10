@@ -1,5 +1,3 @@
-# Campaign Premise: The Bindings Must Be Remade
-
 > [!dm] DM-Only Document
 > This file contains major campaign secrets, long-term reveals, player-character links, villain motives, chapter structure, level milestones, and unresolved clarification points. It should remain in `_Private` and should not be surfaced to players.
 
@@ -7,7 +5,7 @@
 
 *The Bindings Must Be Remade* is a long-form [[Arkhaven]] campaign for four player characters beginning at 3rd level and intended to conclude at 20th level. The campaign begins not with a grand public ceremony or a direct confrontation with the powers of [[Caer Oryn]], but with a body washing ashore in the lower district of the city.
 
-The first chapter, **The Man in the River**, is designed to take the party from level 3 to level 4 over two to three sessions. It introduces the [[Vermillion Crown]] as a hidden experimental power rather than an immediately open enemy, reveals the first failed use of [[Veinstone]] dust on a living subject, and gives the party their first choice between truth, safety, secrecy, and public trust.
+The first chapter, **The Man in the River**, is designed to take the party from level 3 to level 4 over two to three sessions. It introduces  [[The Vermillion Crown]] as a hidden experimental power rather than an immediately open enemy, reveals the first failed use of [[Veinstone]] dust on a living subject, and gives the party their first choice between truth, safety, secrecy, and public trust.
 
 The campaign is structured around four linked character premises.
 
