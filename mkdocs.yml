@@ -3,34 +3,7 @@
 
 site_name: Lazuril Wiki
 theme:
-  name: material
-  features:
-    - navigation.sections
-    - navigation.expand
-    - navigation.top
-    - navigation.prune
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
-  palette:
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: blue
-      accent: blue
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: blue
-      accent: blue
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+  name: torillic
 
 extra_css:
   - assets/stylesheets/state-lightbox.css
