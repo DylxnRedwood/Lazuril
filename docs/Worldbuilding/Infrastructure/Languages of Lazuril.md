@@ -1,4 +1,4 @@
-Numerous languages and regional dialects are spoken throughout [Lazuril](../Locations/World/Lazuril.md).
+Numerous languages and regional dialects are spoken throughout [Lazuril](Lazuril.md).
 
 Language distribution is influenced by geography, migration, trade, religion, conquest, and historical isolation.
 

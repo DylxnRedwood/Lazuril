@@ -1,4 +1,4 @@
-Humans are the most widespread and politically dominant people on [Arkhaven](../Locations/Continents/Arkhaven.md), but they are not considered native to the continent.
+Humans are the most widespread and politically dominant people on [Arkhaven](Arkhaven.md), but they are not considered native to the continent.
 
 Human histories describe their arrival by sea aboard a small fleet of arks, expeditionary ships, and survival vessels. These ships carried several hundred sailors, settlers, priests, soldiers, craftspeople, and scholars from an older homeland beyond the horizon.
 
@@ -33,7 +33,7 @@ Their influence is not based on age or ancient continuity, but on growth, organi
 
 ## Origins
 
-The first humans arrived in Arkhaven after the formation of [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md) but before [The Green Silence](../Lore/Arkhaven%20Events/The%20Green%20Silence.md).
+The first humans arrived in Arkhaven after the formation of [The Godscar](The%20Godscar.md) but before [The Green Silence](The%20Green%20Silence.md).
 
 The old human homeland has not yet been fully defined in surviving Arkhaven records.
 
@@ -187,7 +187,7 @@ Human rulers and churches often used religious authority to justify settlement, 
 
 ## War of the False Saints
 
-Humans were major participants in [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
+Humans were major participants in [War of the False Saints](War%20of%20the%20False%20Saints.md).
 
 They were not the only people involved, but human-led churches and states were among the main accelerants of the conflict.
 
@@ -202,7 +202,7 @@ Several factors contributed to this:
 
 The war exposed the dangers of religious ambition combined with unstable historical memory.
 
-It also contributed directly to the later authority of [The Scriptor Compact](../Lore/Arkhaven%20Events/The%20Scriptor%20Compact.md).
+It also contributed directly to the later authority of [The Scriptor Compact](The%20Scriptor%20Compact.md).
 
 ## Relationship with the Scriptor Compact
 

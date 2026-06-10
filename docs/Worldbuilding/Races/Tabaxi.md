@@ -1,4 +1,4 @@
-Tabaxi are a feline humanoid people found primarily in the northern territories of [Arkhaven](../Locations/Continents/Arkhaven.md), especially within the tropical rainforest, dense jungle, river basin, and coastal forest regions.
+Tabaxi are a feline humanoid people found primarily in the northern territories of [Arkhaven](Arkhaven.md), especially within the tropical rainforest, dense jungle, river basin, and coastal forest regions.
 
 They are widely known for their agility, curiosity, oral traditions, sharp senses, and ability to move through difficult forest terrain with unusual speed and confidence.
 
@@ -50,7 +50,7 @@ Smaller tabaxi communities also exist near trade routes, port settlements, and f
 
 Tabaxi communities were established in the northern forests before the expansion of major human states.
 
-Their own traditions do not claim direct knowledge of the true origin of [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md). Like other peoples of modern Arkhaven, they preserve theories, stories, and religious interpretations rather than direct memory of the event.
+Their own traditions do not claim direct knowledge of the true origin of [The Godscar](The%20Godscar.md). Like other peoples of modern Arkhaven, they preserve theories, stories, and religious interpretations rather than direct memory of the event.
 
 The arrival and later expansion of [Humans](Humans.md) changed tabaxi relations with the wider continent.
 

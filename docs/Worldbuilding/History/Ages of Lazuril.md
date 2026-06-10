@@ -1,4 +1,4 @@
-The history of [Lazuril](../Locations/World/Lazuril.md) is commonly divided into broad historical ages used by scholars, Scriptors, churches, archive houses, and historians.
+The history of [Lazuril](Lazuril.md) is commonly divided into broad historical ages used by scholars, Scriptors, churches, archive houses, and historians.
 
 Exact dates remain heavily disputed.
 
@@ -6,7 +6,7 @@ Different cultures use different historical systems, and some regions reject sta
 
 The major ages are therefore best understood as broad historical frameworks rather than universally agreed periods.
 
-Modern chronology throughout much of Arkhaven is measured from the beginning of [The Green Silence](../Lore/Arkhaven%20Events/The%20Green%20Silence.md), recognised as 1 GS.
+Modern chronology throughout much of Arkhaven is measured from the beginning of [The Green Silence](The%20Green%20Silence.md), recognised as 1 GS.
 
 ## Age Before Memory
 
@@ -27,7 +27,7 @@ Several major civilisations are believed to have existed during this period, tho
 
 ## Age of Fracture
 
-The Age of Fracture refers to the period surrounding [The Godscar](../Lore/Arkhaven%20Events/The%20Godscar.md).
+The Age of Fracture refers to the period surrounding [The Godscar](The%20Godscar.md).
 
 The age is associated with:
 
@@ -71,7 +71,7 @@ Large gaps in surviving history originate from this era.
 
 ## Age of False Saints
 
-The Age of False Saints refers to the period surrounding [War of the False Saints](../Lore/Arkhaven%20Events/War%20of%20the%20False%20Saints.md).
+The Age of False Saints refers to the period surrounding [War of the False Saints](War%20of%20the%20False%20Saints.md).
 
 The conflict is generally believed to have occurred more than a century before the current era.
 
@@ -86,7 +86,7 @@ The age was marked by:
 
 Human-led churches and states were major accelerants of the crisis, although they were not the only participants.
 
-The age eventually led to the creation of [The Scriptor Compact](../Lore/Arkhaven%20Events/The%20Scriptor%20Compact.md).
+The age eventually led to the creation of [The Scriptor Compact](The%20Scriptor%20Compact.md).
 
 ## Compact Era
 
