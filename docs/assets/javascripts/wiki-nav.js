@@ -67,13 +67,7 @@
 
       const dropdown = document.createElement('div');
       dropdown.className = 'top-nav-dropdown';
-
-      section.children.forEach(child => {
-        const link = document.createElement('a');
-        link.href = new URL(child.href, siteRoot).href;
-        link.textContent = child.title;
-        dropdown.appendChild(link);
-      });
+      section.children.forEach(child => dropdown.appendChild(createTopNavEntry(child)));
 
       item.appendChild(dropdown);
       headerNav.appendChild(item);
@@ -94,6 +88,59 @@
         document.querySelector('.mobile-nav-toggle')?.setAttribute('aria-expanded', 'false');
       });
     });
+  }
+
+  function createTopNavEntry(entry) {
+    const hasChildren = Array.isArray(entry.children) && entry.children.length > 0;
+
+    if (!hasChildren) {
+      const link = document.createElement('a');
+      link.href = new URL(entry.href, siteRoot).href;
+      link.textContent = entry.title;
+      return link;
+    }
+
+    const wrapper = document.createElement('div');
+    wrapper.className = 'has-sub';
+    wrapper.setAttribute('aria-expanded', 'false');
+
+    const row = document.createElement('div');
+    row.className = 'sub-row';
+
+    if (entry.href) {
+      const link = document.createElement('a');
+      link.href = new URL(entry.href, siteRoot).href;
+      link.textContent = entry.title;
+      row.appendChild(link);
+    } else {
+      const label = document.createElement('span');
+      label.textContent = entry.title;
+      row.appendChild(label);
+    }
+
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'sub-button';
+    button.textContent = '›';
+    button.setAttribute('aria-label', `Open ${entry.title} submenu`);
+    button.addEventListener('click', event => {
+      event.preventDefault();
+      event.stopPropagation();
+      const expanded = wrapper.getAttribute('aria-expanded') === 'true';
+      wrapper.parentElement?.querySelectorAll(':scope > .has-sub[aria-expanded="true"]').forEach(openSub => {
+        if (openSub !== wrapper) openSub.setAttribute('aria-expanded', 'false');
+      });
+      wrapper.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+    });
+    row.appendChild(button);
+    wrapper.appendChild(row);
+
+    const subdropdown = document.createElement('div');
+    subdropdown.className = 'top-nav-subdropdown';
+    entry.children.forEach(child => subdropdown.appendChild(createTopNavEntry(child)));
+    wrapper.appendChild(subdropdown);
+
+    return wrapper;
   }
 
   function removeLegacyToc() {
