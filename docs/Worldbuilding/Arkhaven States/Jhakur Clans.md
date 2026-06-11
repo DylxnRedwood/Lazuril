@@ -2,11 +2,11 @@
 	<img src="/assets/images/jhakur-clans.png" alt="Jhakur Clans" class="state-thumb" onclick="openLightbox('/assets/images/jhakur-clans.png')">
 </div>
 
-The **Jhakur Clans** are a loose collection of reptilian peoples who dominate the northern jungle frontier of [Arkhaven](Arkhaven.md).
+The **Jhakur Clans** are a loose collection of reptilian peoples who dominate the northern jungle frontier of [Arkhaven](../Continents/Arkhaven.md).
 
-They are the historic enemies of the [Republic of Havenor](Republic%20of%20Havenor.md) and are unified primarily by opposition to human settlement, especially the first human expansion that followed the landing of the Ark.
+They are the historic enemies of the [Republic of Havenor](./Republic%20of%20Havenor.md) and are unified primarily by opposition to human settlement, especially the first human expansion that followed the landing of the Ark.
 
-The Jhakur are less organised than the [Veylrath Clans](Veylrath%20Clans.md) and less politically structured than the [Zul’Akari Clans](Zul’Akari%20Clans.md).
+The Jhakur are less organised than the [Veylrath Clans](./Veylrath%20Clans.md) and less politically structured than the [Zul’Akari Clans](./Zul%E2%80%99Akari%20Clans.md).
 
 Their strength comes from terrain, numbers, ambush warfare, monster familiarity, and a shared refusal to let humans claim the northern wilds.
 
@@ -40,7 +40,7 @@ The Jhakur identity belongs to the scaled, shelled, venomous, and marsh-born peo
 
 ## Region and Biome
 
-The Jhakur Clans occupy the northern jungle lands above [The Skeldic Concord](The%20Skeldic%20Concord.md) and north of the Republic of Havenor’s frontier.
+The Jhakur Clans occupy the northern jungle lands above [The Skeldic Concord](./The%20Skeldic%20Concord.md) and north of the Republic of Havenor’s frontier.
 
 Their territory includes rainforest, swamp, flooded woodland, river deltas, lake shores, vine-choked ruins, mangrove-like wetlands, and hot lowland marsh.
 

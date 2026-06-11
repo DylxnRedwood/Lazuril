@@ -28,7 +28,7 @@ Some dwarves also live in the mountains, especially prospectors, miners, and ind
 
 ## Region and Biome
 
-The Kharad Wildlands sit between several stronger neighbours: elven lands to the west, the [Zul’Akari Clans](Zul’Akari%20Clans.md) to the north, and human powers to the east and south-east.
+The Kharad Wildlands sit between several stronger neighbours: elven lands to the west, the [Zul’Akari Clans](./Zul%E2%80%99Akari%20Clans.md) to the north, and human powers to the east and south-east.
 
 The land is mostly arid plain, scrubland, rocky badlands, and dry river country, with rivers flowing down from the southern mountains.
 

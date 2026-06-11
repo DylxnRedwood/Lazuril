@@ -2,7 +2,7 @@
 	<img src="/assets/images/the-martarie-crown.png" alt="The Martarië Crown" class="state-thumb" onclick="openLightbox('/assets/images/the-martarie-crown.png')">
 </div>
 
-The **Martarië Crown**, commonly translated as **The Fey Crown**, is the oldest and most prestigious elven state on [Arkhaven](Arkhaven.md).
+The **Martarië Crown**, commonly translated as **The Fey Crown**, is the oldest and most prestigious elven state on [Arkhaven](../Continents/Arkhaven.md).
 
 It was formed by the union of two great elven houses under a single royal line.
 
@@ -10,7 +10,7 @@ It is a millennia-old forest kingdom of high magic, royal cities, sacred memory,
 
 The Crown is not simply a state. It is the symbolic heart of elven civilisation.
 
-Its people see themselves as the keepers of elven continuity after the catastrophe known as [The Green Silence](The%20Green%20Silence.md), even though the true cause of that disaster has been lost.
+Its people see themselves as the keepers of elven continuity after the catastrophe known as [The Green Silence](../Arkhaven%20Lore/The%20Green%20Silence.md), even though the true cause of that disaster has been lost.
 
 ## Government
 
@@ -44,7 +44,7 @@ Queen Lúthariel Vaelorn is the ruling queen of the Martarië Crown.
 
 She is known for her command of ancient elven rites, her patronage of magical institutions, and her role in preserving what remains of the Crown’s oldest records.
 
-Their son, **Prince Thalion Maerethion**, rules [Tirith I Daur](Tirith%20I%20Daur.md) as warden-prince.
+Their son, **Prince Thalion Maerethion**, rules [Tirith I Daur](./Tirith%20I%20Daur.md) as warden-prince.
 
 His position strengthens the Crown’s influence over the southern temperate forests and binds Tirith I Daur directly to the royal house.
 
@@ -54,7 +54,7 @@ The Martarië Crown is overwhelmingly elven.
 
 Its population includes high elves, wood elves, noble bloodlines, forest-dwelling clans, city elves, naval houses, mage families, scribes, artists, and ancient retainers sworn to the two royal houses.
 
-The largest non-elven populations are half-elves, gnomes, and a small number of trusted human scholars, diplomats, and religious scriptors connected to the [Scriptor Compact](The%20Scriptor%20Compact.md).
+The largest non-elven populations are half-elves, gnomes, and a small number of trusted human scholars, diplomats, and religious scriptors connected to the [Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md).
 
 These outsiders live under strict legal protection but do not hold equal political power to the elven houses.
 
@@ -96,9 +96,9 @@ Beauty is not seen as decoration. It is considered proof of order, discipline, a
 
 The people of the Crown respect Tirith I Daur for its honour and forest guardianship.
 
-They regard the [Houses of Bârathanaear](Houses%20of%20Bârathanaear.md) as culturally related but politically softer.
+They regard the [Houses of Bârathanaear](./Houses%20of%20B%C3%A2rathanaear.md) as culturally related but politically softer.
 
-They regard [The Eldermarch Court](The%20Eldermarch%20Court.md) as dangerous, proud, and corrupted by bloodline supremacy.
+They regard [The Eldermarch Court](./The%20Eldermarch%20Court.md) as dangerous, proud, and corrupted by bloodline supremacy.
 
 The Crown does not reject lineage, but it believes lineage must serve civilisation rather than dominate it.
 
@@ -134,7 +134,7 @@ Religion in the Martarië Crown is formal, educated, and carefully recorded.
 
 The Crown honours the elven gods, especially traditions connected to the Seldarine, ancestral guardians, sacred groves, moon rites, and the divine order of beauty, memory, and magic.
 
-After the [War of the False Saints](War%20of%20the%20False%20Saints.md), the Crown worked directly with the [Court of Thalóriel](Court%20of%20Thalóriel.md) to prevent future religious catastrophe.
+After the [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md), the Crown worked directly with the [Court of Thalóriel](./Court%20of%20Thal%C3%B3riel.md) to prevent future religious catastrophe.
 
 Together, they created a system of religious education, recordkeeping, and temple oversight known as the Scriptor Compact.
 

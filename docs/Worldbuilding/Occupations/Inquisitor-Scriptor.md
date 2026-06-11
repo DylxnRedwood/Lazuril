@@ -4,11 +4,11 @@ All Inquisitor-Scriptors are Scriptors, but not all Scriptors possess inquisitor
 
 The office combines religious scholarship, historical record-keeping, magical investigation, doctrinal review, and legal inquiry. Inquisitor-Scriptors are primarily responsible for investigating heresy, false miracles, forged relics, cult activity, magical fraud, disputed saints, altered doctrine, and religious sedition.
 
-Most Inquisitor-Scriptors are of [elven heritage](../Races/Elves.md), reflecting the historical role of the elves in the development of [The Scriptor Compact](The%20Scriptor%20Compact.md).
+Most Inquisitor-Scriptors are of [elven heritage](../Races/Elves.md), reflecting the historical role of the elves in the development of [The Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md).
 
 ## Overview
 
-The office of Inquisitor-Scriptor developed after the institutional failures exposed during [War of the False Saints](War%20of%20the%20False%20Saints.md).
+The office of Inquisitor-Scriptor developed after the institutional failures exposed during [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md).
 
 During that period, churches across Arkhaven were destabilised by false saints, forged prophecies, fabricated relics, staged miracles, manipulated witnesses, and politically motivated religious movements.
 
@@ -75,7 +75,7 @@ In more secular regions, an Inquisitor-Scriptor may require cooperation from loc
 
 Conflicts between church law and civil law are common near disputed pilgrimage sites, border territories, and major religious centres.
 
-Investigations connected to [The Godscar](../Lore/Historical%20Events/The%20Godscar.md) are especially politically sensitive because of the large number of competing doctrines, relic claims, and pilgrimage movements associated with the region.
+Investigations connected to [The Godscar](../Arkhaven%20Lore/The%20Godscar.md) are especially politically sensitive because of the large number of competing doctrines, relic claims, and pilgrimage movements associated with the region.
 
 ## Duties
 
@@ -160,7 +160,7 @@ Supporters argue that failure to investigate dangerous religious movements aggre
 
 ## Relationship with the Elves
 
-Most Inquisitor-Scriptors are trained by elven houses associated with the south-western forests and [The Green Silence](The%20Green%20Silence.md).
+Most Inquisitor-Scriptors are trained by elven houses associated with the south-western forests and [The Green Silence](../Arkhaven%20Lore/The%20Green%20Silence.md).
 
 Within elven society, the office remains controversial.
 

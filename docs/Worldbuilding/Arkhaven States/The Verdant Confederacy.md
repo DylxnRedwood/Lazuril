@@ -60,7 +60,7 @@ The Confederacy has relatively low internal tension compared to its neighbours, 
 
 The main divide is cultural. Humans often favour growth, roads, trade, and military readiness, while elves prefer slower development and careful land management.
 
-Externally, the Confederacy has ambitions toward [The Vermillion Crown](The%20Vermillion%20Crown.md).
+Externally, the Confederacy has ambitions toward [The Vermillion Crown](./The%20Vermillion%20Crown.md).
 
 Its leaders see the Crown as a rival human power and may believe they could govern its lands more wisely, especially if the Crown is viewed as exploitative, unstable, or overextended.
 

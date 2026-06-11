@@ -2,7 +2,7 @@
 	<img src="/assets/images/the-eldermarch-court.png" alt="The Eldermarch Court" class="state-thumb" onclick="openLightbox('/assets/images/the-eldermarch-court.png')">
 </div>
 
-The **Eldermarch Court** is an elven-ruled state in the north-west of [Arkhaven](Arkhaven.md).
+The **Eldermarch Court** is an elven-ruled state in the north-west of [Arkhaven](../Continents/Arkhaven.md).
 
 It is known to its own people as **Calen-Êlwen**, meaning roughly "Land of the Elder Light".
 
@@ -56,8 +56,8 @@ Eldermarch magic is lawful and controlled, used to preserve the land according t
 
 There is internal tension between the six noble families, as each bloodline competes for influence within the court.
 
-Externally, the Court’s main conflict is with the [Houses of Bârathanaear](Houses%20of%20Bârathanaear.md) to the south.
+Externally, the Court’s main conflict is with the [Houses of Bârathanaear](./Houses%20of%20B%C3%A2rathanaear.md) to the south.
 
 The dispute centres on land rights, border claims, and ideology. The Eldermarch Court seeks to preserve older elven traditions and ancestral claims, while Bârathanaear is moving toward a more modernised society.
 
-The Court also watches the [Zul’Akari Clans](Zul’Akari%20Clans.md), whose sacred jungle territories limit elven expansion in the region.
+The Court also watches the [Zul’Akari Clans](./Zul%E2%80%99Akari%20Clans.md), whose sacred jungle territories limit elven expansion in the region.

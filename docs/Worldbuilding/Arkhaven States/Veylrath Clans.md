@@ -4,7 +4,7 @@
 
 The **Veylrath Clans** are the dominant peoples of the north-eastern half of the Veylrain Expanse, a vast rainforest region of canopy settlements, river routes, ancient ruins, and dangerous wildlands.
 
-They are often described as the more honourable counterpart to the [Zul’Akari Clans](Zul’Akari%20Clans.md): still territorial, still dangerous to outsiders, but far less cruel and far more willing to trade, guide, and negotiate.
+They are often described as the more honourable counterpart to the [Zul’Akari Clans](./Zul%E2%80%99Akari%20Clans.md): still territorial, still dangerous to outsiders, but far less cruel and far more willing to trade, guide, and negotiate.
 
 The Veylrath are not a unified kingdom.
 
@@ -94,7 +94,7 @@ Magic is present and respected.
 
 Veylrath magic is used for healing, tracking, concealment, animal speech, weather signs, river travel, warding, climbing, ruin study, and protection against monsters.
 
-It is less formal than the magic of elven courts and less academic than the magic of the [Leridian Concord](The%20Leridian%20Concord.md), but it is deeply adapted to rainforest survival.
+It is less formal than the magic of elven courts and less academic than the magic of the [Leridian Concord](./The%20Leridian%20Concord.md), but it is deeply adapted to rainforest survival.
 
 ## The Silent Canopy
 

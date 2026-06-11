@@ -2,13 +2,13 @@
 	<img src="/assets/images/the-vermillion-crown.png" alt="The Vermillion Crown" class="state-thumb" onclick="openLightbox('/assets/images/the-vermillion-crown.png')">
 </div>
 
-The **Vermillion Crown** is the crowning jewel of [Arkhaven](Arkhaven.md): a very wealthy, highly organised, militarised human state that controls movement through the [Godscar](The%20Godscar.md) regions and the [Crimson Chain](../Regions/The%20Crimson%20Chain.md).
+The **Vermillion Crown** is the crowning jewel of [Arkhaven](../Continents/Arkhaven.md): a very wealthy, highly organised, militarised human state that controls movement through the [Godscar](../Arkhaven%20Lore/The%20Godscar.md) regions and the [Crimson Chain](../Continents/Arkhaven.md).
 
 It is one of the continent’s greatest powers.
 
 Its roads, rivers, permits, bridges, locks, ports, and fortified crossings determine who can move safely through the heart of Arkhaven.
 
-The state is currently at war with the [Leridian Concord](The%20Leridian%20Concord.md).
+The state is currently at war with the [Leridian Concord](./The%20Leridian%20Concord.md).
 
 ## Government
 

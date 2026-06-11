@@ -4,7 +4,7 @@
 
 The **Court of Thalóriel** is a central elven realm devoted to magical learning, religious study, historical preservation, and the training of scriptors.
 
-It is loyal to [The Martarië Crown](The%20Martarië%20Crown.md) and serves as one of the most important intellectual and spiritual institutions on the continent.
+It is loyal to [The Martarië Crown](./The%20Martari%C3%AB%20Crown.md) and serves as one of the most important intellectual and spiritual institutions on the continent.
 
 Its guiding principle is simple: to learn the past is to prevent its return.
 
@@ -34,7 +34,7 @@ The role of scriptor is reserved exclusively for full-blooded elves, as the Cour
 
 The Court of Thalóriel stretches along the central meridian of the continent.
 
-Its territory begins in the far south, where it borders the Martarië Crown and the [Windmere Assembly](Windmere%20Assembly.md), then extends northward across the waters and fractured lands of the [Godscar](The%20Godscar.md) before reaching the border of [The Vermillion Crown](The%20Vermillion%20Crown.md).
+Its territory begins in the far south, where it borders the Martarië Crown and the [Windmere Assembly](./Windmere%20Assembly.md), then extends northward across the waters and fractured lands of the [Godscar](../Arkhaven%20Lore/The%20Godscar.md) before reaching the border of [The Vermillion Crown](./The%20Vermillion%20Crown.md).
 
 This position makes the Court geographically central, even though its government sits in the south.
 
@@ -60,7 +60,7 @@ Public debate is formal. Religious claims are examined carefully.
 
 Historical documents are copied multiple times and stored in separate archives to prevent another catastrophic loss of knowledge.
 
-Its cities are quieter than those of the Martarië Crown and less luxurious than those of the [Houses of Bârathanaear](Houses%20of%20Bârathanaear.md).
+Its cities are quieter than those of the Martarië Crown and less luxurious than those of the [Houses of Bârathanaear](./Houses%20of%20B%C3%A2rathanaear.md).
 
 They are built around academies, libraries, courts, temples, observatories, scriptoria, and lecture halls.
 
@@ -68,9 +68,9 @@ Status is gained through learning, service, and trustworthiness rather than weal
 
 ## Religion and the Scriptor Compact
 
-The Court of Thalóriel is the centre of the [Scriptor Compact](The%20Scriptor%20Compact.md).
+The Court of Thalóriel is the centre of the [Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md).
 
-The Compact was formed with the support of the Martarië Crown after the [War of the False Saints](War%20of%20the%20False%20Saints.md).
+The Compact was formed with the support of the Martarië Crown after the [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md).
 
 Its purpose is to prevent religious manipulation, false miracle cults, forged doctrines, and uncontrolled saint movements from triggering another continent-wide conflict.
 
@@ -106,7 +106,7 @@ Its magic is precise, academic, defensive, and investigative.
 
 Its strongest traditions are divination, abjuration, restoration, truth-binding, archival preservation, wardcraft, translation magic, anti-illusion methods, and sacred law magic.
 
-Unlike the [Verdant Confederacy](The%20Verdant%20Confederacy.md), which uses magic mainly for land and civic life, or the [Leridian Concord](The%20Leridian%20Concord.md), which applies magic heavily to war and espionage, Thalóriel uses magic to preserve truth, protect institutions, and examine the past.
+Unlike the [Verdant Confederacy](./The%20Verdant%20Confederacy.md), which uses magic mainly for land and civic life, or the [Leridian Concord](./The%20Leridian%20Concord.md), which applies magic heavily to war and espionage, Thalóriel uses magic to preserve truth, protect institutions, and examine the past.
 
 The Court’s magical colleges work closely with its religious colleges.
 

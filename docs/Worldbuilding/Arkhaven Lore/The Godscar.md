@@ -2,7 +2,7 @@
   <img src="/assets/images/god-scar.png" alt="The Godscar" class="state-thumb" onclick="openLightbox('/assets/images/god-scar.png')">
 </div>
 
-The **Godscar** is a major geological and religious feature of [Arkhaven](Arkhaven.md). It consists of a chain of vast vertical crevasses, deep rifts, lakes, drowned valleys, fjords, cliffs, and broken waterways that divide large areas of the continent.
+The **Godscar** is a major geological and religious feature of [Arkhaven](../Continents/Arkhaven.md). It consists of a chain of vast vertical crevasses, deep rifts, lakes, drowned valleys, fjords, cliffs, and broken waterways that divide large areas of the continent.
 
 The Godscar is not a single canyon or river system. It is a connected series of fractures running through different landscapes, including plains, forests, mountains, lowlands, and coastal regions. Its shape, depth, width, and appearance vary considerably along its length.
 
@@ -55,7 +55,7 @@ The scar is not uniform. Some sections are broad and water-filled, while others 
   <img src="/assets/images/veinstone-deposits.png" alt="Veinstone Deposits" class="state-thumb" onclick="openLightbox('/assets/images/veinstone-deposits.png')">
 </div>
 
-The Godscar contains the largest known concentrations of [Veinstone](../../Materials/Veinstone.md) in Arkhaven, or what is left of it...
+The Godscar contains the largest known concentrations of [Veinstone](./The%20Godscar.md#veinstone-deposits) in Arkhaven, or what is left of it...
 
 Exposed mineral veins are visible in several cliff faces and lower rock formations throughout the region.
 
@@ -177,20 +177,20 @@ Several factors contribute to this uncertainty:
 - Lost or damaged records
 - Political use of origin myths
 - Regional variation in oral traditions
-- Later reinterpretation after [War of the False Saints](War%20of%20the%20False%20Saints.md)
-- Possible connections to [The Green Silence](The%20Green%20Silence.md)
+- Later reinterpretation after [War of the False Saints](./War%20of%20the%20False%20Saints.md)
+- Possible connections to [The Green Silence](./The%20Green%20Silence.md)
 
 The oldest surviving records held by current peoples are secondary, incomplete, or interpretive. Even the most respected archives preserve theories rather than direct witness accounts.
 
 ## Relationship to The Scriptor Compact
 
-[The Scriptor Compact](The%20Scriptor%20Compact.md) is closely connected to the study and interpretation of the Godscar.
+[The Scriptor Compact](./The%20Scriptor%20Compact.md) is closely connected to the study and interpretation of the Godscar.
 
 Because the Godscar is central to many religious traditions, it is a frequent subject of doctrinal dispute. Churches may claim that the scar proves their theology, supports their authority, or validates their sacred history.
 
 Scriptors are often required to examine these claims by comparing texts, reviewing older records, identifying later additions, and distinguishing between religious tradition, political propaganda, and possible historical evidence.
 
-An [Inquisitor-Scriptor](../../Positions%20of%20Power/Inquisitor-Scriptor.md) may become involved when claims about the Godscar are linked to heresy, false prophecy, forged relics, cult activity, or disputed miracles.
+An [Inquisitor-Scriptor](../Occupations/Inquisitor-Scriptor.md) may become involved when claims about the Godscar are linked to heresy, false prophecy, forged relics, cult activity, or disputed miracles.
 
 ## Relationship to War of the False Saints
 

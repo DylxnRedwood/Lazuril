@@ -8,7 +8,7 @@ It is a wood elven realm of temperate forests, ancient groves, hidden halls, and
 
 ## Government
 
-Tirith I Daur is ruled by **Prince Thalion Maerethion**, son of the king and queen of [The Martarië Crown](The%20Martarië%20Crown.md).
+Tirith I Daur is ruled by **Prince Thalion Maerethion**, son of the king and queen of [The Martarië Crown](./The%20Martari%C3%AB%20Crown.md).
 
 He governs as a royal warden-prince, entrusted with the defence of the forest and the preservation of its old laws.
 
@@ -30,7 +30,7 @@ Small numbers of half-elves, forest gnomes, and trusted outsiders live under elv
 
 ## Region and Biome
 
-Tirith I Daur occupies a great temperate forest south of the [Houses of Bârathanaear](Houses%20of%20Bârathanaear.md) and near the [Verdant Confederacy](The%20Verdant%20Confederacy.md).
+Tirith I Daur occupies a great temperate forest south of the [Houses of Bârathanaear](./Houses%20of%20B%C3%A2rathanaear.md) and near the [Verdant Confederacy](./The%20Verdant%20Confederacy.md).
 
 Its lands are defined by old-growth woodland, misted valleys, clear rivers, moss-covered ruins, hidden paths, and fortified tree-halls.
 
@@ -46,7 +46,7 @@ Its people value patience, silence, restraint, archery, woodcraft, memory, and l
 
 Rangers and hunters hold high status, as they are both protectors and providers.
 
-The elves of Tirith I Daur do not seek luxury in the style of Bârathanaear or political dominance in the style of [The Eldermarch Court](The%20Eldermarch%20Court.md).
+The elves of Tirith I Daur do not seek luxury in the style of Bârathanaear or political dominance in the style of [The Eldermarch Court](./The%20Eldermarch%20Court.md).
 
 They define themselves through guardianship. Their duty is to defend the forest, preserve its ancient ways, and keep dangerous powers from entering or awakening within it.
 

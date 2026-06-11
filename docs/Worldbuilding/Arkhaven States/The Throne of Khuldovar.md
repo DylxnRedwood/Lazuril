@@ -6,7 +6,7 @@
 
 It is a state of stone halls, royal mines, fortified passes, ancestral law, and long-standing dwarven authority over the mountains that reach toward the Windmere Basin.
 
-Khuldovar is one of the major dwarven powers of [Arkhaven](Arkhaven.md).
+Khuldovar is one of the major dwarven powers of [Arkhaven](../Continents/Arkhaven.md).
 
 Its identity is built around kingship, mining, craft, mountain defence, and control of the roads, tunnels, and rivers that descend from the highlands.
 
@@ -52,7 +52,7 @@ In dwarven ceremony, royal claims, ancestral records, clan oaths, and old inscri
 
 The land consists of high mountains, deep valleys, cold passes, underground rivers, fortified roads, stone bridges, pine-covered slopes, mining towns, and vast subterranean halls.
 
-Rivers flow down from the mountains and help feed neighbouring lowlands, including lands connected to [Republic of Havenor](Republic%20of%20Havenor.md) and the Windmere Basin.
+Rivers flow down from the mountains and help feed neighbouring lowlands, including lands connected to [Republic of Havenor](./Republic%20of%20Havenor.md) and the Windmere Basin.
 
 Khuldovar’s settlements exist both above and below ground.
 

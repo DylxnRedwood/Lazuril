@@ -1,14 +1,14 @@
-The **War of the False Saints** was a period of religious conflict, political instability, and institutional failure in [Arkhaven](Arkhaven.md). The name refers to a series of related crises in which disputed holy figures, fabricated miracles, forged relics, altered doctrine, and religious propaganda were used to influence churches, rulers, and civilian populations.
+The **War of the False Saints** was a period of religious conflict, political instability, and institutional failure in [Arkhaven](../Continents/Arkhaven.md). The name refers to a series of related crises in which disputed holy figures, fabricated miracles, forged relics, altered doctrine, and religious propaganda were used to influence churches, rulers, and civilian populations.
 
 Despite the name, it was not a single war fought between two sides. It was a broad period of unrest involving separate regional conflicts, church schisms, local uprisings, accusations of heresy, contested sainthood, and the misuse of religious authority.
 
-The conflict occurred after [The Green Silence](The%20Green%20Silence.md) and is generally believed to have taken place more than a century before the current era.
+The conflict occurred after [The Green Silence](./The%20Green%20Silence.md) and is generally believed to have taken place more than a century before the current era.
 
-The War of the False Saints is one of the main historical causes behind the creation of [The Scriptor Compact](The%20Scriptor%20Compact.md).
+The War of the False Saints is one of the main historical causes behind the creation of [The Scriptor Compact](./The%20Scriptor%20Compact.md).
 
 ## Summary
 
-The War of the False Saints occurred after the religious traditions of Arkhaven had already become heavily shaped by [The Godscar](The%20Godscar.md). The Godscar was interpreted differently by different churches, and those interpretations became important sources of religious legitimacy.
+The War of the False Saints occurred after the religious traditions of Arkhaven had already become heavily shaped by [The Godscar](./The%20Godscar.md). The Godscar was interpreted differently by different churches, and those interpretations became important sources of religious legitimacy.
 
 No people currently documented on Arkhaven preserves direct knowledge of the Godscar’s true origin. This lack of certainty made later religious interpretation especially powerful and especially vulnerable to manipulation.
 
@@ -48,7 +48,7 @@ Rulers and noble houses used saints, relics, and prophecies to justify claims to
 
 ### Human Expansion
 
-The expansion of [Humans](../../Races/Humans.md) across Arkhaven created new churches, border settlements, land claims, and political rivalries.
+The expansion of [Humans](../Races/Humans.md) across Arkhaven created new churches, border settlements, land claims, and political rivalries.
 
 Many human states sought religious confirmation that their settlement of Arkhaven was lawful, foretold, or divinely sanctioned. This made relics, saints, and Godscar-related prophecies especially useful as political tools.
 
@@ -124,7 +124,7 @@ Ironically, trained illusionists later became useful investigators because they 
 
 The following figures are among the better-known individuals associated with the War of the False Saints. These examples are not a complete list.
 
-### [Saint Arveth of the Open Hand](../../Lore/Historical%20Figures/Saint%20Arveth%20of%20the%20Open%20Hand.md)
+### [Saint Arveth of the Open Hand](./War%20of%20the%20False%20Saints.md#saint-arveth-of-the-open-hand)
 
 **Status:** Generally accepted as genuine  
 **Associated tradition:** Mercy, endurance, and aid to the suffering  
@@ -134,7 +134,7 @@ Saint Arveth of the Open Hand was a high-ranking devotee known for treating civi
 
 After his death, several factions attempted to claim Arveth as their patron. Later investigation found no strong evidence that Arveth had supported those factions during life. His sainthood is generally accepted, but many later uses of his name are considered false attribution.
 
-### [Maerwyn of the Silver Flame](../../Lore/Historical%20Figures/Maerwyn%20of%20the%20Silver%20Flame.md)
+### [Maerwyn of the Silver Flame](./War%20of%20the%20False%20Saints.md#maerwyn-of-the-silver-flame)
 
 **Status:** Condemned as fraudulent  
 **Associated claim:** Purification by divine fire  
@@ -144,7 +144,7 @@ Maerwyn of the Silver Flame claimed to receive visions through silver fire that 
 
 A later investigation concluded that the flames were produced by controlled arcane effects and prepared materials hidden within ritual vessels. Maerwyn was condemned as a deliberate fraud. Her movement continued in isolated areas for several generations after her death.
 
-### [Lord-Caliph Sered Vant](../../Lore/Historical%20Figures/Lord-Caliph%20Sered%20Vant.md)
+### [Lord-Caliph Sered Vant](./War%20of%20the%20False%20Saints.md#lord-caliph-sered-vant)
 
 **Status:** Political false saint  
 **Associated claim:** Divine right of conquest  
@@ -154,7 +154,7 @@ Lord-Caliph Sered Vant was a regional ruler whose supporters declared him a livi
 
 Scriptor review later found that several of these prophecies had been written after the battles they described. Sered himself may not have authored the fraud, but he used the claim to secure loyalty and suppress rivals. He is commonly cited as an example of political sainthood.
 
-### [Edranna Vale](../../Lore/Historical%20Figures/Edranna%20Vale.md)
+### [Edranna Vale](./War%20of%20the%20False%20Saints.md#edranna-vale)
 
 **Status:** Disputed  
 **Associated tradition:** Visions, warning, and prophecy  
@@ -166,7 +166,7 @@ Her case remains disputed because some prophecies attributed to her appear to ha
 
 Modern Scriptors usually classify her as a **Captured Saint**, meaning a potentially genuine holy figure whose memory was later exploited.
 
-### [Brother Halvek the White](../../Lore/Historical%20Figures/Brother%20Halvek%20the%20White.md)
+### [Brother Halvek the White](./War%20of%20the%20False%20Saints.md#brother-halvek-the-white)
 
 **Status:** Condemned, later partially rehabilitated  
 **Associated claim:** Confession, judgement, and spiritual cleansing  
@@ -221,7 +221,7 @@ The most important reforms included:
 - Stronger definitions of heresy
 - More formal religious courts
 - Appointment of Scriptors to senior church authorities
-- Later development of the [Inquisitor-Scriptor](../../Positions%20of%20Power/Inquisitor-Scriptor.md) role
+- Later development of the [Inquisitor-Scriptor](../Occupations/Inquisitor-Scriptor.md) role
 
 The reforms did not eliminate religious fraud, but they made it harder for a false saint to gain wide recognition without review.
 

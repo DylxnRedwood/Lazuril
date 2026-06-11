@@ -2,9 +2,9 @@
 	<img src="/assets/images/myruun-clans.png" alt="Myruun Clans" class="state-thumb" onclick="openLightbox('/assets/images/myruun-clans.png')">
 </div>
 
-The **Myruun Clans** are a jungle-based clan society at the top of the middle section of the [Crimson Chain](../Regions/The%20Crimson%20Chain.md).
+The **Myruun Clans** are a jungle-based clan society at the top of the middle section of the [Crimson Chain](../Continents/Arkhaven.md).
 
-Their territory is bordered by the [Godscar](The%20Godscar.md) on both sides, the northern sea above them, and [The Vermillion Crown](The%20Vermillion%20Crown.md) to the south.
+Their territory is bordered by the [Godscar](../Arkhaven%20Lore/The%20Godscar.md) on both sides, the northern sea above them, and [The Vermillion Crown](./The%20Vermillion%20Crown.md) to the south.
 
 The Myruun are known for tortle-led clan houses, forest gnome craft, scar-adjacent navigation, coastal shrines, and a stable formal relationship with the Vermillion Crown.
 

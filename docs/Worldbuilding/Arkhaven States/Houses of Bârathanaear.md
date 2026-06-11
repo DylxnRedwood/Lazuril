@@ -2,7 +2,7 @@
 	<img src="/assets/images/houses-of-barathanaear.png" alt="Houses of Bârathanaear" class="state-thumb" onclick="openLightbox('/assets/images/houses-of-barathanaear.png')">
 </div>
 
-The **Houses of Bârathanaear** (*Home beyond the sea* in common) are a coastal elven state south of [The Eldermarch Court](The%20Eldermarch%20Court.md), known for comfort, wealth, beauty, and political moderation.
+The **Houses of Bârathanaear** (*Home beyond the sea* in common) are a coastal elven state south of [The Eldermarch Court](./The%20Eldermarch%20Court.md), known for comfort, wealth, beauty, and political moderation.
 
 Unlike their northern kin, they place less value on ancient claims of conquest and more value on prosperity, leisure, diplomacy, and quality of life.
 
@@ -44,7 +44,7 @@ Magic is widely used to improve daily life.
 
 It supports agriculture, architecture, healing, sanitation, transport, entertainment, and luxury crafts.
 
-Religion appears to be secondary to civic life and comfort, though the houses pay respectful pilgrimage to the [Martarië Crown](The%20Martarië%20Crown.md), mainly as a gesture of cultural respect and to avoid unnecessary disputes with other elven powers.
+Religion appears to be secondary to civic life and comfort, though the houses pay respectful pilgrimage to the [Martarië Crown](./The%20Martari%C3%AB%20Crown.md), mainly as a gesture of cultural respect and to avoid unnecessary disputes with other elven powers.
 
 ## Tensions
 
@@ -56,4 +56,4 @@ Bârathanaear prefers modernisation, comfort, and democratic house politics, whi
 
 Despite this, Bârathanaear only fights the north when necessary.
 
-Its southern and eastern borders are relatively secure due to stable relations with [Tirith I Daur](Tirith%20I%20Daur.md) to the south and the [Verdant Confederacy](The%20Verdant%20Confederacy.md) to the east.
+Its southern and eastern borders are relatively secure due to stable relations with [Tirith I Daur](./Tirith%20I%20Daur.md) to the south and the [Verdant Confederacy](./The%20Verdant%20Confederacy.md) to the east.

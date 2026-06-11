@@ -1,8 +1,8 @@
-The **Scriptor Compact** is a formal religious and scholarly institution used across [Arkhaven](Arkhaven.md). Under the Compact, most recognised heads of major churches are assigned an elven mage-advisor known as a **Scriptor**.
+The **Scriptor Compact** is a formal religious and scholarly institution used across [Arkhaven](../Continents/Arkhaven.md). Under the Compact, most recognised heads of major churches are assigned an elven mage-advisor known as a **Scriptor**.
 
 A Scriptor serves as a trained archivist, theological advisor, legal scholar, ritual witness, translator, magical examiner, and keeper of institutional memory. Their purpose is to preserve the continuity of religious doctrine across generations and to advise church leaders on matters where history, law, magic, and faith overlap.
 
-Most Scriptors are of [elven heritage](../../Races/Elves.md), although not all are full-blooded elves. The position is associated with the long education, discipline, and historical memory of the elven academies of the south-western forests.
+Most Scriptors are of [elven heritage](../Races/Elves.md), although not all are full-blooded elves. The position is associated with the long education, discipline, and historical memory of the elven academies of the south-western forests.
 
 ## Overview
 
@@ -24,7 +24,7 @@ In practice, however, their influence can be considerable. A Scriptor who refuse
 
 ## Origins
 
-The Compact developed after the religious crises associated with [War of the False Saints](War%20of%20the%20False%20Saints.md).
+The Compact developed after the religious crises associated with [War of the False Saints](./War%20of%20the%20False%20Saints.md).
 
 During that period, churches and kingdoms were destabilised by false miracles, forged relics, staged visions, altered scripture, invented saints, and arcane deception presented as divine will. The crisis showed that sincere belief was not enough to protect a faith from manipulation.
 
@@ -36,7 +36,7 @@ Over time, this arrangement became formalised as the Scriptor Compact.
 
 ## The Elven Houses of the South-West
 
-Most Scriptors are trained by elven houses based in the south-western forests. These communities are strongly associated with [The Green Silence](The%20Green%20Silence.md), the ancient event that transformed the forest region and resulted in the loss or concealment of many earlier histories.
+Most Scriptors are trained by elven houses based in the south-western forests. These communities are strongly associated with [The Green Silence](./The%20Green%20Silence.md), the ancient event that transformed the forest region and resulted in the loss or concealment of many earlier histories.
 
 The elven settlements of the south-west are not simply woodland towns. They include archive-cities, memory houses, scriptoria, observatories, temple-libraries, and academies. Their culture places high value on continuity, careful record-keeping, precise language, and the controlled preservation of dangerous or contested knowledge.
 
@@ -118,7 +118,7 @@ This makes them valuable to honest churches and inconvenient to corrupt ones.
 
 ## Inquisitor-Scriptors
 
-In some churches, a Scriptor may be granted a second office as an [Inquisitor-Scriptor](Inquisitor-Scriptor.md).
+In some churches, a Scriptor may be granted a second office as an [Inquisitor-Scriptor](../Occupations/Inquisitor-Scriptor.md).
 
 This role gives the Scriptor formal authority to investigate heresy, cult activity, false prophecy, forged relics, magical fraud, doctrinal corruption, possession, blasphemous texts, and religious sedition.
 
@@ -181,7 +181,7 @@ The same qualities that make them valuable make them difficult to control.
 
 ## Relationship to The Godscar
 
-[The Godscar](The%20Godscar.md) is one of the most important subjects of Scriptor study.
+[The Godscar](./The%20Godscar.md) is one of the most important subjects of Scriptor study.
 
 The Godscar is central to many religious traditions in Arkhaven. Churches have used it to support claims of divine punishment, sacrifice, judgement, salvation, sealed evil, and sacred authority. These interpretations often conflict.
 

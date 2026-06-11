@@ -2,9 +2,9 @@
 	<img src="/assets/images/the-leridian-concord.png" alt="The Leridian Concord" class="state-thumb" onclick="openLightbox('/assets/images/the-leridian-concord.png')">
 </div>
 
-The **Leridian Concord** is a human-led state defined by magical education, espionage, military discipline, and active war against [The Vermillion Crown](The%20Vermillion%20Crown.md).
+The **Leridian Concord** is a human-led state defined by magical education, espionage, military discipline, and active war against [The Vermillion Crown](./The%20Vermillion%20Crown.md).
 
-It played a major role in the [War of the False Saints](War%20of%20the%20False%20Saints.md) and remains one of the strongest non-elven magical powers on the continent.
+It played a major role in the [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md) and remains one of the strongest non-elven magical powers on the continent.
 
 ## Government
 
@@ -24,7 +24,7 @@ Half-elves, gnomes, and dwarves are also present in smaller numbers, mostly in a
 
 ## Region and Biome
 
-The Leridian Concord sits near the southern-central lands around the [Godscar](The%20Godscar.md).
+The Leridian Concord sits near the southern-central lands around the [Godscar](../Arkhaven%20Lore/The%20Godscar.md).
 
 It has access to inland lake routes and to open waters south of the Godscar, but this access is currently blocked by the Vermillion Crown.
 

@@ -2,7 +2,7 @@
 	<img src="/assets/images/windmere-assembly.png" alt="Windmere Assembly" class="state-thumb" onclick="openLightbox('/assets/images/windmere-assembly.png')">
 </div>
 
-The **Windmere Assembly** is a wealthy, multi-racial state on the eastern cape of [Arkhaven](Arkhaven.md), built from human, dwarven, gnomish, halfling, and elven settlements.
+The **Windmere Assembly** is a wealthy, multi-racial state on the eastern cape of [Arkhaven](../Continents/Arkhaven.md), built from human, dwarven, gnomish, halfling, and elven settlements.
 
 It is a fertile coastal assembly-state where rich grasslands, southern forests, mountain-fed rivers, and sea access have created one of the more prosperous societies on the continent.
 
@@ -42,7 +42,7 @@ The Windmere Assembly is home to humans, dwarves, gnomes, halflings, and elves.
 
 Humans form the largest population and dominate many farming towns, coastal settlements, civic offices, and trade routes.
 
-Dwarves live mainly near the mountain edges, fortified towns, stoneworks, foundries, and road-building districts connected to [The Anvilspine Range](The%20Throne%20of%20Khuldovar.md) and Barak Thuldren.
+Dwarves live mainly near the mountain edges, fortified towns, stoneworks, foundries, and road-building districts connected to [The Anvilspine Range](./The%20Throne%20of%20Khuldovar.md) and Barak Thuldren.
 
 Gnomes are concentrated in workshop towns, universities, counting houses, magical craft guilds, clockwork halls, and port districts.
 
@@ -56,9 +56,9 @@ Their presence gives the Assembly strong influence in forestry, land management,
 
 The Windmere Assembly sits in the Windmere Basin, on the eastern side of Arkhaven, near the cape and the eastern coast.
 
-It has access to the sea and to the waters of the [Godscar](The%20Godscar.md), giving it strong maritime, river, and coastal trade potential.
+It has access to the sea and to the waters of the [Godscar](../Arkhaven%20Lore/The%20Godscar.md), giving it strong maritime, river, and coastal trade potential.
 
-The state lies south of both [Khuldovar](The%20Throne%20of%20Khuldovar.md) and the [Dornhal Empire](Dornhal%20Empire.md), where the mountain systems descend and meet around the middle of the Windmere Basin.
+The state lies south of both [Khuldovar](./The%20Throne%20of%20Khuldovar.md) and the [Dornhal Empire](./Dornhal%20Empire.md), where the mountain systems descend and meet around the middle of the Windmere Basin.
 
 Rivers from the Anvilspine Range and Barak Thuldren flow down into Windmere, enriching the basin, feeding its farmland, and linking the Assembly to the dwarven highlands without placing it between the two dwarven states.
 

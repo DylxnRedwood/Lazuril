@@ -2,13 +2,13 @@
 	<img src="/assets/images/republic-of-havenor.png" alt="Republic of Havenor" class="state-thumb" onclick="openLightbox('/assets/images/republic-of-havenor.png')">
 </div>
 
-The **Republic of Havenor** is the oldest human-founded state on [Arkhaven](Arkhaven.md) and the original landing place of the Ark.
+The **Republic of Havenor** is the oldest human-founded state on [Arkhaven](../Continents/Arkhaven.md) and the original landing place of the Ark.
 
 It is a coastal republic of sailors, settlers, craftspeople, soldiers, farmers, clerics, mages, and a few Aasimar-descended families whose culture is shaped by survival, maritime trade, and the memory of first arrival.
 
 Havenor is friendly by reputation, but life there is tougher and more competitive than in the richer inland human states.
 
-Its people never pushed as far into the continent as the settlers who later conquered [The Vermillion Crown](The%20Vermillion%20Crown.md), and its poorer soil forced Havenor to rely heavily on fishing, trade, shipwork, lake settlements, and hard practical labour.
+Its people never pushed as far into the continent as the settlers who later conquered [The Vermillion Crown](./The%20Vermillion%20Crown.md), and its poorer soil forced Havenor to rely heavily on fishing, trade, shipwork, lake settlements, and hard practical labour.
 
 ## Government
 
@@ -20,7 +20,7 @@ It is made up of elected representatives from coastal towns, lake settlements, m
 
 The head of state is the **First Speaker of Havenor**, elected by the Senate for a fixed term.
 
-The First Speaker manages diplomacy, defence, trade policy, and relations with [The Throne of Khuldovar](The%20Throne%20of%20Khuldovar.md), the [Dornhal Empire](Dornhal%20Empire.md), and neighbouring peoples.
+The First Speaker manages diplomacy, defence, trade policy, and relations with [The Throne of Khuldovar](./The%20Throne%20of%20Khuldovar.md), the [Dornhal Empire](./Dornhal%20Empire.md), and neighbouring peoples.
 
 The republic also maintains a **Council of Founding Professions**, an old institution descended from the Ark’s original skilled passengers.
 
@@ -64,7 +64,7 @@ Its slopes contain signal towers, shrines to the first landing, goat farms, and 
 
 The land is habitable but not especially fertile.
 
-Its soil is poorer than the rich lands of the [Veridian March](The%20Veridian%20March.md) and Windmere Basin regions.
+Its soil is poorer than the rich lands of the [Veridian March](../Continents/Arkhaven.md) and Windmere Basin regions.
 
 Farming exists, but Havenor cannot rely on grain wealth alone.
 
@@ -128,7 +128,7 @@ Aasimar families are treated with cultural respect, though they do not rule the 
 
 Magic exists at a moderate level.
 
-Havenor has mages, ship-enchanters, healers, weather-readers, wardens, and practical spellcasters, but it does not rival the [Leridian Concord](The%20Leridian%20Concord.md), the Vermillion Crown, or the major elven states.
+Havenor has mages, ship-enchanters, healers, weather-readers, wardens, and practical spellcasters, but it does not rival the [Leridian Concord](./The%20Leridian%20Concord.md), the Vermillion Crown, or the major elven states.
 
 Magic is used for navigation, healing, ship repair, weather warnings, preserving food, lighthouse signals, and protecting the Ark.
 

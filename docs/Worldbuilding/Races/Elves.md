@@ -1,8 +1,8 @@
-Elves are one of the oldest surviving peoples of [Arkhaven](Arkhaven.md). Their civilisation predates most modern kingdoms, organised churches, and written human histories on the continent.
+Elves are one of the oldest surviving peoples of [Arkhaven](../Continents/Arkhaven.md). Their civilisation predates most modern kingdoms, organised churches, and written human histories on the continent.
 
-They are strongly associated with the south-western forests, particularly the vast temperate rainforests shaped by [The Green Silence](../Lore/Historical%20Events/The%20Green%20Silence.md). Although elves can be found throughout Arkhaven, the majority of major elven settlements, archives, academies, and noble houses remain concentrated within these regions.
+They are strongly associated with the south-western forests, particularly the vast temperate rainforests shaped by [The Green Silence](../Arkhaven%20Lore/The%20Green%20Silence.md). Although elves can be found throughout Arkhaven, the majority of major elven settlements, archives, academies, and noble houses remain concentrated within these regions.
 
-Elven society places unusually high importance on continuity, memory, language, preservation of knowledge, and historical record. This long-term cultural outlook is one of the main reasons the elves became closely involved in religious administration and the creation of [The Scriptor Compact](../Lore/Historical%20Events/The%20Scriptor%20Compact.md).
+Elven society places unusually high importance on continuity, memory, language, preservation of knowledge, and historical record. This long-term cultural outlook is one of the main reasons the elves became closely involved in religious administration and the creation of [The Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md).
 
 ## Overview
 
@@ -97,7 +97,7 @@ Elven magical traditions generally favour:
 - Astronomical observation
 - Memory-related spellcraft
 
-Illusion magic became politically controversial after the events of [War of the False Saints](../Lore/Historical%20Events/War%20of%20the%20False%20Saints.md), due to its use in staged miracles and religious fraud.
+Illusion magic became politically controversial after the events of [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md), due to its use in staged miracles and religious fraud.
 
 Despite this, trained elven illusionists remain highly valued within investigative and Scriptor traditions because they are well equipped to identify magical deception.
 
@@ -117,7 +117,7 @@ Many non-elven populations view the Scriptor system as one of the main reasons e
 
 ## Inquisitor-Scriptors
 
-Some Scriptors later receive authority as [Inquisitor-Scriptor](Inquisitor-Scriptor.md).
+Some Scriptors later receive authority as [Inquisitor-Scriptor](../Occupations/Inquisitor-Scriptor.md).
 
 These individuals investigate heresy, false prophecy, magical fraud, forged relics, cult activity, and religious corruption.
 

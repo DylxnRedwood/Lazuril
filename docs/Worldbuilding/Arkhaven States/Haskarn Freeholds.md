@@ -2,7 +2,7 @@
 	<img src="/assets/images/haskarn-freeholds.png" alt="Haskarn Freeholds" class="state-thumb" onclick="openLightbox('/assets/images/haskarn-freeholds.png')">
 </div>
 
-The **Haskarn Freeholds** are a loose collection of mostly human frontier settlements that expanded outward from [The Vermillion Crown](The%20Vermillion%20Crown.md).
+The **Haskarn Freeholds** are a loose collection of mostly human frontier settlements that expanded outward from [The Vermillion Crown](./The%20Vermillion%20Crown.md).
 
 They are made up of independent villages, towns, and growing cities that exist as farming, fishing, and trade communities rather than as a single unified nation.
 
@@ -26,7 +26,7 @@ The Haskarn Freeholds lie between the north-western trade routes and the Vermill
 
 They have access to both the sea and a large lake, giving them fishing, shipping, and trade opportunities.
 
-The land is settled but not especially rich, with soil that is less fertile than the southern lands of the [Verdant Confederacy](The%20Verdant%20Confederacy.md) and the [The Leridian Concord](The%20Leridian%20Concord.md).
+The land is settled but not especially rich, with soil that is less fertile than the southern lands of the [Verdant Confederacy](./The%20Verdant%20Confederacy.md) and the [The Leridian Concord](./The%20Leridian%20Concord.md).
 
 ## Culture
 
@@ -54,6 +54,6 @@ Although the settlements see themselves as independent, their legal foundations 
 
 Over time, these agreements allow the Vermillion Crown to absorb or dominate the Freeholds politically.
 
-The region also faces pressure from neighbouring peoples who see Haskarn expansion as a threat, especially the [Zul’Akari Clans](Zul’Akari%20Clans.md) and the [Kharad Wildlands](Kharad%20Wildlands.md).
+The region also faces pressure from neighbouring peoples who see Haskarn expansion as a threat, especially the [Zul’Akari Clans](./Zul%E2%80%99Akari%20Clans.md) and the [Kharad Wildlands](./Kharad%20Wildlands.md).
 
 Military strength is limited, usually consisting of local militias with basic training and equipment.

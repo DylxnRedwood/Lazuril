@@ -1,4 +1,4 @@
-This page contains a broad historical framework for major recorded events in [Lazuril](Lazuril.md).
+This page contains a broad historical framework for major recorded events in [Lazuril](../World/Lazuril.md).
 
 Exact dates remain disputed in many cases.
 
@@ -13,7 +13,7 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 
 ## Age of Fracture
 
-- [The Godscar](The%20Godscar.md) reshapes large areas of Arkhaven
+- [The Godscar](../Arkhaven%20Lore/The%20Godscar.md) reshapes large areas of Arkhaven
 - No currently documented people of Arkhaven preserves direct witness knowledge of the event
 - Later religious and scholarly traditions develop competing explanations for its origin
 
@@ -28,7 +28,7 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 
 ## 1 GS — Beginning of the Green Silence
 
-- [The Green Silence](The%20Green%20Silence.md) begins within the south-western forests
+- [The Green Silence](../Arkhaven%20Lore/The%20Green%20Silence.md) begins within the south-western forests
 - Roads, settlements, and records are lost
 - Geographic isolation increases across several regions
 - Historical uncertainty expands throughout Arkhaven
@@ -43,7 +43,7 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 
 ## Age of False Saints
 
-- [War of the False Saints](War%20of%20the%20False%20Saints.md) destabilises major churches more than a century before the current era
+- [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md) destabilises major churches more than a century before the current era
 - False relics and fabricated miracles spread across Arkhaven
 - Human-led churches and states become major accelerants of the crisis
 - Religious conflict intensifies
@@ -51,7 +51,7 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 
 ## Compact Era
 
-- [The Scriptor Compact](The%20Scriptor%20Compact.md) expands across major churches
+- [The Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md) expands across major churches
 - Record standardisation increases
 - Trade networks expand
 - Major infrastructure systems develop

@@ -17,9 +17,9 @@ The wiki is intended to function both as:
 
 Several major events define the known history of Lazuril:
 
-- [The Godscar](Worldbuilding/Lore/Historical%20Events/The%20Godscar.md)
-- [The Green Silence](Worldbuilding/Lore/Historical%20Events/The%20Green%20Silence.md)
-- [War of the False Saints](Worldbuilding/Lore/Historical%20Events/War%20of%20the%20False%20Saints.md)
+- [The Godscar](./Worldbuilding/Arkhaven%20Lore/The%20Godscar.md)
+- [The Green Silence](./Worldbuilding/Arkhaven%20Lore/The%20Green%20Silence.md)
+- [War of the False Saints](./Worldbuilding/Arkhaven%20Lore/War%20of%20the%20False%20Saints.md)
 
 These events continue to influence religion, politics, geography, scholarship, and cultural identity throughout Arkhaven.
 

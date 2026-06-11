@@ -2,7 +2,7 @@
 	<img src="/assets/images/dornhal-empire.png" alt="Dornhal Empire" class="state-thumb" onclick="openLightbox('/assets/images/dornhal-empire.png')">
 </div>
 
-The **Dornhal Empire** is a dwarven imperial state descended from [Khuldovar](The%20Throne%20of%20Khuldovar.md) but culturally and politically distinct from it.
+The **Dornhal Empire** is a dwarven imperial state descended from [Khuldovar](./The%20Throne%20of%20Khuldovar.md) but culturally and politically distinct from it.
 
 It is ruled by a queen and an all-female council, with a society shaped by central authority, hard mountain frontiers, imperial law, and practical ambition.
 
@@ -48,7 +48,7 @@ Dornhal lies within the mountain range known in Common as **The Ashenbarrow Rang
 
 In Dwarven, the range is called **Barak Thuldren**, meaning "The Deep Ashen Halls".
 
-The Ashenbarrow Range branches toward the [Godscar](The%20Godscar.md) in the west, borders the desert lands to the north, and descends toward the Windmere Basin in the south.
+The Ashenbarrow Range branches toward the [Godscar](../Arkhaven%20Lore/The%20Godscar.md) in the west, borders the desert lands to the north, and descends toward the Windmere Basin in the south.
 
 This geography places Dornhal between scarred waters, dry northern frontiers, and fertile southern lowlands.
 
@@ -132,6 +132,6 @@ Clans and citizens that fail the state lose rights, titles, offices, contracts, 
 
 The fourth tension is foreign pragmatism.
 
-Dornhal has worked with [The Vermillion Crown](The%20Vermillion%20Crown.md) when doing so served imperial interests.
+Dornhal has worked with [The Vermillion Crown](./The%20Vermillion%20Crown.md) when doing so served imperial interests.
 
 This cooperation strengthened Dornhal’s access to foreign influence and political leverage, but it created distrust among states that oppose the Vermillion Crown.

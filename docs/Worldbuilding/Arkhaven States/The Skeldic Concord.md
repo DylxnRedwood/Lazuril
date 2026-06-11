@@ -2,7 +2,7 @@
 	<img src="/assets/images/the-skeldic-concord.png" alt="The Skeldic Concord" class="state-thumb" onclick="openLightbox('/assets/images/the-skeldic-concord.png')">
 </div>
 
-The **Skeldic Concord** is a human-led nomadic warrior society in the Floodlands of northern [Arkhaven](Arkhaven.md).
+The **Skeldic Concord** is a human-led nomadic warrior society in the Floodlands of northern [Arkhaven](../Continents/Arkhaven.md).
 
 It is made up of roamers, drifters, exiles, oath-breakers, escaped serfs, displaced families, rejected soldiers, and outcasts from surrounding states who joined together for mutual defence and shared survival.
 
@@ -38,7 +38,7 @@ Race matters less than oath, usefulness, and loyalty to the sworn peace.
 
 ## Region and Biome
 
-The Skeldic Concord occupies the Floodlands, a vast arid and flood-prone region north of the [Dornhal Empire](Dornhal%20Empire.md) and [Republic of Havenor](Republic%20of%20Havenor.md), east of [The Vermillion Crown](The%20Vermillion%20Crown.md), and south of the [Jhakur Clans](Jhakur%20Clans.md).
+The Skeldic Concord occupies the Floodlands, a vast arid and flood-prone region north of the [Dornhal Empire](./Dornhal%20Empire.md) and [Republic of Havenor](./Republic%20of%20Havenor.md), east of [The Vermillion Crown](./The%20Vermillion%20Crown.md), and south of the [Jhakur Clans](./Jhakur%20Clans.md).
 
 It lies between dry open country, mountain ridges, river basins, and the southern edge of the northern jungle.
 
@@ -110,7 +110,7 @@ Fishing is profitable, but it is never safe.
 
 ## Godscar Access
 
-The Skeldic Concord has severely limited access to the [Godscar](The%20Godscar.md).
+The Skeldic Concord has severely limited access to the [Godscar](../Arkhaven%20Lore/The%20Godscar.md).
 
 Many years ago, the Vermillion Crown took the rivers entering and exiting the western lake system connected to the Godscar.
 

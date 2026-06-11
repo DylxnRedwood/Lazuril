@@ -2,7 +2,7 @@
   <img src="/assets/images/green-silence.png" alt="The Green Silence" class="state-thumb" onclick="openLightbox('/assets/images/green-silence.png')">
 </div>
 
-**The Green Silence** is the name given to an ancient event that transformed the south-western forests of [Arkhaven](Arkhaven.md). The event is associated with the sudden expansion, deepening, or supernatural alteration of the forested region, resulting in the loss or abandonment of roads, settlements, shrines, towers, and other sites.
+**The Green Silence** is the name given to an ancient event that transformed the south-western forests of [Arkhaven](../Continents/Arkhaven.md). The event is associated with the sudden expansion, deepening, or supernatural alteration of the forested region, resulting in the loss or abandonment of roads, settlements, shrines, towers, and other sites.
 
 The exact cause of the Green Silence is unknown. Surviving accounts are incomplete and often contradictory. Most traditions agree that the event was not a conventional war, invasion, fire, plague, or natural overgrowth. It is generally understood as a major historical and environmental transformation that permanently changed the region and its people.
 
@@ -20,7 +20,7 @@ The event is most commonly associated with the following outcomes:
 - The isolation of the south-western forest region
 - The rise in importance of elven archives and memory traditions
 - The later development of religious and scholarly concern over lost history
-- The cultural authority of the [Elves](../../Races/Elves.md) as preservers of pre-Silence knowledge
+- The cultural authority of the [Elves](../Races/Elves.md) as preservers of pre-Silence knowledge
 
 The Green Silence is not fully understood by modern scholars, churches, or rulers. Even elven sources are believed to disagree on important details.
 
@@ -102,7 +102,7 @@ Many of these locations remain unnamed or unclassified in wider Arkhaven records
 
 The Green Silence is closely linked to the history and reputation of the elves.
 
-Most elven mage-scribes associated with [The Scriptor Compact](The%20Scriptor%20Compact.md) come from the south-western forest region. Their archive-cities, memory houses, observatories, and scriptoria are located within or near lands affected by the event.
+Most elven mage-scribes associated with [The Scriptor Compact](./The%20Scriptor%20Compact.md) come from the south-western forest region. Their archive-cities, memory houses, observatories, and scriptoria are located within or near lands affected by the event.
 
 This has created several competing interpretations of the elven role.
 
@@ -124,7 +124,7 @@ Critics argue that the same elves may control access to histories that should be
 
 ## Relationship to Human Expansion
 
-[Humans](../../Races/Humans.md) arrived in Arkhaven before the beginning of the Green Silence.
+[Humans](../Races/Humans.md) arrived in Arkhaven before the beginning of the Green Silence.
 
 The event disrupted early human expansion, especially where roads, claims, mission sites, or frontier settlements approached the south-western forest region.
 
@@ -160,7 +160,7 @@ Many Scriptors and scholars avoid a firm conclusion. They treat the event as ins
 
 ## Relationship to The Godscar
 
-[The Godscar](The%20Godscar.md) and the Green Silence are often compared in scholarship and religious commentary.
+[The Godscar](./The%20Godscar.md) and the Green Silence are often compared in scholarship and religious commentary.
 
 The Godscar is usually interpreted as an event of rupture, exposure, and division. The Green Silence is usually interpreted as an event of concealment, overgrowth, and disappearance.
 
@@ -174,7 +174,7 @@ No accepted conclusion exists.
 
 ## Relationship to War of the False Saints
 
-During [War of the False Saints](War%20of%20the%20False%20Saints.md), the Green Silence became a source of religious claims, forged relics, and disputed visions.
+During [War of the False Saints](./War%20of%20the%20False%20Saints.md), the Green Silence became a source of religious claims, forged relics, and disputed visions.
 
 False prophets and disputed saints claimed authority from the forest, from ruins supposedly swallowed by it, or from relics allegedly recovered from hidden sites. The lack of reliable public records made these claims difficult to disprove.
 
