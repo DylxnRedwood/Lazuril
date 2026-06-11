@@ -172,7 +172,7 @@
       previous.forEach(element => {
         const text = element.textContent.trim().toLowerCase();
         const isGeneratedContentsHeading = element.tagName === 'H3' && text === 'contents';
-        const isGeneratedContentsGroup = element.tagName === 'H4' && element.querySelector('a');
+        const isGeneratedContentsGroup = element.tagName === 'H4' && (text === 'contents' || element.querySelector('a'));
 
         if (isGeneratedContentsHeading || isGeneratedContentsGroup) {
           element.remove();

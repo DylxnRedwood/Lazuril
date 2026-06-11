@@ -67,8 +67,8 @@ jobs:
 
           viewport = '<meta name="viewport" content="width=device-width, initial-scale=1">'
           generated_toc = re.compile(
-              r'\s*<h3>\s*Contents\s*</h3>\s*'
-              r'(?:<h4>\s*<a\b[^>]*>.*?</a>\s*</h4>\s*)?'
+              r'\s*(?:<h3\b[^>]*>\s*Contents\s*</h3>\s*)?'
+              r'(?:<h4\b[^>]*>.*?</h4>\s*)?'
               r'<blockquote\s+class=["\']?torillic-toc["\']?\s*>.*?</blockquote>',
               re.IGNORECASE | re.DOTALL,
           )
