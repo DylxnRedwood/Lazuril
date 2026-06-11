@@ -31,7 +31,6 @@ body {
   background: var(--wiki-page-bg);
   color: #000;
   min-height: 100vh;
-  overflow-x: hidden;
 }
 
 html,
@@ -135,13 +134,19 @@ body.torillic-background {
 }
 
 .top-nav-button:hover,
-.top-nav-button:focus,
-.top-nav-item[aria-expanded='true'] .top-nav-button {
+.top-nav-button:focus {
   background: transparent;
   color: #202124;
   text-decoration: underline;
   text-underline-offset: 0.18em;
   outline: none;
+}
+
+.top-nav-item[aria-expanded='true'] .top-nav-button {
+  background: transparent;
+  color: #202124;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
 }
 
 .top-nav-dropdown {
@@ -393,8 +398,6 @@ body:not(.mobile-sidebar-hidden) .torillic-page {
   border-radius: 0.35rem;
   box-shadow: 0 1px 2px rgba(60, 64, 67, 0.06);
   margin: 0 0 1.25rem 0;
-  box-sizing: border-box;
-  max-width: 100%;
 }
 
 .torillic-page img {
@@ -402,7 +405,6 @@ body:not(.mobile-sidebar-hidden) .torillic-page {
   height: auto;
   display: block;
   margin: 0 auto;
-  box-sizing: border-box;
 }
 
 .page-subtitle,
@@ -429,24 +431,10 @@ blockquote.torillic-toc {
 }
 
 @media (max-width: 900px) {
-  body,
-  body.torillic-background {
-    padding-top: var(--header-height) !important;
-    overflow-x: hidden;
-  }
-
   .torillic-header {
     height: auto;
     min-height: var(--header-height);
-    flex-wrap: nowrap;
-    justify-content: space-between;
-    gap: 0.5rem;
-    padding: 0.35rem 0.75rem;
-  }
-
-  .torillic-header h1 {
-    margin: 0;
-    font-size: 1.15rem;
+    flex-wrap: wrap;
   }
 
   .mobile-nav-toggle,
@@ -456,27 +444,14 @@ blockquote.torillic-toc {
 
   .torillic-header nav {
     display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
     flex-basis: 100%;
     flex-direction: column;
     align-items: stretch;
-    padding: 0.5rem 0.75rem;
-    background: var(--wiki-page-bg);
-    border-bottom: 1px solid #dfe1e5;
+    padding-bottom: 0.5rem;
   }
 
   body.mobile-nav-open .torillic-header nav {
     display: flex;
-  }
-
-  .top-nav-item,
-  .top-nav-button,
-  .top-nav-item > a.top-nav-button {
-    width: 100%;
-    box-sizing: border-box;
   }
 
   .top-nav-dropdown,
@@ -485,7 +460,6 @@ blockquote.torillic-toc {
     box-shadow: none;
     border-radius: 0;
     min-width: auto;
-    white-space: normal;
   }
 
   .top-nav-subdropdown {
@@ -494,31 +468,17 @@ blockquote.torillic-toc {
 
   #wiki-sidebar {
     display: none;
-    top: var(--header-height);
-    width: min(85vw, var(--sidebar-width));
-    box-sizing: border-box;
   }
 
   #wiki-sidebar.mobile-contents-open {
     display: block;
+    width: min(85vw, var(--sidebar-width));
   }
 
   main.torillic-page,
-  .torillic-page,
-  body:not(.mobile-sidebar-hidden) .torillic-page {
+  .torillic-page {
     max-width: calc(100% - (var(--content-gap) * 2)) !important;
-    width: auto !important;
     margin: var(--content-gap) !important;
-    margin-left: var(--content-gap) !important;
-    padding: 1rem !important;
-  }
-
-  .torillic-page figure,
-  .torillic-page .image-frame {
-    padding: 0.6rem;
-    margin-left: 0;
-    margin-right: 0;
-    max-width: 100%;
   }
 
   .torillic-page img {
