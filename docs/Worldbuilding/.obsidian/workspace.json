@@ -11,10 +11,14 @@
             "id": "98b1bb828a23a030",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "History/Calendar System.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Calendar System"
             }
           }
         ]
@@ -178,6 +182,9 @@
   },
   "active": "98b1bb828a23a030",
   "lastOpenFiles": [
+    "History/Ages of Lazuril.md",
+    "Continents/Arkhaven.md",
+    "World/Lazuril.md",
     "Arkhaven States/index.md",
     "Arkhaven Lore/The Godscar.md",
     "Veinstone.md",
@@ -189,15 +196,12 @@
     "_Private/Materials/README.md",
     "_Private/NPCs/README.md",
     "_Private/Materials/Veinstone.md",
-    "History/Ages of Lazuril.md",
     "History/Timeline of Major Events.md",
     "History/Calendar System.md",
     "Infrastructure/Languages of Lazuril.md",
     "Infrastructure/Roads of Arkhaven.md",
     "Infrastructure/The Deep Roads.md",
     "Races/Dwarves.md",
-    "Continents/Arkhaven.md",
-    "World/Lazuril.md",
     "Zul'Akari Clans.md",
     "Arkhaven States/Zul’Akari Clans.md",
     "Arkhaven States/Myruun Clans.md",
