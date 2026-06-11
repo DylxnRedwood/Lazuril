@@ -31,16 +31,70 @@ def page_href(path: Path) -> str:
     return "/".join(quote(part, safe="") for part in parts) + "/"
 
 
-def iter_public_markdown(root: Path) -> list[Path]:
-    files: list[Path] = []
+def sort_key(path: Path) -> list[str]:
+    return [part.casefold() for part in path.parts]
 
-    for dirpath, dirnames, filenames in os.walk(root):
-        dirnames[:] = [name for name in dirnames if name not in SKIP_DIRS]
-        for filename in filenames:
-            if filename.endswith(".md") and filename.lower() != "readme.md":
-                files.append(Path(dirpath) / filename)
 
-    return sorted(files, key=lambda item: [part.casefold() for part in item.parts])
+def direct_markdown_files(directory: Path) -> list[Path]:
+    return sorted(
+        [
+            item
+            for item in directory.iterdir()
+            if item.is_file()
+            and item.suffix.lower() == ".md"
+            and item.name.lower() not in {"readme.md", "index.md"}
+        ],
+        key=sort_key,
+    )
+
+
+def public_subdirs(directory: Path) -> list[Path]:
+    return sorted(
+        [item for item in directory.iterdir() if item.is_dir() and item.name not in SKIP_DIRS],
+        key=sort_key,
+    )
+
+
+def page_entry(path: Path) -> dict[str, object]:
+    return {"title": page_title(path), "href": page_href(path)}
+
+
+def build_children(directory: Path) -> list[dict[str, object]]:
+    children: list[dict[str, object]] = []
+    subdirs_by_name = {subdir.name.casefold(): subdir for subdir in public_subdirs(directory)}
+    used_subdirs: set[str] = set()
+
+    for page in direct_markdown_files(directory):
+        entry = page_entry(page)
+        sibling_dir = subdirs_by_name.get(page.stem.casefold())
+
+        if sibling_dir is not None:
+            nested_children = build_children(sibling_dir)
+            if nested_children:
+                entry["children"] = nested_children
+            used_subdirs.add(sibling_dir.name.casefold())
+
+        children.append(entry)
+
+    for subdir in public_subdirs(directory):
+        if subdir.name.casefold() in used_subdirs:
+            continue
+
+        nested_children = build_children(subdir)
+        index_page = subdir / "index.md"
+
+        if index_page.exists():
+            entry = page_entry(index_page)
+        else:
+            entry = {"title": subdir.name}
+
+        if nested_children:
+            entry["children"] = nested_children
+
+        if "href" in entry or "children" in entry:
+            children.append(entry)
+
+    return children
 
 
 def build_navigation() -> list[dict[str, object]]:
@@ -56,11 +110,7 @@ def build_navigation() -> list[dict[str, object]]:
     ]
 
     for section_dir in sorted(section_dirs, key=lambda item: item.name.casefold()):
-        children = [
-            {"title": page_title(page), "href": page_href(page)}
-            for page in iter_public_markdown(section_dir)
-        ]
-
+        children = build_children(section_dir)
         if children:
             sections.append({"title": section_dir.name, "children": children})
 
