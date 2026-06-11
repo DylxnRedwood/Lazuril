@@ -1,4 +1,4 @@
-# States
+# States of Arkhaven
 
 <div class="state-image-container">
   <img src="/assets/images/states1.png" alt="States of Akrhaven" class="state-thumb" onclick="openLightbox('/assets/images/states1.png')">

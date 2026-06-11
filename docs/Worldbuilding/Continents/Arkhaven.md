@@ -25,7 +25,7 @@ The continent is broadly divided into eight major regions:
 | The Silent Weald  | Ancient forests, forgotten ruins, and lands touched by the Green Silence |
 
 ---
-# States within Arkhaven
+## States within Arkhaven
 
 Many states occupy portions of multiple regions, while some regions contain several competing powers.
 
@@ -33,7 +33,7 @@ Many states occupy portions of multiple regions, while some regions contain seve
   <img src="/assets/images/states1.png" alt="States of Arkhaven" class="state-thumb" onclick="openLightbox('/assets/images/states1.png')">
 </div>
 
-# Veylrain Expanse
+## Veylrain Expanse
 
 The Veylrain Expanse dominates the northern coastline of Arkhaven and contains some of the continent's oldest and most dangerous rainforests.
 
@@ -45,7 +45,7 @@ Ancient ruins are common throughout the region. Many remain unexplored, while ot
 
 ---
 
-# The Thornbelt
+## The Thornbelt
 
 The Thornbelt occupies much of north-central Arkhaven.
 
@@ -59,7 +59,7 @@ Trade routes crossing the Thornbelt are vital to communication between eastern a
 
 ---
 
-# The Crimson Chain
+## The Crimson Chain
 
 The Crimson Chain is the most strategically important region on the continent.
 
@@ -73,7 +73,7 @@ The Crimson Chain also contains the greatest concentrations of known veinstone d
 
 ---
 
-# The Floodlands
+## The Floodlands
 
 The Floodlands occupy the north-eastern interior of Arkhaven.
 
@@ -87,7 +87,7 @@ Fishing, river trade, monster hunting, and wetland agriculture are important asp
 
 ---
 
-# Arkenfall
+## Arkenfall
 
 Arkenfall forms the eastern frontier of northern Arkhaven.
 
@@ -99,7 +99,7 @@ Historically, Arkenfall marked the frontier between expanding human settlement a
 
 ---
 
-# Windmere Basin
+## Windmere Basin
 
 The Windmere Basin occupies much of south-eastern Arkhaven.
 
@@ -113,7 +113,7 @@ Its wealth derives from agricultural abundance, trade, and access to both inland
 
 ---
 
-# Veridian March
+## Veridian March
 
 The Veridian March stretches across much of western and central Arkhaven.
 
@@ -127,7 +127,7 @@ Many of the oldest roads outside the Godscar pass through the Veridian March, ma
 
 ---
 
-# The Silent Weald
+## The Silent Weald
 
 The Silent Weald occupies much of south-western Arkhaven and is closely associated with the historical event known as [The Green Silence](../Arkhaven%20Lore/The%20Green%20Silence.md).
 

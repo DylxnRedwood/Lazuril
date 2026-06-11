@@ -1,3 +1,5 @@
+## Tirith I Daur
+
 <div class="state-image-container">
 	<img src="/assets/images/tirith-i-daur.png" alt="Tirith I Daur" class="state-thumb" onclick="openLightbox('/assets/images/tirith-i-daur.png')">
 </div>

@@ -1,3 +1,5 @@
+## Windmere Assembly
+
 <div class="state-image-container">
 	<img src="/assets/images/windmere-assembly.png" alt="Windmere Assembly" class="state-thumb" onclick="openLightbox('/assets/images/windmere-assembly.png')">
 </div>

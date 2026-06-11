@@ -1,3 +1,5 @@
+## The Verdant Confederacy
+
 <div class="state-image-container">
 	<img src="/assets/images/the-verdant-confederacy.png" alt="The Verdant Confederacy" class="state-thumb" onclick="openLightbox('/assets/images/the-verdant-confederacy.png')">
 </div>

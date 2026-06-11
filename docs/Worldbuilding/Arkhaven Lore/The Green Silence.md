@@ -1,3 +1,5 @@
+## The Green Silence
+
 <div class="state-image-container">
   <img src="/assets/images/green-silence.png" alt="The Green Silence" class="state-thumb" onclick="openLightbox('/assets/images/green-silence.png')">
 </div>

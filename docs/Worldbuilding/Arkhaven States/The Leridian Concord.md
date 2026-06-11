@@ -1,3 +1,5 @@
+## The Leridian Concord
+
 <div class="state-image-container">
 	<img src="/assets/images/the-leridian-concord.png" alt="The Leridian Concord" class="state-thumb" onclick="openLightbox('/assets/images/the-leridian-concord.png')">
 </div>

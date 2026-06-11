@@ -1,3 +1,5 @@
+## War of the False Saints
+
 The **War of the False Saints** was a period of religious conflict, political instability, and institutional failure in [Arkhaven](../Continents/Arkhaven.md). The name refers to a series of related crises in which disputed holy figures, fabricated miracles, forged relics, altered doctrine, and religious propaganda were used to influence churches, rulers, and civilian populations.
 
 Despite the name, it was not a single war fought between two sides. It was a broad period of unrest involving separate regional conflicts, church schisms, local uprisings, accusations of heresy, contested sainthood, and the misuse of religious authority.
@@ -221,7 +223,7 @@ The most important reforms included:
 - Stronger definitions of heresy
 - More formal religious courts
 - Appointment of Scriptors to senior church authorities
-- Later development of the [Inquisitor-Scriptor](../Occupations/Inquisitor-Scriptor.md) role
+- Later development of the [Inquisitor-Scriptor](Inquisitor-Scriptor.md) role
 
 The reforms did not eliminate religious fraud, but they made it harder for a false saint to gain wide recognition without review.
 

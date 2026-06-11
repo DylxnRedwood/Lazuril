@@ -1,3 +1,5 @@
+## The Throne of Khuldovar
+
 <div class="state-image-container">
 	<img src="/assets/images/the-throne-of-khuldovar.png" alt="The Throne of Khuldovar" class="state-thumb" onclick="openLightbox('/assets/images/the-throne-of-khuldovar.png')">
 </div>

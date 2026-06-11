@@ -1,3 +1,5 @@
+## The Godscar
+
 <div class="state-image-container">
   <img src="/assets/images/god-scar.png" alt="The Godscar" class="state-thumb" onclick="openLightbox('/assets/images/god-scar.png')">
 </div>
@@ -190,7 +192,7 @@ Because the Godscar is central to many religious traditions, it is a frequent su
 
 Scriptors are often required to examine these claims by comparing texts, reviewing older records, identifying later additions, and distinguishing between religious tradition, political propaganda, and possible historical evidence.
 
-An [Inquisitor-Scriptor](../Occupations/Inquisitor-Scriptor.md) may become involved when claims about the Godscar are linked to heresy, false prophecy, forged relics, cult activity, or disputed miracles.
+An [Inquisitor-Scriptor](Inquisitor-Scriptor.md) may become involved when claims about the Godscar are linked to heresy, false prophecy, forged relics, cult activity, or disputed miracles.
 
 ## Relationship to War of the False Saints
 

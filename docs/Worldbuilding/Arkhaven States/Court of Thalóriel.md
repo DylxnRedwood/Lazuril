@@ -1,3 +1,5 @@
+## Court of Thalóriel
+
 <div class="state-image-container">
   <img src="/assets/images/court-of-thaloriel.png" alt="Court of Thalóriel" class="state-thumb" onclick="openLightbox('/assets/images/court-of-thaloriel.png')">
 </div>

@@ -1,3 +1,5 @@
+## The Skeldic Concord
+
 <div class="state-image-container">
 	<img src="/assets/images/the-skeldic-concord.png" alt="The Skeldic Concord" class="state-thumb" onclick="openLightbox('/assets/images/the-skeldic-concord.png')">
 </div>

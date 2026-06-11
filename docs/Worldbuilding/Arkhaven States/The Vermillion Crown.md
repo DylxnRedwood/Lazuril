@@ -1,3 +1,5 @@
+## The Vermillion Crown
+
 <div class="state-image-container">
 	<img src="/assets/images/the-vermillion-crown.png" alt="The Vermillion Crown" class="state-thumb" onclick="openLightbox('/assets/images/the-vermillion-crown.png')">
 </div>
