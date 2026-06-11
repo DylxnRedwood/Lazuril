@@ -58,12 +58,28 @@ jobs:
         run: |
           mkdocs build --clean --config-file mkdocs.yml
 
-      # Step 6: Preserve the custom domain in both gh-pages and the Pages artifact
+      # Step 6: Add mobile viewport metadata to generated pages
+      - name: Add mobile viewport metadata
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          viewport = '<meta name="viewport" content="width=device-width, initial-scale=1">'
+
+          for path in Path("site").rglob("*.html"):
+              html = path.read_text(encoding="utf-8")
+              if 'name="viewport"' in html:
+                  continue
+              html = html.replace("<head>", f"<head>\n  {viewport}", 1)
+              path.write_text(html, encoding="utf-8")
+          PY
+
+      # Step 7: Preserve the custom domain in both gh-pages and the Pages artifact
       - name: Add custom domain
         run: |
           echo "www.lazuril.com" > site/CNAME
 
-      # Step 7: Update the gh-pages branch with the generated HTML
+      # Step 8: Update the gh-pages branch with the generated HTML
       - name: Update gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -74,13 +90,13 @@ jobs:
           allow_empty_commit: false
           cname: www.lazuril.com
 
-      # Step 8: Upload the same generated HTML for GitHub Pages deployment
+      # Step 9: Upload the same generated HTML for GitHub Pages deployment
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./site
 
-      # Step 9: Deploy lazuril.com from the uploaded artifact
+      # Step 10: Deploy lazuril.com from the uploaded artifact
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

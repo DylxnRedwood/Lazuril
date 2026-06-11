@@ -1,89 +1,588 @@
-/* Convert torillic theme to single-column wiki-like layout */
+/* Wikipedia-style layout overrides for the Torillic theme */
 
-/* Main content area - single column */
-.md-container {
-  max-width: 900px;
-  margin: 0 auto;
+:root {
+  --header-height: 2.25rem;
+  --sidebar-width: 280px;
+  --sidebar-padding-x: 1.75rem;
+  --sidebar-border-width: 1px;
+  --content-gap: 5px;
+  --content-offset: calc(var(--sidebar-width) + var(--sidebar-padding-x) + var(--sidebar-border-width) + var(--content-gap));
+  color: #202124;
+  background-color: #f8f9fa;
+  font-family: 'Alegreya', sans-serif;
 }
 
-/* Remove the two-column layout */
-.md-main {
-  display: block !important;
+html {
+  scroll-behavior: smooth;
+  min-height: 100vh;
+  background-image: url('/css/torillic/assets/torillic-bg.jpg') !important;
+  background-position: top center !important;
+  background-repeat: repeat-y !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
+  background-color: #f8f9fa !important;
 }
 
-.md-main__inner {
-  display: block !important;
+body {
+  margin: 0;
+  padding: 0;
+  padding-top: var(--header-height);
+  background: #f8f9fa;
+  min-height: 100vh;
 }
 
-/* Content should be full width */
-.md-content {
-  width: 100% !important;
-  float: none !important;
+html,
+body,
+.torillic-background,
+body.torillic-background,
+html.torillic-background {
+  min-height: 100vh;
 }
 
-/* Sidebar navigation styling */
-.md-sidebar {
-  width: 250px;
+.torillic-background,
+body.torillic-background,
+html.torillic-background {
+  background-image: url('/css/torillic/assets/torillic-bg.jpg') !important;
+  background-position: top center !important;
+  background-repeat: repeat-y !important;
+  background-attachment: fixed !important;
+  background-size: cover !important;
+  background-color: #f8f9fa !important;
+}
+
+body.torillic-background {
+  padding: var(--header-height) 0 0 !important;
+}
+
+.torillic-header {
   position: fixed;
+  top: 0;
   left: 0;
-  top: 56px;
-  bottom: 0;
-  overflow-y: auto;
-  background-color: #f5f5f5;
-  border-right: 1px solid #ddd;
+  right: 0;
+  height: var(--header-height);
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1rem;
+  padding: 0 1rem;
+  background: #fff;
+  border-bottom: 1px solid #dfe1e5;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+  width: 100% !important;
+  margin: 0 !important;
+  box-sizing: border-box;
 }
 
-.md-sidebar--secondary {
+.torillic-header h1 {
+  margin: 0 1rem 0 1rem;
+  font-size: 1.25rem;
+  letter-spacing: 0.02em;
+  color: #111;
+  white-space: nowrap;
+  flex: 0 0 auto;
+}
+
+.torillic-header h1 a {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.torillic-header h1 a:hover {
+  opacity: 0.7;
+}
+
+.torillic-header nav {
+  flex: 1 1 auto;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto !important;
+  max-width: none !important;
+}
+
+.top-nav-item {
+  position: relative;
+}
+
+.mobile-nav-toggle,
+.mobile-contents-toggle {
   display: none;
 }
 
-/* Adjust main container for fixed sidebar */
-.md-container {
-  margin-left: 250px;
+.top-nav-button,
+.top-nav-item > a.top-nav-button {
+  text-align: left;
+  display: inline-block;
 }
 
-/* Heading styles - keep them spanning single column */
-h1, h2 {
+.top-nav-button {
+  border: 1px solid transparent;
+  background: transparent;
+  padding: 0.35rem 0.6rem;
+  font: inherit;
+  color: #202124;
+  cursor: pointer;
+  border-radius: 0.35rem;
+  font-size: 0.95rem;
+}
+
+.top-nav-button:hover,
+.top-nav-button:focus {
+  background: #f1f3f4;
+  outline: none;
+}
+
+.top-nav-item[aria-expanded='true'] .top-nav-button {
+  background: #e8eaed;
+}
+
+.top-nav-dropdown {
+  display: none;
+  position: absolute;
+  top: calc(100% + 0.35rem);
+  left: 0;
+  min-width: 14rem;
+  background: #fff;
+  border: 1px solid #dfe1e5;
+  border-radius: 0.35rem;
+  box-shadow: 0 8px 16px rgba(60, 64, 67, 0.15);
+  padding: 0.25rem 0;
+  white-space: nowrap;
+  z-index: 1100;
+}
+
+.top-nav-item[aria-expanded='true'] .top-nav-dropdown {
+  display: block;
+}
+
+.top-nav-dropdown a {
+  display: block;
+  padding: 0.45rem 1rem;
+  color: #202124;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.top-nav-dropdown a:hover,
+.top-nav-dropdown a:focus {
+  background: #f1f3f4;
+}
+
+.top-nav-dropdown .has-sub {
+  position: relative;
+}
+
+.top-nav-dropdown .sub-button {
+  border: none;
+  background: transparent;
+  text-align: left;
   width: 100%;
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 0.3em;
+  padding: 0.45rem 1rem;
+  font: inherit;
+  font-size: 0.95rem;
+  color: #202124;
+  cursor: pointer;
 }
 
-h1 {
-  font-size: 2em;
-  border-bottom: 2px solid #333;
+.top-nav-subdropdown {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100%;
+  min-width: 12rem;
+  background: #fff;
+  border: 1px solid #dfe1e5;
+  border-radius: 0.35rem;
+  box-shadow: 0 8px 16px rgba(60, 64, 67, 0.12);
+  padding: 0.25rem 0;
+  white-space: nowrap;
+  z-index: 1200;
 }
 
-h2 {
-  font-size: 1.5em;
+.top-nav-subdropdown a {
+  display: block;
+  padding: 0.45rem 1rem;
+  color: #202124;
+  text-decoration: none;
 }
 
-/* Content width constraints */
-article {
-  max-width: 900px;
+.top-nav-subdropdown a:hover {
+  background: #f1f3f4;
+}
+
+.top-nav-item .has-sub[aria-expanded='true'] > .top-nav-subdropdown {
+  display: block;
+}
+
+main.torillic-page,
+.torillic-page {
+  box-sizing: border-box !important;
+  width: auto !important;
+  max-width: calc(100% - var(--content-offset) - var(--content-gap)) !important;
+  background: #fff !important;
+  column-count: 1 !important;
+  column-gap: normal !important;
+}
+
+main.torillic-page {
+  margin: var(--content-gap) var(--content-gap) 1.5rem var(--content-offset) !important;
+  padding: 1.25rem 1.5rem 1.5rem 1.25rem !important;
+  min-height: calc(100vh - var(--header-height) - var(--content-gap) - 1.5rem) !important;
+  box-shadow: 0 1px 4px rgba(60, 64, 67, 0.08) !important;
+  border-radius: 0.35rem !important;
+  border: 1px solid #dfe1e5 !important;
+  overflow: visible !important;
+}
+
+#wiki-sidebar {
+  position: fixed;
+  top: var(--header-height);
+  left: 0;
+  bottom: 0;
+  width: var(--sidebar-width);
+  z-index: 1000;
+  overflow-y: auto;
+  background: #fff;
+  border-right: 1px solid #dfe1e5;
+  padding: 1rem 0.75rem 1rem 1rem;
+  box-shadow: 1px 0 0 rgba(0, 0, 0, 0.03);
+}
+
+.wiki-sidebar-title {
+  margin: 0 0 1rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #202124;
+}
+
+.wiki-sidebar-list,
+.wiki-sidebar-sublist,
+.wiki-sidebar-grandlist {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+main.torillic-page > * {
+  break-inside: avoid-column;
+}
+
+.torillic-page:first-child,
+#write:first-child,
+#typora-source:first-child {
+  margin-block-start: 0;
+}
+
+main.torillic-page h1,
+.torillic-page h1 {
+  font-size: 2rem;
+  margin: 0 0 1rem 0;
+  line-height: 1.15;
+  color: #2b2b2b;
+}
+
+body:not(.mobile-sidebar-hidden) .torillic-page {
+  margin-left: var(--content-offset) !important;
+  position: relative;
+  z-index: 1;
+}
+
+.torillic-page figure,
+.torillic-page .image-frame {
+  padding: 0.75rem;
+  background: #fff;
+  border-radius: 0.35rem;
+  box-shadow: 0 1px 2px rgba(60, 64, 67, 0.06);
+  margin: 0 0 1.25rem 0;
+}
+
+.torillic-page img {
+  max-width: 50%;
+  height: auto;
+  display: block;
   margin: 0 auto;
-  padding: 0 20px;
 }
 
-/* Custom background image override */
-body {
-  background: url('../images/torillic-bg.jpg') center center fixed no-repeat !important;
-  background-size: cover !important;
+.page-subtitle,
+.article-subtitle,
+.post-meta,
+.page-meta,
+.subtitle,
+.page-breadcrumb,
+.torillic-backlink {
+  display: none !important;
 }
 
-/* Responsive mobile */
-@media (max-width: 768px) {
-  .md-sidebar {
-    width: 100%;
+.headerlink,
+.headerlink:hover,
+.headerlink:focus {
+  display: none !important;
+  visibility: hidden !important;
+  position: absolute !important;
+  left: -9999px !important;
+}
+
+.wiki-sidebar-item,
+.wiki-sidebar-subitem {
+  margin-bottom: 0.4rem;
+}
+
+.wiki-sidebar a {
+  color: #1a0dab;
+  text-decoration: none;
+  display: inline-block;
+  padding: 0.2rem 0;
+}
+
+.wiki-sidebar a:hover,
+.wiki-sidebar a:focus {
+  text-decoration: underline;
+}
+
+.wiki-sidebar details {
+  border-radius: 0.35rem;
+}
+
+.wiki-sidebar-summary {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  cursor: pointer;
+  list-style: none;
+  padding: 0.15rem 0;
+}
+
+.wiki-sidebar summary::-webkit-details-marker {
+  display: none;
+}
+
+.toc-toggle {
+  border: none;
+  background: transparent;
+  padding: 0;
+  width: 1.05rem;
+  color: #5f6368;
+  font-size: 0.95rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+details[open] .toc-toggle {
+  transform: rotate(90deg);
+}
+
+.wiki-sidebar-sublist {
+  margin-left: 1.2rem;
+  margin-top: 0.15rem;
+}
+
+.wiki-sidebar-grandlist {
+  margin-left: 1.2rem;
+  margin-top: 0.15rem;
+}
+
+blockquote.torillic-toc {
+  display: none !important;
+}
+
+@media (max-width: 992px) {
+  body.torillic-background {
+    padding-top: 0 !important;
+  }
+
+  #wiki-sidebar {
     position: relative;
     top: 0;
+    width: 100%;
+    height: auto;
     border-right: none;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #dfe1e5;
   }
-  
-  .md-container {
-    margin-left: 0;
+
+  body:not(.mobile-sidebar-hidden) .torillic-page {
+    margin-left: 0 !important;
+  }
+
+  main.torillic-page,
+  .torillic-page {
+    max-width: calc(100% - (var(--content-gap) * 2)) !important;
+  }
+
+  main.torillic-page {
+    margin: var(--content-gap) !important;
+  }
+
+  .torillic-header {
+    position: sticky;
+    top: 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .torillic-header {
+    height: auto;
+    min-height: var(--header-height);
+    flex-wrap: wrap;
+    gap: 0.35rem 0.75rem;
+    padding: 0.4rem 0.75rem;
+    align-items: center;
+  }
+
+  .torillic-header h1 {
+    margin: 0;
+    font-size: 1.1rem;
+  }
+
+  .mobile-nav-toggle,
+  .mobile-contents-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #d6d0c3;
+    border-radius: 0.35rem;
+    background: #fffaf0;
+    color: #202124;
+    font: inherit;
+    font-size: 0.95rem;
+    line-height: 1;
+    cursor: pointer;
+    box-shadow: 0 1px 2px rgba(60, 64, 67, 0.08);
+  }
+
+  .mobile-nav-toggle {
+    margin-left: auto;
+    padding: 0.45rem 0.65rem;
+  }
+
+  .mobile-nav-toggle::after,
+  .mobile-contents-toggle::after {
+    content: '+';
+    margin-left: 0.45rem;
+    font-weight: 700;
+  }
+
+  body.mobile-nav-open .mobile-nav-toggle::after,
+  #wiki-sidebar.mobile-contents-open .mobile-contents-toggle::after {
+    content: '-';
+  }
+
+  .torillic-header nav.wiki-top-nav {
+    display: none;
+    flex: 1 0 100%;
+    width: 100% !important;
+    border-top: 1px solid #dfe1e5;
+    padding-top: 0.35rem;
+  }
+
+  body.mobile-nav-open .torillic-header nav.wiki-top-nav {
+    display: block;
+  }
+
+  .top-nav-item,
+  .top-nav-button,
+  .top-nav-item > a.top-nav-button {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .top-nav-item {
+    border-bottom: 1px solid #ece7dc;
+  }
+
+  .top-nav-button {
+    border-radius: 0;
+    padding: 0.65rem 0.25rem;
+  }
+
+  .top-nav-dropdown {
+    position: static;
+    box-shadow: none;
+    border: none;
+    min-width: 0;
+    padding: 0 0 0.35rem 0.75rem;
+    white-space: normal;
+    background: transparent;
+  }
+
+  .top-nav-subdropdown {
+    position: static;
+    box-shadow: none;
+    border: none;
+    min-width: 0;
+    padding: 0 0 0 0.75rem;
+    white-space: normal;
+    background: transparent;
+  }
+
+  .top-nav-dropdown a,
+  .top-nav-subdropdown a,
+  .top-nav-dropdown .sub-button {
+    padding: 0.5rem 0.25rem;
+  }
+
+  #wiki-sidebar {
+    padding: 0.45rem 0.75rem;
+    box-sizing: border-box;
+    background: #fff;
+  }
+
+  .wiki-sidebar-title {
+    display: none;
+  }
+
+  .mobile-contents-toggle {
+    width: 100%;
+    padding: 0.6rem 0.75rem;
+    justify-content: space-between;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+  }
+
+  #wiki-sidebar .wiki-sidebar-list {
+    display: none;
+    padding-top: 0.5rem;
+  }
+
+  #wiki-sidebar.mobile-contents-open .wiki-sidebar-list {
+    display: block;
+  }
+
+  .wiki-sidebar-summary {
+    align-items: flex-start;
+  }
+
+  .wiki-sidebar a {
+    padding: 0.35rem 0;
+  }
+
+  main.torillic-page {
+    padding: 1rem;
+    border-radius: 0.25rem !important;
+  }
+
+  main.torillic-page h1,
+  .torillic-page h1 {
+    font-size: 1.65rem;
+  }
+
+  main.torillic-page h2,
+  .torillic-page h2 {
+    font-size: 1.45rem;
+  }
+
+  .torillic-page figure,
+  .torillic-page .image-frame {
+    padding: 0.5rem;
+  }
+
+  .torillic-page img {
+    max-width: 100%;
   }
 }

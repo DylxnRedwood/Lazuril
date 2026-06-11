@@ -12,6 +12,7 @@ extra_css:
 
 extra_javascript:
   - assets/javascripts/state-lightbox.js
+  - assets/javascripts/wiki-nav.js
 
 # Source directory (where your markdown files are)
 docs_dir: docs
