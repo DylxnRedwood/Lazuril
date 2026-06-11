@@ -81,7 +81,13 @@
       },
       {
         "title": "The Vermillion Crown",
-        "href": "Worldbuilding/Arkhaven%20States/The%20Vermillion%20Crown/"
+        "href": "Worldbuilding/Arkhaven%20States/The%20Vermillion%20Crown/",
+        "children": [
+          {
+            "title": "Caer Oryn",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Vermillion%20Crown/Caer%20Oryn/"
+          }
+        ]
       },
       {
         "title": "Tirith I Daur",
