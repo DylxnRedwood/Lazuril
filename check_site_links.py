@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import os
 from html.parser import HTMLParser
 from pathlib import Path
@@ -75,6 +76,16 @@ def main() -> int:
                 rel_source = os.path.relpath(html_path, site_dir)
                 rel_target = os.path.relpath(target, site_dir)
                 broken.append(f"{rel_source}: {attr}={link} -> missing {rel_target}")
+
+    nav_data_path = site_dir / "assets" / "javascripts" / "wiki-nav-data.json"
+    if nav_data_path.exists():
+        navigation = json.loads(nav_data_path.read_text(encoding="utf-8"))
+        for section in navigation:
+            for child in section.get("children", []):
+                link = child.get("href", "")
+                target = local_target(site_dir, site_dir / "index.html", link)
+                if target and not target.exists():
+                    broken.append(f"{nav_data_path.relative_to(site_dir)}: href={link} -> missing {target.relative_to(site_dir)}")
 
     if broken:
         print("Broken generated-site links:")

@@ -4,79 +4,13 @@
 
   const siteRoot = new URL('../..', script.src);
 
-  const siteStructure = [
-    {
-      title: 'Arkhaven Lore',
-      children: [
-        { title: 'The Godscar', href: new URL('Worldbuilding/Arkhaven%20Lore/The%20Godscar/', siteRoot).href },
-        { title: 'The Green Silence', href: new URL('Worldbuilding/Arkhaven%20Lore/The%20Green%20Silence/', siteRoot).href },
-        { title: 'The Scriptor Compact', href: new URL('Worldbuilding/Arkhaven%20Lore/The%20Scriptor%20Compact/', siteRoot).href },
-        { title: 'War of the False Saints', href: new URL('Worldbuilding/Arkhaven%20Lore/War%20of%20the%20False%20Saints/', siteRoot).href }
-      ]
-    },
-    {
-      title: 'Arkhaven States',
-      children: [
-        { title: 'States Overview', href: new URL('Worldbuilding/Arkhaven%20States/index.html', siteRoot).href },
-        { title: 'Court of Thaloriel', href: new URL('Worldbuilding/Arkhaven%20States/Court%20of%20Thal%C3%B3riel/index.html', siteRoot).href },
-        { title: 'Dornhal Empire', href: new URL('Worldbuilding/Arkhaven%20States/Dornhal%20Empire/index.html', siteRoot).href },
-        { title: 'Haskarn Freeholds', href: new URL('Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/index.html', siteRoot).href },
-        { title: 'Houses of Barathanaear', href: new URL('Worldbuilding/Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear/index.html', siteRoot).href },
-        { title: 'Jhakur Clans', href: new URL('Worldbuilding/Arkhaven%20States/Jhakur%20Clans/index.html', siteRoot).href },
-        { title: 'Kharad Wildlands', href: new URL('Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/index.html', siteRoot).href },
-        { title: 'Myruun Clans', href: new URL('Worldbuilding/Arkhaven%20States/Myruun%20Clans/index.html', siteRoot).href },
-        { title: 'Republic of Havenor', href: new URL('Worldbuilding/Arkhaven%20States/Republic%20of%20Havenor/index.html', siteRoot).href },
-        { title: 'The Eldermarch Court', href: new URL('Worldbuilding/Arkhaven%20States/The%20Eldermarch%20Court/index.html', siteRoot).href },
-        { title: 'The Leridian Concord', href: new URL('Worldbuilding/Arkhaven%20States/The%20Leridian%20Concord/index.html', siteRoot).href },
-        { title: 'The Martarie Crown', href: new URL('Worldbuilding/Arkhaven%20States/The%20Martari%C3%AB%20Crown/index.html', siteRoot).href },
-        { title: 'The Skeldic Concord', href: new URL('Worldbuilding/Arkhaven%20States/The%20Skeldic%20Concord/index.html', siteRoot).href },
-        { title: 'The Throne of Khuldovar', href: new URL('Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/index.html', siteRoot).href },
-        { title: 'The Verdant Confederacy', href: new URL('Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/index.html', siteRoot).href },
-        { title: 'The Vermillion Crown', href: new URL('Worldbuilding/Arkhaven%20States/The%20Vermillion%20Crown/index.html', siteRoot).href },
-        { title: 'Tirith I Daur', href: new URL('Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/index.html', siteRoot).href },
-        { title: 'Veylrath Clans', href: new URL('Worldbuilding/Arkhaven%20States/Veylrath%20Clans/index.html', siteRoot).href },
-        { title: 'Windmere Assembly', href: new URL('Worldbuilding/Arkhaven%20States/Windmere%20Assembly/index.html', siteRoot).href },
-        { title: "Zul'Akari Clans", href: new URL('Worldbuilding/Arkhaven%20States/Zul%E2%80%99Akari%20Clans/index.html', siteRoot).href }
-      ]
-    },
-    {
-      title: 'Continents',
-      children: [
-        { title: 'Arkhaven', href: new URL('Worldbuilding/Continents/Arkhaven/index.html', siteRoot).href }
-      ]
-    },
-    {
-      title: 'History',
-      children: [
-        { title: 'Ages of Lazuril', href: new URL('Worldbuilding/History/Ages%20of%20Lazuril/index.html', siteRoot).href },
-        { title: 'Calendar System', href: new URL('Worldbuilding/History/Calendar%20System/index.html', siteRoot).href },
-        { title: 'Timeline of Major Events', href: new URL('Worldbuilding/History/Timeline%20of%20Major%20Events/index.html', siteRoot).href }
-      ]
-    },
-    {
-      title: 'Occupations',
-      children: [
-        { title: 'Inquisitor-Scriptor', href: new URL('Worldbuilding/Occupations/Inquisitor-Scriptor/index.html', siteRoot).href }
-      ]
-    },
-    {
-      title: 'Races',
-      children: [
-        { title: 'Dwarves', href: new URL('Worldbuilding/Races/Dwarves/index.html', siteRoot).href },
-        { title: 'Elves', href: new URL('Worldbuilding/Races/Elves/index.html', siteRoot).href },
-        { title: 'Humans', href: new URL('Worldbuilding/Races/Humans/index.html', siteRoot).href },
-        { title: 'Tabaxi', href: new URL('Worldbuilding/Races/Tabaxi/index.html', siteRoot).href }
-      ]
-    },
-    {
-      title: 'World',
-      children: [
-        { title: 'Lazuril', href: new URL('Worldbuilding/World/Lazuril/index.html', siteRoot).href }
-      ]
-    }
-  ];
+  function loadSiteStructure() {
+    return fetch(new URL('wiki-nav-data.json', script.src), { cache: 'no-store' })
+      .then(response => (response.ok ? response.json() : []))
+      .catch(() => []);
+  }
 
-  function buildTopNav() {
+  function buildTopNav(siteStructure) {
     const h1 = document.querySelector('.torillic-header h1');
     if (h1) {
       const a = document.createElement('a');
@@ -88,6 +22,7 @@
 
     const headerNav = document.querySelector('.torillic-header nav');
     if (!headerNav) return;
+    if (!Array.isArray(siteStructure) || siteStructure.length === 0) return;
 
     const header = headerNav.closest('.torillic-header');
     if (header && !header.querySelector('.mobile-nav-toggle')) {
@@ -110,6 +45,8 @@
     headerNav.id = 'wiki-top-nav';
 
     siteStructure.forEach(section => {
+      if (!section.children || section.children.length === 0) return;
+
       const item = document.createElement('div');
       item.className = 'top-nav-item';
       item.setAttribute('aria-expanded', 'false');
@@ -133,7 +70,7 @@
 
       section.children.forEach(child => {
         const link = document.createElement('a');
-        link.href = child.href;
+        link.href = new URL(child.href, siteRoot).href;
         link.textContent = child.title;
         dropdown.appendChild(link);
       });
@@ -191,7 +128,7 @@
       .filter(h => h.id)
       .map(h => ({
         level: Number(h.tagName.slice(1)),
-        text: h.textContent.replace(/¶/g, '').trim(),
+        text: h.textContent.replace(/\u00b6/g, '').trim(),
         id: h.id
       }));
 
@@ -329,7 +266,7 @@
     return item;
   }
 
-  buildTopNav();
+  loadSiteStructure().then(buildTopNav);
   removeLegacyToc();
   buildSidebar();
 })();

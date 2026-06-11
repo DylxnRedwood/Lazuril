@@ -78,7 +78,12 @@ jobs:
         run: |
           mkdocs build --clean --config-file mkdocs.yml
 
-      # Step 8: Post-process generated pages
+      # Step 8: Generate public navigation data from the current docs tree
+      - name: Generate public navigation data
+        run: |
+          python generate_wiki_nav.py
+
+      # Step 9: Post-process generated pages
       - name: Post-process generated pages
         run: |
           python - <<'PY'
@@ -103,17 +108,17 @@ jobs:
               path.write_text(html, encoding="utf-8")
           PY
 
-      # Step 9: Check generated site links
+      # Step 10: Check generated site links
       - name: Check generated site links
         run: |
           python check_site_links.py site
 
-      # Step 10: Preserve the custom domain in both gh-pages and the Pages artifact
+      # Step 11: Preserve the custom domain in both gh-pages and the Pages artifact
       - name: Add custom domain
         run: |
           echo "www.lazuril.com" > site/CNAME
 
-      # Step 11: Update the gh-pages branch with the generated HTML
+      # Step 12: Update the gh-pages branch with the generated HTML
       - name: Update gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -124,13 +129,13 @@ jobs:
           allow_empty_commit: false
           cname: www.lazuril.com
 
-      # Step 12: Upload the same generated HTML for GitHub Pages deployment
+      # Step 13: Upload the same generated HTML for GitHub Pages deployment
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
           path: ./site
 
-      # Step 13: Deploy lazuril.com from the uploaded artifact
+      # Step 14: Deploy lazuril.com from the uploaded artifact
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
