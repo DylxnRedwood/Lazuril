@@ -151,6 +151,10 @@
         "href": "Worldbuilding/Races/Elves/"
       },
       {
+        "title": "Firbolgs",
+        "href": "Worldbuilding/Races/Firbolgs/"
+      },
+      {
         "title": "Genasi",
         "href": "Worldbuilding/Races/Genasi/"
       },
@@ -185,6 +189,10 @@
       {
         "title": "Tieflings",
         "href": "Worldbuilding/Races/Tieflings/"
+      },
+      {
+        "title": "Tortles",
+        "href": "Worldbuilding/Races/Tortles/"
       }
     ]
   },
