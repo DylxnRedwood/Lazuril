@@ -139,6 +139,10 @@
         "href": "Worldbuilding/Races/Aasimar/"
       },
       {
+        "title": "Dragonborn",
+        "href": "Worldbuilding/Races/Dragonborn/"
+      },
+      {
         "title": "Dwarves",
         "href": "Worldbuilding/Races/Dwarves/"
       },
@@ -149,6 +153,14 @@
       {
         "title": "Gnomes",
         "href": "Worldbuilding/Races/Gnomes/"
+      },
+      {
+        "title": "Goliaths",
+        "href": "Worldbuilding/Races/Goliaths/"
+      },
+      {
+        "title": "Half-Orcs",
+        "href": "Worldbuilding/Races/Half-Orcs/"
       },
       {
         "title": "Halflings",
@@ -165,6 +177,10 @@
       {
         "title": "Tabaxi",
         "href": "Worldbuilding/Races/Tabaxi/"
+      },
+      {
+        "title": "Tieflings",
+        "href": "Worldbuilding/Races/Tieflings/"
       }
     ]
   },
