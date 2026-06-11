@@ -167,6 +167,10 @@
         "href": "Worldbuilding/Races/Gnomes/"
       },
       {
+        "title": "Goblins",
+        "href": "Worldbuilding/Races/Goblins/"
+      },
+      {
         "title": "Goliaths",
         "href": "Worldbuilding/Races/Goliaths/"
       },
@@ -185,6 +189,14 @@
       {
         "title": "Kenku",
         "href": "Worldbuilding/Races/Kenku/"
+      },
+      {
+        "title": "Kobolds",
+        "href": "Worldbuilding/Races/Kobolds/"
+      },
+      {
+        "title": "Lizardfolk",
+        "href": "Worldbuilding/Races/Lizardfolk/"
       },
       {
         "title": "Orcs",
