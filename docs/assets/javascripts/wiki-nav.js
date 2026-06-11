@@ -160,13 +160,27 @@
   }
 
   function removeLegacyToc() {
-    const oldToc = document.querySelector('blockquote.torillic-toc');
-    if (!oldToc) return;
-    const previous = oldToc.previousElementSibling;
-    if (previous && previous.tagName === 'H3' && previous.textContent.trim().toLowerCase() === 'contents') {
-      previous.remove();
-    }
-    oldToc.remove();
+    document.querySelectorAll('blockquote.torillic-toc').forEach(oldToc => {
+      const previous = [];
+      let sibling = oldToc.previousElementSibling;
+
+      while (sibling && previous.length < 3) {
+        previous.push(sibling);
+        sibling = sibling.previousElementSibling;
+      }
+
+      previous.forEach(element => {
+        const text = element.textContent.trim().toLowerCase();
+        const isGeneratedContentsHeading = element.tagName === 'H3' && text === 'contents';
+        const isGeneratedContentsGroup = element.tagName === 'H4' && element.querySelector('a');
+
+        if (isGeneratedContentsHeading || isGeneratedContentsGroup) {
+          element.remove();
+        }
+      });
+
+      oldToc.remove();
+    });
   }
 
   function buildSidebar() {

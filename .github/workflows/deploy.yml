@@ -58,17 +58,26 @@ jobs:
         run: |
           mkdocs build --clean --config-file mkdocs.yml
 
-      # Step 6: Add mobile viewport metadata to generated pages
-      - name: Add mobile viewport metadata
+      # Step 6: Post-process generated pages
+      - name: Post-process generated pages
         run: |
           python - <<'PY'
           from pathlib import Path
+          import re
 
           viewport = '<meta name="viewport" content="width=device-width, initial-scale=1">'
+          generated_toc = re.compile(
+              r'\s*<h3>\s*Contents\s*</h3>\s*'
+              r'(?:<h4>\s*<a\b[^>]*>.*?</a>\s*</h4>\s*)?'
+              r'<blockquote\s+class=["\']?torillic-toc["\']?\s*>.*?</blockquote>',
+              re.IGNORECASE | re.DOTALL,
+          )
 
           for path in Path("site").rglob("*.html"):
               html = path.read_text(encoding="utf-8")
+              html = generated_toc.sub("", html)
               if 'name="viewport"' in html:
+                  path.write_text(html, encoding="utf-8")
                   continue
               html = html.replace("<head>", f"<head>\n  {viewport}", 1)
               path.write_text(html, encoding="utf-8")
