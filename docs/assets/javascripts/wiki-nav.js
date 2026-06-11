@@ -121,7 +121,7 @@
     const button = document.createElement('button');
     button.type = 'button';
     button.className = 'sub-button';
-    button.textContent = '›';
+    button.textContent = '>';
     button.setAttribute('aria-label', `Open ${entry.title} submenu`);
     button.addEventListener('click', event => {
       event.preventDefault();
