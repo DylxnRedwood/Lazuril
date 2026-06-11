@@ -135,6 +135,10 @@
     "title": "Races",
     "children": [
       {
+        "title": "Aasimar",
+        "href": "Worldbuilding/Races/Aasimar/"
+      },
+      {
         "title": "Dwarves",
         "href": "Worldbuilding/Races/Dwarves/"
       },
