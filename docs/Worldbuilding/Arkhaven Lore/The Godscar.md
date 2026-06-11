@@ -4,32 +4,34 @@
   <img src="/assets/images/god-scar.png" alt="The Godscar" class="state-thumb" onclick="openLightbox('/assets/images/god-scar.png')">
 </div>
 
-The **Godscar** is a major geological and religious feature of [Arkhaven](../Continents/Arkhaven.md). It consists of a chain of vast vertical crevasses, deep rifts, lakes, drowned valleys, fjords, cliffs, and broken waterways that divide large areas of the continent.
+The **Godscar** is a major geological and religious feature of [Arkhaven](../Continents/Arkhaven.md). It is the great fracture that runs down the continent's vertical centre, forming a chain of vast vertical crevasses, fjords, lakes, drowned valleys, and connected waterways.
 
-The Godscar is not a single canyon or river system. It is a connected series of fractures running through different landscapes, including plains, forests, mountains, lowlands, and coastal regions. Its shape, depth, width, and appearance vary considerably along its length.
+The Godscar is not a single canyon or river. It is a linked system of water-filled fractures running through different landscapes, including plains, forests, mountains, lowlands, and coastal regions. Its shape, depth, width, elevation, and appearance vary considerably along its length.
 
-The origin of the Godscar is disputed. Most cultures agree that it is not an ordinary natural feature, but there is no accepted explanation for how it was formed.
+Every known section of the Godscar contains water. In some places it appears as a broad lake or inland channel. In others it narrows into a steep-sided waterway between cliffs. Near the coast, sections widen into fjords and drowned valleys where seawater reaches far inland.
+
+The Godscar predates all currently documented peoples of Arkhaven. Its formation occurred long before the present political systems, religious institutions, borders, and recorded cultures came into being. Those later systems were not broken by the Godscar. They formed around it.
 
 ## Overview
 
-The Godscar is one of the defining physical features of Arkhaven. It affects travel, settlement, trade, religion, politics, and regional identity.
+The Godscar is one of the defining physical features of Arkhaven. It affects travel, settlement, trade, religion, politics, and regional identity because much of the continent has developed around its waters, crossings, cliffs, harbours, and associated sacred sites.
 
-Most religious, historical, and geological traditions agree that the formation of the scar was catastrophic in scale.
+Most religious, historical, and geological traditions agree that the formation of the scar was catastrophic in scale, but no current people of Arkhaven preserves direct knowledge of the event itself.
 
-The event permanently reshaped:
+The event permanently shaped:
 
 - Rivers
-- Mountain systems
-- Trade routes
-- Settlements
-- Political borders
+- Lake systems
+- Mountain edges
+- Coastal inlets
+- Settlement patterns
+- Crossing points
+- Trade corridors
 - Religious interpretation
 
-The Godscar predates all currently documented peoples of Arkhaven. No living race now present on the continent preserves direct knowledge of its true origin.
+In lowland areas, the Godscar often appears as a chain of deep lakes, flooded cuts, and steep-sided waterways. In higher terrain, it becomes a more dramatic rift of exposed stone, cliffs, mist, and waterfalls. Near the coast, sections of the scar broaden into fjords and drowned valleys where tidal water moves inland.
 
-In lowland areas, the Godscar often appears as a chain of deep lakes or steep-sided waterways. In higher terrain, it becomes a more dramatic rift of exposed stone, cliffs, mist, and waterfalls. Near the coast, sections of the scar broaden into fjords and drowned valleys where seawater reaches inland.
-
-Because of its scale and position, the Godscar forms a natural barrier between regions. Safe crossings are strategically important and often become centres of settlement, trade, taxation, defence, or religious activity.
+Because of its scale and position, the Godscar forms both a barrier and a route between regions. Safe crossings, ferries, ports, cliffside approaches, and navigable stretches are strategically important and often become centres of settlement, trade, taxation, defence, or religious activity.
 
 ## Geography
 
@@ -37,19 +39,19 @@ The Godscar varies significantly depending on local terrain.
 
 Common features include:
 
-- Deep vertical crevasses
-- Sheer cliffs and unstable escarpments
+- Deep vertical crevasses filled with water
+- Sheer cliffs and steep escarpments
 - Chains of lakes
 - Drowned valleys
 - Fjords and inland saltwater channels
 - Waterfalls and river mouths
 - Narrow crossings and natural chokepoints
-- Collapsed roads and broken passes
-- Isolated plateaus and cliffside settlements
+- Cliffside settlements
 - Flooded caverns
-- Unstable rock shelves
+- Submerged ruins and structures
+- Shallow shelves and deeper channels
 
-The scar is not uniform. Some sections are broad and water-filled, while others are narrow, dry, rocky, or partially hidden by forest. In several places, rivers flow into the Godscar and form lakes or steep cataracts. Other areas are difficult to navigate due to unstable stone, deep water, fog, or sudden changes in elevation.
+The scar is not uniform. Some sections are broad, calm, and navigable, while others are narrow, deep, cold, fast-moving, or partly hidden beneath forest canopies and mist. In several places, rivers flow into the Godscar and form lakes, cataracts, or branching waterways. The severity of the cliffs on either side changes from region to region, with subtle elevation shifts in some areas and dramatic drops in others.
 
 ## Veinstone Deposits
 
@@ -57,13 +59,11 @@ The scar is not uniform. Some sections are broad and water-filled, while others 
   <img src="/assets/images/veinstone-deposits.png" alt="Veinstone Deposits" class="state-thumb" onclick="openLightbox('/assets/images/veinstone-deposits.png')">
 </div>
 
-The Godscar contains the largest known concentrations of [Veinstone](./The%20Godscar.md#veinstone-deposits) in Arkhaven, or what is left of it...
+The Godscar contains the largest known concentrations of [Veinstone](./The%20Godscar.md#veinstone-deposits) in Arkhaven, or what is left of it.
 
-Exposed mineral veins are visible in several cliff faces and lower rock formations throughout the region.
+Veinstone found near the Godscar is typically red, with golden flecks visible through the stone under direct light. Exposed deposits can be found in cliff faces, riverbeds, lower rock formations, and areas where the fractured land has revealed older mineral seams.
 
-Some deposits appear as dark crystalline growths embedded directly within the fractured stone.
-
-The presence of Veinstone has contributed significantly to mining interest, religious attention, and political conflict surrounding the scar.
+The presence of Veinstone has contributed significantly to mining interest, religious attention, institutional study, and political conflict surrounding the scar.
 
 ## The Red Lakes
 
@@ -75,18 +75,15 @@ Several lakes and waterways connected to the Godscar display unusual red colorat
 
 This effect is widely believed to be associated with Veinstone-rich regions beneath or surrounding the water.
 
-The colour varies between locations and environmental conditions.
+The colour varies between locations and environmental conditions. In some places the water appears faintly rust-stained. In others, it can look deep red under still light, especially near shorelines, submerged stone, or areas where mineral deposits are known or suspected.
 
 Consumption of water taken directly from heavily affected lakes is generally discouraged.
 
 Historical reports describe:
 
-- Severe illness
 - Hallucinations
-- Fever
 - Violent dreams
 - Behavioural instability
-- Long-term sickness
 
 The exact cause of these effects remains uncertain.
 
@@ -94,13 +91,12 @@ The exact cause of these effects remains uncertain.
 
 The Godscar has a major influence on settlement patterns throughout Arkhaven.
 
-Communities are often established near reliable crossings, navigable waters, defensive cliffs, fertile river valleys, or religiously significant overlooks. These locations can become economically important because they control movement between divided regions.
+Communities are often established near reliable crossings, navigable waters, defensive cliffs, fertile river valleys, fishing grounds, protected inlets, or religiously significant overlooks. These locations can become economically important because they control movement between regions and access to the waterways of the scar.
 
 Settlements near the Godscar may serve several functions:
 
 - Ferry crossings
 - Bridge towns
-- Fortified passes
 - Pilgrimage stops
 - Fishing communities
 - Trade ports
@@ -109,15 +105,17 @@ Settlements near the Godscar may serve several functions:
 - Mining or quarry settlements
 - Centres for scholars, relic-hunters, or explorers
 
-Travel across the Godscar is usually limited to known bridges, ferries, passes, causeways, or narrow points. As a result, control of these crossings can carry significant political and military value.
+Travel across the Godscar is usually limited to known bridges, ferries, causeways, cliffside approaches, or narrow points where the water can be crossed safely. Travel along the Godscar may also be possible by boat, depending on local depth, current, weather, and political control.
 
 ## Political Importance
 
 The Godscar acts as both a barrier and a route.
 
-As a barrier, it divides territories, slows armies, separates cultures, and creates defensible borders. As a route, its waterways, fjords, and lake systems can support trade, transport, fishing, and communication.
+As a barrier, it limits movement, slows armies, separates regions, and creates defensible boundaries. As a route, its waterways, fjords, and lake systems can support trade, transport, fishing, and communication.
 
-This dual role makes the Godscar politically important. Rulers may seek to control crossings, ports, cliff roads, ferry rights, or religious sites along its edge. Disputes over these points can become long-running sources of tension between neighbouring realms.
+The Godscar did not alter the borders of the current states by suddenly breaking them apart. It is far older than those states. Instead, political borders, claims, trade systems, and military priorities developed around the geography of the scar.
+
+This makes the Godscar politically important. Rulers may seek to control crossings, ports, ferry rights, cliffside approaches, religious sites, or access to Veinstone-rich regions along its edge. Disputes over these points can become long-running sources of tension between neighbouring realms.
 
 The Godscar also affects regional identity. Communities on opposite sides may develop separate customs, dialects, laws, or religious practices, even when they are geographically close.
 
@@ -125,70 +123,23 @@ The Godscar also affects regional identity. Communities on opposite sides may de
 
 The Godscar is widely regarded as a sacred or spiritually significant place.
 
-Most religions in Arkhaven have some interpretation of the Godscar, although these interpretations often contradict one another. Some faiths treat it as evidence of divine judgement. Others see it as a sign of divine protection, sacrifice, warning, or unresolved conflict between gods.
+Most religions in Arkhaven have some interpretation of the Godscar, but those interpretations developed long after the event itself. The scar was not created within the memory of current churches, kingdoms, or recorded peoples. Instead, later faiths, doctrines, and local traditions formed around attempts to explain its existence.
 
 Religious activity near the Godscar may include:
 
 - Shrines and temples
 - Pilgrimage routes
 - Ritual overlooks
-- Places of confession or judgement
-- Burial sites
 - Relic sites
-- Hermitages
 - Monastic communities
-- Trial grounds
-- Restricted holy areas
 
 Not all faiths treat the Godscar as holy in a positive sense. Some consider it dangerous, corrupted, or spiritually unstable.
-
-## Common Interpretations
-
-There is no single accepted explanation for the Godscar. Several broad interpretations are common across Arkhaven.
-
-### Divine Punishment
-
-Some traditions teach that the Godscar was created as punishment for mortal arrogance, rebellion, blasphemy, or misuse of power. In this interpretation, the scar is a permanent reminder of the consequences of defying divine authority.
-
-### Divine Sacrifice
-
-Other traditions describe the Godscar as the result of an act that saved the world at great cost. These accounts usually present the scar as a wound taken by the world so that a greater disaster could be avoided.
-
-### Divine Battle
-
-Many myths describe the Godscar as the result of a battle between divine powers. These stories often include a final blow, a fallen rival, a divine weapon, or the collapse of the land beneath the force of the conflict.
-
-### Sealed Evil
-
-Some faiths teach that the Godscar marks the place where a dangerous being, power, or corruption was defeated and buried. In this interpretation, the scar is both a victory site and a warning.
-
-### Unresolved Mystery
-
-Scholars, Scriptors, and some religious authorities avoid making firm claims. They treat the Godscar as an ancient event whose true cause has been obscured by time, theology, political revision, and lost records.
-
-## Historical Uncertainty
-
-The exact origin of the Godscar is not known publicly.
-
-Existing accounts are inconsistent. Religious texts, oral traditions, elven records, local legends, and scholarly theories often disagree on key details. Some describe the Godscar as a single event. Others suggest that it formed in stages or that older fractures were later expanded by divine or magical force.
-
-Several factors contribute to this uncertainty:
-
-- The age of the event
-- Contradictory religious doctrines
-- Lost or damaged records
-- Political use of origin myths
-- Regional variation in oral traditions
-- Later reinterpretation after [War of the False Saints](./War%20of%20the%20False%20Saints.md)
-- Possible connections to [The Green Silence](./The%20Green%20Silence.md)
-
-The oldest surviving records held by current peoples are secondary, incomplete, or interpretive. Even the most respected archives preserve theories rather than direct witness accounts.
 
 ## Relationship to The Scriptor Compact
 
 [The Scriptor Compact](./The%20Scriptor%20Compact.md) is closely connected to the study and interpretation of the Godscar.
 
-Because the Godscar is central to many religious traditions, it is a frequent subject of doctrinal dispute. Churches may claim that the scar proves their theology, supports their authority, or validates their sacred history.
+Because the Godscar is central to many religious traditions, it is a frequent subject of doctrinal dispute. Churches may claim that the scar supports their theology, reinforces their authority, or validates their sacred history.
 
 Scriptors are often required to examine these claims by comparing texts, reviewing older records, identifying later additions, and distinguishing between religious tradition, political propaganda, and possible historical evidence.
 
@@ -196,77 +147,17 @@ An Inquisitor-Scriptor may become involved when claims about the Godscar are lin
 
 ## Relationship to War of the False Saints
 
-The War of the False Saints had a major effect on how religious authorities treat claims associated with the Godscar.
+The [War of the False Saints](./War%20of%20the%20False%20Saints.md) had a major effect on how religious authorities treat claims associated with the Godscar.
 
 During that period, false prophets and manufactured saints repeatedly used the Godscar as a source of legitimacy. Some claimed visions connected to the scar. Others presented relics, staged miracles, or announced prophecies concerning its origin or future.
 
 As a result, modern churches are cautious about new miracles, relics, or revelations associated with the Godscar. Such claims are usually subject to investigation, especially if they attract followers, challenge existing doctrine, or threaten public order.
 
-## Relationship to The Green Silence
-
-The Green Silence is not generally considered part of the same event as the Godscar, but the two are often compared.
-
-Both events changed the shape and history of Arkhaven. Both are surrounded by incomplete records, religious interpretation, and conflicting traditions. The Godscar is usually understood as an event of rupture, exposure, and division. The Green Silence is usually understood as an event of concealment, overgrowth, and disappearance.
-
-Some scholars and Scriptors believe the two events may be indirectly connected. Others treat the comparison as symbolic rather than historical.
-
-No accepted conclusion exists.
-
-## Hazards
-
-The Godscar presents several known hazards.
-
-Physical hazards include:
-
-- Rockfalls
-- Collapsing paths
-- Unstable cliff edges
-- Sudden changes in elevation
-- Deep or fast-moving water
-- Flooding
-- Fog and low visibility
-- Dangerous crossings
-- Isolated terrain
-- Difficult rescue conditions
-
-Reported supernatural or unexplained phenomena include:
-
-- Unusual echoes
-- Sudden temperature changes
-- Strange lights
-- Distorted reflections
-- Animals avoiding certain waters or cliffs
-- Persistent dreams among travellers
-- Accounts of voices from below
-- Localised areas regarded as cursed or forbidden
-
-The reliability of these reports varies. Some are treated as superstition, while others are taken seriously by local communities, churches, or Scriptors.
-
-## Cultural Impact
-
-The Godscar has a major place in the cultural imagination of Arkhaven.
-
-It appears in religious teaching, local sayings, legal boundaries, pilgrimage traditions, military strategy, trade routes, and origin myths. For many people, it is the most visible proof that the ancient past still shapes the present.
-
-Common associations include:
-
-- Divine judgement
-- The cost of salvation
-- Borders and division
-- Sacred danger
-- Lost history
-- Unresolved guilt
-- Pilgrimage and penance
-- Political legitimacy
-- The danger of false certainty
-
-The Godscar is often used as a metaphor for damage that remains visible long after the original event has passed.
-
 ## Current Status
 
-The Godscar remains only partly mapped and only partly understood.
+Most regions along the Godscar are settled, travelled, and economically important. Others remain dangerous, isolated, or poorly documented.
 
-Some regions along it are settled, travelled, and economically important. Others remain dangerous, isolated, or poorly documented. Several sections are likely to contain ruins, abandoned crossings, lost shrines, drowned structures, or settlements not yet formally recorded in the wider histories of Arkhaven.
+Several sections are likely to contain ruins, abandoned crossings, lost shrines, drowned structures, or settlements not yet formally recorded in the wider histories of Arkhaven.
 
 Continued discovery of Veinstone deposits and ancient structures within the scar has increased institutional interest in the region.
 
