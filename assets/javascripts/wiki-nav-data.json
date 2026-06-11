@@ -135,6 +135,10 @@
     "title": "Races",
     "children": [
       {
+        "title": "Aarakocra",
+        "href": "Worldbuilding/Races/Aarakocra/"
+      },
+      {
         "title": "Aasimar",
         "href": "Worldbuilding/Races/Aasimar/"
       },
@@ -177,6 +181,10 @@
       {
         "title": "Humans",
         "href": "Worldbuilding/Races/Humans/"
+      },
+      {
+        "title": "Kenku",
+        "href": "Worldbuilding/Races/Kenku/"
       },
       {
         "title": "Orcs",
