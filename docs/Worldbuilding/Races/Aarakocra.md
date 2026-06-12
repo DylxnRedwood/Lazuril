@@ -1,5 +1,9 @@
 ## Aarakocra
 
+<div class="state-image-container">
+	<img src="/assets/images/aarakocra.png" alt="Aarakocra" class="state-thumb" onclick="openLightbox('/assets/images/aarakocra.png')">
+</div>
+
 Aarakocra are avian people found mainly in the northern jungles, high canopy regions, cliffs, ridgelines, and storm-watched mountains of [Arkhaven](../Continents/Arkhaven.md).
 
 ## Northern Skies
