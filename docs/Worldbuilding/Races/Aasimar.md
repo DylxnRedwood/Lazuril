@@ -1,5 +1,9 @@
 ## Aasimar
 
+<div class="state-image-container">
+	<img src="/assets/images/aasimar.png" alt="Aasimar" class="state-thumb" onclick="openLightbox('/assets/images/aasimar.png')">
+</div>
+
 Aasimar are rare human-descended bloodlines on [Arkhaven](../Continents/Arkhaven.md), marked by traces of celestial ancestry carried across the sea aboard the first Ark.
 
 ## Arkborne Nobility
