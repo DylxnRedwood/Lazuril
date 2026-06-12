@@ -428,27 +428,87 @@ blockquote.torillic-toc {
 }
 
 @media (max-width: 900px) {
+  body,
+  body.torillic-background {
+    padding-top: var(--header-height) !important;
+    overflow-x: hidden;
+  }
+
   .torillic-header {
     height: auto;
     min-height: var(--header-height);
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    gap: 0.5rem;
+    padding: 0.35rem 0.75rem;
+  }
+
+  .torillic-header h1 {
+    margin: 0;
+    font-size: 1.15rem;
   }
 
   .mobile-nav-toggle,
   .mobile-contents-toggle {
-    display: inline-block;
+    border: 1px solid #d3d6db;
+    background: #fffdf7;
+    color: #202124;
+    font: inherit;
+    cursor: pointer;
+    box-shadow: 0 1px 3px rgba(60, 64, 67, 0.12);
+  }
+
+  .mobile-nav-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem;
+    padding: 0.35rem 0.85rem;
+    border-radius: 0.35rem;
+    font-size: 1rem;
+    white-space: nowrap;
+  }
+
+  .mobile-nav-toggle::after {
+    content: '+';
+  }
+
+  body.mobile-nav-open .mobile-nav-toggle::after {
+    content: '-';
   }
 
   .torillic-header nav {
     display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
     flex-basis: 100%;
     flex-direction: column;
     align-items: stretch;
-    padding-bottom: 0.5rem;
+    gap: 0.15rem;
+    padding: 0.5rem 0.75rem;
+    background: #fff;
+    border-bottom: 1px solid #dfe1e5;
+    box-shadow: 0 3px 8px rgba(60, 64, 67, 0.12);
+    max-height: calc(100vh - var(--header-height));
+    overflow-y: auto;
   }
 
   body.mobile-nav-open .torillic-header nav {
     display: flex;
+  }
+
+  .top-nav-item,
+  .top-nav-button,
+  .top-nav-item > a.top-nav-button {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .top-nav-button,
+  .top-nav-item > a.top-nav-button {
+    padding: 0.45rem 0.55rem;
   }
 
   .top-nav-dropdown,
@@ -457,25 +517,94 @@ blockquote.torillic-toc {
     box-shadow: none;
     border-radius: 0;
     min-width: auto;
+    white-space: normal;
+    border: 0;
+    background: transparent;
   }
 
   .top-nav-subdropdown {
     margin-left: 1rem;
   }
 
+  .top-nav-dropdown .sub-row {
+    min-width: 0;
+    width: 100%;
+  }
+
+  .top-nav-dropdown .sub-button {
+    flex: 0 0 2.5rem;
+  }
+
   #wiki-sidebar {
+    position: static;
+    display: block;
+    width: auto;
+    bottom: auto;
+    overflow: visible;
+    background: transparent;
+    border-right: 0;
+    padding: var(--content-gap) var(--content-gap) 0;
+    box-shadow: none;
+    box-sizing: border-box;
+  }
+
+  .wiki-sidebar-title {
     display: none;
   }
 
-  #wiki-sidebar.mobile-contents-open {
+  .mobile-contents-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0.55rem 1rem;
+    border-radius: 0.35rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    text-align: left;
+  }
+
+  .mobile-contents-toggle::after {
+    content: '+';
+    letter-spacing: 0;
+    font-weight: 700;
+  }
+
+  #wiki-sidebar.mobile-contents-open .mobile-contents-toggle::after {
+    content: '-';
+  }
+
+  #wiki-sidebar .wiki-sidebar-list {
+    display: none;
+  }
+
+  #wiki-sidebar.mobile-contents-open .wiki-sidebar-list {
     display: block;
-    width: min(85vw, var(--sidebar-width));
+    margin-top: var(--content-gap);
+    padding: 0.65rem 1rem;
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    border-radius: 0.35rem;
+    box-shadow: 0 2px 6px rgba(60, 64, 67, 0.1);
   }
 
   main.torillic-page,
-  .torillic-page {
+  .torillic-page,
+  body:not(.mobile-sidebar-hidden) .torillic-page {
     max-width: calc(100% - (var(--content-gap) * 2)) !important;
+    width: auto !important;
     margin: var(--content-gap) !important;
+    margin-left: var(--content-gap) !important;
+    padding: 1rem !important;
+  }
+
+  .torillic-page figure,
+  .torillic-page .image-frame {
+    padding: 0.6rem;
+    margin-left: 0;
+    margin-right: 0;
+    max-width: 100%;
   }
 
   .torillic-page img {
