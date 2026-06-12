@@ -43,6 +43,9 @@
     headerNav.innerHTML = '';
     headerNav.classList.add('wiki-top-nav');
     headerNav.id = 'wiki-top-nav';
+    headerNav.addEventListener('click', event => {
+      event.stopPropagation();
+    });
 
     siteStructure.forEach(section => {
       if (!section.children || section.children.length === 0) return;
@@ -67,6 +70,9 @@
 
       const dropdown = document.createElement('div');
       dropdown.className = 'top-nav-dropdown';
+      dropdown.addEventListener('click', event => {
+        event.stopPropagation();
+      });
       section.children.forEach(child => dropdown.appendChild(createTopNavEntry(child)));
 
       item.appendChild(dropdown);
@@ -106,6 +112,12 @@
 
     const row = document.createElement('div');
     row.className = 'sub-row';
+    row.addEventListener('click', event => {
+      if (event.target.closest('a, button')) return;
+      event.preventDefault();
+      event.stopPropagation();
+      toggleSubmenu(wrapper);
+    });
 
     if (entry.href) {
       const link = document.createElement('a');
@@ -126,11 +138,7 @@
     button.addEventListener('click', event => {
       event.preventDefault();
       event.stopPropagation();
-      const expanded = wrapper.getAttribute('aria-expanded') === 'true';
-      wrapper.parentElement?.querySelectorAll(':scope > .has-sub[aria-expanded="true"]').forEach(openSub => {
-        if (openSub !== wrapper) openSub.setAttribute('aria-expanded', 'false');
-      });
-      wrapper.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+      toggleSubmenu(wrapper);
     });
     row.appendChild(button);
     wrapper.appendChild(row);
@@ -141,6 +149,14 @@
     wrapper.appendChild(subdropdown);
 
     return wrapper;
+  }
+
+  function toggleSubmenu(wrapper) {
+    const expanded = wrapper.getAttribute('aria-expanded') === 'true';
+    wrapper.parentElement?.querySelectorAll(':scope > .has-sub[aria-expanded="true"]').forEach(openSub => {
+      if (openSub !== wrapper) openSub.setAttribute('aria-expanded', 'false');
+    });
+    wrapper.setAttribute('aria-expanded', expanded ? 'false' : 'true');
   }
 
   function removeLegacyToc() {
