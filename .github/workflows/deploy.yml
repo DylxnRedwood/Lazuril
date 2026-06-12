@@ -104,6 +104,10 @@ jobs:
               "assets/stylesheets/wiki-layout.css",
               "assets/javascripts/wiki-nav.js",
           )
+          preload_fonts = (
+              "assets/fonts/Philosopher-Regular.ttf",
+              "assets/fonts/Philosopher-Bold.ttf",
+          )
           generated_toc = re.compile(
               r'\s*(?:<h3\b[^>]*>\s*Contents\s*</h3>\s*)?'
               r'(?:<h4\b[^>]*>.*?</h4>\s*)?'
@@ -122,10 +126,24 @@ jobs:
                   )
               return html
 
+          def preload_font_assets(path, html):
+              if "Philosopher-Regular.ttf" in html:
+                  return html
+
+              links = []
+              for font in preload_fonts:
+                  href = os.path.relpath(Path("site") / font, start=path.parent).replace("\\", "/")
+                  links.append(
+                      f'  <link rel="preload" href="{href}" as="font" type="font/ttf" crossorigin>'
+                  )
+
+              return html.replace("<head>", "<head>\n" + "\n".join(links), 1)
+
           for path in Path("site").rglob("*.html"):
               html = path.read_text(encoding="utf-8")
               html = generated_toc.sub("", html)
               html = version_assets(html)
+              html = preload_font_assets(path, html)
               if 'name="viewport"' in html:
                   path.write_text(html, encoding="utf-8")
                   continue
