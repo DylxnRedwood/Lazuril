@@ -523,7 +523,9 @@ blockquote.torillic-toc {
   }
 
   .top-nav-subdropdown {
+    display: block !important;
     margin-left: 1rem;
+    padding: 0;
   }
 
   .top-nav-dropdown .sub-row {
@@ -532,12 +534,17 @@ blockquote.torillic-toc {
   }
 
   .top-nav-dropdown .sub-button {
-    flex: 0 0 2.5rem;
-    width: 2.5rem;
-    min-height: 2.15rem;
-    padding: 0;
-    box-sizing: border-box;
-    touch-action: manipulation;
+    display: none;
+  }
+
+  .top-nav-dropdown .sub-row > a,
+  .top-nav-dropdown .sub-row > span {
+    width: 100%;
+    padding-right: 1rem;
+  }
+
+  .top-nav-subdropdown a {
+    padding-left: 1rem;
   }
 
   #wiki-sidebar {

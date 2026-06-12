@@ -112,23 +112,6 @@
 
     const row = document.createElement('div');
     row.className = 'sub-row';
-    row.addEventListener('pointerdown', event => {
-      if (event.pointerType === 'mouse' || event.target.closest('a, button')) return;
-      event.preventDefault();
-      event.stopPropagation();
-      toggleSubmenu(wrapper);
-      wrapper.dataset.pointerToggled = 'true';
-    });
-    row.addEventListener('click', event => {
-      if (event.target.closest('a, button')) return;
-      event.preventDefault();
-      event.stopPropagation();
-      if (wrapper.dataset.pointerToggled === 'true') {
-        delete wrapper.dataset.pointerToggled;
-        return;
-      }
-      toggleSubmenu(wrapper);
-    });
 
     if (entry.href) {
       const link = document.createElement('a');
@@ -146,20 +129,9 @@
     button.className = 'sub-button';
     button.textContent = '>';
     button.setAttribute('aria-label', `Open ${entry.title} submenu`);
-    button.addEventListener('pointerdown', event => {
-      if (event.pointerType === 'mouse') return;
-      event.preventDefault();
-      event.stopPropagation();
-      toggleSubmenu(wrapper);
-      wrapper.dataset.pointerToggled = 'true';
-    });
     button.addEventListener('click', event => {
       event.preventDefault();
       event.stopPropagation();
-      if (wrapper.dataset.pointerToggled === 'true') {
-        delete wrapper.dataset.pointerToggled;
-        return;
-      }
       toggleSubmenu(wrapper);
     });
     row.appendChild(button);
