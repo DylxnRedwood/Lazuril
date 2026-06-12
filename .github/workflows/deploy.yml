@@ -88,9 +88,22 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
+          import os
           import re
+          import subprocess
 
           viewport = '<meta name="viewport" content="width=device-width, initial-scale=1">'
+          try:
+              asset_version = subprocess.check_output(
+                  ["git", "rev-parse", "--short=12", "HEAD"],
+                  text=True,
+              ).strip()
+          except Exception:
+              asset_version = os.environ.get("GITHUB_SHA", "local")[:12]
+          versioned_assets = (
+              "assets/stylesheets/wiki-layout.css",
+              "assets/javascripts/wiki-nav.js",
+          )
           generated_toc = re.compile(
               r'\s*(?:<h3\b[^>]*>\s*Contents\s*</h3>\s*)?'
               r'(?:<h4\b[^>]*>.*?</h4>\s*)?'
@@ -98,9 +111,21 @@ jobs:
               re.IGNORECASE | re.DOTALL,
           )
 
+          def version_assets(html):
+              for asset in versioned_assets:
+                  pattern = re.compile(
+                      rf'(?P<prefix>\b(?:href|src)=["\'])(?P<path>[^"\']*{re.escape(asset)})(?:\?v=[^"\']*)?(?P<suffix>["\'])'
+                  )
+                  html = pattern.sub(
+                      lambda match: f'{match.group("prefix")}{match.group("path")}?v={asset_version}{match.group("suffix")}',
+                      html,
+                  )
+              return html
+
           for path in Path("site").rglob("*.html"):
               html = path.read_text(encoding="utf-8")
               html = generated_toc.sub("", html)
+              html = version_assets(html)
               if 'name="viewport"' in html:
                   path.write_text(html, encoding="utf-8")
                   continue

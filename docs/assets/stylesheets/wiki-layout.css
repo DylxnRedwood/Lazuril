@@ -533,6 +533,11 @@ blockquote.torillic-toc {
 
   .top-nav-dropdown .sub-button {
     flex: 0 0 2.5rem;
+    width: 2.5rem;
+    min-height: 2.15rem;
+    padding: 0;
+    box-sizing: border-box;
+    touch-action: manipulation;
   }
 
   #wiki-sidebar {
