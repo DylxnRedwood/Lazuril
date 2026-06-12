@@ -1,5 +1,37 @@
 /* Wikipedia-style layout overrides for the Torillic theme */
 
+@font-face {
+  font-family: 'Philosopher';
+  src: url('../fonts/Philosopher-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Philosopher';
+  src: url('../fonts/Philosopher-Italic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Philosopher';
+  src: url('../fonts/Philosopher-Bold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Philosopher';
+  src: url('../fonts/Philosopher-BoldItalic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}
+
 :root {
   --header-height: 2.25rem;
   --sidebar-width: 280px;
@@ -9,7 +41,7 @@
   --content-offset: calc(var(--sidebar-width) + var(--sidebar-padding-x) + var(--sidebar-border-width) + var(--content-gap));
   color: #202124;
   background-color: #f8f9fa;
-  font-family: 'Alegreya', sans-serif;
+  font-family: 'Philosopher', sans-serif;
 }
 
 html {
@@ -29,6 +61,27 @@ body {
   padding-top: var(--header-height);
   background: #f8f9fa;
   min-height: 100vh;
+  font-family: 'Philosopher', sans-serif;
+}
+
+.torillic-header,
+.torillic-page,
+#wiki-sidebar,
+button,
+input,
+select,
+textarea {
+  font-family: 'Philosopher', sans-serif;
+}
+
+.torillic-header h1,
+.torillic-page h1,
+.torillic-page h2,
+.torillic-page h3,
+.torillic-page h4,
+.torillic-page h5,
+.torillic-page h6 {
+  font-family: 'Philosopher', sans-serif;
 }
 
 html,
