@@ -121,6 +121,15 @@
     ]
   },
   {
+    "title": "Factions",
+    "children": [
+      {
+        "title": "The Lanternwise",
+        "href": "Worldbuilding/Factions/The%20Lanternwise/"
+      }
+    ]
+  },
+  {
     "title": "History",
     "children": [
       {
