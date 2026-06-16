@@ -6,7 +6,7 @@ Different cultures use different historical systems, and some regions reject sta
 
 The major ages are therefore best understood as broad historical frameworks rather than universally agreed periods.
 
-Modern chronology throughout much of Arkhaven is measured from the beginning of [The Green Silence](../Arkhaven%20Lore/The%20Green%20Silence.md), recognised as 1 GS.
+Modern chronology throughout much of Arkhaven is measured from the beginning of [The Green Silence](../Arkhaven%20Lore/The%20Green%20Silence.md), recognised as 1 GS. The current historical period is generally treated as **1200 GS**, roughly 1,200 years after the Green Silence began.
 
 ## Age Before Memory
 
@@ -56,7 +56,7 @@ Much surviving written history begins during the later stages of this era.
 
 ## Era of Silence
 
-The Era of Silence begins with the Green Silence in 1 GS.
+The Era of Silence begins with the Green Silence in 1 GS, roughly 1,200 years before the current era.
 
 The period is characterised by:
 
@@ -69,13 +69,13 @@ The period is characterised by:
 
 Large gaps in surviving history originate from this era.
 
-The later human arrival known as the Arkfall occurred during the early GS period, after the Green Silence had begun and before the War of the False Saints. Arkborne histories record that a single Ark crossed the sea from [Meritus](../Continents/Meritus.md), carrying 1,000 people: mostly humans, with some Aasimar lineages among them.
+The later human arrival known as the Arkfall occurred around 400 GS, roughly 800 years before the current era, after the Green Silence had begun and before the War of the False Saints. Arkborne histories record that a single Ark crossed the sea from [Meritus](../Continents/Meritus.md), carrying 1,000 people: mostly humans, with some Aasimar lineages among them.
 
 ## Age of False Saints
 
 The Age of False Saints refers to the period surrounding [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md).
 
-The conflict is generally believed to have occurred more than a century before the current era.
+The conflict is generally believed to have occurred around 700 GS, roughly 500 years before the current era.
 
 The age was marked by:
 
@@ -88,7 +88,7 @@ The age was marked by:
 
 Human-led churches and states were major accelerants of the crisis, although they were not the only participants.
 
-The age eventually led to the creation of [The Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md).
+The age eventually led to the creation of [The Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md), which was established around 750 GS, roughly 450 years before the current era.
 
 ## Compact Era
 
@@ -103,6 +103,6 @@ The era is characterised by:
 - Wider use of Scriptors
 - Continued political fragmentation
 
-The current historical period is generally recognised as being slightly more than twelve centuries after the beginning of the Green Silence.
+The current historical period is generally recognised as 1200 GS, roughly 1,200 years after the beginning of the Green Silence.
 
 Despite greater stability, many unresolved tensions from earlier ages remain active.
