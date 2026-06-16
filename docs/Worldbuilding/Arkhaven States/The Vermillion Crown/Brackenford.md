@@ -32,12 +32,8 @@ This makes Brackenford useful to the Crown, useful to merchants, and useful to p
 
 **St Maren’s Rest** is a church run by **The Final Journey**. It serves as a place of funeral rites, last prayers, care for the dying, and quiet comfort for those who cannot afford grander temples inside Caer Oryn.
 
-It is also one of the important locations connected to the opening campaign premise.
-
 ### The Black Eel Market
 
 The **Black Eel Market** is a known part of Brackenford’s lower river life. It is not openly advertised, but most locals know where it is, when it appears, and which questions not to ask too loudly.
 
 It deals in cheap goods, river salvage, food, tools, rumours, stolen items, smuggled wares, and things pulled from places people would rather not discuss.
-
-The Black Eel Market is also connected to the campaign premise, but its deeper details should remain with the adventure material rather than this settlement overview.
