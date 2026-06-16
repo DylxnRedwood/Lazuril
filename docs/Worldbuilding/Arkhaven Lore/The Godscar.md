@@ -137,7 +137,7 @@ Not all faiths treat the Godscar as holy in a positive sense. Some consider it d
 
 ## Relationship to The Scriptor Compact
 
-[The Scriptor Compact](./The%20Scriptor%20Compact.md) is closely connected to the study and interpretation of the Godscar.
+[The Scriptor Compact](./The%20Scriptor%20Compact.md), established around 750 GS, roughly 450 years before the current era, is closely connected to the study and interpretation of the Godscar.
 
 Because the Godscar is central to many religious traditions, it is a frequent subject of doctrinal dispute. Churches may claim that the scar supports their theology, reinforces their authority, or validates their sacred history.
 
@@ -147,7 +147,7 @@ An Inquisitor-Scriptor may become involved when claims about the Godscar are lin
 
 ## Relationship to War of the False Saints
 
-The [War of the False Saints](./War%20of%20the%20False%20Saints.md) had a major effect on how religious authorities treat claims associated with the Godscar.
+The [War of the False Saints](./War%20of%20the%20False%20Saints.md), which occurred around 700 GS, roughly 500 years before the current era, had a major effect on how religious authorities treat claims associated with the Godscar.
 
 During that period, false prophets and manufactured saints repeatedly used the Godscar as a source of legitimacy. Some claimed visions connected to the scar. Others presented relics, staged miracles, or announced prophecies concerning its origin or future.
 
@@ -161,4 +161,4 @@ Several sections are likely to contain ruins, abandoned crossings, lost shrines,
 
 Continued discovery of Veinstone deposits and ancient structures within the scar has increased institutional interest in the region.
 
-Further detail on specific peoples, settlements, crossings, shrines, ruins, and political territories along the Godscar can be added as the region is developed.
+Further detail on specific peoples, settlements, crossings, shrines, ruins, and political territories along its edge can be added as the region is developed.
