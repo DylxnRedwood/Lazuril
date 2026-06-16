@@ -35,11 +35,23 @@
       },
       {
         "title": "Dornhal Empire",
-        "href": "Worldbuilding/Arkhaven%20States/Dornhal%20Empire/"
+        "href": "Worldbuilding/Arkhaven%20States/Dornhal%20Empire/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/Dornhal%20Empire/Settlements/"
+          }
+        ]
       },
       {
         "title": "Haskarn Freeholds",
-        "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/"
+        "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/Settlements/"
+          }
+        ]
       },
       {
         "title": "Houses of Bârathanaear",
@@ -57,7 +69,13 @@
       },
       {
         "title": "Kharad Wildlands",
-        "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/"
+        "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/Settlements/"
+          }
+        ]
       },
       {
         "title": "Myruun Clans",
@@ -109,7 +127,13 @@
       },
       {
         "title": "The Throne of Khuldovar",
-        "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/"
+        "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/Settlements/"
+          }
+        ]
       },
       {
         "title": "The Verdant Confederacy",
@@ -169,11 +193,23 @@
       },
       {
         "title": "Windmere Assembly",
-        "href": "Worldbuilding/Arkhaven%20States/Windmere%20Assembly/"
+        "href": "Worldbuilding/Arkhaven%20States/Windmere%20Assembly/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/Windmere%20Assembly/Settlements/"
+          }
+        ]
       },
       {
         "title": "Zul’Akari Clans",
-        "href": "Worldbuilding/Arkhaven%20States/Zul%E2%80%99Akari%20Clans/"
+        "href": "Worldbuilding/Arkhaven%20States/Zul%E2%80%99Akari%20Clans/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/Zul%E2%80%99Akari%20Clans/Settlements/"
+          }
+        ]
       }
     ]
   },
