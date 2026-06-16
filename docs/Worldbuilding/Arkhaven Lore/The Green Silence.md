@@ -4,9 +4,9 @@
   <img src="/assets/images/green-silence.png" alt="The Green Silence" class="state-thumb" onclick="openLightbox('/assets/images/green-silence.png')">
 </div>
 
-**The Green Silence** is the name given to the supernatural disaster that transformed the south-western forests of [Arkhaven](../Continents/Arkhaven.md). It occurred after the [Elves](../Races/Elves.md) had already made their home in the region now known as **The Silent Weald**, but before the modern GS calendar began.
+**The Green Silence** is the name given to the supernatural disaster that transformed the south-western forests of [Arkhaven](../Continents/Arkhaven.md). It began in **1 GS**, roughly 1,200 years before the current era, after the [Elves](../Races/Elves.md) had already made their home in the region now known as **The Silent Weald**.
 
-At some point before **1 GS**, the forests came alive. Trees, roots, moss, vines, and older powers within the land swallowed roads, towns, shrines, archive houses, towers, and entire stretches of elven civilisation. Many communities vanished. Many records were lost. Much of what the elves had built or preserved before the disaster disappeared beneath the living forest.
+In the first recorded year of the Green Silence, the forests came alive. Trees, roots, moss, vines, and older powers within the land swallowed roads, towns, shrines, archive houses, towers, and entire stretches of elven civilisation. Many communities vanished. Many records were lost. Much of what the elves had built or preserved before the disaster disappeared beneath the living forest.
 
 The exact cause of the Green Silence is unknown. No church, ruler, scholar, Scriptor, or surviving elven archive holds an accepted explanation. It was not a conventional war, plague, fire, invasion, or natural overgrowth. It is generally understood as a supernatural event whose cause remains unresolved.
 
@@ -36,7 +36,7 @@ The second refers to the loss of history. Names, records, witnesses, lineages, m
 
 ## The Forest After The Green Silence
 
-The Silent Weald is not dead, empty, or abandoned. Around twelve centuries after the disaster, the elves have reclaimed much of the forested region and rebuilt many of their towns, cities, archive houses, roads, and sacred sites.
+The Silent Weald is not dead, empty, or abandoned. 1,200 years after the disaster, the elves have reclaimed much of the forested region and rebuilt many of their towns, cities, archive houses, roads, and sacred sites.
 
 The reclaimed settlements are not simple restorations of what came before. Many were rebuilt around living trees, buried ruins, old root systems, and surviving fragments of pre-Silence stonework. Some places were deliberately left untouched, either out of reverence, fear, uncertainty, or law.
 
@@ -54,7 +54,7 @@ This history explains the severity of elven record-keeping. Documents are copied
 
 ## Relationship to The Scriptor Compact
 
-[The Scriptor Compact](./The%20Scriptor%20Compact.md) draws part of its authority from the lessons of the Green Silence.
+[The Scriptor Compact](./The%20Scriptor%20Compact.md) draws part of its authority from the lessons of the Green Silence. The Compact was established around 750 GS, roughly 450 years before the current era.
 
 The disaster showed that records, settlements, roads, and even whole cultural histories can vanish. Long-lived witnesses and protected archives became politically and religiously valuable because they offered some defence against future loss.
 
@@ -72,7 +72,7 @@ No accepted connection between the two events exists.
 
 ## Relationship to War of the False Saints
 
-During the [War of the False Saints](./War%20of%20the%20False%20Saints.md), the Green Silence became a source of religious claims, forged relics, and disputed visions.
+During the [War of the False Saints](./War%20of%20the%20False%20Saints.md), roughly 500 years before the current era, the Green Silence became a source of religious claims, forged relics, and disputed visions.
 
 False prophets and disputed saints claimed authority from the forest, from ruins supposedly swallowed by it, or from relics allegedly recovered from hidden sites. The lack of reliable public records made these claims difficult to disprove.
 
