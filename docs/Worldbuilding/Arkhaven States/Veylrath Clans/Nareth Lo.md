@@ -1,6 +1,6 @@
 ## Nareth Lo
 
-Nareth Lo is a Veylrath settlement hidden in wet rainforest east of the **Lo-Varin Pools**, where warm mist, rotten wood, medicinal flowers, and strange fungi make the air heavy even by the standards of the Veylrain Expanse.
+Nareth Lo is a Veylrath settlement further downriver from [Tethvale](./Tethvale.md), hidden in wet rainforest where the **Saelun River** feeds into warmer channels near the **Lo-Varin Pools**.
 
 The settlement is known for medicine, alchemy, fungi, rare jungle plants, antidotes, salves, poultices, and quiet healers who know which leaf saves a life and which one stops it.
 
