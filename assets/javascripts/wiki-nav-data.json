@@ -25,7 +25,13 @@
     "children": [
       {
         "title": "Court of Thalóriel",
-        "href": "Worldbuilding/Arkhaven%20States/Court%20of%20Thal%C3%B3riel/"
+        "href": "Worldbuilding/Arkhaven%20States/Court%20of%20Thal%C3%B3riel/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/Court%20of%20Thal%C3%B3riel/Settlements/"
+          }
+        ]
       },
       {
         "title": "Dornhal Empire",
@@ -37,7 +43,13 @@
       },
       {
         "title": "Houses of Bârathanaear",
-        "href": "Worldbuilding/Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear/"
+        "href": "Worldbuilding/Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear/Settlements/"
+          }
+        ]
       },
       {
         "title": "Jhakur Clans",
@@ -63,15 +75,33 @@
       },
       {
         "title": "The Eldermarch Court",
-        "href": "Worldbuilding/Arkhaven%20States/The%20Eldermarch%20Court/"
+        "href": "Worldbuilding/Arkhaven%20States/The%20Eldermarch%20Court/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Eldermarch%20Court/Settlements/"
+          }
+        ]
       },
       {
         "title": "The Leridian Concord",
-        "href": "Worldbuilding/Arkhaven%20States/The%20Leridian%20Concord/"
+        "href": "Worldbuilding/Arkhaven%20States/The%20Leridian%20Concord/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Leridian%20Concord/Settlements/"
+          }
+        ]
       },
       {
         "title": "The Martarië Crown",
-        "href": "Worldbuilding/Arkhaven%20States/The%20Martari%C3%AB%20Crown/"
+        "href": "Worldbuilding/Arkhaven%20States/The%20Martari%C3%AB%20Crown/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Martari%C3%AB%20Crown/Settlements/"
+          }
+        ]
       },
       {
         "title": "The Skeldic Concord",
@@ -83,7 +113,13 @@
       },
       {
         "title": "The Verdant Confederacy",
-        "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/"
+        "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/Settlements/"
+          }
+        ]
       },
       {
         "title": "The Vermillion Crown",
@@ -101,7 +137,13 @@
       },
       {
         "title": "Tirith I Daur",
-        "href": "Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/"
+        "href": "Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/Settlements/"
+          }
+        ]
       },
       {
         "title": "Veylrath Clans",
