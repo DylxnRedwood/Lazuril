@@ -1,3 +1,5 @@
+# Campaign Premise: The Bindings Must Be Remade
+
 > [!dm] DM-Only Document
 > This file contains major campaign secrets, long-term reveals, player-character links, villain motives, chapter structure, level milestones, and unresolved clarification points. It should remain in `_Private` and should not be surfaced to players.
 
@@ -5,7 +7,7 @@
 
 *The Bindings Must Be Remade* is a long-form [[Arkhaven]] campaign for four player characters beginning at 3rd level and intended to conclude at 20th level. The campaign begins not with a grand public ceremony or a direct confrontation with the powers of [[Caer Oryn]], but with a body washing ashore in the lower district of the city.
 
-The first chapter, **The Man in the River**, is designed to take the party from level 3 to level 4 over two to three sessions. It introduces  [[The Vermillion Crown]] as a hidden experimental power rather than an immediately open enemy, reveals the first failed use of [[Veinstone]] dust on a living subject, and gives the party their first choice between truth, safety, secrecy, and public trust.
+The first chapter, **The Man in the River**, is designed to take the party from level 3 to level 4 over two to three sessions. It introduces [[The Vermillion Crown]] as a hidden experimental power rather than an immediately open enemy, reveals the first failed use of [[Veinstone]] dust on a living subject, and gives the party their first choice between truth, safety, secrecy, and public trust.
 
 The campaign is structured around four linked character premises.
 
@@ -130,7 +132,7 @@ The chapter begins in the lower district of [[Caer Oryn]], but the characters do
 
 ### Nakoa’s Hook
 
-[[Nakoa]] is following a rumour from [[Arden Vale]] or the [[Ninefold Key]]. Someone has been moving black-veinstone dust, Veylrain relic fragments, or gold-marked stone through the river warehouses. The rumour points to a dockside exchange near the old flood steps.
+[[Nakoa]] is following a rumour from [[Arden Rook]] or [[The Veiled Path]]. Someone has been moving black-veinstone dust, Veylrain relic fragments, or gold-marked stone through the river warehouses. The rumour points to a dockside exchange near the old flood steps.
 
 ### Alekthar’s Hook
 
@@ -234,11 +236,11 @@ Lysa is washing linen at the flood steps when the body appears. She panics when 
 
 **Useful information:** She recognises the cloth wrapped around Edrin as military medical binding, not common linen.
 
-### Rennic Vale
+### Rennic Sallow
 
 Halfling man, 50s. Dockside scribe and informal broker.
 
-Rennic records cargo manifests for those who cannot read official forms. He is not a member of the [[Ninefold Key]], but he has passed messages for them. He knows [[Arden Vale]] by reputation.
+Rennic records cargo manifests for those who cannot read official forms. He is not a member of [[The Veiled Path]], but he has passed messages for them. He knows [[Arden Rook]] by reputation.
 
 **Useful information:** Rennic can point Nakoa toward a warehouse where black-veinstone dust was briefly stored.
 
@@ -486,7 +488,7 @@ This preserves the evidence if they took any, but makes them suspicious. They wi
 
 The party attempts to move Edrin, dead or alive, before officials arrive.
 
-This is risky but gives them control over the main clue. Sister Halva, Old Pell, Rennic Vale, or local dockhands may help if the party protected civilians.
+This is risky but gives them control over the main clue. Sister Halva, Old Pell, Rennic Sallow, or local dockhands may help if the party protected civilians.
 
 ### Option 4: Bargain with the Watch
 
@@ -518,7 +520,7 @@ A hidden crawlspace under the ferry tools. Old Pell can move the party across th
 
 ### Rennic’s Ledger Room
 
-A cramped back room stacked with false cargo manifests. Rennic can connect the party to [[Arden Vale]] or the [[Ninefold Key]].
+A cramped back room stacked with false cargo manifests. Rennic can connect the party to [[Arden Rook]] or [[The Veiled Path]].
 
 ### The Moon-in-Water Alcove
 
@@ -538,7 +540,7 @@ The black grit gathers near the Kestrel Drain. At low water, the party can enter
 
 ### Lead C: The Black Eel Market
 
-Rennic Vale or a frightened broker can reveal that black-veinstone dust was moved through the market two nights earlier in sealed spice jars.
+Rennic Sallow or a frightened broker can reveal that black-veinstone dust was moved through the market two nights earlier in sealed spice jars.
 
 ### Lead D: The Chapel of the Last Lantern
 
@@ -629,7 +631,7 @@ Possible rewards:
 
 **Sister Halva’s Support.** Access to the Chapel of the Last Lantern as a safe location.
 
-**Rennic Vale’s Contact.** A route to [[Arden Vale]] or the [[Ninefold Key]].
+**Rennic Sallow’s Contact.** A route to [[Arden Rook]] or [[The Veiled Path]].
 
 **Watch-Corporal Strake’s Doubt.** A city watch contact who may help quietly if given proof.
 
@@ -676,7 +678,7 @@ The Siltward aftermath.
 
 A sealed alchemical warehouse near the river locks.
 
-An illegal relic market connected to the [[Ninefold Key]].
+An illegal relic market connected to [[The Veiled Path]].
 
 A hidden infirmary where failed enhanced soldiers are kept alive.
 
@@ -686,7 +688,7 @@ Arch-Lector Meren Voss, leader of [[The Final Journey]].
 
 Director Yseld Marrow, Crown Scar alchemist.
 
-[[Arden Vale]], Nakoa’s mentor.
+[[Arden Rook]], Nakoa’s mentor.
 
 A Silent Chamber handler using the name Corven Saye.
 
@@ -710,7 +712,7 @@ Advance to level 5 once the party identifies the [[Crown Scar Directorate]] as t
 
 Designed for characters of levels 5 to 6.
 
-The party follows the relic trail back toward the [[Veylrain Expanse]]. Nakoa’s family, [[Arden Vale]]’s past, the [[Ninefold Key]], and the ancient ruins become central.
+The party follows the relic trail back toward the [[Veylrain Expanse]]. Nakoa’s family, [[Arden Rook]]’s past, [[The Veiled Path]], and the ancient ruins become central.
 
 The Crown is searching for more relics like Nakoa’s feline idol. They believe these relics can open sealed Godscar-adjacent sites.
 
@@ -994,15 +996,11 @@ He left Cael Tharos after years of silence because he came to believe [[House Am
 
 He is a tragic antagonist. He does not hate Alekthar. He may still love him. He simply believes Alekthar’s search for truth is too slow and too naive.
 
-### Arden Vale
+### Arden Rook
 
-Former member of the yet-to-be-finalised thieves’ guild and [[Nakoa]]’s mentor. Arden should know more than he admits about relic traffic, old maps, and why certain organisations want artefacts from the [[Veylrain Expanse]].
+Former member of [[The Veiled Path]] and [[Nakoa]]’s mentor. Arden should know more than he admits about relic traffic, old maps, and why certain organisations want artefacts from the [[Veylrain Expanse]].
 
 Arden should not be a quest dispenser only. He is a retired criminal with principles, regrets, and contacts. He may have once stolen from the wrong ruin, sold to the wrong scholar, or helped hide the location of Nakoa’s relic without knowing its importance.
-
-Possible thieves’ guild names: The Velvet Ledger, The Gloam Compact, The Quiet Hand, The Black Lantern Exchange, The Uncounted Coin, The Ninefold Key, The Silk Knives.
-
-Preferred working name: [[The Ninefold Key]].
 
 ### High Curator of Thalóriel
 
@@ -1181,8 +1179,6 @@ The Crown’s public narrative should be flexible. It may accuse foreign agents,
 The public demonstration of enhanced guards should now happen after Chapter 1, not as the initial campaign opening. The players should first see the discarded failure, then later see the polished lie.
 
 ## Items Needing Clarification
-
-Confirm the name of Nakoa’s thieves’ guild. Working name is [[The Ninefold Key]].
 
 Confirm names for Nakoa’s family members.
 
