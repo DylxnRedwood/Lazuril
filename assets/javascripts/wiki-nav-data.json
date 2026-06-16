@@ -98,8 +98,20 @@
         "href": "Worldbuilding/Arkhaven%20States/Republic%20of%20Havenor/",
         "children": [
           {
+            "title": "Keldmere",
+            "href": "Worldbuilding/Arkhaven%20States/Republic%20of%20Havenor/Keldmere/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Republic%20of%20Havenor/Settlements/"
+          },
+          {
+            "title": "Thornwatch",
+            "href": "Worldbuilding/Arkhaven%20States/Republic%20of%20Havenor/Thornwatch/"
+          },
+          {
+            "title": "Valewick",
+            "href": "Worldbuilding/Arkhaven%20States/Republic%20of%20Havenor/Valewick/"
           }
         ]
       },
