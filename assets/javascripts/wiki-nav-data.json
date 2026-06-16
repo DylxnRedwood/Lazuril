@@ -142,8 +142,20 @@
         "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/",
         "children": [
           {
+            "title": "Glasswind Camp",
+            "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/Glasswind%20Camp/"
+          },
+          {
             "title": "Kharuun Well",
             "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/Kharuun%20Well/"
+          },
+          {
+            "title": "Marrow Ford",
+            "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/Marrow%20Ford/"
+          },
+          {
+            "title": "Redstone Rise",
+            "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/Redstone%20Rise/"
           },
           {
             "title": "Settlements",
@@ -420,8 +432,16 @@
         "href": "Worldbuilding/Arkhaven%20States/Zul%E2%80%99Akari%20Clans/",
         "children": [
           {
+            "title": "Akari Tava",
+            "href": "Worldbuilding/Arkhaven%20States/Zul%E2%80%99Akari%20Clans/Akari%20Tava/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Zul%E2%80%99Akari%20Clans/Settlements/"
+          },
+          {
+            "title": "Vash Koru",
+            "href": "Worldbuilding/Arkhaven%20States/Zul%E2%80%99Akari%20Clans/Vash%20Koru/"
           }
         ]
       }
