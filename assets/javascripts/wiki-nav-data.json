@@ -230,8 +230,16 @@
         "href": "Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/",
         "children": [
           {
+            "title": "Eryn Vale",
+            "href": "Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/Eryn%20Vale/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/Settlements/"
+          },
+          {
+            "title": "Tauronel",
+            "href": "Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/Tauronel/"
           }
         ]
       },
