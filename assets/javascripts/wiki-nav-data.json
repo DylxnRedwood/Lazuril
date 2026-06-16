@@ -132,8 +132,16 @@
         "href": "Worldbuilding/Arkhaven%20States/Jhakur%20Clans/",
         "children": [
           {
+            "title": "Gruth Mire",
+            "href": "Worldbuilding/Arkhaven%20States/Jhakur%20Clans/Gruth%20Mire/"
+          },
+          {
             "title": "Korrash Teeth",
             "href": "Worldbuilding/Arkhaven%20States/Jhakur%20Clans/Korrash%20Teeth/"
+          },
+          {
+            "title": "Naga’s Low",
+            "href": "Worldbuilding/Arkhaven%20States/Jhakur%20Clans/Naga%E2%80%99s%20Low/"
           },
           {
             "title": "Settlements",
@@ -306,8 +314,20 @@
         "href": "Worldbuilding/Arkhaven%20States/The%20Skeldic%20Concord/",
         "children": [
           {
+            "title": "Cairnmeet",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Skeldic%20Concord/Cairnmeet/"
+          },
+          {
+            "title": "Frostgale Hold",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Skeldic%20Concord/Frostgale%20Hold/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/The%20Skeldic%20Concord/Settlements/"
+          },
+          {
+            "title": "Varkhuna Stilt",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Skeldic%20Concord/Varkhuna%20Stilt/"
           }
         ]
       },
