@@ -170,6 +170,10 @@
           {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Myruun%20Clans/Settlements/"
+          },
+          {
+            "title": "Shellroot",
+            "href": "Worldbuilding/Arkhaven%20States/Myruun%20Clans/Shellroot/"
           }
         ]
       },
@@ -436,8 +440,16 @@
             "href": "Worldbuilding/Arkhaven%20States/Zul%E2%80%99Akari%20Clans/Akari%20Tava/"
           },
           {
+            "title": "Naza Ruun",
+            "href": "Worldbuilding/Arkhaven%20States/Zul%E2%80%99Akari%20Clans/Naza%20Ruun/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Zul%E2%80%99Akari%20Clans/Settlements/"
+          },
+          {
+            "title": "Sul Marak",
+            "href": "Worldbuilding/Arkhaven%20States/Zul%E2%80%99Akari%20Clans/Sul%20Marak/"
           },
           {
             "title": "Vash Koru",
