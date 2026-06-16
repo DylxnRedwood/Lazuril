@@ -98,6 +98,10 @@
         "href": "Worldbuilding/Arkhaven%20States/Republic%20of%20Havenor/",
         "children": [
           {
+            "title": "Gullspire",
+            "href": "Worldbuilding/Arkhaven%20States/Republic%20of%20Havenor/Gullspire/"
+          },
+          {
             "title": "Keldmere",
             "href": "Worldbuilding/Arkhaven%20States/Republic%20of%20Havenor/Keldmere/"
           },
@@ -130,8 +134,24 @@
         "href": "Worldbuilding/Arkhaven%20States/The%20Leridian%20Concord/",
         "children": [
           {
+            "title": "Caldris Vey",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Leridian%20Concord/Caldris%20Vey/"
+          },
+          {
+            "title": "Eastwatch Mere",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Leridian%20Concord/Eastwatch%20Mere/"
+          },
+          {
+            "title": "Halvern Gate",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Leridian%20Concord/Halvern%20Gate/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/The%20Leridian%20Concord/Settlements/"
+          },
+          {
+            "title": "Veyrglass",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Leridian%20Concord/Veyrglass/"
           }
         ]
       },
@@ -140,8 +160,24 @@
         "href": "Worldbuilding/Arkhaven%20States/The%20Martari%C3%AB%20Crown/",
         "children": [
           {
+            "title": "Lethar Grove",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Martari%C3%AB%20Crown/Lethar%20Grove/"
+          },
+          {
+            "title": "Maerithal",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Martari%C3%AB%20Crown/Maerithal/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/The%20Martari%C3%AB%20Crown/Settlements/"
+          },
+          {
+            "title": "Silvaren Bay",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Martari%C3%AB%20Crown/Silvaren%20Bay/"
+          },
+          {
+            "title": "Vaelornith",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Martari%C3%AB%20Crown/Vaelornith/"
           }
         ]
       },
