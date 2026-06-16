@@ -4,9 +4,9 @@ Humans are the most widespread and politically dominant people on [Arkhaven](../
 
 ## The Arkborne
 
-Human histories describe their arrival by sea aboard a small fleet of arks, expeditionary ships, and survival vessels. These ships carried sailors, settlers, priests, soldiers, craftspeople, scholars, officers, nobles, and families from an older homeland beyond the horizon. The name **Arkhaven** is human in origin: to the earliest settlers, the continent was a haven reached by ark.
+Human histories describe their arrival by sea aboard a single colossal vessel, the Ark. The Ark carried 1,000 people west from [Meritus](../Continents/Meritus.md): mostly humans, including sailors, settlers, priests, soldiers, craftspeople, scholars, officers, nobles, and families, with a smaller number of Aasimar lineages among them. The arrival, later remembered as the Arkfall, occurred in the early GS period: after the Green Silence had begun, over six centuries before the current era, and before the War of the False Saints. The name **Arkhaven** is human in origin: to the earliest settlers, the continent was a haven reached by ark.
 
-The first human landing is most strongly associated with the [Republic of Havenor](../Arkhaven%20States/Republic%20of%20Havenor.md), the oldest human-founded state on the continent. From these early coastal settlements, humans expanded inland over generations, founding farms, towns, churches, roads, ports, and fortified states.
+The first Arkborne landing is most strongly associated with the [Republic of Havenor](../Arkhaven%20States/Republic%20of%20Havenor.md), the oldest human-founded state on the continent. From these early coastal settlements, humans expanded inland over generations, founding farms, towns, churches, roads, ports, and fortified states.
 
 ## Human States
 
