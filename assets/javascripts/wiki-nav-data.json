@@ -80,8 +80,20 @@
         "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/",
         "children": [
           {
+            "title": "Gullfen",
+            "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/Gullfen/"
+          },
+          {
             "title": "Haskarn Cross",
             "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/Haskarn%20Cross/"
+          },
+          {
+            "title": "Northbarrow",
+            "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/Northbarrow/"
+          },
+          {
+            "title": "Reedmere",
+            "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/Reedmere/"
           },
           {
             "title": "Settlements",
@@ -129,6 +141,10 @@
         "title": "Kharad Wildlands",
         "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/",
         "children": [
+          {
+            "title": "Kharuun Well",
+            "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/Kharuun%20Well/"
+          },
           {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/Settlements/"
