@@ -156,8 +156,24 @@
         "href": "Worldbuilding/Arkhaven%20States/The%20Eldermarch%20Court/",
         "children": [
           {
+            "title": "Calen-Êlwen",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Eldermarch%20Court/Calen-%C3%8Alwen/"
+          },
+          {
+            "title": "Elandor March",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Eldermarch%20Court/Elandor%20March/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/The%20Eldermarch%20Court/Settlements/"
+          },
+          {
+            "title": "Thir Aelorn",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Eldermarch%20Court/Thir%20Aelorn/"
+          },
+          {
+            "title": "Vaeranthil",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Eldermarch%20Court/Vaeranthil/"
           }
         ]
       },
@@ -237,6 +253,10 @@
         "title": "The Verdant Confederacy",
         "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/",
         "children": [
+          {
+            "title": "Greenhollow",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/Greenhollow/"
+          },
           {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/Settlements/"
