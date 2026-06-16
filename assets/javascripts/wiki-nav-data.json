@@ -124,6 +124,14 @@
     "title": "Factions",
     "children": [
       {
+        "title": "Black Keel Brotherhood",
+        "href": "Worldbuilding/Factions/Black%20Keel%20Brotherhood/"
+      },
+      {
+        "title": "Free Road Alliance",
+        "href": "Worldbuilding/Factions/Free%20Road%20Alliance/"
+      },
+      {
         "title": "The Ashen Vow",
         "href": "Worldbuilding/Factions/The%20Ashen%20Vow/"
       },
@@ -134,6 +142,18 @@
       {
         "title": "The Lanternwise",
         "href": "Worldbuilding/Factions/The%20Lanternwise/"
+      },
+      {
+        "title": "The Mercurial Blade",
+        "href": "Worldbuilding/Factions/The%20Mercurial%20Blade/"
+      },
+      {
+        "title": "The Veiled Path",
+        "href": "Worldbuilding/Factions/The%20Veiled%20Path/"
+      },
+      {
+        "title": "Veridian Conclave",
+        "href": "Worldbuilding/Factions/Veridian%20Conclave/"
       }
     ]
   },
