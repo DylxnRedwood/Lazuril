@@ -132,8 +132,16 @@
         "href": "Worldbuilding/Arkhaven%20States/Jhakur%20Clans/",
         "children": [
           {
+            "title": "Korrash Teeth",
+            "href": "Worldbuilding/Arkhaven%20States/Jhakur%20Clans/Korrash%20Teeth/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Jhakur%20Clans/Settlements/"
+          },
+          {
+            "title": "Ssar Varkhun",
+            "href": "Worldbuilding/Arkhaven%20States/Jhakur%20Clans/Ssar%20Varkhun/"
           }
         ]
       },
@@ -168,12 +176,24 @@
         "href": "Worldbuilding/Arkhaven%20States/Myruun%20Clans/",
         "children": [
           {
+            "title": "Caltha Cove",
+            "href": "Worldbuilding/Arkhaven%20States/Myruun%20Clans/Caltha%20Cove/"
+          },
+          {
+            "title": "Redcliff Shrine",
+            "href": "Worldbuilding/Arkhaven%20States/Myruun%20Clans/Redcliff%20Shrine/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Myruun%20Clans/Settlements/"
           },
           {
             "title": "Shellroot",
             "href": "Worldbuilding/Arkhaven%20States/Myruun%20Clans/Shellroot/"
+          },
+          {
+            "title": "Varn Tulo",
+            "href": "Worldbuilding/Arkhaven%20States/Myruun%20Clans/Varn%20Tulo/"
           }
         ]
       },
