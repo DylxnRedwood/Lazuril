@@ -1,8 +1,8 @@
 ## Vurokai
 
-Vurokai is a border settlement of the [Veylrath Clans](../Veylrath%20Clans.md), built where the heavy rainforest thins toward savannah, open scrub, and long grass.
+Vurokai is a border settlement of the [Veylrath Clans](../Veylrath%20Clans.md), built south-west of [Tethvale](./Tethvale.md), where the heavy rainforest thins toward savannah, open scrub, and long grass.
 
-It stands near the eastern reaches of the **Mavren Flats**, where jungle trails, hunting paths, and grassland routes meet. The settlement is smaller than Tethvale and less scholarly than [Kelshara](./Kelshara.md), but few places in the Veylrain Expanse are more respected by hunters.
+It stands near the western reaches of the **Mavren Flats**, where jungle trails, hunting paths, and grassland routes meet. The settlement is smaller than Tethvale and less scholarly than [Kelshara](./Kelshara.md), but few places in the Veylrain Expanse are more respected by hunters.
 
 Vurokai is known for trackers, monster slayers, hide-workers, bowyers, scouts, and clan families who spend half their lives reading mud, broken grass, claw marks, feathers, dung, and silence.
 
