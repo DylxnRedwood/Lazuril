@@ -65,7 +65,13 @@
       },
       {
         "title": "Jhakur Clans",
-        "href": "Worldbuilding/Arkhaven%20States/Jhakur%20Clans/"
+        "href": "Worldbuilding/Arkhaven%20States/Jhakur%20Clans/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/Jhakur%20Clans/Settlements/"
+          }
+        ]
       },
       {
         "title": "Kharad Wildlands",
@@ -79,7 +85,13 @@
       },
       {
         "title": "Myruun Clans",
-        "href": "Worldbuilding/Arkhaven%20States/Myruun%20Clans/"
+        "href": "Worldbuilding/Arkhaven%20States/Myruun%20Clans/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/Myruun%20Clans/Settlements/"
+          }
+        ]
       },
       {
         "title": "Republic of Havenor",
@@ -123,7 +135,13 @@
       },
       {
         "title": "The Skeldic Concord",
-        "href": "Worldbuilding/Arkhaven%20States/The%20Skeldic%20Concord/"
+        "href": "Worldbuilding/Arkhaven%20States/The%20Skeldic%20Concord/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Skeldic%20Concord/Settlements/"
+          }
+        ]
       },
       {
         "title": "The Throne of Khuldovar",
