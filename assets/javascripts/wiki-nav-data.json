@@ -74,8 +74,24 @@
         "href": "Worldbuilding/Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear/",
         "children": [
           {
+            "title": "Calenport",
+            "href": "Worldbuilding/Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear/Calenport/"
+          },
+          {
+            "title": "Merith Vale",
+            "href": "Worldbuilding/Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear/Merith%20Vale/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear/Settlements/"
+          },
+          {
+            "title": "Thalanor Rise",
+            "href": "Worldbuilding/Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear/Thalanor%20Rise/"
+          },
+          {
+            "title": "Vaelcairn",
+            "href": "Worldbuilding/Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear/Vaelcairn/"
           }
         ]
       },
