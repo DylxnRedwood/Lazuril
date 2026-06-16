@@ -244,8 +244,20 @@
         "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/",
         "children": [
           {
+            "title": "Barak Vuld",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/Barak%20Vuld/"
+          },
+          {
+            "title": "Khuldovar Hold",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/Khuldovar%20Hold/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/Settlements/"
+          },
+          {
+            "title": "Tharnok Gate",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/Tharnok%20Gate/"
           }
         ]
       },
@@ -254,12 +266,24 @@
         "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/",
         "children": [
           {
+            "title": "Barleymere",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/Barleymere/"
+          },
+          {
+            "title": "Elmsbridge",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/Elmsbridge/"
+          },
+          {
             "title": "Greenhollow",
             "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/Greenhollow/"
           },
           {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/Settlements/"
+          },
+          {
+            "title": "Thalan Grove",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/Thalan%20Grove/"
           }
         ]
       },
