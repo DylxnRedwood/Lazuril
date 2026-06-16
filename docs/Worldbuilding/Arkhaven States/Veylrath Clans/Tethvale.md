@@ -2,9 +2,11 @@
 
 Tethvale is one of the major river-trade settlements of the [Veylrath Clans](../Veylrath%20Clans.md), built high among the rainforest canopy above the broad bends of the **Saelun River**.
 
-It is not a city in the Crown sense. There are no straight roads, stone avenues, or walls pretending the jungle is something to be conquered. Tethvale is made from suspended platforms, rope bridges, carved living branches, watch-nests, woven lifts, river stairs, and timber halls built around trees too old for anyone sensible to cut.
+It is small by human city standards, but large by Tabaxi and Veylrath standards. It is not a city in the Crown sense. There are no straight roads, stone avenues, or walls pretending the jungle is something to be conquered. Tethvale is made from suspended platforms, rope bridges, carved living branches, watch-nests, woven lifts, river stairs, and timber halls built around trees too old for anyone sensible to cut.
 
 The settlement sits where several canopy trails meet the Saelun, making it one of the safest and most important navigation points in the north-eastern Veylrain Expanse.
+
+[Kelshara](./Kelshara.md) lies to the north-east along older canopy paths, [Vurokai](./Vurokai.md) lies south-west where the rainforest thins toward savannah, and [Nareth Lo](./Nareth%20Lo.md) sits further downriver where the Saelun feeds into warmer wetland channels near the Lo-Varin Pools.
 
 ## Canopy and River
 
@@ -16,7 +18,7 @@ The Saelun River is treated as road, boundary, memory, and warning. Its seasonal
 
 ## Trade and Navigation
 
-Tethvale is known for river pilots, map-keepers, ferry families, and traders who understand which waters are safe after heavy rain.
+Tethvale is known for river pilots, map-keepers, ferry families, quiet carriers, and traders who understand which waters are safe after heavy rain.
 
 Foreign merchants are allowed here more often than in deeper Veylrath settlements, though never without guides. They trade metal tools, salt, cloth, medicines, carved goods, preserved fruit, feathers, river pearls, rare woods, and stories worth repeating.
 
