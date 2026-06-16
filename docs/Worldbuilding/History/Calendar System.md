@@ -4,7 +4,7 @@ Most modern systems used in [Arkhaven](../Continents/Arkhaven.md) now measure ti
 
 Under this system, the first recorded year of the Green Silence is recognised as **1 GS**.
 
-The current historical period is generally understood to be slightly more than twelve centuries after the beginning of the event.
+The current historical period is generally treated as **1200 GS**, roughly 1,200 years after the beginning of the event.
 
 ## Overview
 
@@ -61,7 +61,7 @@ Elven observatories and maritime powers maintain some of the most accurate astro
 
 ## Historical Usage
 
-The adoption of the GS system became increasingly widespread after the Age of False Saints and the expansion of institutional record keeping under the Scriptor Compact.
+The adoption of the GS system became increasingly widespread after the [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md), which occurred roughly 500 years before the current era, and the expansion of institutional record keeping under [The Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md), established roughly 450 years before the current era.
 
 Many historians considered the Green Silence a more stable historical reference point than earlier disputed events associated with the Godscar.
 
