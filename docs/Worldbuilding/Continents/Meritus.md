@@ -10,7 +10,7 @@ That belief did not end when the Arkborne reached Arkhaven. Many early human set
 
 The departure from Meritus began with a vision given to a human oracle. The event is remembered in human religious history as **The Angel’s Command**.
 
-According to Arkborne tradition, a celestial messenger appeared to the oracle and warned that Meritus would face a disaster no army could defeat and no crown could command away. The oracle was instructed to build an Ark, gather those who could preserve human civilisation, and sail west across the ocean toward a scarred land beyond the sea.
+According to Arkborne tradition, a celestial messenger appeared to the oracle and warned that Meritus would face a disaster no army could defeat and no crown could command away. The oracle was instructed to build a single Ark, gather those who could preserve human civilisation, and sail west across the ocean toward a scarred land beyond the sea.
 
 The command was specific enough to be obeyed, but vague enough to be disputed for centuries. It did not clearly define who deserved to be saved, whether Meritus would fall completely, or whether those left behind were doomed.
 
@@ -18,7 +18,7 @@ The command was specific enough to be obeyed, but vague enough to be disputed fo
 
 The Aasimar noble houses later claimed that their celestial blood proved they were meant to interpret and fulfil the Angel’s Command.
 
-They took leading roles in funding, organising, guarding, and blessing the Ark. Priests, officers, shipmasters, scholars, craftspeople, soldiers, nobles, and selected families were gathered for the crossing.
+They took leading roles in funding, organising, guarding, and blessing the Ark. Priests, officers, shipmasters, scholars, craftspeople, soldiers, nobles, and selected families were gathered for the crossing as part of the Ark’s 1,000 passengers.
 
 After the landing in Arkhaven, many of the first land grants went to families who had been aboard the Ark, especially those who could claim descent from Ark captains, oracle-guardians, priests, officers, and Aasimar patrons.
 
