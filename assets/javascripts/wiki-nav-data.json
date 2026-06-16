@@ -53,7 +53,13 @@
       },
       {
         "title": "Republic of Havenor",
-        "href": "Worldbuilding/Arkhaven%20States/Republic%20of%20Havenor/"
+        "href": "Worldbuilding/Arkhaven%20States/Republic%20of%20Havenor/",
+        "children": [
+          {
+            "title": "Settlements",
+            "href": "Worldbuilding/Arkhaven%20States/Republic%20of%20Havenor/Settlements/"
+          }
+        ]
       },
       {
         "title": "The Eldermarch Court",
