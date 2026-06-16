@@ -4,11 +4,11 @@
 	<img src="/assets/images/aasimar.png" alt="Aasimar" class="state-thumb" onclick="openLightbox('/assets/images/aasimar.png')">
 </div>
 
-Aasimar are rare human-descended bloodlines on [Arkhaven](../Continents/Arkhaven.md), marked by traces of celestial ancestry carried across the sea aboard the first Ark.
+Aasimar are rare human-descended bloodlines on [Arkhaven](../Continents/Arkhaven.md), marked by traces of celestial ancestry carried across the sea aboard the Ark.
 
 ## Arkborne Nobility
 
-They did not arrive as a separate people or wandering outsiders. The first Aasimar families came among the early human nobility, priests, officers, and chosen settlers who helped establish the first human foothold on the continent.
+They did not arrive as a separate people or wandering outsiders. The first Aasimar families came among the 1,000 passengers of the Ark, alongside early human nobility, priests, officers, and chosen settlers who helped establish the first human foothold on the continent.
 
 Because of their status, many Aasimar bloodlines were granted large plots of land in the new world. For generations, these families benefited from early claims, inherited estates, temple patronage, civic office, and the prestige of being linked to the Ark’s founding families.
 
