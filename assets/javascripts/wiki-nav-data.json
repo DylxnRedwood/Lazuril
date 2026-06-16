@@ -30,6 +30,10 @@
           {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Court%20of%20Thal%C3%B3riel/Settlements/"
+          },
+          {
+            "title": "Thalóriel",
+            "href": "Worldbuilding/Arkhaven%20States/Court%20of%20Thal%C3%B3riel/Thal%C3%B3riel/"
           }
         ]
       },
@@ -234,12 +238,20 @@
             "href": "Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/Eryn%20Vale/"
           },
           {
+            "title": "Moonwell Rise",
+            "href": "Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/Moonwell%20Rise/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/Settlements/"
           },
           {
             "title": "Tauronel",
             "href": "Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/Tauronel/"
+          },
+          {
+            "title": "Thornlark Watch",
+            "href": "Worldbuilding/Arkhaven%20States/Tirith%20I%20Daur/Thornlark%20Watch/"
           }
         ]
       },
