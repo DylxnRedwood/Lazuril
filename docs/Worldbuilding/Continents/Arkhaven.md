@@ -1,9 +1,10 @@
-
 # Arkhaven Regions
 
 Arkhaven is divided into several major geographic regions. These regions are not political entities, but broad environmental zones that shape climate, trade, settlement patterns, warfare, and culture.
 
 Many states occupy portions of multiple regions, while some regions contain several competing powers.
+
+Among the Tabaxi and many older peoples of the continent, Arkhaven is also known as **Ithrava**, meaning **"The Land That Breathes"**. This name predates the arrival of the human **Ark** upon the eastern shores and remains especially common among the peoples of the Veylrain Expanse.
 
 <div class="state-image-container">
   <img src="/assets/images/regions1.png" alt="Regions of Arkhaven" class="state-thumb" onclick="openLightbox('/assets/images/regions1.png')">
@@ -36,6 +37,8 @@ Many states occupy portions of multiple regions, while some regions contain seve
 ## Veylrain Expanse
 
 The Veylrain Expanse dominates the northern coastline of Arkhaven and contains some of the continent's oldest and most dangerous rainforests.
+
+Among the Tabaxi, the Expanse is one of the places where the name **Ithrava**, **"The Land That Breathes"**, remains strongest in everyday speech. To them, the rainforest is not merely a region of Arkhaven, but proof that the land is alive, remembering, and still speaking through rain, root, river, and ruin.
 
 Dense jungle stretches from the western coast to the eastern sea, broken only by rivers, wetlands, lakes, and scattered highlands. Heavy rainfall throughout much of the year creates a humid environment where vegetation rapidly consumes abandoned structures and forgotten roads.
 
@@ -118,27 +121,3 @@ Its wealth derives from agricultural abundance, trade, and access to both inland
 The Veridian March stretches across much of western and central Arkhaven.
 
 The region consists primarily of temperate forests, rolling hills, grasslands, rivers, and settled woodland.
-
-Compared to the harsher northern regions, the Veridian March supports dense populations and numerous long-established states.
-
-The region includes portions of the [The Verdant Confederacy](../Arkhaven%20States/The%20Verdant%20Confederacy.md), [Houses of Bârathanaear](../Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear.md), [The Eldermarch Court](../Arkhaven%20States/The%20Eldermarch%20Court.md), [Tirith I Daur](../Arkhaven%20States/Tirith%20I%20Daur.md), and neighbouring territories.
-
-Many of the oldest roads outside the Godscar pass through the Veridian March, making it one of the most interconnected regions on the continent.
-
----
-
-## The Silent Weald
-
-The Silent Weald occupies much of south-western Arkhaven and is closely associated with the historical event known as [The Green Silence](../Arkhaven%20Lore/The%20Green%20Silence.md).
-
-The region is dominated by ancient forests, overgrown ruins, abandoned roads, hidden settlements, forgotten sacred sites, and stretches of woodland that appear untouched by conventional history.
-
-Many locations within the Weald appear to have been altered by the Green Silence. Roads vanish beneath centuries of growth. Entire settlements survive only in fragmented records. Different maps often disagree on the locations of old towns, shrines, and trade routes.
-
-The region contains large portions of [The Martarië Crown](../Arkhaven%20States/The%20Martari%C3%AB%20Crown.md), [Court of Thalóriel](../Arkhaven%20States/Court%20of%20Thal%C3%B3riel.md), and [Tirith I Daur](../Arkhaven%20States/Tirith%20I%20Daur.md).
-
-To this day, the Silent Weald remains one of the most mysterious regions in Arkhaven. It contains no single ruin, battlefield, or monument that can definitively explain the Green Silence. Instead, evidence is scattered throughout the forests themselves, hidden beneath roots, beneath moss-covered stone, and within contradictory records preserved by different cultures.
-
-The Green Silence is believed to have affected both the physical landscape and the historical record. Roads became impassable. Settlements disappeared beneath forest growth. Shrines became inaccessible. Written records were lost, restricted, damaged, or removed. Regional travel became less predictable, and later generations inherited conflicting accounts of places that once seemed well known.
-
-For many scholars, the Silent Weald remains one of the greatest unanswered mysteries in the history of Lazuril.
