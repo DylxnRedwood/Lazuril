@@ -2,7 +2,7 @@ This page contains a broad historical framework for major recorded events in [La
 
 Exact dates remain disputed in many cases.
 
-Modern chronology throughout Arkhaven generally measures years from the beginning of the Green Silence, recognised as 1 GS.
+Modern chronology throughout Arkhaven generally measures years from the beginning of the Green Silence, recognised as 1 GS. The current historical period is generally treated as **1200 GS**, roughly 1,200 years after the Green Silence began.
 
 ## Age Before Memory
 
@@ -26,32 +26,29 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 
 ## 1 GS — Beginning of the Green Silence
 
-- [The Green Silence](../Arkhaven%20Lore/The%20Green%20Silence.md) begins within the south-western forests
+- [The Green Silence](../Arkhaven%20Lore/The%20Green%20Silence.md) begins within the south-western forests, roughly 1,200 years before the current era
 - Roads, settlements, and records are lost
 - Geographic isolation increases across several regions
 - Historical uncertainty expands throughout Arkhaven
 
-## Early GS Period
+## c. 400 GS — The Arkfall
 
-- Archive preservation becomes increasingly important
-- Scriptor traditions become more formalised
-- Elven archive houses expand influence
-- Several regions adopt new historical dating systems
-- The single Ark from [Meritus](../Continents/Meritus.md) arrives on Arkhaven’s eastern shores during the event later known as the Arkfall, carrying 1,000 people: mostly humans, with some Aasimar lineages among them
+- The single Ark from [Meritus](../Continents/Meritus.md) arrives on Arkhaven’s eastern shores, roughly 800 years before the current era
+- The Ark carries 1,000 people: mostly humans, with some Aasimar lineages among them
 - Early human settlements develop along coasts, river mouths, and sheltered bays
 - Human settlements continue expanding inland from these coastal foundations
 
-## Age of False Saints
+## c. 700 GS — Age of False Saints
 
-- [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md) destabilises major churches more than a century before the current era
+- [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md) destabilises major churches roughly 500 years before the current era
 - False relics and fabricated miracles spread across Arkhaven
 - Human-led churches and states become major accelerants of the crisis
 - Religious conflict intensifies
 - Inquisitorial traditions begin to emerge
 
-## Compact Era
+## c. 750 GS — Compact Era
 
-- [The Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md) expands across major churches
+- [The Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md) is established roughly 450 years before the current era
 - Record standardisation increases
 - Trade networks expand
 - Major infrastructure systems develop
@@ -60,8 +57,10 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 
 ## Current Age
 
-- The current historical period is slightly more than twelve centuries after the beginning of the Green Silence
-- The Arkfall occurred over six centuries before the current era, after the Green Silence began and before the War of the False Saints
+- The current historical period is generally treated as 1200 GS, roughly 1,200 years after the beginning of the Green Silence
+- The Arkfall occurred roughly 800 years before the current era, after the Green Silence began and before the War of the False Saints
+- The War of the False Saints occurred roughly 500 years before the current era
+- The Scriptor Compact was established roughly 450 years before the current era
 - Humans are the most widespread and politically dominant people on Arkhaven, but remain divided between competing states
 - Northern tabaxi communities continue to defend their canopy settlements and trade routes from traffickers and hostile outsiders
 - Political fragmentation remains widespread
