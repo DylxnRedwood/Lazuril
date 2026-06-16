@@ -80,6 +80,10 @@
         "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/",
         "children": [
           {
+            "title": "Haskarn Cross",
+            "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/Haskarn%20Cross/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/Settlements/"
           }
@@ -373,6 +377,22 @@
         "title": "Windmere Assembly",
         "href": "Worldbuilding/Arkhaven%20States/Windmere%20Assembly/",
         "children": [
+          {
+            "title": "Aldmere",
+            "href": "Worldbuilding/Arkhaven%20States/Windmere%20Assembly/Aldmere/"
+          },
+          {
+            "title": "Cogwell",
+            "href": "Worldbuilding/Arkhaven%20States/Windmere%20Assembly/Cogwell/"
+          },
+          {
+            "title": "Millharth",
+            "href": "Worldbuilding/Arkhaven%20States/Windmere%20Assembly/Millharth/"
+          },
+          {
+            "title": "Seabarrow",
+            "href": "Worldbuilding/Arkhaven%20States/Windmere%20Assembly/Seabarrow/"
+          },
           {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Windmere%20Assembly/Settlements/"
