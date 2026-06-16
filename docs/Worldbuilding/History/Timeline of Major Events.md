@@ -23,8 +23,6 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 - Early dwarven holds expand beneath the mountains
 - Elven archive systems grow in influence
 - Tabaxi communities become established across the northern jungle and rainforest territories
-- Human ark-ships arrive during the event later known as the Arkfall
-- Early human settlements develop along coasts, river mouths, and sheltered bays
 
 ## 1 GS — Beginning of the Green Silence
 
@@ -39,7 +37,9 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 - Scriptor traditions become more formalised
 - Elven archive houses expand influence
 - Several regions adopt new historical dating systems
-- Human settlements continue expanding inland from earlier coastal foundations
+- The single Ark from [Meritus](../Continents/Meritus.md) arrives on Arkhaven’s eastern shores during the event later known as the Arkfall, carrying 1,000 people: mostly humans, with some Aasimar lineages among them
+- Early human settlements develop along coasts, river mouths, and sheltered bays
+- Human settlements continue expanding inland from these coastal foundations
 
 ## Age of False Saints
 
@@ -60,7 +60,8 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 
 ## Current Age
 
-- The current historical period is slightly more than five centuries after the beginning of the Green Silence
+- The current historical period is slightly more than twelve centuries after the beginning of the Green Silence
+- The Arkfall occurred over six centuries before the current era, after the Green Silence began and before the War of the False Saints
 - Humans are the most widespread and politically dominant people on Arkhaven, but remain divided between competing states
 - Northern tabaxi communities continue to defend their canopy settlements and trade routes from traffickers and hostile outsiders
 - Political fragmentation remains widespread
