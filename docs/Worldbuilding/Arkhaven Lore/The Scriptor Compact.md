@@ -2,9 +2,11 @@
 
 The **Scriptor Compact** is a formal religious and scholarly institution used across [Arkhaven](../Continents/Arkhaven.md). Under the Compact, most recognised heads of major churches are assigned an elven advisor known as a **Scriptor**.
 
+The Compact was established around 750 GS, roughly 450 years before the current era, following the [War of the False Saints](./War%20of%20the%20False%20Saints.md), which occurred roughly 500 years before the current era.
+
 A Scriptor serves as an archivist, theological advisor, legal scholar, ritual witness, translator, magical examiner, and keeper of institutional memory. Their purpose is to preserve religious continuity across generations and to advise church leaders when history, law, magic, and faith overlap.
 
-Most Scriptors are of [elven heritage](../Races/Elves.md), although not all are full-blooded elves. The office is strongly associated with the archive-cities, scriptoria, and memory traditions of the south-western forests, especially after [The Green Silence](./The%20Green%20Silence.md).
+Most Scriptors are of [elven heritage](../Races/Elves.md), although not all are full-blooded elves. The office is strongly associated with the archive-cities, scriptoria, and memory traditions of the south-western forests, especially after [The Green Silence](./The%20Green%20Silence.md), which began roughly 1,200 years before the current era.
 
 ## Overview
 
@@ -16,7 +18,7 @@ The Compact does not place Scriptors in command of churches. Their authority is 
 
 ## Origins
 
-The Compact developed after the religious crises associated with the [War of the False Saints](./War%20of%20the%20False%20Saints.md).
+The Compact developed around 750 GS, roughly 450 years before the current era, after the religious crises associated with the [War of the False Saints](./War%20of%20the%20False%20Saints.md).
 
 During that period, churches and kingdoms were destabilised by false miracles, staged visions, altered scripture, invented saints, forged relics, and arcane deception presented as divine will. The crisis showed that belief alone was not enough to protect a faith from manipulation.
 
@@ -89,7 +91,7 @@ In a continent shaped by lost histories, false saints, divine wounds, and disput
 
 ## Current Status
 
-The Scriptor Compact remains active across much of Arkhaven.
+The Scriptor Compact remains active across much of Arkhaven, roughly 450 years after its establishment.
 
 Most major churches accept the presence of Scriptors, although the degree of cooperation varies. Some faiths treat them as honoured advisors. Others tolerate them as a requirement of legitimacy. A few distrust them openly while still relying on their authority.
 
