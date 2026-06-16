@@ -16,8 +16,14 @@ Farther from the river, the land rises into wealthier and more controlled distri
 
 Caer Oryn is known for guarded gates, controlled river access, regulated districts, wealthy high wards, and a political culture built around permission, rank, debt, favour, and surveillance.
 
-## Current Status
+## Cadris' Day
 
-Caer Oryn will be developed as the primary capital settlement of The Vermillion Crown.
+**Cadris' Day** is a public holiday held in Caer Oryn to celebrate Lord Protector Maeron Cadris' coup and the beginning of the modern Vermillion Crown.
 
-Further detail should define its river districts, hilltop keep, ruling institutions, noble houses, ministries, markets, religious centres, military presence, and the daily divide between the lower waterfront and the high districts above it.
+Officially, it is remembered as the day divided noble rule ended and the Crown was restored to strength, discipline, and purpose. Streets are dressed in Vermillion banners, civic schools hold public recitations, soldiers parade through the higher districts, and officials give speeches praising order, service, and loyalty to the state.
+
+In the wealthier districts, Cadris' Day is polished and formal. There are military displays, academy processions, public feasts, temple blessings, and carefully arranged celebrations beneath the eyes of the Civic Directorate.
+
+In the lower districts, the holiday is more mixed. Some people celebrate it honestly, especially those whose families prospered under Cadris' rule. Others treat it as a day to keep quiet, hang the right colours, say the right words, and avoid being noticed.
+
+The city calls it a celebration. Plenty of people understand it is also a reminder.
