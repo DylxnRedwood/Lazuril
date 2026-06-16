@@ -38,11 +38,9 @@ Status comes from service, trade success, military record, family reputation, an
 
 The dominant people are humans descended from the first landing on Arkhaven.
 
-Many families trace their ancestry to the original passengers of the Ark, especially the 500 settlers chosen to begin families and establish a permanent future on the continent.
+Many families trace their ancestry to the original 1,000 passengers of the Ark, most of whom were human sailors, settlers, skilled workers, clerics, priests, mages, soldiers, farmers, blacksmiths, carpenters, shipwrights, herbalists, masons, hunters, cooks, scribes, and other essential professions.
 
-The original Ark population included skilled workers, clerics, priests, mages, soldiers, farmers, blacksmiths, carpenters, shipwrights, herbalists, masons, hunters, cooks, scribes, and other essential professions.
-
-Aasimar were among the original arrivals, and several respected Havenori bloodlines still claim celestial ancestry from those first families.
+Aasimar lineages were also among the original arrivals, and several respected Havenori bloodlines still claim celestial ancestry from those first families.
 
 Havenor also contains dwarven residents, half-elves, halflings, gnomes, sailors from other lands, and small communities of foreign merchants.
 
@@ -76,7 +74,7 @@ The republic survives through fishing, timberwork, shipbuilding, lake trade, met
 
 The **Ark** remains in Havenor and is the most important historic site in the republic.
 
-It is a colossal sea-vessel that carried more than 1,000 people to Arkhaven, including 500 settlers chosen and prepared to start families on the new continent.
+It is a colossal sea-vessel that carried 1,000 people to Arkhaven: mostly humans, with some Aasimar lineages among them. Its arrival, later remembered as the Arkfall, occurred in the early GS period, after the Green Silence had begun, over six centuries before the current era, and before the War of the False Saints.
 
 The Ark is no longer used as a ship.
 
