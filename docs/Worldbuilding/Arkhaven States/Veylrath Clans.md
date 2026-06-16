@@ -12,6 +12,14 @@ The Veylrath are not a unified kingdom.
 
 They are a clan-based rainforest society bound by shared laws, river agreements, sacred groves, ruin taboos, and mutual defence against monsters, invaders, and reckless relic-hunters.
 
+## Ithrava
+
+Among the Tabaxi and many older peoples of the continent, Arkhaven is also called **Ithrava**, meaning **"The Land That Breathes"**.
+
+The name is older than the human arrival of the **Ark** and remains especially common in the Veylrain Expanse, where rainforests, rivers, ruins, and living canopy shape almost every part of daily life.
+
+To the Veylrath, Ithrava is not a poetic name. It is a way of understanding the land itself. The jungle breathes through mist, rot, blossom, floodwater, animal movement, and the slow return of roots over old stone.
+
 ## Government
 
 The Veylrath Clans are governed by the **Canopy Concord**, a council of recognised clan elders, river-speakers, pride leaders, huntmasters, shamans, and ruin-wardens.
@@ -52,6 +60,8 @@ Canopy villages use rope bridges, suspended platforms, carved walkways, woven li
 
 River settlements sit along major waterways and serve as trade stops, ferry points, fishing centres, and meeting grounds between clans.
 
+A settlement that seems small by human city standards may still be large, influential, and difficult to manage by Veylrath standards, especially if it controls safe river access or recognised canopy routes.
+
 The rainforest borders savannah and open country in places, allowing hunters, traders, and scouts to move between jungle trails, riverways, and grassland edges.
 
 These borderlands are important for monster tracking, seasonal trade, and contact with neighbouring peoples.
@@ -81,6 +91,16 @@ Ruins are studied, guarded, and respected.
 Looting ruins without permission is a serious crime.
 
 Relics are appraised by trained historians, shamans, and ruin-wardens before being moved, traded, or sealed away.
+
+## Quiet Carriers
+
+The Veylrath distinguish between criminal smuggling and **quiet carrying**.
+
+Quiet carriers are clan-recognised couriers, river runners, and canopy messengers allowed to move goods, letters, medicines, warnings, and sometimes people without announcing their business to every settlement, foreign trader, patrol, or rival family along the route.
+
+This work is legal only while it serves clan law. A quiet carrier may hide cargo from outsiders, hostile powers, toll-takers, or reckless merchants, but not from the Canopy Concord, the relevant clan elders, or ruin-wardens when relics, cursed objects, medicines, or protected goods are involved.
+
+A quiet carrier who conceals a dangerous relic from the proper wardens is no longer a courier. They are a thief.
 
 ## Religion and Magic
 
@@ -133,6 +153,10 @@ The clans distinguish between discovery and theft.
 A relic found with permission and brought before the proper wardens brings honour.
 
 A relic stolen from a protected ruin brings punishment.
+
+Outsiders are not forbidden from studying Veylrath ruins, but they must do so through recognised hosts, scholar agreements, or clan protection. Kelshara is one of the few places where human scholars can work openly under these customs.
+
+The strictest rules are enforced at sealed ruins, sacred groves, burial trees, the Silent Canopy, and sites where the Canopy Concord has placed ruin-wardens.
 
 ## Tensions
 
