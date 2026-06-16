@@ -62,10 +62,6 @@
             "href": "Worldbuilding/Arkhaven%20States/Dornhal%20Empire/Mithrilward/"
           },
           {
-            "title": "Settlements",
-            "href": "Worldbuilding/Arkhaven%20States/Dornhal%20Empire/Settlements/"
-          },
-          {
             "title": "Vorn Thuldren",
             "href": "Worldbuilding/Arkhaven%20States/Dornhal%20Empire/Vorn%20Thuldren/"
           }
@@ -90,10 +86,6 @@
           {
             "title": "Reedmere",
             "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/Reedmere/"
-          },
-          {
-            "title": "Settlements",
-            "href": "Worldbuilding/Arkhaven%20States/Haskarn%20Freeholds/Settlements/"
           }
         ]
       },
@@ -108,10 +100,6 @@
           {
             "title": "Merith Vale",
             "href": "Worldbuilding/Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear/Merith%20Vale/"
-          },
-          {
-            "title": "Settlements",
-            "href": "Worldbuilding/Arkhaven%20States/Houses%20of%20B%C3%A2rathanaear/Settlements/"
           },
           {
             "title": "Thalanor Rise",
@@ -168,10 +156,6 @@
           {
             "title": "Redstone Rise",
             "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/Redstone%20Rise/"
-          },
-          {
-            "title": "Settlements",
-            "href": "Worldbuilding/Arkhaven%20States/Kharad%20Wildlands/Settlements/"
           }
         ]
       },
@@ -234,10 +218,6 @@
           {
             "title": "Elandor March",
             "href": "Worldbuilding/Arkhaven%20States/The%20Eldermarch%20Court/Elandor%20March/"
-          },
-          {
-            "title": "Settlements",
-            "href": "Worldbuilding/Arkhaven%20States/The%20Eldermarch%20Court/Settlements/"
           },
           {
             "title": "Thir Aelorn",
@@ -336,10 +316,6 @@
             "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/Khuldovar%20Hold/"
           },
           {
-            "title": "Settlements",
-            "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/Settlements/"
-          },
-          {
             "title": "Tharnok Gate",
             "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/Tharnok%20Gate/"
           }
@@ -360,10 +336,6 @@
           {
             "title": "Greenhollow",
             "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/Greenhollow/"
-          },
-          {
-            "title": "Settlements",
-            "href": "Worldbuilding/Arkhaven%20States/The%20Verdant%20Confederacy/Settlements/"
           },
           {
             "title": "Thalan Grove",
@@ -448,10 +420,6 @@
           {
             "title": "Seabarrow",
             "href": "Worldbuilding/Arkhaven%20States/Windmere%20Assembly/Seabarrow/"
-          },
-          {
-            "title": "Settlements",
-            "href": "Worldbuilding/Arkhaven%20States/Windmere%20Assembly/Settlements/"
           }
         ]
       },
