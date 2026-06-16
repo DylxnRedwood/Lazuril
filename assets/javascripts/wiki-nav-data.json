@@ -99,7 +99,13 @@
       },
       {
         "title": "Veylrath Clans",
-        "href": "Worldbuilding/Arkhaven%20States/Veylrath%20Clans/"
+        "href": "Worldbuilding/Arkhaven%20States/Veylrath%20Clans/",
+        "children": [
+          {
+            "title": "Tethvale",
+            "href": "Worldbuilding/Arkhaven%20States/Veylrath%20Clans/Tethvale/"
+          }
+        ]
       },
       {
         "title": "Windmere Assembly",
