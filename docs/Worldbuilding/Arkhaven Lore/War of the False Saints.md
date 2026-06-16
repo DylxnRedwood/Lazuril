@@ -2,7 +2,7 @@
 
 The **War of the False Saints** was a period of religious conflict, political instability, and institutional failure in [Arkhaven](../Continents/Arkhaven.md). It was not a single war fought between two clear sides, but a chain of holy wars, church schisms, uprisings, trials, purges, and rival saint cults that spread across much of the human portions of the continent.
 
-The conflict occurred after [The Green Silence](./The%20Green%20Silence.md) and more than a century before the current era. It is one of the main historical causes behind the creation of [The Scriptor Compact](./The%20Scriptor%20Compact.md).
+The conflict occurred around 700 GS, roughly 500 years before the current era. It came after [The Green Silence](./The%20Green%20Silence.md), which began roughly 1,200 years before the current era, and became one of the main historical causes behind the creation of [The Scriptor Compact](./The%20Scriptor%20Compact.md), established around 750 GS, roughly 450 years before the current era.
 
 ## Overview
 
@@ -56,7 +56,7 @@ These reforms did not eliminate religious fraud, but they made it harder for a f
 
 ## Birth of the Scriptor Compact
 
-[The Scriptor Compact](./The%20Scriptor%20Compact.md) was created in response to the failures exposed by the war.
+[The Scriptor Compact](./The%20Scriptor%20Compact.md) was created around 750 GS, roughly 450 years before the current era, in response to the failures exposed by the war.
 
 Its purpose was to place long-lived, highly trained elven advisors beside recognised church heads. These advisors would preserve records, compare doctrine, examine relics, assess disputed miracles, and identify magical or textual manipulation.
 
