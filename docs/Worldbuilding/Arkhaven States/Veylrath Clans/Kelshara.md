@@ -1,6 +1,6 @@
 ## Kelshara
 
-Kelshara is a neighbouring settlement of [Tethvale](./Tethvale.md), set deeper into the rainforest where the canopy thickens and the old stone of the Veylrain Expanse rises through the roots.
+Kelshara is a neighbouring settlement north-east of [Tethvale](./Tethvale.md), set deeper into the rainforest where the canopy thickens and the old stone of the Veylrain Expanse rises through the roots.
 
 It belongs to the [Veylrath Clans](../Veylrath%20Clans.md), but its reputation is less about trade and more about memory. Kelshara is known for historians, relic preservation, artifact restoration, and careful study of the ruins buried beneath the jungle.
 
@@ -20,12 +20,14 @@ The settlement contains shaded workhouses where broken objects are cleaned, boun
 
 Some relics are restored so their purpose can be known. Others are repaired only enough to prove they should never be used again.
 
-Foreign scholars sometimes seek permission to visit Kelshara, but few are welcomed for long. The people here have little patience for those who see ruins as treasure rather than inheritance.
+Kelshara is unusually open to human scholars, provided they work through recognised hosts and respect Veylrath ruin law. A small number of human historians, appraisers, translators, and restoration workers live here under clan protection or long-standing scholar agreements.
 
-## Clan Law
+**Seraya Venn** is one such human scholar, known locally as a careful relic historian whose work with preserved artifacts has earned more trust than most outsiders receive.
 
-Kelshara is strict by Veylrath standards.
+## Scholar Law
 
-Visitors must declare old objects, copied inscriptions, carved stones, shrine fragments, strange coins, sealed jars, and anything taken from a ruin. Failing to do so is treated as theft, even if the object was found far from Kelshara itself.
+Kelshara does not welcome treasure hunters, but it does welcome serious study.
+
+Visitors may copy inscriptions, examine restored objects, consult oral histories, and work beside local appraisers when permission has been granted. What they may not do is remove relics from protected ruins, conceal dangerous finds, or treat old places as abandoned property.
 
 The settlement’s storytellers teach that memory is not harmless. Remembering the wrong thing too proudly can wake what should have stayed buried.
