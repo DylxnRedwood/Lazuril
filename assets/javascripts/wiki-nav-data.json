@@ -54,8 +54,24 @@
         "href": "Worldbuilding/Arkhaven%20States/Dornhal%20Empire/",
         "children": [
           {
+            "title": "Ashgate",
+            "href": "Worldbuilding/Arkhaven%20States/Dornhal%20Empire/Ashgate/"
+          },
+          {
+            "title": "Dornhal",
+            "href": "Worldbuilding/Arkhaven%20States/Dornhal%20Empire/Dornhal/"
+          },
+          {
+            "title": "Mithrilward",
+            "href": "Worldbuilding/Arkhaven%20States/Dornhal%20Empire/Mithrilward/"
+          },
+          {
             "title": "Settlements",
             "href": "Worldbuilding/Arkhaven%20States/Dornhal%20Empire/Settlements/"
+          },
+          {
+            "title": "Vorn Thuldren",
+            "href": "Worldbuilding/Arkhaven%20States/Dornhal%20Empire/Vorn%20Thuldren/"
           }
         ]
       },
@@ -246,6 +262,10 @@
           {
             "title": "Barak Vuld",
             "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/Barak%20Vuld/"
+          },
+          {
+            "title": "Kharund Bridge",
+            "href": "Worldbuilding/Arkhaven%20States/The%20Throne%20of%20Khuldovar/Kharund%20Bridge/"
           },
           {
             "title": "Khuldovar Hold",
