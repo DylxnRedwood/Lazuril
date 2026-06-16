@@ -74,7 +74,7 @@ The republic survives through fishing, timberwork, shipbuilding, lake trade, met
 
 The **Ark** remains in Havenor and is the most important historic site in the republic.
 
-It is a colossal sea-vessel that carried 1,000 people to Arkhaven: mostly humans, with some Aasimar lineages among them. Its arrival, later remembered as the Arkfall, occurred in the early GS period, after the Green Silence had begun, over six centuries before the current era, and before the War of the False Saints.
+It is a colossal sea-vessel that carried 1,000 people to Arkhaven: mostly humans, with some Aasimar lineages among them. Its arrival, later remembered as the Arkfall, occurred around 400 GS, roughly 800 years before the current era, after the Green Silence had begun and before the War of the False Saints.
 
 The Ark is no longer used as a ship.
 
