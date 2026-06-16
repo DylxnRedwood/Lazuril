@@ -62,27 +62,27 @@ Controls maps, land records, censuses, water routes, mineral claims, Godscar stu
 
 The capital city of the Vermillion Crown is **Caer Oryn**.
 
-Caer Oryn is a vast hexagonal city of white stone built around the **River Oryn**, which flows directly through the capital from east to west.
+Caer Oryn sits on the **River Oryn**, which runs through the lower parts of the city before continuing west toward a great lake and the western waters of the Godscar.
 
-The river passes beneath six monumental bridges, continues toward a great lake west of the city, and from there feeds into the western waters of the Godscar.
+The city is walled, but not completely enclosed. Its strongest walls protect the main approaches, higher districts, military roads, and administrative heart of the city, while parts of the riverfront remain more open and heavily watched through quays, chain gates, patrol posts, and customs houses.
+
+The lower districts sit along the water. They contain the docks, warehouses, river labour offices, markets, workshops, modest housing, and much of the daily trade that keeps Caer Oryn alive.
+
+Farther from the river, the land rises toward the main keep. The Lord Protector’s seat stands on a hilltop above the city, removed from the noise of the waterfront and visible from many of the roads leading into Caer Oryn.
 
 Caer Oryn is the political, military, educational, and administrative heart of the Vermillion Crown.
 
-Its hexagonal design is deliberate: six sides, six major approaches, six fortified civic divisions, and six great bridges over the River Oryn.
-
-The city is built in layers from its outer districts to the central seat of power.
-
-Even the outer districts are maintained, patrolled, educated, and economically functional.
+Even the poorer districts are maintained, patrolled, educated, and economically functional.
 
 Caer Oryn has no true peasant quarter within its walls.
 
 Poverty exists, but it is managed through public labour, ration systems, civic schools, temple support, employment registers, and strict urban administration.
 
-The main layers of Caer Oryn are:
+The main areas of Caer Oryn are:
 
-### The Outer Wards
+### The River Districts
 
-Residential districts, workshops, public schools, warehouses, river labour offices, markets, and modest but stable housing.
+Docks, warehouses, river labour offices, markets, workshops, customs houses, taverns, modest housing, and the working life of the city.
 
 ### The Guild Quarter
 
@@ -100,11 +100,9 @@ Armouries, inspection yards, military workshops, controlled foundries, river-cha
 
 Ministerial estates, noble homes, embassies, treasury halls, high courts, theatres, civic temples, and formal gardens.
 
-### The Crownward
+### The Hillkeep
 
-The central seat of power.
-
-It contains the Lord Protector’s palace, the highest courts, national archives, command chambers, state vaults, and the main offices of the Civic Directorate.
+The hilltop seat of power. It contains the Lord Protector’s keep, command chambers, state vaults, national archives, high courts, and the main offices of the Civic Directorate.
 
 ## Dominant Peoples
 
