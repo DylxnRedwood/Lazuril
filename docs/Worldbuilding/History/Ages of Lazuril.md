@@ -50,7 +50,7 @@ Several later kingdoms, churches, trade systems, and settlement patterns trace t
 
 The era also includes the establishment or expansion of several currently recognised peoples within Arkhaven.
 
-This includes early dwarven holds in the mountains, elven archive traditions in the south-western forests, tabaxi communities in the northern rainforests, and the later human arrival known as the Arkfall.
+This includes early dwarven holds in the mountains, elven archive traditions in the south-western forests, and tabaxi communities in the northern rainforests.
 
 Much surviving written history begins during the later stages of this era.
 
@@ -68,6 +68,8 @@ The period is characterised by:
 - Historical uncertainty
 
 Large gaps in surviving history originate from this era.
+
+The later human arrival known as the Arkfall occurred during the early GS period, after the Green Silence had begun and before the War of the False Saints. Arkborne histories record that a single Ark crossed the sea from [Meritus](../Continents/Meritus.md), carrying 1,000 people: mostly humans, with some Aasimar lineages among them.
 
 ## Age of False Saints
 
@@ -101,6 +103,6 @@ The era is characterised by:
 - Wider use of Scriptors
 - Continued political fragmentation
 
-The current historical period is generally recognised as being slightly more than five centuries after the beginning of the Green Silence.
+The current historical period is generally recognised as being slightly more than twelve centuries after the beginning of the Green Silence.
 
 Despite greater stability, many unresolved tensions from earlier ages remain active.
