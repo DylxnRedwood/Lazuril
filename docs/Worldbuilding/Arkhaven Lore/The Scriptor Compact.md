@@ -1,12 +1,12 @@
 ## The Scriptor Compact
 
-The **Scriptor Compact** is a formal religious and scholarly institution used across [Arkhaven](../Continents/Arkhaven.md). Under the Compact, most recognised heads of major churches are assigned an elven advisor known as a **Scriptor**.
+The **Scriptor Compact** is a formal religious and scholarly agreement used across [Arkhaven](../Continents/Arkhaven.md), especially in human-led states, mixed regions, and major churches that recognise post-war religious law. Under the Compact, recognised heads of major churches may be assigned an elven advisor known as a **Scriptor**.
 
 The Compact was established around 750 GS, roughly 450 years before the current era, following the [War of the False Saints](./War%20of%20the%20False%20Saints.md), which occurred roughly 500 years before the current era.
 
 A Scriptor serves as an archivist, theological advisor, legal scholar, ritual witness, translator, magical examiner, and keeper of institutional memory. Their purpose is to preserve religious continuity across generations and to advise church leaders when history, law, magic, and faith overlap.
 
-Most Scriptors are of [elven heritage](../Races/Elves.md), although not all are full-blooded elves. The office is strongly associated with the archive-cities, scriptoria, and memory traditions of the south-western forests, especially after [The Green Silence](./The%20Green%20Silence.md), which began roughly 1,200 years before the current era.
+All recognised Scriptors are full-blooded [elves](../Races/Elves.md). They may come from different elven states, houses, courts, or forest traditions, but they are trained solely through the [Court of Thalóriel](../Arkhaven%20States/Court%20of%20Thal%C3%B3riel.md). Once appointed, they serve as representatives of Thalóriel and the Compact in churches, temples, shrines, archives, and religious courts throughout the continent.
 
 ## Overview
 
@@ -16,15 +16,17 @@ A church with an assigned Scriptor is usually considered part of the recognised 
 
 The Compact does not place Scriptors in command of churches. Their authority is advisory, archival, and procedural. They do not normally appoint priests, dictate worship, or rule congregations. Their influence comes from their training, their records, and their ability to identify when doctrine has changed, been mistranslated, or been manipulated.
 
+The Compact is continent-wide wherever its authority is recognised, but it is especially important in human lands, where shorter lives, younger institutions, and the legacy of the War of the False Saints made stable religious memory politically urgent.
+
 ## Origins
 
 The Compact developed around 750 GS, roughly 450 years before the current era, after the religious crises associated with the [War of the False Saints](./War%20of%20the%20False%20Saints.md).
 
 During that period, churches and kingdoms were destabilised by false miracles, staged visions, altered scripture, invented saints, forged relics, and arcane deception presented as divine will. The crisis showed that belief alone was not enough to protect a faith from manipulation.
 
-After the war, surviving religious authorities accepted the need for trained witnesses who could preserve doctrine, compare records, examine miracles, and detect magical or textual fraud beyond the lifespan of individual priests and rulers.
+After the war, surviving human religious authorities, elven courts, archive houses, and major churches accepted the need for trained witnesses who could preserve doctrine, compare records, examine miracles, and detect magical or textual fraud beyond the lifespan of individual priests and rulers.
 
-The elven houses of the south-western forests were well placed to provide these advisors. Their long lives, surviving archives, and disciplined record-keeping gave them unusual authority in matters of religious history.
+The elven houses of the south-western forests were well placed to provide these advisors. Their long lives, surviving archives, and disciplined record-keeping gave them unusual authority in matters of religious history. The Court of Thalóriel became the sole recognised training centre for Scriptors, even when candidates came from other elven states.
 
 ## Appointment and Training
 
@@ -33,6 +35,8 @@ A Scriptor is usually assigned to a recognised head of church, such as a high pr
 The exact process varies between faiths. Some churches request a Scriptor. Others receive one through long-standing agreements. In some cases, the presence of a Scriptor is expected before a church leader is considered fully legitimate.
 
 Scriptor training usually lasts many decades and may continue for centuries. Candidates study theology, law, languages, history, magical theory, textual comparison, ritual procedure, illusion, enchantment, divination, and the detection of magical fraud.
+
+Only full-blooded elves may be accepted as Scriptor candidates. This restriction is justified by the Compact’s founders through elven lifespan, memory discipline, archival culture, and the expectation that a Scriptor must outlast several generations of the church they serve.
 
 The goal is not to produce a priest. It is to produce a reliable witness.
 
@@ -75,7 +79,7 @@ Public opinion of Scriptors is mixed.
 
 To many worshippers, a Scriptor is a sign that a church is recognised, lawful, and protected against false doctrine. Their presence suggests continuity, legitimacy, and preserved memory.
 
-To others, Scriptors are unsettling. They are usually elven, long-lived, highly educated, and closely tied to church authority while often remaining outside the faith itself.
+To others, Scriptors are unsettling. They are elven, long-lived, highly educated, and closely tied to church authority while often remaining outside the faith itself.
 
 The same qualities that make them valuable also make them difficult to control.
 
@@ -83,7 +87,7 @@ The same qualities that make them valuable also make them difficult to control.
 
 The Scriptor Compact is one of the main structures linking religion, magic, law, and history in Arkhaven.
 
-It affects how churches are recognised, how doctrine is preserved, how miracles are investigated, and how ancient claims are tested. It also gives the elves an important role beyond their own homelands, placing them inside the highest levels of religious authority across the continent.
+It affects how churches are recognised, how doctrine is preserved, how miracles are investigated, and how ancient claims are tested. It also gives the elves an important role beyond their own homelands, placing Court-trained Scriptors inside the highest levels of religious authority across the continent.
 
 The Compact does not eliminate corruption or conflict. It does, however, create a formal system for memory, scrutiny, and continuity.
 
