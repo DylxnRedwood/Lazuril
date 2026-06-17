@@ -4,9 +4,9 @@
 	<img src="/assets/images/myruun-clans.png" alt="Myruun Clans" class="state-thumb" onclick="openLightbox('/assets/images/myruun-clans.png')">
 </div>
 
-The **Myruun Clans** are a jungle-based clan society at the top of the middle section of the [Crimson Chain](../Continents/Arkhaven.md).
+The **Myruun Clans** are a jungle-based clan society of the [Veylrain Expanse](../Continents/Arkhaven.md), positioned at the northern end of the [Crimson Chain](../Continents/Arkhaven.md).
 
-Their territory is bordered by the [Godscar](../Arkhaven%20Lore/The%20Godscar.md) on both sides, the northern sea above them, and [The Vermillion Crown](./The%20Vermillion%20Crown.md) to the south.
+Their territory belongs to the scar-facing edge of the Veylrain Expanse, where rainforest, sea routes, and fractured Godscar waters meet. They are bordered by the [Godscar](../Arkhaven%20Lore/The%20Godscar.md) on both sides, the northern sea above them, and [The Vermillion Crown](./The%20Vermillion%20Crown.md) to the south.
 
 The Myruun are known for tortle-led clan houses, forest gnome craft, scar-adjacent navigation, coastal shrines, and a stable formal relationship with the Vermillion Crown.
 
@@ -48,7 +48,7 @@ Tabaxi exist in Myruun territory, but they are a minor population and do not def
 
 ## Region and Biome
 
-The Myruun Clans occupy the northern end of the central Crimson Chain.
+The Myruun Clans occupy the northern end of the central Crimson Chain while remaining part of the Veylrain Expanse.
 
 The land is narrow, humid, and heavily forested, with the Godscar pressing close on both sides.
 
