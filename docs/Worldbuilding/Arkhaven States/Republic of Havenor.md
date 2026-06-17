@@ -64,7 +64,7 @@ Its slopes contain signal towers, shrines to the first landing, goat farms, and 
 
 The land is habitable but not especially fertile.
 
-Its soil is poorer than the rich lands of the [Veridian March](../Continents/Arkhaven.md) and Windmere Basin regions.
+Its soil is poorer than the rich regional lands of the [Veridian March](../Continents/Arkhaven.md) and the Windmere Basin.
 
 Farming exists, but Havenor cannot rely on grain wealth alone.
 
@@ -158,7 +158,7 @@ The republic officially treats all pirate captains as enemies of the state.
 
 The main internal tension is economic pressure.
 
-Havenor’s land is less fertile than the Veridian March and Windmere Basin, so competition over farms, lake access, fishing rights, and trade contracts is intense.
+Havenor’s land is less fertile than the Veridian March and Windmere Basin regions, so competition over farms, lake access, fishing rights, and trade contracts is intense.
 
 The second major tension is piracy.
 
