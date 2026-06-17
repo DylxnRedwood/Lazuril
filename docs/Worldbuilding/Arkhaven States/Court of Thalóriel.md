@@ -72,11 +72,13 @@ Status is gained through learning, service, and trustworthiness rather than weal
 
 The Court of Thalóriel is the centre of the [Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md).
 
-The Compact was formed with the support of the Martarië Crown after the [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md).
+The Compact was formed as an agreement between human and elven authorities after the [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md), when both sides accepted that churches needed long-lived, trained witnesses to preserve doctrine and prevent another religious catastrophe.
 
 Its purpose is to prevent religious manipulation, false miracle cults, forged doctrines, and uncontrolled saint movements from triggering another continent-wide conflict.
 
-Thalóriel trains and appoints scriptors to serve in churches, temples, shrines, archives, and religious courts across the continent.
+Thalóriel is the sole recognised training centre for scriptors. Candidates may come from different elven states, courts, houses, or forest traditions, but all must be full-blooded elves and all are trained under Thalóriel’s laws, archives, and religious colleges before appointment.
+
+Once appointed, scriptors serve in churches, temples, shrines, archives, and religious courts across the continent, especially in human-led states and mixed regions where the Compact is recognised.
 
 These scriptors work among humans and elves alike.
 
@@ -90,7 +92,7 @@ Their duties include:
 - Maintaining neutral records during disputes
 - Advising rulers on religious law and historical precedent
 
-All scriptors appointed through the Scriptor Compact are elves.
+All scriptors appointed through the Scriptor Compact are full-blooded elves.
 
 They serve in human and elven temples across the continent, but they remain representatives of the Court of Thalóriel and are bound by elven law, elven training, and elven oaths.
 
