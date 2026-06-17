@@ -56,7 +56,7 @@ The Martarië Crown is overwhelmingly elven.
 
 Its population includes high elves, wood elves, noble bloodlines, forest-dwelling clans, city elves, naval houses, mage families, scribes, artists, and ancient retainers sworn to the two royal houses.
 
-The largest non-elven populations are half-elves, gnomes, and a small number of trusted human scholars, diplomats, and religious scriptors connected to the [Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md).
+The largest non-elven populations are half-elves, gnomes, and a small number of trusted human scholars, diplomats, and religious officials connected to the [Scriptor Compact](../Arkhaven%20Lore/The%20Scriptor%20Compact.md).
 
 These outsiders live under strict legal protection but do not hold equal political power to the elven houses.
 
@@ -108,7 +108,7 @@ The Crown does not reject lineage, but it believes lineage must serve civilisati
 
 The Green Silence is the defining catastrophe of Martarië history.
 
-It occurred many centuries ago and devastated elven memory, records, sacred sites, and population centres.
+It began in 1 GS, roughly 1,200 years before the current era, and devastated elven memory, records, sacred sites, and population centres.
 
 The Crown survived, but entire libraries, bloodline registers, religious histories, magical formulae, and royal chronicles were lost.
 
@@ -136,11 +136,13 @@ Religion in the Martarië Crown is formal, educated, and carefully recorded.
 
 The Crown honours the elven gods, especially traditions connected to the Seldarine, ancestral guardians, sacred groves, moon rites, and the divine order of beauty, memory, and magic.
 
-After the [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md), the Crown worked directly with the [Court of Thalóriel](./Court%20of%20Thal%C3%B3riel.md) to prevent future religious catastrophe.
+After the [War of the False Saints](../Arkhaven%20Lore/War%20of%20the%20False%20Saints.md), the Crown worked directly with the [Court of Thalóriel](./Court%20of%20Thal%C3%B3riel.md) and human religious authorities to prevent future religious catastrophe.
 
 Together, they created a system of religious education, recordkeeping, and temple oversight known as the Scriptor Compact.
 
-The Compact binds trained elven scriptors to service in churches, temples, archives, and religious courts across the continent.
+The Compact binds trained full-blooded elven scriptors to service in churches, temples, archives, and religious courts across the continent.
+
+These scriptors may come from different elven states, but they are trained solely in the Court of Thalóriel before being sent out as representatives of that court and the wider Compact.
 
 These scriptors serve humans and elves alike.
 
