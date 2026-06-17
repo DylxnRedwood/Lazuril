@@ -53,7 +53,6 @@ Modern chronology throughout Arkhaven generally measures years from the beginnin
 - Trade networks expand
 - Major infrastructure systems develop
 - Archive Houses gain wider influence
-- Continued exploration of the Deep Roads
 
 ## Current Age
 
