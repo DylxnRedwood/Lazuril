@@ -8,7 +8,7 @@ Aasimar are rare human-descended bloodlines on [Arkhaven](../Continents/Arkhaven
 
 ## Arkborne Nobility
 
-They did not arrive as a separate people or wandering outsiders. The first Aasimar families came among the 1,000 passengers of the Ark, alongside early human nobility, priests, officers, and chosen settlers who helped establish the first human foothold on the continent.
+They did not arrive as a separate people or wandering outsiders. The first Aasimar families came among the 1,000 passengers of the Ark, alongside early human nobility, priests, officers, and chosen settlers who helped establish the first human foothold on the continent. The arrival, later remembered as the Arkfall, occurred around 400 GS, roughly 800 years before the current era.
 
 Because of their status, many Aasimar bloodlines were granted large plots of land in the new world. For generations, these families benefited from early claims, inherited estates, temple patronage, civic office, and the prestige of being linked to the Ark’s founding families.
 
