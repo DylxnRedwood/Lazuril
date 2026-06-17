@@ -19,7 +19,7 @@ The continent is broadly divided into eight major regions:
 | Veylrain Expanse  | Tropical rainforests, wetlands, river deltas, lakes, and coastal jungles |
 | The Thornbelt     | Dry plains, scrublands, badlands, and frontier wilderness                |
 | The Crimson Chain | The fractured waterways and cliffs of the Godscar                        |
-| The Floodlands    | Marshes, lakes, floodplains, and river networks                          |
+| The Floodlands    | Arid basins, shallow rivers, seasonal floodplains, and dry scrublands    |
 | Arkenfall         | Northern forests, lakes, and eastern coastal frontiers                   |
 | Windmere Basin    | Fertile lowlands, river valleys, and southern agricultural heartlands    |
 | Veridian March    | Temperate forests, rolling hills, and mixed woodland realms              |
@@ -42,7 +42,7 @@ Among the Tabaxi, the Expanse is one of the places where the name **Ithrava**, *
 
 Dense jungle stretches from the western coast to the eastern sea, broken only by rivers, wetlands, lakes, and scattered highlands. Heavy rainfall throughout much of the year creates a humid environment where vegetation rapidly consumes abandoned structures and forgotten roads.
 
-The Expanse is home to several powerful tribal societies, including the [Zul’Akari Clans](../Arkhaven%20States/Zul%E2%80%99Akari%20Clans.md), [Myruun Clans](../Arkhaven%20States/Myruun%20Clans.md), [Veylrath Clans](../Arkhaven%20States/Veylrath%20Clans.md), and [Jhakur Clans](../Arkhaven%20States/Jhakur%20Clans.md).
+The Expanse is home to several powerful tribal societies, including the [Zul’Akari Clans](../Arkhaven%20States/Zul%E2%80%99Akari%20Clans.md), [Myruun Clans](../Arkhaven%20States/Myruun%20Clans.md), [Veylrath Clans](../Arkhaven%20States/Veylrath%20Clans.md), and [Jhakur Clans](../Arkhaven%20States/Jhakur%20Clans.md). The Myruun are part of the Veylrain Expanse, but occupy its scar-facing edge at the northern end of the Crimson Chain.
 
 Ancient ruins are common throughout the region. Many remain unexplored, while others are protected by local peoples who regard them as sacred sites rather than sources of treasure.
 
@@ -74,19 +74,21 @@ Large lakes, deep river channels, fortified crossings, cliff roads, and narrow p
 
 The Crimson Chain also contains the greatest concentrations of known veinstone deposits. Most exposed veins have been heavily worked over many centuries. Remaining deposits often appear as faint red crystalline seams with occasional flecks of gold visible within fractured cliff faces.
 
+At its northern end, the Crimson Chain meets the jungles of the Veylrain Expanse, where the Myruun Clans occupy scar-facing rainforest territory between jungle, sea, and fractured waters.
+
 ---
 
 ## The Floodlands
 
 The Floodlands occupy the north-eastern interior of Arkhaven.
 
-Unlike the dense jungles of the Veylrain Expanse, the Floodlands are characterised by vast marsh systems, shallow lakes, seasonal floodplains, and countless interconnected waterways.
+Unlike the dense jungles of the Veylrain Expanse, the Floodlands are primarily arid basin country shaped by shallow rivers, dry scrub, exposed floodplains, pale grasslands, and seasonal watercourses.
 
-Travel is often dictated by water levels rather than roads.
+For much of the year, travel follows dry routes, low ridges, shallow channels, and hard ground. During seasonal floods, the same rivers can overflow violently, turning low areas into temporary marsh, cutting off settlements, and forcing movement onto raised paths or higher ground.
 
 The region is dominated by [The Skeldic Concord](../Arkhaven%20States/The%20Skeldic%20Concord.md), although neighbouring powers maintain influence around its borders.
 
-Fishing, river trade, monster hunting, and wetland agriculture are important aspects of life throughout the region.
+Fishing, seasonal river trade, monster hunting, and floodplain agriculture are important aspects of life throughout the region.
 
 ---
 
