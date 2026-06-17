@@ -40,15 +40,15 @@ Race matters less than oath, usefulness, and loyalty to the sworn peace.
 
 ## Region and Biome
 
-The Skeldic Concord occupies the Floodlands, a vast arid and flood-prone region north of the [Dornhal Empire](./Dornhal%20Empire.md) and [Republic of Havenor](./Republic%20of%20Havenor.md), east of [The Vermillion Crown](./The%20Vermillion%20Crown.md), and south of the [Jhakur Clans](./Jhakur%20Clans.md).
+The Skeldic Concord occupies the Floodlands, a vast arid and seasonally flooded region north of the [Dornhal Empire](./Dornhal%20Empire.md) and [Republic of Havenor](./Republic%20of%20Havenor.md), east of [The Vermillion Crown](./The%20Vermillion%20Crown.md), and south of the [Jhakur Clans](./Jhakur%20Clans.md).
 
-It lies between dry open country, mountain ridges, river basins, and the southern edge of the northern jungle.
+It lies between dry open country, mountain ridges, shallow river basins, and the southern edge of the northern jungle.
 
-The land is mostly arid scrub, pale grassland, rocky basin, exposed hill country, and seasonal floodplain.
+The land is mostly arid scrub, pale grassland, rocky basin, exposed hill country, shallow watercourses, and seasonal floodplain.
 
 Water arrives violently rather than gently.
 
-Dry ground becomes marsh after heavy rains, rivers overrun their banks, and low settlements are lost unless they are built high.
+For much of the year, rivers run shallow or break into narrow channels. During seasonal floods, those same rivers overrun their banks, turn low ground into temporary marsh, and destroy poorly placed roads, camps, and settlements.
 
 The Skeldic build upward rather than outward.
 
@@ -178,7 +178,7 @@ This loss remains one of the central political wounds of the Concord.
 
 The second tension is environmental.
 
-The Floodlands are dry for much of the year but flood violently when the rivers rise.
+The Floodlands are dry for much of the year but flood violently when the shallow rivers rise.
 
 Homes, roads, herds, and stores must be built around this cycle.
 
