@@ -323,6 +323,137 @@ body.torillic-background {
   display: block;
 }
 
+.lazuril-header-search {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  flex: 0 1 18rem;
+  min-width: 12rem;
+}
+
+.lazuril-search-visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.lazuril-header-search-input,
+.lazuril-search-page-input {
+  box-sizing: border-box;
+  width: 100%;
+  border: 1px solid #c8ccd1;
+  border-radius: 0.35rem;
+  background: #fff;
+  color: #202124;
+  font: inherit;
+}
+
+.lazuril-header-search-input {
+  height: 1.8rem;
+  padding: 0.25rem 0.55rem;
+  font-size: 0.95rem;
+}
+
+.lazuril-header-search-button,
+.lazuril-search-page-button {
+  border: 1px solid #aeb4bb;
+  border-radius: 0.35rem;
+  background: #f8f9fa;
+  color: #202124;
+  font: inherit;
+  cursor: pointer;
+}
+
+.lazuril-header-search-button {
+  height: 1.8rem;
+  padding: 0.2rem 0.55rem;
+  font-size: 0.9rem;
+}
+
+.lazuril-header-search-button:hover,
+.lazuril-header-search-button:focus,
+.lazuril-search-page-button:hover,
+.lazuril-search-page-button:focus {
+  background: #eef0f2;
+  outline: none;
+}
+
+.lazuril-search-page {
+  max-width: 58rem;
+}
+
+.lazuril-search-label {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-weight: 700;
+}
+
+.lazuril-search-page-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.lazuril-search-page-input {
+  min-height: 2.35rem;
+  padding: 0.45rem 0.7rem;
+  font-size: 1.05rem;
+}
+
+.lazuril-search-page-button {
+  min-height: 2.35rem;
+  padding: 0.45rem 0.85rem;
+  white-space: nowrap;
+}
+
+.lazuril-search-summary {
+  margin: 1rem 0 0.75rem;
+  color: #4b5563;
+}
+
+.lazuril-search-results {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.lazuril-search-result {
+  padding: 0.9rem 0;
+  border-top: 1px solid #dfe1e5;
+}
+
+.lazuril-search-result-title {
+  display: inline-block;
+  color: #0645ad;
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.lazuril-search-result-title:hover,
+.lazuril-search-result-title:focus {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.lazuril-search-result-meta {
+  margin-top: 0.2rem;
+  color: #5f6368;
+  font-size: 0.9rem;
+}
+
+.lazuril-search-result-snippet {
+  margin: 0.35rem 0 0;
+  color: #202124;
+}
+
 main.torillic-page,
 .torillic-page {
   box-sizing: border-box !important;
@@ -633,6 +764,26 @@ blockquote.torillic-toc {
 
   .top-nav-subdropdown a {
     padding-left: 1rem;
+  }
+
+  .lazuril-header-search {
+    margin-left: 0;
+    width: 100%;
+    min-width: 0;
+    flex: 0 0 auto;
+  }
+
+  .lazuril-header-search-input {
+    height: 2.1rem;
+  }
+
+  .lazuril-header-search-button {
+    height: 2.1rem;
+  }
+
+  .lazuril-search-page-row {
+    align-items: stretch;
+    flex-direction: column;
   }
 
   #wiki-sidebar {

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preload" href="../assets/fonts/Philosopher-Regular.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="preload" href="../assets/fonts/Philosopher-Bold.ttf" as="font" type="font/ttf" crossorigin>
+  <meta charset="utf-8">
+  <title>Search - Lazuril Wiki</title>
+  <link rel="icon" type="image/x-icon" href="../css/logo.png">
+  <link href="../css/torillic.css" rel="stylesheet">
+  <link href="../assets/stylesheets/state-lightbox.css" rel="stylesheet">
+  <link href="../assets/stylesheets/wiki-layout.css?v=e38a24560515" rel="stylesheet">
+  <style>
+    .torillic-background {
+      
+      background-image: url("../assets/images/torillic-bg.jpg");
+      
+    }
+  </style>
+  <script>
+    function toggleSpoiler(element) {
+      // add/remove "hidden" class
+      if (element.classList.contains("hidden")) {
+        element.classList.remove("hidden");
+      } else {
+        element.classList.add("hidden");
+      }
+    }
+  </script>
+</head>
+
+<body class="torillic-background">
+  <header class="torillic-header">
+    <h1>Lazuril Wiki</h1>
+    <nav>
+      
+      
+      <a class="" href="..">Lazuril</a>
+      
+      
+      
+      <a class="current" href="./">Search</a>
+      
+      
+      
+      <a class="" href="..">World Information</a>
+      
+      
+    </nav>
+  </header>
+  <main class="torillic-page">
+    
+    <h1 id="search">Search<a class="headerlink" href="#search" title="Permanent link">&para;</a></h1>
+<div id="lazuril-search-page" class="lazuril-search-page">
+  <form class="lazuril-search-page-form" role="search" action="/Search/" method="get">
+    <label class="lazuril-search-label" for="lazuril-search-page-input">Search Lazuril</label>
+    <div class="lazuril-search-page-row">
+      <input id="lazuril-search-page-input" class="lazuril-search-page-input" type="search" name="q" autocomplete="off">
+      <button class="lazuril-search-page-button" type="submit">Search</button>
+    </div>
+  </form>
+  <p id="lazuril-search-summary" class="lazuril-search-summary"></p>
+  <ol id="lazuril-search-results" class="lazuril-search-results"></ol>
+</div>
+
+    
+    
+    
+    
+    
+  </main>
+  <script src="../assets/javascripts/state-lightbox.js"></script>
+  <script src="../assets/javascripts/wiki-nav.js?v=e38a24560515"></script>
+  <script src="../assets/javascripts/lazuril-search.js?v=e38a24560515"></script>
+  <script src="../search/main.js"></script>
+</body>
+
+</html>
