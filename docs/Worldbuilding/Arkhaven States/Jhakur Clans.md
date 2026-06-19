@@ -32,7 +32,7 @@ This shared resistance is the closest thing the Jhakur have to a national identi
 
 The Jhakur Clans are mainly made up of reptilian and amphibious peoples.
 
-Their largest groups are lizardfolk, yuan-ti purebloods, tortles, kobolds, dragonborn, grung, and saurian beast-kin native to the northern jungle and lake systems.
+Their largest groups are lizardfolk, yuan-ti purebloods, tortles, kobolds, grung, and saurian beast-kin native to the northern jungle and lake systems.
 
 There are also smaller numbers of naga-blooded cult families, marsh-dwelling bullywug communities, and serpent-touched hermits living around old ruins and forbidden pools.
 
@@ -94,9 +94,9 @@ The Jhakur worship reptilian gods, serpent powers, swamp spirits, dragon ancesto
 
 Religion is local and clan-specific.
 
-Some clans honour crocodile spirits, some worship serpent patrons, some follow dragon-blooded ancestor cults, and others serve old ruin gods tied to water, hunger, poison, or survival.
+Some clans honour crocodile spirits, some worship serpent patrons, some follow old saurian ancestor cults, and others serve old ruin gods tied to water, hunger, poison, or survival.
 
-Magic is common among shamans, yuan-ti bloodlines, dragonborn priests, kobold trap-seers, grung poison-speakers, and ruin-tenders.
+Magic is common among shamans, yuan-ti bloodlines, kobold trap-seers, grung poison-speakers, serpent-priests, and ruin-tenders.
 
 Jhakur magic is used for venom rites, camouflage, water breathing, beast control, curses, healing, ambush preparation, monster warding, and the protection of nesting sites.
 
