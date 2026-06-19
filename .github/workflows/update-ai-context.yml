@@ -1,0 +1,41 @@
+name: Update AI context
+
+on:
+  push:
+    branches:
+      - gh-pages
+      - main
+      - master
+    paths:
+      - 'Worldbuilding/**'
+      - 'assets/**'
+      - 'css/**'
+      - 'search/**'
+      - 'index.html'
+      - 'sitemap.xml'
+      - 'scripts/update-ai-context.ps1'
+      - '.github/workflows/update-ai-context.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-ai-context:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Regenerate AI context
+        shell: pwsh
+        run: ./scripts/update-ai-context.ps1
+
+      - name: Commit updated AI context
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update AI context"
+          file_pattern: AI_CONTEXT.md
