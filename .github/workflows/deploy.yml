@@ -103,6 +103,7 @@ jobs:
           versioned_assets = (
               "assets/stylesheets/wiki-layout.css",
               "assets/javascripts/wiki-nav.js",
+              "assets/javascripts/lazuril-search.js",
           )
           preload_fonts = (
               "assets/fonts/Philosopher-Regular.ttf",
