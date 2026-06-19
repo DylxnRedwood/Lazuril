@@ -16,7 +16,7 @@ Its people never pushed as far into the continent as the settlers who later conq
 
 Havenor is ruled by the **Harbour Republic**, a civic system built around elected councils, guild representation, and settlement charters.
 
-The highest governing body is the **Mariner’s Senate**, based in the capital city near the Ark.
+The highest governing body is the **Mariner’s Senate**, based in [New Meritus](./Republic%20of%20Havenor/New%20Meritus.md), the capital city built around the Ark and Founding Quay.
 
 It is made up of elected representatives from coastal towns, lake settlements, military districts, temple houses, trade guilds, farming communes, and old Ark-descended families.
 
@@ -78,7 +78,7 @@ It is a colossal sea-vessel that carried 1,000 people to Arkhaven: mostly humans
 
 The Ark is no longer used as a ship.
 
-It rests in a protected harbour-dock known as **Founding Quay**, where it has been reinforced, preserved, and partially converted into a civic shrine, museum, archive, and meeting hall.
+It rests at **Founding Quay** in [New Meritus](./Republic%20of%20Havenor/New%20Meritus.md), where it has been reinforced, preserved, and partially converted into a civic shrine, museum, archive, and meeting hall.
 
 The Ark contains:
 
@@ -108,7 +108,7 @@ Shipwrights, sailors, blacksmiths, fishers, farmers, clerics, healers, builders,
 
 Public festivals are tied to the sea, the Ark, and the founding families.
 
-The most important civic holiday is **Landfall Day**, when the republic honours the arrival of the Ark, reads names from the First Manifest, lights harbour lanterns, and launches small wooden boats into the bay.
+The most important civic holiday is **Landfall Day**, when the republic honours the arrival of the Ark in New Meritus, reads names from the First Manifest, lights harbour lanterns, and launches small wooden boats into the bay.
 
 Havenori towns are lively and rougher than the polished cities of older states.
 
