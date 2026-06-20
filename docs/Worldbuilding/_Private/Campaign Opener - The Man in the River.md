@@ -59,6 +59,8 @@ Alekthar arrives to protect what little remains of his family’s name, to find 
 
 Meren Voss treats this as a useful errand for an unwanted elven inquirer: send Teclis to the wet edge of the capital, let him inspect a poor chapel’s anxieties, and keep him away from higher doctrinal matters for a few days.
 
+Teclis is therefore the most local of the player characters in institutional terms. He may not be from Morfael itself, but he has a current posting in Caer Oryn, authority within The Final Journey’s wider structure, and enough standing to request access to chapel records, speak to Sister Halva, question witnesses, and recognise when a small-town matter is being buried by larger powers.
+
 Teclis quickly realises the matter is not beneath him.
 
 ### [[Cassian Clarke]]
@@ -69,34 +71,55 @@ Cassian has been helping [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]] and 
 
 He is not present because of a dramatic sky-omen. He is present because his faith sends him to people at thresholds: roads, rivers, grief, distance, and uncertainty. When Edrin washes ashore, Cassian recognises a man trapped at exactly such a threshold, neither properly dead, properly alive, nor safely released.
 
-## Who Knows Whom Before Session One
+## How the Characters Are Introduced
 
-The characters should have a light, uneven connection before the first conflict. They are not lifelong friends, but they are not total strangers standing coincidentally in the same street.
+Use this structure if the players want a believable reason to already be in the same place when the session begins.
 
-### The Night Before
+### The Connection Chain
 
-The night before the campaign begins, [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]] gathers the characters at the [[Morfael - NPCs and Sites#Chapel of the Last Lantern|Chapel of the Last Lantern]]. The chapel is closed, the river bell has stopped, and three things sit on the table: a strip of blood-stiffened medical binding, a sealed pinch of black grit, and a copied fragment of a cargo manifest bearing an Amakiir-linked mineral mark.
+**Sister Halva Dorn** is the local moral centre. She knows Morfael, the dead, the poor, the missing, and the families who will not speak to the watch. She does not have enough authority to investigate alone, so she reaches outward.
 
-This is the first time all four characters are in the same room.
+**Teclis Nimule Sílorion** is the institutional bridge. Because he is posted to [[The Final Journey]] in [[Caer Oryn]], Sister Halva’s concerns are passed up through church channels and land, inconveniently, on his desk. [[Arch-Lector Meren Voss]] does not value Teclis’ presence and sees this as a useful way to send him away from the main temple, but Teclis treats the matter seriously once he sees the evidence.
 
-### Existing Connections
+**Cassian Clarke** is the witness of faith and the common people. Sister Halva and [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]] already know him because he has been helping families of missing riverfolk, blessing travellers, reading or carrying letters, and listening to people who do not trust Crown officials. Teclis interviews him because Cassian can describe local fears without exaggerating them into false miracle or heresy.
 
-[[Teclis Nimule Sílorion]] knows of [[Alekthar Amakiir]] through restricted church or scriptor records concerning [[House Amakiir]], the Night of Golden Tears, and politically sensitive Aasimar bloodlines. He may not know the full truth, but he knows enough to treat Alekthar’s name as significant.
+**Alekthar Amakiir** is brought in through the manifest. [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]] copied a cargo fragment bearing an Amakiir-linked mineral mark before the original vanished. Teclis recognises the name as sensitive from restricted records concerning [[House Amakiir]], the Night of Golden Tears, and Aasimar bloodlines. Sister Halva sends word discreetly, or Teclis arranges for Alekthar to be notified through formal channels.
 
-Teclis has also spoken with [[Cassian Clarke]] during the Last Lantern Inquiry. Cassian is a useful witness because he has been working among the families, ferrymen, and shrine-keepers affected by the recent disappearances. Unlike many locals, he can describe what people believe without turning it into panic or theatre.
+**Nakoa** is brought in through the undercurrent. [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]] has heard that black-veinstone dust and Veylrain fragments are moving through Morfael. Rennic does not trust the church, the watch, or the Crown, but he does trust the shape of the danger enough to bring Nakoa near the inquiry. Nakoa may arrive late, be introduced by Rennic at the chapel door, or already be watching the Black Eel Market when the others come looking.
 
-Cassian and Alekthar may have spoken briefly at the chapel the night before. Cassian recognises grief and duty in Alekthar. Alekthar recognises that Cassian is not a political actor or Crown agent, but a man who came to Morfael because people there were suffering.
+### Suggested First Meeting
 
-[[Nakoa]] knows [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]] by contact rather than friendship. Rennic introduces him as someone who understands relic traffic and dangerous old things. Nakoa does not know the others well before the opening, but he has seen enough in the chapel meeting to know they are not ordinary locals.
+The night before the opening scene, Sister Halva gathers them in the back room of the Chapel of the Last Lantern. Teclis is already there, officially representing the inquiry. Cassian is there because he has been helping the chapel and shrine. Alekthar arrives after receiving word about the Amakiir-linked manifest. Rennic brings Nakoa last, reluctantly, because the black dust and Veylrain fragments sound like Nakoa’s kind of trouble.
+
+On the table are three pieces of evidence:
+
+- A strip of blood-stiffened medical binding.
+- A sealed pinch of black grit.
+- A copied fragment of a cargo manifest bearing an Amakiir-linked mineral mark.
+
+This gives everyone a reason to speak before the first fight. They can distrust each other, question each other, or agree only to inspect the flood steps in the morning. That is enough. They do not need to become friends before the body appears.
+
+### Who Might Already Know Whom
+
+Teclis may already know Alekthar by reputation or from restricted church records, even if they have never had a friendly conversation. To Teclis, Alekthar is not just another travelling cleric. He is tied to a politically sensitive Aasimar house, a collapsed noble line, and a tragedy that official records may not fully explain.
+
+Alekthar may know Teclis as the elven inquirer attached to The Final Journey, or at least as the person currently holding the Morfael evidence. Their first interaction can be formal, strained, and cautious. Alekthar may not appreciate an outsider handling anything linked to his family.
+
+Cassian may know Teclis from the last few days of inquiry work. Teclis has questioned him about missing riverfolk, local shrine practices, and whether the chapel reports sound like false miracle, hysteria, or something else. Cassian may not like being treated as a witness, but he can recognise that Teclis is competent.
+
+Cassian may know Alekthar only from the chapel meeting, but their connection can start through grief, faith, and service. Cassian sees a man carrying family ruin and duty. Alekthar sees a missionary whose concern for Morfael seems sincere rather than political.
+
+Nakoa probably knows none of them well. His connection is through Rennic Sallow, Arden Rook, and The Veiled Path. He enters the group as the least trusted and most useful outsider: someone who understands relic traffic, hidden movement, and dangerous old stone.
 
 ### Starting Dynamic
 
-- Teclis knows Cassian as a grounded religious witness and Alekthar as a sensitive name from old records.
-- Cassian knows Teclis from the inquiry and has spoken briefly with Alekthar through Sister Halva.
-- Alekthar knows Teclis as an official inquirer and Cassian as a sincere missionary present for the people of Morfael.
-- Nakoa knows Rennic Sallow and arrives through [[The Veiled Path]] or Arden Rook’s rumour network, but is only lightly acquainted with the others.
+- Teclis is the local institutional anchor and the reason the inquiry has permission to exist at all.
+- Sister Halva is the local moral anchor and the reason the inquiry is not simply swallowed by doctrine.
+- Cassian is the common-faith connection to Morfael’s people.
+- Alekthar is the personal-stakes connection to the manifest and old mineral authority.
+- Nakoa is the underworld and relic-traffic connection.
 
-This gives the party enough connection to act together, but enough uncertainty for tension.
+This makes the group feel deliberately assembled, but not conveniently unified.
 
 ## Morfael at the Start of Play
 
