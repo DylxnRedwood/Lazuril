@@ -9,7 +9,7 @@ The campaign opens in [[Morfael]], a riverside town pressed against the outer ed
 
 The party are not summoned before kings, invited to a heroic council, or placed inside a public Crown demonstration. They begin as witnesses to something the Crown failed to bury.
 
-A failed experimental soldier, [[Edrin Vaal]], washes ashore at [[Morfael - NPCs and Sites#The Flood Steps|the Flood Steps]]. He has been used in an early [[Veinstone]] dust trial by the [[Crown Scar Directorate]]. When [[Nakoa]] comes close, the gold-scripted boundary magic inside him resonates with the powdered veinstone forced into Edrin’s body. Edrin wakes in terror, raves about chains, stone, release, and the bindings, then threatens the people nearby.
+A failed experimental soldier, [[Edrin Vaal]], washes ashore at [[Morfael - NPCs and Sites#The Flood Steps|the Flood Steps]]. He has been used in an early [[Veinstone]] dust trial by the [[Crown Scar Directorate]]. The dust in his body is rust-red, fine as brick powder, and shot through with tiny gold flecks. When [[Nakoa]] comes close, the gold-scripted boundary magic inside him resonates with the red veinstone dust forced into Edrin’s body. Edrin wakes in terror, raves about chains, stone, release, and the bindings, then threatens the people nearby.
 
 The party must stop him, protect civilians, decide what evidence to keep, and choose whether to stay, flee, hide the body, or face the authorities.
 
@@ -22,7 +22,7 @@ This chapter should do the following:
 - Bring the player characters together naturally without requiring them to be old friends.
 - Establish [[Morfael]] as a living lower-town attached to [[Caer Oryn]].
 - Introduce [[The Vermillion Crown]] as a secretive experimental power.
-- Reveal that [[Veinstone]] is being forced into living bodies.
+- Reveal that red [[Veinstone]] dust is being forced into living bodies.
 - Give [[Nakoa]], [[Alekthar Amakiir]], [[Teclis Nimule Sílorion]], and [[Cassian Clarke]] each a personal reason to care.
 - Present the first campaign choice: truth, safety, secrecy, or public trust.
 
@@ -30,7 +30,7 @@ This chapter should do the following:
 
 The immediate premise is known locally as **the Last Lantern Inquiry**.
 
-Over the past few days, strange things have been reported in Morfael. A half-dead man was seen near the flood steps and vanished before the watch arrived. Black grit appeared near the [[Morfael - NPCs and Sites#The Kestrel Drain|Kestrel Drain]]. A dockhand claimed he saw someone crawling from the river with gold light beneath his skin. A minor relic broker disappeared after asking questions about black stone dust. At [[Morfael - NPCs and Sites#Vellum House|Vellum House]], an old cargo mark tied to [[House Amakiir]] was found on a false mineral manifest that should not exist.
+Over the past few days, strange things have been reported in Morfael. A half-dead man was seen near the flood steps and vanished before the watch arrived. Red grit appeared near the [[Morfael - NPCs and Sites#The Kestrel Drain|Kestrel Drain]], staining the water like powdered rust before sinking between the stones. A dockhand claimed he saw someone crawling from the river with gold light beneath his skin. A minor relic broker disappeared after asking questions about red stone dust. At [[Morfael - NPCs and Sites#Vellum House|Vellum House]], an old cargo mark tied to [[House Amakiir]] was found on a false mineral manifest that should not exist.
 
 [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]] of the [[Morfael - NPCs and Sites#Chapel of the Last Lantern|Chapel of the Last Lantern]] has quietly gathered people with different kinds of knowledge before the city watch or Crown officials can seize the matter.
 
@@ -41,9 +41,11 @@ Over the past few days, strange things have been reported in Morfael. A half-dea
 
 ### [[Nakoa]]
 
-[[Nakoa]] is in Morfael because [[Arden Rook]] or [[The Veiled Path]] has learned that black-veinstone dust, Veylrain relic fragments, or gold-marked stone have been moved through the river warehouses. The lead points toward [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], a dockside broker-scribe who sometimes passes messages through hidden channels.
+[[Nakoa]] is in Morfael because [[Arden Rook]] or [[The Veiled Path]] has learned that red veinstone dust, Veylrain relic fragments, and gold-marked stone have been moved through the river warehouses. The lead points toward [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], a dockside broker-scribe who sometimes passes messages through hidden channels.
 
-Nakoa is not initially there to help the church or investigate the dead. He is following relic traffic. The moment Edrin reacts to him, that changes.
+Nakoa is not just following a rumour. Rennic has obtained a tiny smear of red dust taken from a cracked spice jar near the Black Eel Market, and the markwork on Nakoa’s relic-touched magic prickles when he is near it. It is not the same as his black-and-gold feline relic, but it answers to the same family of old binding logic. That makes Nakoa more than a thief or outsider in the opening. He is the only person present whose body already reacts to the evidence before Edrin appears.
+
+If the party inspect the Flood Steps before the body surfaces, Nakoa can notice that the red grit is not scattered like ordinary cargo spill. It forms thin lines in cracks between stones, almost like something dragged itself toward the river while bleeding dust.
 
 ### [[Alekthar Amakiir]]
 
@@ -69,7 +71,11 @@ Teclis quickly realises the matter is not beneath him.
 
 Cassian has been helping [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]] and [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]] with rites for missing riverfolk, letters home, blessings for travellers, and quiet counselling for families who cannot afford the attention of the upper city’s temples. He may also be using Morfael as a stop on his missionary route toward [[Caer Oryn]], writing one of his regular letters home from the chapel or shrine.
 
+Cassian is also involved before Edrin appears because several missing names on Eira Lorne’s list are not criminals, soldiers, or smugglers. They are ordinary river workers, grieving spouses, and travelling labourers who vanished after being seen near Crown-controlled crossings. Cassian has promised at least one family that he will ask questions the watch has ignored.
+
 He is not present because of a dramatic sky-omen. He is present because his faith sends him to people at thresholds: roads, rivers, grief, distance, and uncertainty. When Edrin washes ashore, Cassian recognises a man trapped at exactly such a threshold, neither properly dead, properly alive, nor safely released.
+
+If the party inspect the scene before the body surfaces, Cassian can identify which witnesses are frightened rather than dishonest, calm a panicking relative of one missing river worker, or realise that the way locals speak about the disappearances resembles grief before burial rather than superstition.
 
 ## How the Characters Are Introduced
 
@@ -81,23 +87,26 @@ Use this structure if the players want a believable reason to already be in the 
 
 **Teclis Nimule Sílorion** is the institutional bridge. Because he is posted to [[The Final Journey]] in [[Caer Oryn]], Sister Halva’s concerns are passed up through church channels and land, inconveniently, on his desk. [[Arch-Lector Meren Voss]] does not value Teclis’ presence and sees this as a useful way to send him away from the main temple, but Teclis treats the matter seriously once he sees the evidence.
 
-**Cassian Clarke** is the witness of faith and the common people. Sister Halva and [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]] already know him because he has been helping families of missing riverfolk, blessing travellers, reading or carrying letters, and listening to people who do not trust Crown officials. Teclis interviews him because Cassian can describe local fears without exaggerating them into false miracle or heresy.
+**Cassian Clarke** is the witness of faith and the common people. Sister Halva and [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]] already know him because he has been helping families of missing riverfolk, blessing travellers, reading or carrying letters, and listening to people who do not trust Crown officials. Teclis interviews him because Cassian can describe local fears without exaggerating them into false miracle or heresy. Cassian also knows which missing people had families, jobs, debts, routes, and names, making the investigation human rather than abstract.
 
 **Alekthar Amakiir** is brought in through the manifest. [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]] copied a cargo fragment bearing an Amakiir-linked mineral mark before the original vanished. Teclis recognises the name as sensitive from restricted records concerning [[House Amakiir]], the Night of Golden Tears, and Aasimar bloodlines. Sister Halva sends word discreetly, or Teclis arranges for Alekthar to be notified through formal channels.
 
-**Nakoa** is brought in through the undercurrent. [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]] has heard that black-veinstone dust and Veylrain fragments are moving through Morfael. Rennic does not trust the church, the watch, or the Crown, but he does trust the shape of the danger enough to bring Nakoa near the inquiry. Nakoa may arrive late, be introduced by Rennic at the chapel door, or already be watching the Black Eel Market when the others come looking.
+**Nakoa** is brought in through the undercurrent. [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]] has heard that red veinstone dust and Veylrain fragments are moving through Morfael. Rennic does not trust the church, the watch, or the Crown, but he does trust the shape of the danger enough to bring Nakoa near the inquiry. Nakoa may arrive late, be introduced by Rennic at the chapel door, or already be watching the Black Eel Market when the others come looking. The red dust reacts faintly to him, which means his presence immediately matters.
 
 ### Suggested First Meeting
 
-The night before the opening scene, Sister Halva gathers them in the back room of the Chapel of the Last Lantern. Teclis is already there, officially representing the inquiry. Cassian is there because he has been helping the chapel and shrine. Alekthar arrives after receiving word about the Amakiir-linked manifest. Rennic brings Nakoa last, reluctantly, because the black dust and Veylrain fragments sound like Nakoa’s kind of trouble.
+The night before the opening scene, Sister Halva gathers them in the back room of the Chapel of the Last Lantern. Teclis is already there, officially representing the inquiry. Cassian is there because he has been helping the chapel, the shrine, and the families of the missing. Alekthar arrives after receiving word about the Amakiir-linked manifest. Rennic brings Nakoa last, reluctantly, because the red dust and Veylrain fragments sound like Nakoa’s kind of trouble.
 
-On the table are three pieces of evidence:
+On the table are four pieces of evidence:
 
 - A strip of blood-stiffened medical binding.
-- A sealed pinch of black grit.
+- A sealed pinch of red grit that leaves rust-coloured stains on cloth and stone.
 - A copied fragment of a cargo manifest bearing an Amakiir-linked mineral mark.
+- Eira Lorne’s list of missing riverfolk, marked with routes, dates, and last-known crossings.
 
-This gives everyone a reason to speak before the first fight. They can distrust each other, question each other, or agree only to inspect the flood steps in the morning. That is enough. They do not need to become friends before the body appears.
+This gives everyone a reason to speak before the first fight. Cassian can put names and families to the disappearances. Nakoa can confirm that the dust and relic traffic are connected to older, stranger stonework. Alekthar can challenge the misuse of his house’s mark. Teclis can hold the inquiry together through official standing and disciplined suspicion.
+
+They can distrust each other, question each other, or agree only to inspect the flood steps in the morning. That is enough. They do not need to become friends before the body appears.
 
 ### Who Might Already Know Whom
 
@@ -109,15 +118,15 @@ Cassian may know Teclis from the last few days of inquiry work. Teclis has quest
 
 Cassian may know Alekthar only from the chapel meeting, but their connection can start through grief, faith, and service. Cassian sees a man carrying family ruin and duty. Alekthar sees a missionary whose concern for Morfael seems sincere rather than political.
 
-Nakoa probably knows none of them well. His connection is through Rennic Sallow, Arden Rook, and The Veiled Path. He enters the group as the least trusted and most useful outsider: someone who understands relic traffic, hidden movement, and dangerous old stone.
+Nakoa probably knows none of them well. His connection is through Rennic Sallow, Arden Rook, and The Veiled Path. He enters the group as the least trusted and most useful outsider: someone who understands relic traffic, hidden movement, and dangerous old stone. His immediate value is obvious once the red dust reacts faintly to his presence.
 
 ### Starting Dynamic
 
 - Teclis is the local institutional anchor and the reason the inquiry has permission to exist at all.
 - Sister Halva is the local moral anchor and the reason the inquiry is not simply swallowed by doctrine.
-- Cassian is the common-faith connection to Morfael’s people.
+- Cassian is the common-faith connection to Morfael’s people and the missing riverfolk.
 - Alekthar is the personal-stakes connection to the manifest and old mineral authority.
-- Nakoa is the underworld and relic-traffic connection.
+- Nakoa is the underworld, relic-traffic, and ancient-stone connection.
 
 This makes the group feel deliberately assembled, but not conveniently unified.
 
@@ -125,7 +134,7 @@ This makes the group feel deliberately assembled, but not conveniently unified.
 
 Morfael sits where the useful river traffic of [[Caer Oryn]] becomes poor labour, damp stone, customs paperwork, hidden storage, and bodies that no one wants to claim. The town is close enough to the capital to be controlled by it, but far enough downriver and downhill to be ignored when convenient.
 
-The town smells of rope, fish, damp timber, cheap smoke, wet wool, river mud, and tannery runoff. Watchmen patrol the crossings and warehouses, but locals know there are streets where the Crown sees everything and alleys where it sees only what it is paid to see.
+The town smells of rope, fish, damp timber, cheap smoke, wet wool, river mud, red grit, and tannery runoff. Watchmen patrol the crossings and warehouses, but locals know there are streets where the Crown sees everything and alleys where it sees only what it is paid to see.
 
 Important sites are detailed in [[Morfael - NPCs and Sites]].
 
@@ -148,6 +157,8 @@ Important sites are detailed in [[Morfael - NPCs and Sites]].
 
 The opening conflict occurs at [[Morfael - NPCs and Sites#The Flood Steps|the Flood Steps]], below the [[Morfael - NPCs and Sites#Black Eel Market|Black Eel Market]]. This area should be busy with ordinary life before the body appears.
 
+Before the body surfaces, let Cassian and Nakoa do something that matters. Cassian might be speaking with the family of a missing ferry-hand, helping Eira Lorne mark a name on the missing list, or calming Tovin Rusk after the boy says he saw red stains near the water. Nakoa might be watching a suspected relic broker, inspecting the red grit in the cracks of the steps, or meeting Rennic Sallow near the market edge. These actions should be interrupted by the river giving up Edrin.
+
 Use the following nearby NPCs from [[Morfael - NPCs and Sites]]:
 
 - [[Morfael - NPCs and Sites#Mara Venn|Mara Venn]], fishmonger.
@@ -156,13 +167,14 @@ Use the following nearby NPCs from [[Morfael - NPCs and Sites]]:
 - [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]], lay-priest.
 - [[Morfael - NPCs and Sites#Lysa Marrowick|Lysa Marrowick]], laundress.
 - [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], broker-scribe.
+- [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]], Selûnite shrine keeper.
 - [[Morfael - NPCs and Sites#Veyra Sorn|Veyra Sorn]], hidden observer.
 - [[Morfael - NPCs and Sites#Watch-Corporal Dannel Strake|Watch-Corporal Dannel Strake]], arriving authority.
 
 > [!readaloud] Read Aloud: The Body
 > The river gives him up slowly. At first he looks like driftwood caught among the reeds below the flood steps, wrapped in torn linen and river weed. Then the current turns him, and you see the shape of a man.
 >
-> His skin is grey with cold. Black dust clings in the lines of his throat and wrists. Beneath the flesh, dark veins branch like cracks through stone. Around his chest are the remains of leather restraints, cut or torn loose.
+> His skin is grey with cold. Red dust clings in the lines of his throat and wrists, fine as brick powder and bright in the wet. Beneath the flesh, dark veins branch like cracks through stone. Around his chest are the remains of leather restraints, cut or torn loose.
 >
 > Then, beneath the grime, something gold flickers.
 
@@ -174,19 +186,19 @@ Characters who examine [[Edrin Vaal]] before he wakes can learn the following.
 
 **DC 12 Intelligence (Investigation).** The restraint marks are not from prison shackles. They are from medical or experimental restraints.
 
-**DC 13 Wisdom (Perception).** Black grit is embedded under his fingernails, in his teeth, and around old puncture wounds.
+**DC 13 Wisdom (Perception).** Red grit is embedded under his fingernails, in his teeth, and around old puncture wounds. The colour is not blood alone. It is mineral, rust-red, and faintly metallic.
 
 **DC 14 Intelligence (Arcana).** The gold flicker beneath his skin is not a spell currently being cast. It is a reaction inside the body.
 
 **DC 15 Intelligence (Religion).** His soul is not properly seated. He is not undead, but his life, spirit, and body are not aligned cleanly.
 
-**DC 15 Intelligence (History).** The black grit resembles powdered [[Veinstone]], though using it this way would be reckless and likely fatal.
+**DC 15 Intelligence (History).** The red grit resembles powdered [[Veinstone]], though using it this way would be reckless and likely fatal.
 
-**Alekthar only.** Alekthar senses a crude and distorted resemblance to [[The Bound Radiance]], as if someone tried to hammer a divine echo into flesh. If he has seen the copied cargo mark, he may also realise the same people moving the black dust may be deliberately exploiting old Amakiir-linked mineral authority.
+**Alekthar only.** Alekthar senses a crude and distorted resemblance to [[The Bound Radiance]], as if someone tried to hammer a divine echo into flesh. If he has seen the copied cargo mark, he may also realise the same people moving the red dust may be deliberately exploiting old Amakiir-linked mineral authority.
 
-**Cassian only.** Cassian recognises that Edrin is not simply a monster rising from the water. He is a man caught between states: alive and dying, terrified and violent, restrained by something that is no longer visible. If Cassian uses divine awareness or Watcher instincts, Edrin does not read as undead, fiendish, or celestial. The wrongness is in what has been done to a mortal body.
+**Cassian only.** Cassian recognises that Edrin is not simply a monster rising from the water. He is a man caught between states: alive and dying, terrified and violent, restrained by something that is no longer visible. If Cassian uses divine awareness or Watcher instincts, Edrin does not read as undead, fiendish, or celestial. The wrongness is in what has been done to a mortal body. If Cassian has Eira’s list, one of the listed missing riverfolk may have seen Edrin before he disappeared, giving Cassian an immediate human lead.
 
-**Nakoa only.** Nakoa feels the markings inside him tense like claws under the skin. If he steps within 10 feet of Edrin, the reaction begins slowly. If he touches Edrin, it happens immediately.
+**Nakoa only.** Nakoa feels the markings inside him tense like claws under the skin. The red dust does not feel identical to his black-and-gold relic, but it answers in the same hidden language. If he steps within 10 feet of Edrin, the reaction begins slowly. If he touches Edrin, it happens immediately.
 
 **Teclis only.** Teclis can identify that this is not a normal illusion, possession, simple undeath, or ordinary divine intervention. Whatever is happening is using the body as a site of forced symbolic resonance.
 
@@ -196,16 +208,16 @@ Edrin wakes when one of the following occurs:
 
 - Nakoa touches him.
 - Nakoa remains within 10 feet of him for more than a minute.
-- A character attempts to clean or remove the black grit from his wounds.
+- A character attempts to clean or remove the red grit from his wounds.
 - A character casts a spell that restores hit points or directly manipulates life force.
 - [[Morfael - NPCs and Sites#Veyra Sorn|Veyra Sorn]] quietly triggers the reaction to see who notices.
 
 > [!readaloud] Read Aloud: The Awakening
 > The man’s back arches hard enough that wet stone cracks beneath him.
 >
-> He inhales like someone dragged from deep water, coughing river water and black grit across the steps. His eyes snap open, but they do not see the street in front of him.
+> He inhales like someone dragged from deep water, coughing river water and red grit across the steps. His eyes snap open, but they do not see the street in front of him.
 >
-> Fine gold lines flicker across Nakoa’s hands and eyes like script beneath the skin. The black dust in the man’s wounds answers with a dull red glow.
+> Fine gold lines flicker across Nakoa’s hands and eyes like script beneath the skin. The red dust in the man’s wounds answers with a dull gold glow, like embers under ash.
 >
 > The man twists against restraints that are no longer there.
 >
@@ -261,7 +273,7 @@ The party can end the overload without killing Edrin. Three successes before two
 
 **DC 14 Wisdom (Medicine).** Slow his breathing or reduce the physical effect of the dust.
 
-**DC 14 Intelligence (Arcana).** Disrupt the resonance between veinstone dust and Nakoa’s relic-marked magic.
+**DC 14 Intelligence (Arcana).** Disrupt the resonance between red veinstone dust and Nakoa’s relic-marked magic.
 
 **DC 14 Charisma (Persuasion).** Reach the frightened man beneath the panic.
 
@@ -275,13 +287,14 @@ Alekthar, Nakoa, Teclis, and Cassian should each be allowed one advantage-bearin
 
 If the party investigates before Crown agents arrive, they can recover:
 
-- A sample of black veinstone dust.
+- A sample of red veinstone dust.
 - A burned restraint tag with an incomplete Crown control mark.
-- Medical binding cloth.
+- Medical binding cloth stained with rust-red grit.
 - Notes or markings linking Edrin to **Subject V-03**.
 - Oil residue matching the lower mechanism rooms of [[Morfael - NPCs and Sites#The Red Lockhouse|the Red Lockhouse]].
 - A copied or recovered cargo reference using an old Amakiir-linked mineral mark.
-- Edrin’s whispered clue, if stabilised: “Red lockhouse. Beneath the chain. They ground the stone into us.”
+- Eira Lorne’s missing-person list, which may connect one or more vanished riverfolk to the same crossings and cargo movements.
+- Edrin’s whispered clue, if stabilised: “Red lockhouse. Beneath the chain. They ground the red stone into us.”
 
 ## Aftermath Choices
 
@@ -291,11 +304,11 @@ They can stay and explain, preserving local trust but giving officials their nam
 
 They can flee into Morfael, keeping control of evidence but becoming suspicious.
 
-They can hide Edrin’s body or living form with help from Sister Halva, Old Pell, Mara Venn, or Rennic Sallow.
+They can hide Edrin’s body or living form with help from Sister Halva, Old Pell, Mara Venn, Eira Lorne, or Rennic Sallow.
 
 They can bargain with Watch-Corporal Dannel Strake, who wants order but does not trust Crown recovery teams.
 
-They can surrender the body but keep a dust sample, copied symbol, restraint tag, or manifest fragment.
+They can surrender the body but keep a dust sample, copied symbol, restraint tag, manifest fragment, or missing-person lead.
 
 ## Next Leads
 
@@ -305,13 +318,17 @@ The chapter should point toward three to five follow-up leads.
 
 **The Kestrel Drain.** The physical route by which Edrin may have entered the river.
 
-**The Black Eel Market.** A place where black-veinstone dust moved through false cargo.
+**The Black Eel Market.** A place where red veinstone dust moved through false cargo.
 
 **The Chapel of the Last Lantern.** A safe site where Sister Halva can inspect Edrin’s soul-state.
 
 **Veyra Sorn.** A hidden [[Silent Chamber]] observer who can lead the party toward a deeper intelligence network.
 
 **The Amakiir Cargo Mark.** A lead suggesting that someone is using dead or dormant [[House Amakiir]] trade authority to move experimental material.
+
+**The Missing Riverfolk.** A Cassian-facing lead that turns the Crown’s experiments from abstract conspiracy into named victims and grieving families.
+
+**The Red Dust Reaction.** A Nakoa-facing lead that proves his relic-touched magic is not only related to old Veylrain boundary work, but can also trigger, read, or disturb modern Crown misuse of veinstone residue.
 
 ## Chapter Advancement
 
@@ -322,6 +339,6 @@ Advance the characters to level 4 when they accomplish most of the following:
 - Recover evidence from Edrin or the scene.
 - Avoid, mislead, bargain with, or survive Crown recovery efforts.
 - Investigate at least one follow-up site in [[Morfael]].
-- Learn that [[Veinstone]] dust is being used in hidden living experiments.
+- Learn that red [[Veinstone]] dust is being used in hidden living experiments.
 
 The level-up should feel earned when the party realises the man in the river was not the mystery. He was the first failed version of something [[The Vermillion Crown]] is still trying to perfect.
