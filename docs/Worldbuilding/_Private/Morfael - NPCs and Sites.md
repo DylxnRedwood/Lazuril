@@ -23,17 +23,17 @@ Avoid names that state the NPC’s role too bluntly. A ferryman should not be ca
 
 The broad stone steps where the river meets the town. Fisherfolk, laundresses, children, dockhands, ferrymen, and paupers use these steps every day. During flood season, the lower steps vanish under brown-green water.
 
-This is where [[Edrin Vaal]] washes ashore in [[Campaign Opener - The Man in the River]].
+This is where [[Edrin Vaal]] washes ashore in [[Campaign Opener - The Man in the River]]. Red grit can be found in the cracks between stones before the body appears, fine as brick powder and faintly metallic.
 
-**Associated NPCs:** [[Morfael - NPCs and Sites#Tovin Rusk|Tovin Rusk]], [[Morfael - NPCs and Sites#Lysa Marrowick|Lysa Marrowick]], [[Morfael - NPCs and Sites#Mara Venn|Mara Venn]], [[Morfael - NPCs and Sites#Old Pell|Old Pell]].
+**Associated NPCs:** [[Morfael - NPCs and Sites#Tovin Rusk|Tovin Rusk]], [[Morfael - NPCs and Sites#Lysa Marrowick|Lysa Marrowick]], [[Morfael - NPCs and Sites#Mara Venn|Mara Venn]], [[Morfael - NPCs and Sites#Old Pell|Old Pell]], [[Cassian Clarke]], [[Nakoa]].
 
 ### The Black Eel Market
 
 A cramped fish and salvage market near the Flood Steps. Its stalls sell river fish, smoked eel, cheap knives, netting, hooks, repaired boots, recovered river goods, and things no one asks too many questions about.
 
-The market is not a thieves’ guild den, but [[The Veiled Path]] uses it when it needs ordinary trade to hide unusual cargo.
+The market is not a thieves’ guild den, but [[The Veiled Path]] uses it when it needs ordinary trade to hide unusual cargo. Red veinstone dust and Veylrain fragments have recently moved through the market under false cargo names.
 
-**Associated NPCs:** [[Morfael - NPCs and Sites#Mara Venn|Mara Venn]], [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], [[Morfael - NPCs and Sites#Branna Cale|Branna Cale]], [[Morfael - NPCs and Sites#Tovin Rusk|Tovin Rusk]].
+**Associated NPCs:** [[Morfael - NPCs and Sites#Mara Venn|Mara Venn]], [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], [[Morfael - NPCs and Sites#Branna Cale|Branna Cale]], [[Morfael - NPCs and Sites#Tovin Rusk|Tovin Rusk]], [[Nakoa]].
 
 ### Chapel of the Last Lantern
 
@@ -41,7 +41,7 @@ A small, practical chapel connected to [[The Final Journey]]. It serves drowned 
 
 Its bell is old and cracked. Locals say it sounds different when rung for someone who has not fully died.
 
-**Associated NPCs:** [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]], [[Morfael - NPCs and Sites#Caldus Wye|Caldus Wye]], [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]], [[Cassian Clarke]], [[Teclis Nimule Sílorion]].
+**Associated NPCs:** [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]], [[Morfael - NPCs and Sites#Caldus Wye|Caldus Wye]], [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]], [[Cassian Clarke]], [[Teclis Nimule Sílorion]], [[Alekthar Amakiir]].
 
 ### Moon-in-Water Shrine
 
@@ -49,7 +49,7 @@ A small Selûnite alcove built into an old flood wall. A shallow basin holds riv
 
 The shrine does not need a dramatic sky omen to matter. It matters because it is where ordinary people ask for safe passage, write names of the missing, leave letters for those who may never return, and sit with uncertainty.
 
-[[Cassian Clarke]] is drawn here through missionary work, comfort for local families, and his own habit of writing home from places where distance and faith meet.
+[[Cassian Clarke]] is drawn here through missionary work, comfort for local families, and his own habit of writing home from places where distance and faith meet. He has helped [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]] keep a list of missing riverfolk whose families do not trust the watch.
 
 **Associated NPCs:** [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]], [[Cassian Clarke]], [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]].
 
@@ -63,11 +63,11 @@ The Red Lockhouse should become a follow-up investigation site after the opening
 
 ### The Kestrel Drain
 
-A wide storm outflow barred with rusted iron. At low water, a small creature or desperate person could crawl inside parts of it. Black grit gathers near the grate after rain.
+A wide storm outflow barred with rusted iron. At low water, a small creature or desperate person could crawl inside parts of it. Red grit gathers near the grate after rain and stains the water before sinking between stones.
 
 This is the likely route by which [[Edrin Vaal]] enters the river, whether escaped, dumped, or released.
 
-**Associated NPCs:** [[Morfael - NPCs and Sites#Old Pell|Old Pell]], [[Morfael - NPCs and Sites#Iven Cald|Iven Cald]], [[Morfael - NPCs and Sites#Veyra Sorn|Veyra Sorn]].
+**Associated NPCs:** [[Morfael - NPCs and Sites#Old Pell|Old Pell]], [[Morfael - NPCs and Sites#Iven Cald|Iven Cald]], [[Morfael - NPCs and Sites#Veyra Sorn|Veyra Sorn]], [[Nakoa]].
 
 ### Harrowchain Ferry
 
@@ -87,7 +87,7 @@ A narrow records office where cargo manifests, false invoices, letters, permits,
 
 A copied fragment of a mineral manifest bearing an Amakiir-linked cargo mark can be found here or traced back here. This gives [[Alekthar Amakiir]] a grounded reason to come to Morfael.
 
-**Associated NPCs:** [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]], [[Alekthar Amakiir]].
+**Associated NPCs:** [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]], [[Alekthar Amakiir]], [[Nakoa]].
 
 ### Cairnwell Yard
 
@@ -115,7 +115,7 @@ The road climbing from Morfael toward the controlled outer approaches of [[Caer 
 
 Human man, early 30s. Failed veinstone-dust subject.
 
-Edrin is the man who washes ashore at the Flood Steps. He was once a soldier, prisoner, or condemned military subject used in an early [[Crown Scar Directorate]] experiment involving powdered [[Veinstone]]. He is not evil. He is frightened, damaged, and dangerous because something has been forced into his body and soul.
+Edrin is the man who washes ashore at the Flood Steps. He was once a soldier, prisoner, or condemned military subject used in an early [[Crown Scar Directorate]] experiment involving powdered red [[Veinstone]]. He is not evil. He is frightened, damaged, and dangerous because something has been forced into his body and soul.
 
 **Opening role:** Central conflict.
 
@@ -139,7 +139,7 @@ Tovin is quick, curious, and bad at staying away from danger. He is the first to
 
 **Opening role:** Child witness in immediate danger.
 
-**Useful information:** Tovin saw gold light under Edrin’s skin before anyone touched him.
+**Useful information:** Tovin saw gold light under Edrin’s skin before anyone touched him and red dust along the lower flood stones before the adults arrived.
 
 ### Old Pell
 
@@ -169,7 +169,7 @@ Lysa works the Flood Steps because she has no better place to wash linen. She is
 
 **Opening role:** Civilian trapped close to Edrin when he wakes.
 
-**Useful information:** The cloth around Edrin is military medical binding, not common linen.
+**Useful information:** The cloth around Edrin is military medical binding, not common linen. It is stained with red mineral grit rather than ordinary blood alone.
 
 ### Rennic Sallow
 
@@ -179,7 +179,7 @@ Rennic writes cargo manifests, letters, false invoices, and dockside contracts f
 
 **Opening role:** Nakoa’s local contact and Alekthar’s route into the false manifest.
 
-**Useful information:** Black-veinstone dust was moved through Morfael in sealed spice jars two nights earlier, and a forged or misused Amakiir-linked mineral mark appears on a related cargo reference.
+**Useful information:** Red veinstone dust was moved through Morfael in sealed spice jars two nights earlier, and a forged or misused Amakiir-linked mineral mark appears on a related cargo reference. Rennic has a tiny dust smear wrapped in waxed paper, which reacts faintly when Nakoa comes close.
 
 ### Watch-Corporal Dannel Strake
 
@@ -219,7 +219,7 @@ Pellisar cares more about what Edrin’s body proves than whether civilians were
 
 **Opening role:** Scientific/alchemical face of the cover-up.
 
-**Useful information:** He recognises the veinstone dust process immediately and is alarmed by the reaction.
+**Useful information:** He recognises the red veinstone dust process immediately and is alarmed by the reaction.
 
 ---
 
@@ -277,7 +277,7 @@ Eira is not a formal priestess. She keeps the basin clean, lights candles, recor
 
 **Public role:** Selûnite shrine keeper.
 
-**Secret:** She has been keeping a private list of missing riverfolk whose families do not trust the watch. Cassian has helped her comfort several of those families.
+**Secret:** She has been keeping a private list of missing riverfolk whose families do not trust the watch. Cassian has helped her comfort several of those families and organise the list into names, routes, dates, and last-known crossings.
 
 ### Caldus Wye
 
@@ -297,7 +297,7 @@ Maelis sells poultices, sleep draughts, fever tinctures, dockhand liniment, and 
 
 **Public role:** Healer and apothecary.
 
-**Secret:** A Crown buyer recently purchased clotting agents, bitter sedatives, and surgical spirits in bulk.
+**Secret:** A Crown buyer recently purchased clotting agents, bitter sedatives, surgical spirits, and jars of red mineral residue in bulk.
 
 ### Nira Clent
 
@@ -321,7 +321,7 @@ Garran repairs ferry chains, lock tools, cart axles, hooks, knives, and dock bra
 
 **Public role:** Smith and practical repairman.
 
-**Secret:** He repaired a broken restraint buckle of unusually fine Crown steel last week.
+**Secret:** He repaired a broken restraint buckle of unusually fine Crown steel last week. It had red dust packed into the hinge.
 
 ### Aedan Marric
 
@@ -371,7 +371,7 @@ Bram moves goods along the river and claims he never remembers illegal cargo onc
 
 **Public role:** River trader.
 
-**Secret:** He refused a job involving sealed jars of black powder and now worries someone else accepted it.
+**Secret:** He refused a job involving sealed jars of red powder and now worries someone else accepted it.
 
 ### Lerris Doon
 
@@ -391,7 +391,7 @@ Hesta sits near the market, repairs nets, and sees more than people expect.
 
 **Public role:** Elderly local and informal witness.
 
-**Secret:** She remembers another man with black veins being carried into the Red Lockhouse months ago.
+**Secret:** She remembers another man with red dust in his clothes and dark veins under his skin being carried into the Red Lockhouse months ago.
 
 ---
 
@@ -411,7 +411,7 @@ Rennic appears above as an opening NPC, but he is also the most important crimin
 
 **Role in Morfael:** Broker between ordinary dock trade and hidden networks.
 
-**Use:** Rennic can help the party hide, forge a cargo pass, identify a false ledger, or contact [[The Veiled Path]].
+**Use:** Rennic can help the party hide, forge a cargo pass, identify a false ledger, or contact [[The Veiled Path]]. He also provides Nakoa with the first red-dust sample that reacts faintly to Nakoa’s relic-touched magic.
 
 ### Veyra Sorn
 
@@ -449,17 +449,20 @@ Corven should not appear openly at the start. He uses intermediaries and gives o
 
 The easiest way to start the campaign is with **the Last Lantern Inquiry**. Sister Halva Dorn has quietly gathered the four player characters at the Chapel of the Last Lantern the night before [[Edrin Vaal]] washes ashore.
 
-On the table are three pieces of evidence:
+On the table are four pieces of evidence:
 
 - A strip of blood-stiffened medical binding.
-- A sealed pinch of black grit.
+- A sealed pinch of red grit that leaves rust-coloured stains on cloth and stone.
 - A copied fragment of a cargo manifest bearing an Amakiir-linked mineral mark.
+- Eira Lorne’s list of missing riverfolk, marked with names, routes, dates, and last-known crossings.
 
 This meeting gives the party a reason to stand near the Flood Steps the following morning without forcing them to already be close friends.
 
 ### [[Nakoa]]
 
-Nakoa is present because [[Arden Rook]] or [[The Veiled Path]] has sent him toward Rennic Sallow and the Black Eel Market. His interest is relic traffic, black-veinstone dust, and Veylrain fragments.
+Nakoa is present because [[Arden Rook]] or [[The Veiled Path]] has sent him toward Rennic Sallow and the Black Eel Market. His interest is relic traffic, red veinstone dust, and Veylrain fragments.
+
+Rennic shows Nakoa a tiny smear of red dust wrapped in waxed paper. It is not the same as Nakoa’s black-and-gold relic, but it answers in the same hidden language. This gives Nakoa an active reason to inspect Morfael before Edrin appears.
 
 **Knows beforehand:** Rennic Sallow by contact. He may recognise Teclis, Alekthar, and Cassian from the chapel meeting, but does not truly know them yet.
 
@@ -483,6 +486,8 @@ Cassian is present because his Selûnite missionary work has brought him to Morf
 
 Cassian is not here because the sky did something dramatic. He is here because people are suffering, because Morfael is exactly the kind of place that needs a missionary who listens, and because a man washing ashore half-dead is a moral and spiritual crisis before it is a cosmic clue.
 
+His active contribution before the fight is the missing-person list. Cassian can put names, routes, families, and grief behind what might otherwise look like a strange magical incident.
+
 **Knows beforehand:** Teclis from the inquiry. Alekthar from the chapel meeting and shared concern over the evidence. Nakoa only by brief introduction.
 
 ## Useful Local Rumours
@@ -493,8 +498,8 @@ Cassian is not here because the sky did something dramatic. He is here because p
 | 2 | A covered barge passed the quay with no lanterns and men aboard who wore plain cloaks over military boots. |
 | 3 | Eira Lorne has been keeping a list of riverfolk who vanished without bodies, because their families do not trust the watch. |
 | 4 | Joric Marn burned a ledger page and then paid a boy to forget he saw it. |
-| 5 | A man with dark veins was carried into the Red Lockhouse months ago and never came out. |
-| 6 | The Kestrel Drain sometimes smells of surgical spirits after rain. |
+| 5 | A man with dark veins and red dust in his clothes was carried into the Red Lockhouse months ago and never came out. |
+| 6 | The Kestrel Drain sometimes smells of surgical spirits after rain and leaves red grit in the waterline. |
 | 7 | Someone has been buying old Veylrain fragments and paying with Crown-stamped coin. |
 | 8 | Sister Halva rang the Last Lantern bell for a drowned man, but the body breathed after the first toll. |
 
@@ -515,6 +520,8 @@ Cassian is not here because the sky did something dramatic. He is here because p
 | Selûnite missionary link | Eira Lorne and Cassian Clarke |
 | Red Lockhouse records | Joric Marn |
 | Amakiir-linked manifest | Nira Clent or Rennic Sallow |
+| Red dust sample | Rennic Sallow and Nakoa |
+| Missing riverfolk | Eira Lorne and Cassian Clarke |
 | Old infrastructure route | Elian Marr |
 | Forged papers or hidden ledger | Rennic Sallow or Nira Clent |
 | Tavern rumours | Orwyn Breck or Sella Varrow |
