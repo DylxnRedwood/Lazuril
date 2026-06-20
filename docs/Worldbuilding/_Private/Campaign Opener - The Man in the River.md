@@ -30,7 +30,7 @@ This chapter should do the following:
 
 The immediate premise is known locally as **the Last Lantern Inquiry**.
 
-Over the past few days, strange things have been reported in Morfael. A corpse twitched during preparation for burial. Black grit appeared near the [[Morfael - NPCs and Sites#The Kestrel Drain|Kestrel Drain]]. A dockhand claimed he saw a man crawling from the river with gold light under his skin. The [[Morfael - NPCs and Sites#Moon-in-Water Shrine|Moon-in-Water Shrine]] reflected a sky that did not match the sky above. A minor relic broker vanished after asking questions about black stone dust.
+Over the past few days, strange things have been reported in Morfael. A half-dead man was seen near the flood steps and vanished before the watch arrived. Black grit appeared near the [[Morfael - NPCs and Sites#The Kestrel Drain|Kestrel Drain]]. A dockhand claimed he saw someone crawling from the river with gold light beneath his skin. A minor relic broker disappeared after asking questions about black stone dust. At [[Morfael - NPCs and Sites#Vellum House|Vellum House]], an old cargo mark tied to [[House Amakiir]] was found on a false mineral manifest that should not exist.
 
 [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]] of the [[Morfael - NPCs and Sites#Chapel of the Last Lantern|Chapel of the Last Lantern]] has quietly gathered people with different kinds of knowledge before the city watch or Crown officials can seize the matter.
 
@@ -47,9 +47,11 @@ Nakoa is not initially there to help the church or investigate the dead. He is f
 
 ### [[Alekthar Amakiir]]
 
-[[Alekthar Amakiir]] has heard that a half-dead or river-mad man in Morfael muttered phrases such as “gold tears”, “the light in the blood”, “the chain beneath the mountain”, or “no more binding.” The language feels too close to the Night of Golden Tears and [[The Bound Radiance]] to ignore.
+[[Alekthar Amakiir]] is in Morfael because a forged or misused cargo mark tied to [[House Amakiir]] has appeared in a river manifest. Since the Night of Golden Tears and the decline of Cael Tharos, Alekthar has had to manage failing holdings, old contracts, mine records, and the damage left behind by his family’s ruin. Seeing an Amakiir-linked mineral mark in Morfael is not just suspicious. It suggests someone is using the remains of his house’s old trade authority to move something dangerous.
 
-Alekthar arrives because this may be a cruel coincidence, a survivor’s rumour, or the first true thread connecting his family’s tragedy to something larger.
+The manifest refers to harmless stone meal, but the description, weight, and routing make no sense. [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]] copied part of the record before it vanished, and [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]] passed word through discreet religious channels.
+
+Alekthar arrives to protect what little remains of his family’s name, to find out whether his father’s old world is reaching into Morfael, and to determine whether this strange mineral traffic has any link to the Night of Golden Tears or [[The Bound Radiance]].
 
 ### [[Teclis Nimule Sílorion]]
 
@@ -61,9 +63,11 @@ Teclis quickly realises the matter is not beneath him.
 
 ### [[Cassian Clarke]]
 
-[[Cassian Clarke]] is present because the [[Morfael - NPCs and Sites#Moon-in-Water Shrine|Moon-in-Water Shrine]] has shown reflections that do not match the sky above. A Selûnite caretaker or local worshipper asked him to inspect the phenomenon. Cassian may also be assisting the poor, preaching quietly, or corresponding with an observatory contact who studies reflected light on water.
+[[Cassian Clarke]] is in Morfael because it is exactly the kind of place his missionary work has brought him to: a hard riverside town full of sailors, ferrymen, widows, labourers, frightened families, and people who need comfort more than doctrine. The [[Morfael - NPCs and Sites#Moon-in-Water Shrine|Moon-in-Water Shrine]] is small, poor, and easy for the powerful to ignore, but it matters deeply to those who cross the river by night or wait for loved ones to return from it.
 
-When Edrin wakes, Cassian sees that the river reflection responds to the same surge. This is not merely a local magical sickness. Something about the sky, the water, and the seal is involved.
+Cassian has been helping [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]] and [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]] with rites for missing riverfolk, letters home, blessings for travellers, and quiet counselling for families who cannot afford the attention of the upper city’s temples. He may also be using Morfael as a stop on his missionary route toward [[Caer Oryn]], writing one of his regular letters home from the chapel or shrine.
+
+He is not present because of a dramatic sky-omen. He is present because his faith sends him to people at thresholds: roads, rivers, grief, distance, and uncertainty. When Edrin washes ashore, Cassian recognises a man trapped at exactly such a threshold, neither properly dead, properly alive, nor safely released.
 
 ## Who Knows Whom Before Session One
 
@@ -71,25 +75,25 @@ The characters should have a light, uneven connection before the first conflict.
 
 ### The Night Before
 
-The night before the campaign begins, [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]] gathers the characters at the [[Morfael - NPCs and Sites#Chapel of the Last Lantern|Chapel of the Last Lantern]]. The chapel is closed, the river bell has stopped, and three things sit on the table: a strip of blood-stiffened linen, a sealed pinch of black grit, and a child’s drawing of a man with gold lines under his skin.
+The night before the campaign begins, [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]] gathers the characters at the [[Morfael - NPCs and Sites#Chapel of the Last Lantern|Chapel of the Last Lantern]]. The chapel is closed, the river bell has stopped, and three things sit on the table: a strip of blood-stiffened medical binding, a sealed pinch of black grit, and a copied fragment of a cargo manifest bearing an Amakiir-linked mineral mark.
 
 This is the first time all four characters are in the same room.
 
 ### Existing Connections
 
-[[Teclis Nimule Sílorion]] already knows of [[Alekthar Amakiir]] through records, rumours, or restricted material concerning [[House Amakiir]] and the Night of Golden Tears. He may have spoken to Alekthar formally once before, or at least know enough to recognise the name as sensitive.
+[[Teclis Nimule Sílorion]] knows of [[Alekthar Amakiir]] through restricted church or scriptor records concerning [[House Amakiir]], the Night of Golden Tears, and politically sensitive Aasimar bloodlines. He may not know the full truth, but he knows enough to treat Alekthar’s name as significant.
 
-Teclis has also spoken with [[Cassian Clarke]] during his initial inquiry into the [[Morfael - NPCs and Sites#Moon-in-Water Shrine|Moon-in-Water Shrine]]. Cassian is a useful witness because he can describe the sky-sign without sounding like a fraud or drunk.
+Teclis has also spoken with [[Cassian Clarke]] during the Last Lantern Inquiry. Cassian is a useful witness because he has been working among the families, ferrymen, and shrine-keepers affected by the recent disappearances. Unlike many locals, he can describe what people believe without turning it into panic or theatre.
 
-Cassian and Alekthar may have spoken briefly at the chapel the night before. Both are approaching the matter through faith, grief, and strange language connected to death, light, and duty.
+Cassian and Alekthar may have spoken briefly at the chapel the night before. Cassian recognises grief and duty in Alekthar. Alekthar recognises that Cassian is not a political actor or Crown agent, but a man who came to Morfael because people there were suffering.
 
 [[Nakoa]] knows [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]] by contact rather than friendship. Rennic introduces him as someone who understands relic traffic and dangerous old things. Nakoa does not know the others well before the opening, but he has seen enough in the chapel meeting to know they are not ordinary locals.
 
 ### Starting Dynamic
 
-- Teclis knows Cassian as a witness and Alekthar as a sensitive name from old records.
-- Cassian knows Teclis from the shrine inquiry and has spoken briefly with Alekthar.
-- Alekthar knows Teclis as an official inquirer and has spoken briefly with Cassian.
+- Teclis knows Cassian as a grounded religious witness and Alekthar as a sensitive name from old records.
+- Cassian knows Teclis from the inquiry and has spoken briefly with Alekthar through Sister Halva.
+- Alekthar knows Teclis as an official inquirer and Cassian as a sincere missionary present for the people of Morfael.
 - Nakoa knows Rennic Sallow and arrives through [[The Veiled Path]] or Arden Rook’s rumour network, but is only lightly acquainted with the others.
 
 This gives the party enough connection to act together, but enough uncertainty for tension.
@@ -155,9 +159,9 @@ Characters who examine [[Edrin Vaal]] before he wakes can learn the following.
 
 **DC 15 Intelligence (History).** The black grit resembles powdered [[Veinstone]], though using it this way would be reckless and likely fatal.
 
-**Alekthar only.** Alekthar senses a crude and distorted resemblance to [[The Bound Radiance]], as if someone tried to hammer a divine echo into flesh.
+**Alekthar only.** Alekthar senses a crude and distorted resemblance to [[The Bound Radiance]], as if someone tried to hammer a divine echo into flesh. If he has seen the copied cargo mark, he may also realise the same people moving the black dust may be deliberately exploiting old Amakiir-linked mineral authority.
 
-**Cassian only.** Cassian notices that the river reflection behind Edrin briefly darkens into a ring shape. The sky above has not changed.
+**Cassian only.** Cassian recognises that Edrin is not simply a monster rising from the water. He is a man caught between states: alive and dying, terrified and violent, restrained by something that is no longer visible. If Cassian uses divine awareness or Watcher instincts, Edrin does not read as undead, fiendish, or celestial. The wrongness is in what has been done to a mortal body.
 
 **Nakoa only.** Nakoa feels the markings inside him tense like claws under the skin. If he steps within 10 feet of Edrin, the reaction begins slowly. If he touches Edrin, it happens immediately.
 
@@ -242,7 +246,7 @@ The party can end the overload without killing Edrin. Three successes before two
 
 **DC 15 Wisdom (Religion).** Speak rites of passage, release, judgement, or mercy that help his soul settle.
 
-Alekthar, Nakoa, Teclis, and Cassian should each be allowed one advantage-bearing check if they use their personal angle: radiance, boundary, illusion/truth, or reflected celestial light.
+Alekthar, Nakoa, Teclis, and Cassian should each be allowed one advantage-bearing check if they use their personal angle: radiance and family legacy, boundary magic, illusion versus truth, or mercy at the threshold between life and death.
 
 ## Evidence
 
@@ -253,6 +257,7 @@ If the party investigates before Crown agents arrive, they can recover:
 - Medical binding cloth.
 - Notes or markings linking Edrin to **Subject V-03**.
 - Oil residue matching the lower mechanism rooms of [[Morfael - NPCs and Sites#The Red Lockhouse|the Red Lockhouse]].
+- A copied or recovered cargo reference using an old Amakiir-linked mineral mark.
 - Edrin’s whispered clue, if stabilised: “Red lockhouse. Beneath the chain. They ground the stone into us.”
 
 ## Aftermath Choices
@@ -267,7 +272,7 @@ They can hide Edrin’s body or living form with help from Sister Halva, Old Pel
 
 They can bargain with Watch-Corporal Dannel Strake, who wants order but does not trust Crown recovery teams.
 
-They can surrender the body but keep a dust sample, copied symbol, or restraint tag.
+They can surrender the body but keep a dust sample, copied symbol, restraint tag, or manifest fragment.
 
 ## Next Leads
 
@@ -282,6 +287,8 @@ The chapter should point toward three to five follow-up leads.
 **The Chapel of the Last Lantern.** A safe site where Sister Halva can inspect Edrin’s soul-state.
 
 **Veyra Sorn.** A hidden [[Silent Chamber]] observer who can lead the party toward a deeper intelligence network.
+
+**The Amakiir Cargo Mark.** A lead suggesting that someone is using dead or dormant [[House Amakiir]] trade authority to move experimental material.
 
 ## Chapter Advancement
 
