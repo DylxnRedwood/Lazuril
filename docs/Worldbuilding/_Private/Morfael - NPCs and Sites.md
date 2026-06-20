@@ -41,15 +41,17 @@ A small, practical chapel connected to [[The Final Journey]]. It serves drowned 
 
 Its bell is old and cracked. Locals say it sounds different when rung for someone who has not fully died.
 
-**Associated NPCs:** [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]], [[Morfael - NPCs and Sites#Caldus Wye|Caldus Wye]], [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]].
+**Associated NPCs:** [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]], [[Morfael - NPCs and Sites#Caldus Wye|Caldus Wye]], [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]], [[Cassian Clarke]], [[Teclis Nimule Sílorion]].
 
 ### Moon-in-Water Shrine
 
-A small Selûnite alcove built into an old flood wall. A shallow basin holds river water, and worshippers claim that moonlight sometimes appears there even when clouds cover the sky.
+A small Selûnite alcove built into an old flood wall. A shallow basin holds river water. Sailors, ferrymen, widows, messengers, and travellers leave candles here before night crossings or long roads.
 
-In recent nights, the basin has shown the wrong reflection. This is why [[Cassian Clarke]] is drawn into the opening inquiry.
+The shrine does not need a dramatic sky omen to matter. It matters because it is where ordinary people ask for safe passage, write names of the missing, leave letters for those who may never return, and sit with uncertainty.
 
-**Associated NPCs:** [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]], [[Cassian Clarke]], [[Teclis Nimule Sílorion]].
+[[Cassian Clarke]] is drawn here through missionary work, comfort for local families, and his own habit of writing home from places where distance and faith meet.
+
+**Associated NPCs:** [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]], [[Cassian Clarke]], [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]].
 
 ### The Red Lockhouse
 
@@ -71,7 +73,7 @@ This is the likely route by which [[Edrin Vaal]] enters the river, whether escap
 
 A chain ferry linking Morfael to the opposite bank and several river paths used by labourers, smugglers, and those who prefer not to pass through Crown gates.
 
-**Associated NPCs:** [[Morfael - NPCs and Sites#Old Pell|Old Pell]], [[Morfael - NPCs and Sites#Bram Odrick|Bram Odrick]].
+**Associated NPCs:** [[Morfael - NPCs and Sites#Old Pell|Old Pell]], [[Morfael - NPCs and Sites#Bram Odrick|Bram Odrick]], [[Cassian Clarke]].
 
 ### The Hook and Bell
 
@@ -83,7 +85,9 @@ A low tavern near the quay. It serves fish stew, sour beer, dockside gossip, and
 
 A narrow records office where cargo manifests, false invoices, letters, permits, and dockside contracts are written for people who cannot read or cannot safely use official channels.
 
-**Associated NPCs:** [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]].
+A copied fragment of a mineral manifest bearing an Amakiir-linked cargo mark can be found here or traced back here. This gives [[Alekthar Amakiir]] a grounded reason to come to Morfael.
+
+**Associated NPCs:** [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]], [[Alekthar Amakiir]].
 
 ### Cairnwell Yard
 
@@ -173,9 +177,9 @@ Halfling man, 50s. Broker-scribe at Vellum House.
 
 Rennic writes cargo manifests, letters, false invoices, and dockside contracts for people who cannot or should not use official channels. He is not a full member of [[The Veiled Path]], but he has passed messages for them and knows [[Arden Rook]] by reputation.
 
-**Opening role:** Nakoa’s local contact.
+**Opening role:** Nakoa’s local contact and Alekthar’s route into the false manifest.
 
-**Useful information:** Black-veinstone dust was moved through Morfael in sealed spice jars two nights earlier.
+**Useful information:** Black-veinstone dust was moved through Morfael in sealed spice jars two nights earlier, and a forged or misused Amakiir-linked mineral mark appears on a related cargo reference.
 
 ### Watch-Corporal Dannel Strake
 
@@ -269,11 +273,11 @@ Elian knows the old waterworks beneath Morfael better than current officials do.
 
 Human woman, 30s. Caretaker of the Moon-in-Water Shrine.
 
-Eira is not a formal priestess. She keeps the basin clean, lights candles, and remembers every sailor who asks Selûne for safe passage.
+Eira is not a formal priestess. She keeps the basin clean, lights candles, records names of the missing, and helps travellers leave letters for people they may not see again.
 
 **Public role:** Selûnite shrine keeper.
 
-**Secret:** She has seen the basin reflect a ringed darkness around the sky twice in the last month.
+**Secret:** She has been keeping a private list of missing riverfolk whose families do not trust the watch. Cassian has helped her comfort several of those families.
 
 ### Caldus Wye
 
@@ -303,7 +307,7 @@ Nira teaches children their letters in the morning and writes death notices in t
 
 **Public role:** Teacher and scribe.
 
-**Secret:** She copied a partial ledger page before Joric Marn destroyed it.
+**Secret:** She copied a partial manifest bearing an Amakiir-linked mineral mark before Joric Marn destroyed the original page.
 
 ---
 
@@ -449,7 +453,7 @@ On the table are three pieces of evidence:
 
 - A strip of blood-stiffened medical binding.
 - A sealed pinch of black grit.
-- A child’s drawing of a man with gold lines beneath his skin.
+- A copied fragment of a cargo manifest bearing an Amakiir-linked mineral mark.
 
 This meeting gives the party a reason to stand near the Flood Steps the following morning without forcing them to already be close friends.
 
@@ -461,7 +465,9 @@ Nakoa is present because [[Arden Rook]] or [[The Veiled Path]] has sent him towa
 
 ### [[Alekthar Amakiir]]
 
-Alekthar is present because rumours from Morfael echo the Night of Golden Tears: gold tears, light in the blood, chains beneath stone, and the language of binding.
+Alekthar is present because an Amakiir-linked mineral mark has appeared on a suspicious Morfael manifest. Since the Night of Golden Tears, he has been responsible for the remnants of a diminished house: old contracts, failing holdings, inaccessible mines, and a family name that can still be misused by people who know where to look.
+
+This is not just a rumour that sounds like his tragedy. It is evidence that someone may be exploiting his house’s old trade authority to move experimental material.
 
 **Knows beforehand:** Teclis by formal inquiry or reputation. Cassian lightly from the chapel meeting. Nakoa only as the suspicious relic-connected outsider introduced by Rennic.
 
@@ -469,13 +475,15 @@ Alekthar is present because rumours from Morfael echo the Night of Golden Tears:
 
 Teclis is present because [[Arch-Lector Meren Voss]] sends him from [[The Final Journey]] to investigate rumours of improper soul-binding, false resurrection, or heretical miracle-work in Morfael. Voss does not respect Teclis’ posting and likely treats this errand as a way to keep him occupied away from more important church matters.
 
-**Knows beforehand:** Cassian as a witness connected to the Moon-in-Water Shrine. Alekthar by record, reputation, or a prior formal conversation regarding sensitive religious history. Nakoa only after Rennic introduces him during the Last Lantern Inquiry.
+**Knows beforehand:** Cassian as a grounded witness among the families, shrine-keepers, and riverfolk affected by recent disappearances. Alekthar by record, reputation, or a prior formal conversation regarding sensitive religious history. Nakoa only after Rennic introduces him during the Last Lantern Inquiry.
 
 ### [[Cassian Clarke]]
 
-Cassian is present because the Moon-in-Water Shrine has reflected a sky that does not match the sky above. Eira Lorne, Sister Halva, or an observatory contact asks him to inspect the phenomenon.
+Cassian is present because his Selûnite missionary work has brought him to Morfael’s poor river shrines, ferrymen, missing-person families, and travellers. He has been helping Eira Lorne and Sister Halva with letters, blessings, comfort for widows, and rites for those who live their lives at thresholds: the road, the river, the night crossing, and the long journey home.
 
-**Knows beforehand:** Teclis from the shrine inquiry. Alekthar from the chapel meeting and shared religious concern. Nakoa only by brief introduction.
+Cassian is not here because the sky did something dramatic. He is here because people are suffering, because Morfael is exactly the kind of place that needs a missionary who listens, and because a man washing ashore half-dead is a moral and spiritual crisis before it is a cosmic clue.
+
+**Knows beforehand:** Teclis from the inquiry. Alekthar from the chapel meeting and shared concern over the evidence. Nakoa only by brief introduction.
 
 ## Useful Local Rumours
 
@@ -483,7 +491,7 @@ Cassian is present because the Moon-in-Water Shrine has reflected a sky that doe
 |---:|---|
 | 1 | A dog at the Flood Steps barked at the river for an hour before dawn and would not go near the water. |
 | 2 | A covered barge passed the quay with no lanterns and men aboard who wore plain cloaks over military boots. |
-| 3 | The Moon-in-Water Shrine reflected a black ring around the sky, though the night above was clear. |
+| 3 | Eira Lorne has been keeping a list of riverfolk who vanished without bodies, because their families do not trust the watch. |
 | 4 | Joric Marn burned a ledger page and then paid a boy to forget he saw it. |
 | 5 | A man with dark veins was carried into the Red Lockhouse months ago and never came out. |
 | 6 | The Kestrel Drain sometimes smells of surgical spirits after rain. |
@@ -504,8 +512,9 @@ Cassian is present because the Moon-in-Water Shrine has reflected a sky that doe
 | Crown cover-up | Carro Vance |
 | Alchemical explanation | Pellisar Oth |
 | Hidden intelligence thread | Veyra Sorn |
-| Selûnite link | Eira Lorne |
+| Selûnite missionary link | Eira Lorne and Cassian Clarke |
 | Red Lockhouse records | Joric Marn |
+| Amakiir-linked manifest | Nira Clent or Rennic Sallow |
 | Old infrastructure route | Elian Marr |
 | Forged papers or hidden ledger | Rennic Sallow or Nira Clent |
 | Tavern rumours | Orwyn Breck or Sella Varrow |
