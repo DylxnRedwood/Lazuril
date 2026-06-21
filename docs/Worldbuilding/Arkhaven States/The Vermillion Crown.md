@@ -104,6 +104,14 @@ Ministerial estates, noble homes, embassies, treasury halls, high courts, theatr
 
 The hilltop seat of power. It contains the Lord Protector’s keep, command chambers, state vaults, national archives, high courts, and the main offices of the Civic Directorate.
 
+## Other Major Cities
+
+[Karthrest](./The%20Vermillion%20Crown/Karthrest.md) is a fortified lock-city where river traffic is slowed, registered, taxed, and released through Crown-controlled water stairs.
+
+[Ossengard](./The%20Vermillion%20Crown/Ossengard.md) is a fortress city and officer-school centre on the hard road between the Crown’s interior estates and scar-facing military corridors.
+
+[Rhalstoke](./The%20Vermillion%20Crown/Rhalstoke.md) is an industrial riverworks city that builds the chains, gears, bridge parts, pump housings, and gate mechanisms used across Crown-controlled routes.
+
 ## Dominant Peoples
 
 The Vermillion Crown is primarily human.
