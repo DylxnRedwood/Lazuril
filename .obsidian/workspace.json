@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "docs/Worldbuilding/_Private/NPCs/The Horned Tiefling.md",
+=======
+                "file": "Edrin Vaal.md",
+>>>>>>> b4fdcb5d6e6b25c1ed524120a4f52c5d2054bd14
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "The Horned Tiefling"
+=======
+              "title": "Edrin Vaal"
+>>>>>>> b4fdcb5d6e6b25c1ed524120a4f52c5d2054bd14
             }
           }
         ]
@@ -94,7 +102,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "docs/Worldbuilding/_Private/NPCs/The Horned Tiefling.md",
+=======
+                "file": "Edrin Vaal.md",
+>>>>>>> b4fdcb5d6e6b25c1ed524120a4f52c5d2054bd14
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for The Horned Tiefling"
+=======
+              "title": "Backlinks for Edrin Vaal"
+>>>>>>> b4fdcb5d6e6b25c1ed524120a4f52c5d2054bd14
             }
           },
           {
@@ -113,12 +129,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "docs/Worldbuilding/_Private/NPCs/The Horned Tiefling.md",
+=======
+                "file": "Edrin Vaal.md",
+>>>>>>> b4fdcb5d6e6b25c1ed524120a4f52c5d2054bd14
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Outgoing links from The Horned Tiefling"
+=======
+              "title": "Outgoing links from Edrin Vaal"
+>>>>>>> b4fdcb5d6e6b25c1ed524120a4f52c5d2054bd14
             }
           },
           {
@@ -156,13 +180,21 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "docs/Worldbuilding/_Private/NPCs/The Horned Tiefling.md",
+=======
+                "file": "Edrin Vaal.md",
+>>>>>>> b4fdcb5d6e6b25c1ed524120a4f52c5d2054bd14
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline of The Horned Tiefling"
+=======
+              "title": "Outline of Edrin Vaal"
+>>>>>>> b4fdcb5d6e6b25c1ed524120a4f52c5d2054bd14
             }
           }
         ]
@@ -185,12 +217,20 @@
   },
   "active": "a0cf317896f750eb",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "docs/Worldbuilding/_Private/NPCs/Aaldar.md",
     "docs/Worldbuilding/_Private/NPCs/Edrin Vaal.md",
     "docs/Worldbuilding/_Private/Campaign Opener - The Man in the River.md",
     "docs/Worldbuilding/_Private/Factions/README.md",
     "docs/Worldbuilding/_Private/PCs/Alekthar Amakiir.md",
     "docs/Worldbuilding/_Private/NPCs/Aleron.md",
+=======
+    "docs/Worldbuilding/_Private/Campaign Opener - The Man in the River.md",
+    "docs/Worldbuilding/_Private/Factions/README.md",
+    "Edrin Vaal.md",
+    "_Private/PCs/Alekthar Amakiir.md",
+    "_Private/NPCs/Aleron.md",
+>>>>>>> b4fdcb5d6e6b25c1ed524120a4f52c5d2054bd14
     "Veinstone.md"
   ]
 }
