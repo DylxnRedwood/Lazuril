@@ -70,7 +70,7 @@ Teclis quickly realises the matter is not beneath him.
 
 ### [[Cassian Clarke]]
 
-[[Cassian Clarke]] is in Morfael because it is exactly the kind of place his missionary work has brought him to: a hard riverside town full of sailors, ferrymen, widows, labourers, frightened families, and people who need comfort more than doctrine. The [[Morfael - NPCs and Sites#Moon-in-Water Shrine|Moon-in-Water Shrine]] is small, poor, and easy for the powerful to ignore, but it matters deeply to those who cross the river by night or wait for loved ones to return from it.
+[[Cassian Clarke]] is in Morfael because it is exactly the kind of place his missionary work has brought him to: a hard riverside town full of sailors, ferrymen, widows, labourers, frightened families, and people who need comfort more than doctrine. The [[Morfael - NPCs and Sites#The Lumenwell Shrine|Lumenwell Shrine]] is small, poor, and easy for the powerful to ignore, but it matters deeply to those who cross the river by night or wait for loved ones to return from it.
 
 Cassian has been helping [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]] and [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]] with rites for missing riverfolk, letters home, blessings for travellers, and quiet counselling for families who cannot afford the attention of the upper city’s temples. He may also be using Morfael as a stop on his missionary route toward [[Caer Oryn]], writing one of his regular letters home from the chapel or shrine.
 
