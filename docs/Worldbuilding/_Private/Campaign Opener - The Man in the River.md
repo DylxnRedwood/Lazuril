@@ -24,6 +24,7 @@ This chapter should do the following:
 - Introduce [[The Vermillion Crown]] as a secretive experimental power.
 - Reveal that red [[Veinstone]] dust is being forced into living bodies.
 - Give [[Nakoa]], [[Alekthar Amakiir]], [[Teclis Nimule Sílorion]], and [[Cassian Clarke]] each a personal reason to care.
+- Make [[Nakoa]] central to the first supernatural reaction rather than a late-arriving outsider.
 - Present the first campaign choice: truth, safety, secrecy, or public trust.
 
 ## The Starting Situation
@@ -41,9 +42,11 @@ Over the past few days, strange things have been reported in Morfael. A half-dea
 
 ### [[Nakoa]]
 
-[[Nakoa]] is in Morfael because [[Arden Rook]] or [[The Veiled Path]] has learned that red veinstone dust, Veylrain relic fragments, and gold-marked stone have been moved through the river warehouses. The lead points toward [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], a dockside broker-scribe who sometimes passes messages through hidden channels.
+[[Nakoa]] has already been in Morfael for several days before the opening scene. [[Arden Rook]] or [[The Veiled Path]] sent him after rumours that red veinstone dust, Veylrain relic fragments, and gold-marked stone were moving through the river warehouses under false cargo names. The trail led him to [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], a dockside broker-scribe who sometimes passes messages through hidden channels.
 
 Nakoa is not just following a rumour. Rennic has obtained a tiny smear of red dust taken from a cracked spice jar near the Black Eel Market, and the markwork on Nakoa’s relic-touched magic prickles when he is near it. It is not the same as his black-and-gold feline relic, but it answers to the same family of old binding logic. That makes Nakoa more than a thief or outsider in the opening. He is the only person present whose body already reacts to the evidence before Edrin appears.
+
+Nakoa has also already crossed paths with [[Cassian Clarke]]. One of the missing riverfolk on [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]]’s list also served as a quiet courier in Rennic’s network, carrying harmless-looking packages between the Black Eel Market and Harrowchain Ferry. Cassian was trying to put a name and family to the disappearance. Nakoa was trying to work out what the courier had been carrying. They did not become friends, but they helped each other enough to know the other is not wasting time.
 
 If the party inspect the Flood Steps before the body surfaces, Nakoa can notice that the red grit is not scattered like ordinary cargo spill. It forms thin lines in cracks between stones, almost like something dragged itself toward the river while bleeding dust.
 
@@ -73,7 +76,9 @@ Cassian has been helping [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]] and 
 
 Cassian is also involved before Edrin appears because several missing names on Eira Lorne’s list are not criminals, soldiers, or smugglers. They are ordinary river workers, grieving spouses, and travelling labourers who vanished after being seen near Crown-controlled crossings. Cassian has promised at least one family that he will ask questions the watch has ignored.
 
-He is not present because of a dramatic sky-omen. He is present because his faith sends him to people at thresholds: roads, rivers, grief, distance, and uncertainty. When Edrin washes ashore, Cassian recognises a man trapped at exactly such a threshold, neither properly dead, properly alive, nor safely released.
+Cassian already knows Nakoa before the formal chapel meeting. Their first meeting was not warm. Cassian was asking after a missing courier’s family, while Nakoa was following the same person’s last route through the Black Eel Market. Cassian saw that Nakoa knew more about hidden movement through Morfael than any honest local should. Nakoa saw that Cassian was not a naive priest chasing superstition, but someone who could get frightened people to speak. Their connection is cautious, practical, and unfinished.
+
+Cassian is not present because of a dramatic sky-omen. He is present because his faith sends him to people at thresholds: roads, rivers, grief, distance, and uncertainty. When Edrin washes ashore, Cassian recognises a man trapped at exactly such a threshold, neither properly dead, properly alive, nor safely released.
 
 If the party inspect the scene before the body surfaces, Cassian can identify which witnesses are frightened rather than dishonest, calm a panicking relative of one missing river worker, or realise that the way locals speak about the disappearances resembles grief before burial rather than superstition.
 
@@ -89,13 +94,13 @@ Use this structure if the players want a believable reason to already be in the 
 
 **Cassian Clarke** is the witness of faith and the common people. Sister Halva and [[Morfael - NPCs and Sites#Eira Lorne|Eira Lorne]] already know him because he has been helping families of missing riverfolk, blessing travellers, reading or carrying letters, and listening to people who do not trust Crown officials. Teclis interviews him because Cassian can describe local fears without exaggerating them into false miracle or heresy. Cassian also knows which missing people had families, jobs, debts, routes, and names, making the investigation human rather than abstract.
 
-**Alekthar Amakiir** is brought in through the manifest. [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]] copied a cargo fragment bearing an Amakiir-linked mineral mark before the original vanished. Teclis recognises the name as sensitive from restricted records concerning [[House Amakiir]], the Night of Golden Tears, and Aasimar bloodlines. Sister Halva sends word discreetly, or Teclis arranges for Alekthar to be notified through formal channels.
+**Nakoa** is already in the undercurrent before the others arrive. [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]] has heard that red veinstone dust and Veylrain fragments are moving through Morfael and has brought Nakoa into the matter before the chapel inquiry formally begins. Cassian has already met him while tracing a missing courier from Eira’s list. Nakoa may be reluctant to enter a church inquiry, but the red dust reacts faintly to him, which makes his presence impossible to dismiss.
 
-**Nakoa** is brought in through the undercurrent. [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]] has heard that red veinstone dust and Veylrain fragments are moving through Morfael. Rennic does not trust the church, the watch, or the Crown, but he does trust the shape of the danger enough to bring Nakoa near the inquiry. Nakoa may arrive late, be introduced by Rennic at the chapel door, or already be watching the Black Eel Market when the others come looking. The red dust reacts faintly to him, which means his presence immediately matters.
+**Alekthar Amakiir** is brought in through the manifest. [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]] copied a cargo fragment bearing an Amakiir-linked mineral mark before the original vanished. Teclis recognises the name as sensitive from restricted records concerning [[House Amakiir]], the Night of Golden Tears, and Aasimar bloodlines. Sister Halva sends word discreetly, or Teclis arranges for Alekthar to be notified through formal channels.
 
 ### Suggested First Meeting
 
-The night before the opening scene, Sister Halva gathers them in the back room of the Chapel of the Last Lantern. Teclis is already there, officially representing the inquiry. Cassian is there because he has been helping the chapel, the shrine, and the families of the missing. Alekthar arrives after receiving word about the Amakiir-linked manifest. Rennic brings Nakoa last, reluctantly, because the red dust and Veylrain fragments sound like Nakoa’s kind of trouble.
+The night before the opening scene, Sister Halva gathers them in the back room of the Chapel of the Last Lantern. Teclis is already there, officially representing the inquiry. Cassian is there because he has been helping the chapel, the shrine, and the families of the missing. Nakoa arrives with Rennic Sallow, though Cassian recognises him from their earlier search through the Black Eel Market. Alekthar arrives after receiving word about the Amakiir-linked manifest.
 
 On the table are four pieces of evidence:
 
@@ -116,17 +121,21 @@ Alekthar may know Teclis as the elven inquirer attached to The Final Journey, or
 
 Cassian may know Teclis from the last few days of inquiry work. Teclis has questioned him about missing riverfolk, local shrine practices, and whether the chapel reports sound like false miracle, hysteria, or something else. Cassian may not like being treated as a witness, but he can recognise that Teclis is competent.
 
+Cassian already knows Nakoa from a tense but useful search through the Black Eel Market. Cassian was following a missing person’s human trail. Nakoa was following the same person’s hidden cargo trail. Each learned that the other had part of the truth.
+
+Nakoa knows Cassian is not an ordinary priestly nuisance. Cassian can get locals to speak, can read grief accurately, and has access to Eira’s missing-person list. Nakoa may still be guarded around him, but Cassian is the one PC he has already worked beside before the campaign begins.
+
 Cassian may know Alekthar only from the chapel meeting, but their connection can start through grief, faith, and service. Cassian sees a man carrying family ruin and duty. Alekthar sees a missionary whose concern for Morfael seems sincere rather than political.
 
-Nakoa probably knows none of them well. His connection is through Rennic Sallow, Arden Rook, and The Veiled Path. He enters the group as the least trusted and most useful outsider: someone who understands relic traffic, hidden movement, and dangerous old stone. His immediate value is obvious once the red dust reacts faintly to his presence.
+Nakoa probably does not know Teclis or Alekthar well. His connection is through Rennic Sallow, Arden Rook, The Veiled Path, and now Cassian. He enters the group as the least trusted but not completely unknown outsider: someone who understands relic traffic, hidden movement, dangerous old stone, and the red dust’s reaction.
 
 ### Starting Dynamic
 
 - Teclis is the local institutional anchor and the reason the inquiry has permission to exist at all.
 - Sister Halva is the local moral anchor and the reason the inquiry is not simply swallowed by doctrine.
 - Cassian is the common-faith connection to Morfael’s people and the missing riverfolk.
+- Nakoa is the underworld, relic-traffic, and ancient-stone connection, already tied to Cassian through a shared missing-person lead.
 - Alekthar is the personal-stakes connection to the manifest and old mineral authority.
-- Nakoa is the underworld, relic-traffic, and ancient-stone connection.
 
 This makes the group feel deliberately assembled, but not conveniently unified.
 
@@ -157,7 +166,7 @@ Important sites are detailed in [[Morfael - NPCs and Sites]].
 
 The opening conflict occurs at [[Morfael - NPCs and Sites#The Flood Steps|the Flood Steps]], below the [[Morfael - NPCs and Sites#Black Eel Market|Black Eel Market]]. This area should be busy with ordinary life before the body appears.
 
-Before the body surfaces, let Cassian and Nakoa do something that matters. Cassian might be speaking with the family of a missing ferry-hand, helping Eira Lorne mark a name on the missing list, or calming Tovin Rusk after the boy says he saw red stains near the water. Nakoa might be watching a suspected relic broker, inspecting the red grit in the cracks of the steps, or meeting Rennic Sallow near the market edge. These actions should be interrupted by the river giving up Edrin.
+Before the body surfaces, let Cassian and Nakoa do something that matters together or in parallel. Cassian might be speaking with the family of the missing courier they both traced, helping Eira Lorne mark a name on the missing list, or calming Tovin Rusk after the boy says he saw red stains near the water. Nakoa might be inspecting the red grit in the cracks of the steps, watching a suspected relic broker, or showing Cassian that the courier’s last route lines up with Rennic’s cargo trail. These actions should be interrupted by the river giving up Edrin.
 
 Use the following nearby NPCs from [[Morfael - NPCs and Sites]]:
 
@@ -329,6 +338,8 @@ The chapter should point toward three to five follow-up leads.
 **The Missing Riverfolk.** A Cassian-facing lead that turns the Crown’s experiments from abstract conspiracy into named victims and grieving families.
 
 **The Red Dust Reaction.** A Nakoa-facing lead that proves his relic-touched magic is not only related to old Veylrain boundary work, but can also trigger, read, or disturb modern Crown misuse of veinstone residue.
+
+**The Missing Courier.** A shared Cassian and Nakoa lead. Cassian knows the family and name. Nakoa knows the courier’s hidden route and possible cargo connection.
 
 ## Chapter Advancement
 
