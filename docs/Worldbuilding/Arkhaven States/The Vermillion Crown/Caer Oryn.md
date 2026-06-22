@@ -1,5 +1,9 @@
 ## Caer Oryn
 
+<div class="state-image-container">
+	<img src="/assets/images/the-vermillion-crown.png?v=20260622" alt="Caer Oryn, capital of the Vermillion Crown" class="state-thumb" onclick="openLightbox('/assets/images/the-vermillion-crown.png?v=20260622')">
+</div>
+
 Caer Oryn is the capital city of [The Vermillion Crown](../The%20Vermillion%20Crown.md), and one of the wealthiest and most politically important cities in [Arkhaven](../../Continents/Arkhaven.md).
 
 The city sits on the **River Oryn**, with its lower districts built along the water and its seat of power raised farther inland, where the main keep stands on a hilltop above the city.

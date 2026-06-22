@@ -1,7 +1,7 @@
 ## The Vermillion Crown
 
 <div class="state-image-container">
-	<img src="/assets/images/the-vermillion-crown.png" alt="The Vermillion Crown" class="state-thumb" onclick="openLightbox('/assets/images/the-vermillion-crown.png')">
+	<img src="/assets/images/the-vermillion-crown.png?v=20260622" alt="The Vermillion Crown" class="state-thumb" onclick="openLightbox('/assets/images/the-vermillion-crown.png?v=20260622')">
 </div>
 
 The **Vermillion Crown** is the crowning jewel of [Arkhaven](../Continents/Arkhaven.md): a very wealthy, highly organised, militarised human state that controls movement through the [Godscar](../Arkhaven%20Lore/The%20Godscar.md) regions and the [Crimson Chain](../Continents/Arkhaven.md).
