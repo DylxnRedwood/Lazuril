@@ -33,7 +33,9 @@ A cramped fish and salvage market near the Flood Steps. Its stalls sell river fi
 
 The market is not a thieves’ guild den, but [[The Veiled Path]] uses it when it needs ordinary trade to hide unusual cargo. Red veinstone dust and Veylrain fragments have recently moved through the market under false cargo names.
 
-**Associated NPCs:** [[Morfael - NPCs and Sites#Mara Venn|Mara Venn]], [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], [[Morfael - NPCs and Sites#Branna Cale|Branna Cale]], [[Morfael - NPCs and Sites#Tovin Rusk|Tovin Rusk]], [[Nakoa]].
+This is where [[Nakoa]] has spent most of his time before the opener, watching for relic traffic and following Rennic Sallow’s lead. It is also where [[Cassian Clarke]] first crossed paths with him while tracing the last known route of a missing courier from Eira Lorne’s list.
+
+**Associated NPCs:** [[Morfael - NPCs and Sites#Mara Venn|Mara Venn]], [[Morfael - NPCs and Sites#Rennic Sallow|Rennic Sallow]], [[Morfael - NPCs and Sites#Branna Cale|Branna Cale]], [[Morfael - NPCs and Sites#Tovin Rusk|Tovin Rusk]], [[Nakoa]], [[Cassian Clarke]].
 
 ### Chapel of the Last Lantern
 
@@ -41,7 +43,7 @@ A small, practical chapel connected to [[The Final Journey]]. It serves drowned 
 
 Its bell is old and cracked. Locals say it sounds different when rung for someone who has not fully died.
 
-**Associated NPCs:** [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]], [[Morfael - NPCs and Sites#Caldus Wye|Caldus Wye]], [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]], [[Cassian Clarke]], [[Teclis Nimule Sílorion]], [[Alekthar Amakiir]].
+**Associated NPCs:** [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]], [[Morfael - NPCs and Sites#Caldus Wye|Caldus Wye]], [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]], [[Cassian Clarke]], [[Teclis Nimule Sílorion]], [[Alekthar Amakiir]], [[Nakoa]].
 
 ### Moon-in-Water Shrine
 
@@ -73,7 +75,9 @@ This is the likely route by which [[Edrin Vaal]] enters the river, whether escap
 
 A chain ferry linking Morfael to the opposite bank and several river paths used by labourers, smugglers, and those who prefer not to pass through Crown gates.
 
-**Associated NPCs:** [[Morfael - NPCs and Sites#Old Pell|Old Pell]], [[Morfael - NPCs and Sites#Bram Odrick|Bram Odrick]], [[Cassian Clarke]].
+One missing courier from Eira Lorne’s list was last seen between Harrowchain Ferry and the Black Eel Market. This is the lead that first places Cassian and Nakoa on the same path.
+
+**Associated NPCs:** [[Morfael - NPCs and Sites#Old Pell|Old Pell]], [[Morfael - NPCs and Sites#Bram Odrick|Bram Odrick]], [[Cassian Clarke]], [[Nakoa]].
 
 ### The Hook and Bell
 
@@ -177,7 +181,7 @@ Halfling man, 50s. Broker-scribe at Vellum House.
 
 Rennic writes cargo manifests, letters, false invoices, and dockside contracts for people who cannot or should not use official channels. He is not a full member of [[The Veiled Path]], but he has passed messages for them and knows [[Arden Rook]] by reputation.
 
-**Opening role:** Nakoa’s local contact and Alekthar’s route into the false manifest.
+**Opening role:** Nakoa’s local contact, Alekthar’s route into the false manifest, and the bridge between relic traffic and the missing-person trail.
 
 **Useful information:** Red veinstone dust was moved through Morfael in sealed spice jars two nights earlier, and a forged or misused Amakiir-linked mineral mark appears on a related cargo reference. Rennic has a tiny dust smear wrapped in waxed paper, which reacts faintly when Nakoa comes close.
 
@@ -277,7 +281,7 @@ Eira is not a formal priestess. She keeps the basin clean, lights candles, recor
 
 **Public role:** Selûnite shrine keeper.
 
-**Secret:** She has been keeping a private list of missing riverfolk whose families do not trust the watch. Cassian has helped her comfort several of those families and organise the list into names, routes, dates, and last-known crossings.
+**Secret:** She has been keeping a private list of missing riverfolk whose families do not trust the watch. Cassian has helped her comfort several of those families and organise the list into names, routes, dates, and last-known crossings. One of those missing people also appears in Rennic Sallow’s hidden courier notes, creating the first overlap between Cassian and Nakoa.
 
 ### Caldus Wye
 
@@ -411,7 +415,7 @@ Rennic appears above as an opening NPC, but he is also the most important crimin
 
 **Role in Morfael:** Broker between ordinary dock trade and hidden networks.
 
-**Use:** Rennic can help the party hide, forge a cargo pass, identify a false ledger, or contact [[The Veiled Path]]. He also provides Nakoa with the first red-dust sample that reacts faintly to Nakoa’s relic-touched magic.
+**Use:** Rennic can help the party hide, forge a cargo pass, identify a false ledger, or contact [[The Veiled Path]]. He also provides Nakoa with the first red-dust sample that reacts faintly to Nakoa’s relic-touched magic. His hidden courier notes overlap with Eira Lorne’s missing-person list, which is why Cassian and Nakoa already crossed paths before the chapel meeting.
 
 ### Veyra Sorn
 
@@ -464,7 +468,9 @@ Nakoa is present because [[Arden Rook]] or [[The Veiled Path]] has sent him towa
 
 Rennic shows Nakoa a tiny smear of red dust wrapped in waxed paper. It is not the same as Nakoa’s black-and-gold relic, but it answers in the same hidden language. This gives Nakoa an active reason to inspect Morfael before Edrin appears.
 
-**Knows beforehand:** Rennic Sallow by contact. He may recognise Teclis, Alekthar, and Cassian from the chapel meeting, but does not truly know them yet.
+Nakoa has been in Morfael for several days before the opening and already knows Cassian Clarke. Their first meeting was practical and tense: Cassian was following a missing courier’s human trail, while Nakoa was following the same person’s hidden cargo route. They each discovered the other had part of the truth.
+
+**Knows beforehand:** Rennic Sallow by contact and Cassian Clarke through the missing courier lead. He may recognise Teclis and Alekthar from the chapel meeting, but does not truly know them yet.
 
 ### [[Alekthar Amakiir]]
 
@@ -472,13 +478,13 @@ Alekthar is present because an Amakiir-linked mineral mark has appeared on a sus
 
 This is not just a rumour that sounds like his tragedy. It is evidence that someone may be exploiting his house’s old trade authority to move experimental material.
 
-**Knows beforehand:** Teclis by formal inquiry or reputation. Cassian lightly from the chapel meeting. Nakoa only as the suspicious relic-connected outsider introduced by Rennic.
+**Knows beforehand:** Teclis by formal inquiry or reputation. Cassian lightly from the chapel meeting. Nakoa as the relic-connected outsider Cassian has already encountered while tracing a missing courier.
 
 ### [[Teclis Nimule Sílorion]]
 
 Teclis is present because [[Arch-Lector Meren Voss]] sends him from [[The Final Journey]] to investigate rumours of improper soul-binding, false resurrection, or heretical miracle-work in Morfael. Voss does not respect Teclis’ posting and likely treats this errand as a way to keep him occupied away from more important church matters.
 
-**Knows beforehand:** Cassian as a grounded witness among the families, shrine-keepers, and riverfolk affected by recent disappearances. Alekthar by record, reputation, or a prior formal conversation regarding sensitive religious history. Nakoa only after Rennic introduces him during the Last Lantern Inquiry.
+**Knows beforehand:** Cassian as a grounded witness among the families, shrine-keepers, and riverfolk affected by recent disappearances. Alekthar by record, reputation, or a prior formal conversation regarding sensitive religious history. Nakoa only after Rennic and Cassian draw him into the Last Lantern Inquiry.
 
 ### [[Cassian Clarke]]
 
@@ -488,7 +494,9 @@ Cassian is not here because the sky did something dramatic. He is here because p
 
 His active contribution before the fight is the missing-person list. Cassian can put names, routes, families, and grief behind what might otherwise look like a strange magical incident.
 
-**Knows beforehand:** Teclis from the inquiry. Alekthar from the chapel meeting and shared concern over the evidence. Nakoa only by brief introduction.
+Cassian already knows Nakoa from tracing one of those missing names. He may not fully trust him, but he knows Nakoa is not simply preying on Morfael’s suffering. Nakoa has information about hidden routes and cargo movement that Cassian cannot get from grieving families alone.
+
+**Knows beforehand:** Teclis from the inquiry, Nakoa from the missing courier lead, and Alekthar from the chapel meeting and shared concern over the evidence.
 
 ## Useful Local Rumours
 
@@ -522,6 +530,7 @@ His active contribution before the fight is the missing-person list. Cassian can
 | Amakiir-linked manifest | Nira Clent or Rennic Sallow |
 | Red dust sample | Rennic Sallow and Nakoa |
 | Missing riverfolk | Eira Lorne and Cassian Clarke |
+| Shared Cassian/Nakoa lead | Missing courier between Harrowchain Ferry and Black Eel Market |
 | Old infrastructure route | Elian Marr |
 | Forged papers or hidden ledger | Rennic Sallow or Nira Clent |
 | Tavern rumours | Orwyn Breck or Sella Varrow |
