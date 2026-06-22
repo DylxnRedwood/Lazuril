@@ -61,7 +61,7 @@ She does not address each character separately with rehearsed speeches. She has 
 >
 > She taps the folded list once.
 >
-> “These are people. Not rumours. Not dockside trouble. People. Some were last seen near the market. Some near the ferry road. One was a courier named Edrin Vaal.”
+> “These are people. Not rumours. Not dockside trouble. People. Some were last seen near the market. Some near the ferry road.”
 >
 > Her hand moves to the copied cargo scrap.
 >
