@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Worldbuilding/_Private/Factions/README.md",
+                "file": "Edrin Vaal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Edrin Vaal"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Worldbuilding/_Private/Factions/README.md",
+                "file": "Edrin Vaal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Edrin Vaal"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Worldbuilding/_Private/Factions/README.md",
+                "file": "Edrin Vaal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Edrin Vaal"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Worldbuilding/_Private/Factions/README.md",
+                "file": "Edrin Vaal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Edrin Vaal"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "a5fa21f804dc9b29",
   "lastOpenFiles": [
-    "Edrin Vaal.md",
     "docs/Worldbuilding/_Private/Campaign Opener - The Man in the River.md",
+    "docs/Worldbuilding/_Private/Factions/README.md",
+    "Edrin Vaal.md",
     "_Private/PCs/Alekthar Amakiir.md",
     "_Private/NPCs/Aleron.md",
     "Veinstone.md"
