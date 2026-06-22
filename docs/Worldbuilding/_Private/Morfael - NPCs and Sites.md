@@ -45,7 +45,7 @@ Its bell is old and cracked. Locals say it sounds different when rung for someon
 
 **Associated NPCs:** [[Morfael - NPCs and Sites#Sister Halva Dorn|Sister Halva Dorn]], [[Morfael - NPCs and Sites#Caldus Wye|Caldus Wye]], [[Morfael - NPCs and Sites#Nira Clent|Nira Clent]], [[Cassian Clarke]], [[Teclis Nimule Sílorion]], [[Alekthar Amakiir]], [[Nakoa]].
 
-### Moon-in-Water Shrine
+### The Lumenwell Shrine
 
 A small Selûnite alcove built into an old flood wall. A shallow basin holds river water. Sailors, ferrymen, widows, messengers, and travellers leave candles here before night crossings or long roads.
 
@@ -275,7 +275,7 @@ Elian knows the old waterworks beneath Morfael better than current officials do.
 
 ### Eira Lorne
 
-Human woman, 30s. Caretaker of the Moon-in-Water Shrine.
+Human woman, 30s. Caretaker of the Lumenwell Shrine.
 
 Eira is not a formal priestess. She keeps the basin clean, lights candles, records names of the missing, and helps travellers leave letters for people they may not see again.
 
