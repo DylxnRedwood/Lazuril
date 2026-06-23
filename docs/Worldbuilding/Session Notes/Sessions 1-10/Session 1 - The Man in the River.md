@@ -2,7 +2,7 @@
 
 *Played: 22 June 2026*  
 *Location: [[Morfael]]*  
-*Starting point: [[Morfael - NPCs and Sites#Chapel of the Last Lantern|Chapel of the Last Lantern]]*  
+*Starting point: Chapel of the Last Lantern*  
 
 ---
 
@@ -64,8 +64,8 @@ They saw a darkened world beneath thunderous clouds. Red lightning split the sky
 >
 > Beneath your rivers.
 > Within your walls.
->
 > I have laid in waiting.
+>
 > Your towers rose.
 > Your prayers echoed.
 > Your kings called themselves eternal.
@@ -75,6 +75,7 @@ They saw a darkened world beneath thunderous clouds. Red lightning split the sky
 > In the water.
 > In the stone.
 > In your blood.
+>
 > My reach is unending.
 >
 > The world was never yours.
@@ -93,7 +94,7 @@ Nakoa and Cassian pressed the attack with their blades, one raw and swift, the o
 
 ---
 
-## Where the Session Ended
+## TBC
 
 By the end of the fight, Edrin Vaal lay destroyed at the river’s edge. The market had scattered in terror. The party had seen enough to know that this was not ordinary undeath, not simple smuggling, and not a problem that would stay contained within Morfael.
 
