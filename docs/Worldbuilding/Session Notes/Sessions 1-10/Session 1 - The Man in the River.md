@@ -115,40 +115,40 @@ Recognising Edrin, Strake gave the party directions to Gullhook Loft, the small 
 
 ---
 
-## On the Road to Gullhook Loft
+## The Walk to Gullhook Loft
 
-The journey from the water’s edge to Gullhook Loft was short, but Morfael made even a short walk feel close and damp. The party passed through dank streets, over wet stone, beneath leaning walls and patched roofs, carrying the weight of what had just happened.
+The path from the Flood Steps to Gullhook Loft was not long, but Morfael made it feel narrower than it was. The party left the open river behind and moved through damp lanes pressed between patched roofs, stained walls, leaning timber, and the sour smell of wet rope and old smoke. Behind them, the market was still recovering. Ahead of them was Edrin Vaal’s room, and whatever he had thought worth hiding before the river took him.
 
-As they walked, Nakoa questioned the others about the strange protection he had experienced during the fight. He did not understand why Edrin’s blow had failed to land. Something had shielded him, but Nakoa did not know how.
+As they walked, Nakoa returned to the moment that had unsettled him most. Edrin had struck him, yet the blow had failed to land. Something had stood between fist and flesh. The others recognised the shape of it as magic, but that answer did not sit easily with him. Nakoa did not think of himself as magical. Not in the way Cassian called upon divine strength, nor in the way Teclis shaped the world through study, discipline, and long elven training.
 
-The others suggested that it was likely magic, but Nakoa was puzzled. He did not consider himself magical, at least not in any way he understood. He asked the others how their magic worked, and they answered in kind. Cassian spoke of calling upon his god. Teclis spoke of many years of training at an esteemed elven college.
+The question turned into a small exchange between them: where power came from, what it looked like, and whether it had to announce itself before it could be real.
 
-Teclis then conjured an illusion of a succulent roast chicken. Nakoa, naturally, tried to sample the freshly presented food, only to discover that no matter how convincing it smelled, it could not be eaten.
+Teclis, by way of demonstration, conjured the image of a succulent roast chicken, rich enough in scent and appearance to tempt even after the morning’s horror. Nakoa tried to take what was offered and found only absence beneath the promise of meat. The joke carried them a little further through the gloom.
 
-With a little posturing, Nakoa tried his hand at the same trick. To his own surprise, he managed it. It was not as refined as Teclis’ work, but there it was all the same: a cooked chicken formed from illusion.
+Then, with more confidence than certainty, Nakoa tried to imitate the trick. The result was rougher than Teclis’ work, less polished and less convincing, but undeniably present: a cooked chicken formed from illusion, called up by a tabaxi who had only moments before insisted he was not magical at all.
 
 ---
 
 ## Gullhook Loft
 
-The party arrived at Gullhook Loft and climbed the stairs fixed to the outside of the building, reaching a small door set into the gable end of the roof. The door was locked.
+Gullhook Loft sat above the street like an afterthought, its access reached by an exterior stair fixed to the side of the building. At the gable end, beneath the damp pitch of the roof, a small locked door marked the room where Edrin Vaal had been staying.
 
-Nakoa tried to work the lock with his picks but struggled to get purchase until Alekthar placed a hand on his shoulder and granted him guidance. With that, the lock opened, and the party entered.
+Nakoa set to work with his picks, but the lock resisted him. After a few tense attempts, Alekthar placed a steadying hand on his shoulder and lent him guidance. With that quiet help, the mechanism gave way, and the party slipped inside.
 
-The room was cramped, damp, and deliberately plain. It contained a hammock bed and pillow, a small writing board, courier tags, and wax scraps. Teclis cast light upon the pillow, brightening the room enough for the party to search properly.
+The room was cramped, damp, and deliberately plain. There was little comfort in it: a hammock bed, a pillow, a small writing board, courier tags, wax scraps, and the stale feeling of a place used for sleeping between jobs rather than living. Teclis cast light upon the pillow, and the sudden brightness exposed the room’s meagre contents in hard detail.
 
-Nakoa examined the courier tags and recognised the sort of work they represented. He had seen tags like these before and discerned that the most recent one concerned a shipment bound for Magpie Lane in the Foundry Quarter of Caer Oryn.
+Nakoa recognised the courier tags. He had seen their like before and understood enough of their markings to identify the most recent route. Whatever Edrin had been carrying, or arranging to carry, it pointed toward Magpie Lane in the Foundry Quarter of Caer Oryn.
 
-The party searched more closely. Almost simultaneously, though by different means, Alekthar noticed disturbed dust as the light struck a floorboard, while Nakoa saw a chip in the wood. Together, they found a secret panel set into the floor.
+The party pressed the search further. The room looked bare by design, but not untouched. In the cast light, Alekthar caught the faint disturbance of dust along one floorboard. At almost the same moment, Nakoa noticed a chip in the wood that did not match ordinary wear. Different eyes, different instincts, the same answer: something had been hidden below.
 
-Inside was a piece of cloth. Nakoa felt that it could only have come from the Veylrain Expanse, both in its material and the technique of its weaving. Wrapped within it was a red candle whose wax shimmered faintly with gold, and a small wooden idol shaped like a stamp. Its base had been carved to match the sigil of House Amakiir.
+They lifted the secret panel and found a small bundle concealed beneath the floor.
+
+Inside was a piece of cloth. Nakoa recognised its material and weaving as something that could only have come from the Veylrain Expanse. Wrapped within it was a red candle whose wax carried a faint gold shimmer, and a small wooden idol shaped like a stamp. The base had been carved to match the sigil of House Amakiir.
 
 ---
 
-## Where the Session Ended
+## End of Session
 
-The session ended in Gullhook Loft, with the party gathered around the hidden panel and the objects concealed beneath Edrin Vaal’s floorboards.
+The session closed on that discovery: Edrin Vaal dead, the market shaken, Watch-Corporal Strake buying the party only a narrow window, and a hidden bundle beneath Gullhook Loft tying together Veylrain cloth, red-gold wax, courier work, Caer Oryn, and the stolen shape of House Amakiir authority.
 
-By then, the party had seen enough to know that this was not ordinary undeath, not simple smuggling, and not a problem that would stay contained within Morfael. The false manifests, stamped bandages, cloaked scouts, red dust, puncture marks, strange brand, repeated reanimations, courier tags, Veylrain cloth, red-gold candle, and Amakiir-marked wooden stamp all pointed toward something larger beneath the surface.
-
-The party had met by necessity. By the end of the morning, they had already stood together against the first sign of something returning.
+What began as a body in the river had become something wider. Morfael had shown the party its first corpse, its first clue, and its first warning that the trouble beneath the city was already moving in daylight.
