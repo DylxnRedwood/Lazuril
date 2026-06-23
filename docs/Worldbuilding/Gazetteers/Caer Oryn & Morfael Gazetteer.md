@@ -6,7 +6,7 @@ Caer Oryn is the polished face of Vermillion power: a white-stone capital of bri
 
 Morfael is what sits below that order. It is close enough to the capital to be controlled by it, but far enough downriver and downhill to be ignored when convenient. It exists because Caer Oryn needs river labour, ferry crossings, customs records, cheap storage, fish markets, pauper burials, repair yards, and people willing to do work the upper city prefers not to see.
 
-This gazetteer is written for players. It contains public knowledge, common assumptions, visible institutions, rumours, places people can visit, and details that characters might reasonably learn before or during early play. It does not include hidden histories, DM-only explanations, encounter tables, stat blocks, or secret faction structures.
+This gazetteer is written for players. It contains public knowledge, visible institutions, common local texture, and places characters might reasonably know about or visit. It does not include hidden histories, DM-only explanations, encounter tables, stat blocks, or secret faction structures.
 
 ---
 
@@ -19,7 +19,7 @@ This gazetteer is written for players. It contains public knowledge, common assu
 > Reserved for a future player-facing city map showing the hexagonal city, six approaches, six bridges, outer wards, riverfront, guild quarter, academy quarter, foundry quarter, high quarter, Crownward, and principal gates.
 
 > **Map space — Morfael town map**  
-> Reserved for a future player-facing town map showing the Flood Steps, Black Eel Market, Chapel of the Last Lantern, Moon-in-Water Shrine, Red Lockhouse, Kestrel Drain, Harrowchain Ferry, Hook and Bell, Vellum House, Cairnwell Yard, Low Lantern Row, and Marrowgate Road.
+> Reserved for a future player-facing town map showing the Flood Steps, Black Eel Market, Chapel of the Last Lantern, Lumenwell Shrine, Red Lockhouse, Harrowchain Ferry, Hook and Bell, Vellum House, Cairnwell Yard, Low Lantern Row, and Marrowgate Road.
 
 ---
 
@@ -39,13 +39,13 @@ This gazetteer is written for players. It contains public knowledge, common assu
 ### Morfael
 
 **State:** The Vermillion Crown  
-**Role:** Downriver outer settlement of Caer Oryn, ferry town, customs edge, river labour community, fish and salvage market, poor burial centre, repair yard, and unofficial listening post  
+**Role:** Downriver outer settlement of Caer Oryn, ferry town, customs edge, river labour community, fish and salvage market, poor burial centre, repair yard, and worker settlement  
 **Location:** Attached to the outer edge of Caer Oryn and downstream on the River Oryn, where the water runs toward Lake Tharne  
-**Character:** Wet stone, cheap smoke, dock labour, fish stink, ferry chains, old drains, customs sheds, tired watchmen, poor chapels, hidden cargo, and local people who notice more than officials expect  
+**Character:** Wet stone, cheap smoke, dock labour, fish stink, ferry chains, old drains, customs sheds, tired watchmen, poor chapels, crowded rooms, and local people who notice more than officials expect  
 **Government:** Crown-appointed reeve, lower-town watch, customs factors, toll clerks, river officers, and chapel influence  
 **Defence:** Watch posts, toll points, river chains, customs sheds, patrol routes, and occasional Crown officers from Caer Oryn  
-**Commerce:** Fish, eel, salvage, rope, boat repair, cart repair, cheap lodging, false or semi-legal paperwork, ferry fees, river cargo, laundry work, candles, burial services, and dockside information  
-**Religion:** The Chapel of the Last Lantern serves the poor dead and the drowned through The Final Journey. The Moon-in-Water Shrine gives Selûnite comfort to travellers, sailors, widows, messengers, and families of the missing.
+**Commerce:** Fish, eel, salvage, rope, boat repair, cart repair, cheap lodging, ferry fees, river cargo, laundry work, candles, burial services, and dockside information  
+**Religion:** The Chapel of the Last Lantern serves the poor dead and the drowned through The Final Journey. Lumenwell Shrine gives Selûnite comfort to travellers, sailors, widows, messengers, and families waiting for news.
 
 ---
 
@@ -153,11 +153,11 @@ Together, these cities show what the Vermillion Crown values: movement, discipli
 
 Morfael is a river town attached to the outer edge of Caer Oryn. It is close enough to feel like part of the capital, but far enough outside the main walls to be treated differently.
 
-The town sits downstream of the city, where the River Oryn runs west toward Lake Tharne. Morfael grew where the capital did not want to look too closely. Smaller channels, drainage cuts, old sewer mouths, service roads, spillways, poorer river land, and half-official storage all collect here before the water reaches the lake.
+The town sits downstream of the city, where the River Oryn runs west toward Lake Tharne. Morfael grew where the capital did not want to look too closely. Smaller channels, drainage cuts, service roads, spillways, poorer river land, and half-official storage all collect here before the water reaches the lake.
 
 Morfael is not lawless, but it is not Caer Oryn either. It has watch posts, toll points, river chains, customs sheds, patrol routes, and Crown officers. It does not have the same clean order as the higher districts inside the capital.
 
-People come to Morfael when they need work, passage, cheap lodging, quiet trade, river access, or a place where the Crown is watching but not always listening. The town is crowded with boatmen, washerfolk, dock labourers, fishmongers, cart drivers, sewer workers, petty merchants, smugglers, shrine-keepers, beggars, guards, pilgrims, and people who cannot afford to live properly inside Caer Oryn.
+People come to Morfael when they need work, passage, cheap lodging, river access, or a place where the city’s rules are present but less polished. The town is crowded with boatmen, washerfolk, dock labourers, fishmongers, cart drivers, sewer workers, petty merchants, shrine-keepers, beggars, guards, pilgrims, and people who cannot afford to live properly inside Caer Oryn.
 
 Morfael should feel wet, lived-in, poor in places, useful to everyone, and trusted by no one. It is close to power, but rarely protected by it.
 
@@ -171,35 +171,31 @@ Broad stone steps where the river meets the town. Fisherfolk, laundresses, child
 
 ### The Black Eel Market
 
-A cramped fish and salvage market near the Flood Steps. Its stalls sell river fish, smoked eel, cheap knives, netting, hooks, repaired boots, recovered river goods, broken tools, and things no one asks too many questions about. It is not advertised as criminal, but everyone knows some goods arrive by routes that do not trouble official ledgers.
+A cramped fish and salvage market near the Flood Steps. Its stalls sell river fish, smoked eel, cheap knives, netting, hooks, repaired boots, recovered river goods, broken tools, and cheap food. It is noisy, practical, and crowded enough that visitors can miss half of what matters.
 
 ### Chapel of the Last Lantern
 
-A small, practical chapel connected to **The Final Journey**. It serves drowned sailors, paupers, dock accidents, unidentified dead, grieving families, and those too poor to pay for formal rites in Caer Oryn. Its bell is old and cracked. Locals say it sounds different when rung for someone whose passing is not yet settled.
+A small, practical chapel connected to **The Final Journey**. It serves drowned sailors, paupers, dock accidents, unidentified dead, grieving families, and those too poor to pay for formal rites in Caer Oryn. Its bell is old and cracked. Locals know its sound well.
 
-### Moon-in-Water Shrine
+### Lumenwell Shrine
 
 A small Selûnite alcove built into an old flood wall. A shallow basin holds river water. Sailors, ferrymen, widows, messengers, and travellers leave candles here before night crossings or long roads. It matters because ordinary people ask for safe passage here, write names of the missing, leave letters for those who may never return, and sit with uncertainty.
 
 ### The Red Lockhouse
 
-A Crown-controlled customs and lock office near the canal mouth. Publicly, it handles tolls, cargo seals, river permits, lock schedules, late fees, and arguments about missing stamps. People in Morfael know the Red Lockhouse receives sealed orders that do not pass through the town reeve’s hands.
-
-### The Kestrel Drain
-
-A wide storm outflow barred with rusted iron. At low water, parts of it look large enough for a small creature or desperate person to crawl inside. Children are warned away from it. Adults pretend the warnings are about drowning, rats, and sickness.
+A Crown-controlled customs and lock office near the canal mouth. It handles tolls, cargo seals, river permits, lock schedules, late fees, and arguments about missing stamps. Most Morfael residents dislike dealing with it, but nearly everyone depends on it working.
 
 ### Harrowchain Ferry
 
-A chain ferry linking Morfael to the opposite bank and several river paths used by labourers, smugglers, messengers, and people who prefer not to pass through Crown gates. It is slow, noisy, useful, and watched less carefully than officials claim.
+A chain ferry linking Morfael to the opposite bank and several river paths used by labourers, messengers, market folk, and people avoiding the longer official crossings. It is slow, noisy, useful, and part of the town’s daily rhythm.
 
 ### The Hook and Bell
 
-A low tavern near the quay. It serves fish stew, sour beer, dockside gossip, and cheap beds. It is not safe, but it is useful. In Morfael, that is often enough.
+A low tavern near the quay. It serves fish stew, sour beer, dockside gossip, and cheap beds. It is not refined, but it is useful. In Morfael, that is often enough.
 
 ### Vellum House
 
-A narrow records office where cargo manifests, letters, false invoices, permits, dockside contracts, and discreet copies are written for people who cannot read or cannot safely use official channels. The line between legal help and forgery is thinner here than anyone admits.
+A narrow records office where cargo manifests, letters, invoices, permits, dockside contracts, and discreet copies are written for people who cannot read or cannot easily deal with Caer Oryn’s formal offices.
 
 ### Cairnwell Yard
 
@@ -207,7 +203,7 @@ A repair yard for carts, barges, cracked wheels, pulley frames, chain posts, hoo
 
 ### Low Lantern Row
 
-A narrow row of lodging houses, cheap rooms, widows’ rooms, rented storage, and places where people arrive under one name and leave under another. People disappear here without always leaving town.
+A narrow row of lodging houses, cheap rooms, widows’ rooms, and rented storage. It is cramped, damp, and never entirely quiet.
 
 ### Marrowgate Road
 
@@ -223,13 +219,11 @@ The road climbing from Morfael toward the controlled outer approaches of Caer Or
 
 **Sister Halva Dorn** is a dwarf lay-priest of the Chapel of the Last Lantern. She tends the poor dead, drowned sailors, unnamed bodies, and families who cannot afford the upper city. She is stern, compassionate, and difficult to intimidate.
 
-**Eira Lorne** keeps the Moon-in-Water Shrine. She is not a grand priestess; she cleans the basin, lights candles, records names, comforts families, and remembers which riverfolk have not come home.
+**Eira Lorne** keeps Lumenwell Shrine. She is not a grand priestess; she cleans the basin, lights candles, records names, comforts families, and remembers which riverfolk have not come home.
 
 **Old Pell** is the ferryman of Harrowchain Ferry. He knows the river better than the town watch knows its streets, speaks slowly, and notices everything.
 
 **Mara Venn** is a fishmonger at the Black Eel Market. She is loud, practical, and protective of local children. She knows who belongs in Morfael and who walks like they are pretending to belong.
-
-**Rennic Sallow** is a halfling broker-scribe at Vellum House. He writes cargo manifests, letters, invoices, and dockside contracts for people who cannot or should not use official channels. He is useful, cautious, and rarely as harmless as he looks.
 
 **Joric Marn** is a customs factor at the Red Lockhouse. He keeps records, stamps permits, and has mastered the official art of not understanding more than he is paid to understand.
 
@@ -283,39 +277,7 @@ The wealthy display success through white-stone houses, private tutors, riverfro
 
 The Crown does not present itself as cruel. Many citizens live comfortable lives and genuinely believe Maeron Cadris brought stability, safety, and national greatness. The danger of the Vermillion Crown lies in how much comfort depends on surveillance, controlled movement, military strength, and obedience.
 
-Morfael’s culture is less polished and more direct. People there value usefulness, memory, and practical loyalty. A person who can mend a chain, pole a ferry, calm a grieving widow, read a current, forge a pass, wash a body, or keep a secret has value. A person who only carries fine papers may still be left standing in the rain.
-
----
-
-## Common Talk and Local Rumours
-
-Some Morfael families keep private lists of missing riverfolk because they do not trust the watch to remember the poor.
-
-A covered barge is said to have passed the quay before dawn with no lanterns and men aboard wearing plain cloaks over military boots.
-
-People have seen red mineral grit near the Flood Steps and the Kestrel Drain after rain. Officials call it runoff, brick dust, or cargo residue depending on who asks.
-
-A child near the water claimed he saw gold light under a half-drowned man’s skin. Adults have repeated the story often enough to mock it, but not enough to forget it.
-
-The Red Lockhouse receives sealed orders that even the town reeve is not permitted to read.
-
-A Crown buyer recently purchased unusual medical supplies in Morfael, including clotting agents, sedatives, surgical spirits, and jars of red mineral residue.
-
-Old people remember stranger things being carried into the Red Lockhouse months before the current rumours began.
-
-Rivermen say the Harrowchain Ferry knows more secrets than any confessor in Caer Oryn.
-
-No one in Morfael believes every rumour. No one sensible ignores all of them either.
-
----
-
-## Using Caer Oryn and Morfael in Play
-
-Caer Oryn should feel formal, prosperous, educated, militarised, and watched. It is not a ruined city or a nest of open chaos. Its threat comes from order, procedure, competence, pressure, and the fact that many citizens benefit from the system enough to defend it.
-
-Morfael should feel wet, crowded, useful, suspicious, and human. It is not merely a slum. It is a working town that keeps the capital moving while absorbing the things Caer Oryn does not want on display.
-
-Together, they create a strong campaign gateway. Caer Oryn provides power, law, academies, ministries, records, temples, military command, and state ambition. Morfael provides witnesses, river trouble, missing people, hidden cargo, poor chapels, salvage markets, unofficial routes, and the first signs that something beneath the Crown’s order is beginning to surface.
+Morfael’s culture is less polished and more direct. People there value usefulness, memory, and practical loyalty. A person who can mend a chain, pole a ferry, calm a grieving widow, read a current, wash a body, or keep a secret has value. A person who only carries fine papers may still be left standing in the rain.
 
 ---
 
