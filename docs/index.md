@@ -13,6 +13,7 @@ The wiki is intended to function both as:
 - A campaign setting repository
 - A historical and geographical reference for players and DMs
 - A player-facing gazetteer archive
+- A player-facing campaign session archive
 
 ## The World of Lazuril
 
@@ -29,6 +30,7 @@ The setting includes:
 - Institutional magic traditions
 - Large-scale historical timelines
 - Player-facing city and regional gazetteers
+- Player-facing session notes
 
 The world is designed to support both grounded political storytelling and high fantasy adventures.
 
@@ -37,6 +39,7 @@ The world is designed to support both grounded political storytelling and high f
 Use the navigation panel to explore the world, including:
 
 - Gazetteers
+- Session Notes
 - Lore
 - States
 - Races
