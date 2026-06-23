@@ -498,6 +498,15 @@
     ]
   },
   {
+    "title": "Gazetteers",
+    "children": [
+      {
+        "title": "Caer Oryn & Morfael Gazetteer",
+        "href": "Worldbuilding/Gazetteers/Caer%20Oryn%20%26%20Morfael%20Gazetteer/"
+      }
+    ]
+  },
+  {
     "title": "History",
     "children": [
       {
