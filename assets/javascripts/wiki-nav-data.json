@@ -614,6 +614,21 @@
     ]
   },
   {
+    "title": "Session Notes",
+    "children": [
+      {
+        "title": "Sessions 1-10",
+        "href": "Worldbuilding/Session%20Notes/Sessions%201-10/",
+        "children": [
+          {
+            "title": "Session 1 - The Man in the River",
+            "href": "Worldbuilding/Session%20Notes/Sessions%201-10/Session%201%20-%20The%20Man%20in%20the%20River/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "World",
     "children": [
       {
