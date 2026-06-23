@@ -12,7 +12,9 @@ The party first gathered at the Chapel of the Last Lantern in Morfael, where Sis
 
 Each member of the group had been drawn to the chapel for their own reason. Some already knew of one another from previous encounters or from reputation, but this was the first time they stood together with a common purpose.
 
-Sister Dorn laid out the immediate trouble. Cargo manifests had surfaced in connection with questionable freight, and Alekthar quickly concluded that they were false. Cassian already had knowledge of the missing folk in town, having counselled families who had been left without answers. Teclis had been sent by Arch-Lector Voss to investigate rumours of undeath in the area. Nakoa had received quiet word through Rennic Sallow that a courier had gone missing, and that the matter was worth his attention.
+Sister Dorn laid out the immediate trouble. Cargo manifests had surfaced in connection with questionable freight, and Alekthar quickly concluded that they were false. Cassian already had knowledge of the missing folk in town, having counselled families who had been left without answers. Dorn also gave Cassian a list of missing names, placing the scattered grief of Morfael into something more concrete than rumour.
+
+Teclis had been sent by Arch-Lector Voss to investigate rumours of undeath in the area. Nakoa had received quiet word through Rennic Sallow that a courier had gone missing, and that the matter was worth his attention.
 
 Sister Dorn also told them of a young lad who had seen a body rise from the water after being washed against the Flood Steps near the Black Eel Market. There were also rumours of another body passing further downriver from higher in the city. The current was expected to bring it to Morfael before mid-morning.
 
@@ -24,7 +26,7 @@ With that, the party left the chapel and made their way toward the market.
 
 The Black Eel Market was already awake by the time the party arrived: wet boards, eel tubs, cheap smoke, shouting traders, gulls over the river, and the smell of fish, mud, lamp oil, and cooked meat thick in the air.
 
-Cassian and Nakoa joined Lysa and Lerris at a table. There they learned that Lysa had previously seen a military-style bandage marked with a small stamp, though she had allowed it to wash further downriver before realising its significance. Lerris offered food, and Nakoa made a strong early impression by enjoying more than one chicken drumstick.
+Cassian and Nakoa joined Lysa and Lerris at a table. There they learned that Lysa had previously seen a military-style bandage marked with a small stamp, though she had allowed it to wash further downriver before realising its significance. The market folk also spoke of cloaked figures seen in the area, seemingly scouting the streets and waterside routes even in broad daylight. Lerris offered food, and Nakoa made a strong early impression by enjoying more than one chicken drumstick.
 
 Meanwhile, Alekthar and Teclis spoke with Tovin, the young witness who had seen the earlier figure rise from the river. Tovin described a man whose skin shone with gold before he walked away muttering strange sentences. In return for his information, Teclis gave Tovin a gold coin, though the coin was only an illusion conjured by his magic.
 
@@ -64,6 +66,7 @@ They saw a darkened world beneath thunderous clouds. Red lightning split the sky
 >
 > Beneath your rivers.
 > Within your walls.
+>
 > I have laid in waiting.
 >
 > Your towers rose.
@@ -94,10 +97,58 @@ Nakoa and Cassian pressed the attack with their blades, one raw and swift, the o
 
 ---
 
-## TBC
+## After the Surge
 
-By the end of the fight, Edrin Vaal lay destroyed at the river’s edge. The market had scattered in terror. The party had seen enough to know that this was not ordinary undeath, not simple smuggling, and not a problem that would stay contained within Morfael.
+When the fight ended, Edrin Vaal lay destroyed at the river’s edge. The market had scattered in terror, leaving the party amid broken stone, river water, and the silence that follows panic.
 
-The false manifests, the stamped bandages, the red dust, the puncture marks, the strange brand, and the shared vision all pointed toward something larger beneath the surface.
+The body was inspected after being pulled fully from the water. Cassian gave Edrin last rites, granting what dignity he could to a man who had clearly suffered before death and after it. While Cassian prayed, Alekthar considered some of the words Edrin had muttered during the fight and inspected the remains for further clues. Teclis and Nakoa made sketches and notes of the scene, recording the body, the river steps, the brand, the red dust, and what had just occurred.
+
+Their work was interrupted by Watch-Corporal Dannel Strake.
+
+Strake arrived with the authority of a man who wanted order restored quickly and with as little upper-city interference as possible. The exchange began poorly. A few unpleasant remarks were made, assumptions followed, and apologies came from both sides once the first heat had passed.
+
+Strake told the party that he would have to report what had happened upward to the city. He would give them ten minutes to gather themselves and move on before the matter became harder to manage. The party worried that Strake was trying to prevent Caer Oryn from looking too closely into Morfael for the wrong reasons, but he reassured them as best he could. He did not want disruption in the town, either for himself or for the people who lived there. If handing over the body and saying less kept Caer Oryn officials from pointing fingers at the local community, he would rather do that.
+
+Strake also advised that this was not the first such incident. Edrin was the third body said to have reanimated: one had been reported a week earlier, and another a month before that.
+
+Recognising Edrin, Strake gave the party directions to Gullhook Loft, the small cramped room where Vaal had been known to stay. He wished them well enough, and told them that if they needed him, Sister Dorn would know where to find him.
+
+---
+
+## On the Road to Gullhook Loft
+
+The journey from the water’s edge to Gullhook Loft was short, but Morfael made even a short walk feel close and damp. The party passed through dank streets, over wet stone, beneath leaning walls and patched roofs, carrying the weight of what had just happened.
+
+As they walked, Nakoa questioned the others about the strange protection he had experienced during the fight. He did not understand why Edrin’s blow had failed to land. Something had shielded him, but Nakoa did not know how.
+
+The others suggested that it was likely magic, but Nakoa was puzzled. He did not consider himself magical, at least not in any way he understood. He asked the others how their magic worked, and they answered in kind. Cassian spoke of calling upon his god. Teclis spoke of many years of training at an esteemed elven college.
+
+Teclis then conjured an illusion of a succulent roast chicken. Nakoa, naturally, tried to sample the freshly presented food, only to discover that no matter how convincing it smelled, it could not be eaten.
+
+With a little posturing, Nakoa tried his hand at the same trick. To his own surprise, he managed it. It was not as refined as Teclis’ work, but there it was all the same: a cooked chicken formed from illusion.
+
+---
+
+## Gullhook Loft
+
+The party arrived at Gullhook Loft and climbed the stairs fixed to the outside of the building, reaching a small door set into the gable end of the roof. The door was locked.
+
+Nakoa tried to work the lock with his picks but struggled to get purchase until Alekthar placed a hand on his shoulder and granted him guidance. With that, the lock opened, and the party entered.
+
+The room was cramped, damp, and deliberately plain. It contained a hammock bed and pillow, a small writing board, courier tags, and wax scraps. Teclis cast light upon the pillow, brightening the room enough for the party to search properly.
+
+Nakoa examined the courier tags and recognised the sort of work they represented. He had seen tags like these before and discerned that the most recent one concerned a shipment bound for Magpie Lane in the Foundry Quarter of Caer Oryn.
+
+The party searched more closely. Almost simultaneously, though by different means, Alekthar noticed disturbed dust as the light struck a floorboard, while Nakoa saw a chip in the wood. Together, they found a secret panel set into the floor.
+
+Inside was a piece of cloth. Nakoa felt that it could only have come from the Veylrain Expanse, both in its material and the technique of its weaving. Wrapped within it was a red candle whose wax shimmered faintly with gold, and a small wooden idol shaped like a stamp. Its base had been carved to match the sigil of House Amakiir.
+
+---
+
+## Where the Session Ended
+
+The session ended in Gullhook Loft, with the party gathered around the hidden panel and the objects concealed beneath Edrin Vaal’s floorboards.
+
+By then, the party had seen enough to know that this was not ordinary undeath, not simple smuggling, and not a problem that would stay contained within Morfael. The false manifests, stamped bandages, cloaked scouts, red dust, puncture marks, strange brand, repeated reanimations, courier tags, Veylrain cloth, red-gold candle, and Amakiir-marked wooden stamp all pointed toward something larger beneath the surface.
 
 The party had met by necessity. By the end of the morning, they had already stood together against the first sign of something returning.
