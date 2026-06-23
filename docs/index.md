@@ -12,6 +12,7 @@ The wiki is intended to function both as:
 - An Obsidian-compatible lore archive
 - A campaign setting repository
 - A historical and geographical reference for players and DMs
+- A player-facing gazetteer archive
 
 ## The World of Lazuril
 
@@ -27,6 +28,7 @@ The setting includes:
 - Distinct biomes and regional cultures
 - Institutional magic traditions
 - Large-scale historical timelines
+- Player-facing city and regional gazetteers
 
 The world is designed to support both grounded political storytelling and high fantasy adventures.
 
@@ -34,6 +36,7 @@ The world is designed to support both grounded political storytelling and high f
 
 Use the navigation panel to explore the world, including:
 
+- Gazetteers
 - Lore
 - States
 - Races
@@ -44,4 +47,4 @@ Use the navigation panel to explore the world, including:
 
 ---
 
-*Last updated: June 11, 2026*
+*Last updated: June 23, 2026*
