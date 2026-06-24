@@ -48,6 +48,15 @@
     });
 
     siteStructure.forEach(section => {
+      if (section.separator) {
+        const separator = document.createElement('span');
+        separator.className = 'top-nav-separator';
+        separator.textContent = section.title || '|';
+        separator.setAttribute('aria-hidden', 'true');
+        headerNav.appendChild(separator);
+        return;
+      }
+
       if (!section.children || section.children.length === 0) return;
 
       const item = document.createElement('div');
