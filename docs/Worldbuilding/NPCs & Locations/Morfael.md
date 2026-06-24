@@ -2,10 +2,6 @@
 
 > Player-facing reference for NPCs met and locations visited in Morfael. Updated after Session 1 - The Man in the River.
 
-## Session Coverage
-
-This page currently covers the party’s first day in Morfael, beginning at the Chapel of the Last Lantern, moving through the Black Eel Market and Flood Steps, and ending at Gullhook Loft.
-
 ## NPCs Met
 
 | NPC | First Encountered | What the Party Knows |
@@ -21,28 +17,19 @@ This page currently covers the party’s first day in Morfael, beginning at the 
 
 | NPC | Connection |
 |---|---|
-| Rennic Sallow | Mentioned as the middle-man through whom Nakoa received word from Arden Rook that a courier had gone missing and that the matter was worth his attention. |
+| Rennic Sallow | Mentioned as the middle-man through whom Nakoa received word that a courier had gone missing and that the matter was worth his attention. |
 | Arch-Lector Meren Voss | Mentioned as the superior who sent Teclis from The Final Journey to investigate rumours of undeath in Morfael. |
+
+<br>
 
 ## Locations Visited
 
-### Chapel of the Last Lantern
-
-The party first gathered here at Sister Halva Dorn’s request. The meeting concerned missing people, river rumours, suspicious cargo, and questionable manifests. Halva also gave Cassian a list of missing names gathered with Eira Lorne’s help.
-
-### Black Eel Market
-
-A wet, busy riverside market near the Flood Steps. The party split their enquiries here: Cassian and Nakoa spoke with Lysa and Lerris, while Alekthar and Teclis spoke with Tovin. The market was full of traders, eel tubs, smoke, gulls, food, mud, and river traffic.
-
-### Flood Steps
-
-The stone steps below the Black Eel Market where Edrin Vaal’s body washed ashore. The party identified him as the missing courier, discovered his brand and red dust, witnessed his reanimation, and fought him after a violent veinstone surge scattered the market.
-
-### Gullhook Loft
-
-A cramped room above the street where Edrin Vaal had been staying. Nakoa opened the locked door with Alekthar’s guidance. Inside, the party found courier tags, wax scraps, a writing board, and signs that Edrin’s most recent route pointed toward Magpie Lane in the Foundry Quarter of Caer Oryn.
-
-A hidden floor panel concealed a bundle containing Veylrain cloth, a red candle with faint gold shimmer, and a small wooden idol shaped like a stamp. The base of the stamp was carved to match the sigil of House Amakiir.
+| Location | What Happened There |
+|---|---|
+| Chapel of the Last Lantern | The party first gathered here at Sister Halva Dorn’s request. The meeting concerned missing people, river rumours, suspicious cargo, and questionable manifests. Halva also gave Cassian a list of missing names gathered with Eira Lorne’s help. |
+| Black Eel Market | A wet, busy riverside market near the Flood Steps. The party split their enquiries here: Cassian and Nakoa spoke with Lysa and Lerris, while Alekthar and Teclis spoke with Tovin. The market was full of traders, eel tubs, smoke, gulls, food, mud, and river traffic. |
+| Flood Steps | The stone steps below the Black Eel Market where Edrin Vaal’s body washed ashore. The party identified him as the missing courier, discovered his brand and red dust, witnessed his reanimation, and fought him after a violent veinstone surge scattered the market. |
+| Gullhook Loft | A cramped room above the street where Edrin Vaal had been staying. Nakoa opened the locked door with Alekthar’s guidance. Inside, the party found courier tags, wax scraps, a writing board, and signs that Edrin’s most recent route pointed toward Magpie Lane in the Foundry Quarter of Caer Oryn. A hidden floor panel concealed Veylrain cloth, a red candle with faint gold shimmer, and a small wooden idol shaped like a stamp. The base of the stamp was carved to match the sigil of House Amakiir. |
 
 ## Known Open Threads
 
