@@ -20,7 +20,7 @@
 > - Potentially investigated the sealed Vaelisar premises.
 > - Found a route into the Foundry Quarter through controlled access, forged access, or social pressure.
 > - Reached **17 Magpie Lane**.
-> - Found a cryptic note implying that Edrin delivered a small animal-shaped Veylrain relic there.
+> - Found a plain delivery note confirming that Edrin delivered a small animal-shaped Veylrain relic there.
 > - Given Nakoa a direct personal thread without fully explaining the relic.
 
 ## Session Tone
@@ -321,49 +321,56 @@ This note should be found in the hearth niche, under a loose stone, inside a bur
 It should confirm that a relic was delivered here, but it should not explain what the relic does. The relic is a small animal-shaped object, not feline. Use a **lizard-shaped relic** unless you later want to tie it to a different Veylrain animal.
 
 > [!readaloud] The Note
-> Vaal delivered the little green lizard to Seventeen.
+> Delivery confirmed.
 >
-> Wrapped in black leaf-cloth. Wrong knot. Right smell.
+> Courier: Edrin Vaal.
 >
-> Not Crown stone. Not red meal.
+> Address: 17 Magpie Lane.
 >
-> Do not log it with the clerks.
+> Item: small green lizard figure. Veylrain origin.
 >
-> Do not warm it near the furnace wall.
+> Wrapping: black-green cloth. Knot tied incorrectly.
 >
-> Hold it until the third hammer stops.
+> Do not enter item in the parcel ledger.
 >
-> If the Veylrain cat comes asking, he gets the thread. Not the lizard.
+> Do not send item to inspection.
+>
+> Hold item until third hammer.
+>
+> After third hammer, send item below with grey-tag parcels.
+>
+> If a tabaxi comes asking about the item, give him the loose thread only.
+>
+> Do not show him the lizard.
 
 ### What the Note Means
 
-- **Vaal** is Edrin Vaal.
-- **The little green lizard** is a small lizard-shaped Veylrain relic.
-- **Seventeen** means 17 Magpie Lane.
-- **Black leaf-cloth** points to Veylrain wrapping.
-- **Wrong knot** means someone imitated Veylrain methods rather than tying it correctly.
-- **Right smell** means the relic is genuinely from the Veylrain Expanse.
-- **Not Crown stone. Not red meal** separates it from red veinstone dust and ordinary foundry material.
+- **Edrin Vaal** delivered the relic to 17 Magpie Lane.
+- **The small green lizard figure** is a Veylrain relic.
+- **Black-green cloth** points to Veylrain wrapping.
+- **Knot tied incorrectly** means someone imitated Veylrain methods rather than tying it correctly.
+- **Do not enter item in the parcel ledger** means someone wanted it moved without normal records.
 - **Third hammer** points to a timed movement deeper into Foundry infrastructure.
-- **Veylrain cat** points to Nakoa, but it is phrased crudely by someone outside his culture.
-- **He gets the thread. Not the lizard** means someone expected Nakoa might trace the delivery and wanted him misdirected.
+- **Grey-tag parcels** are Crown-handled parcels that bypass normal checks.
+- **Tabaxi** points to Nakoa, but the writer does not name him.
+- **Give him the loose thread only** means someone expected Nakoa might trace the delivery and wanted him misdirected.
 
 ### Nakoa-Specific Beat
 
 If Nakoa reads, touches, or smells the note:
 
 > [!readaloud] Nakoa Beat
-> The ink is plain. The paper is cheap. Whoever wrote this did not understand what they were handling.
+> The note is plain. It reads like an instruction, not a warning.
 >
-> But the thread folded into the note is not ordinary.
+> The thread folded into it is black-green and smells faintly of wet leaves, old smoke, and treated bark.
 >
-> It carries the smell of wet bark, crushed leaves, old rain, and the faint green-metal tang of something buried too long beneath living roots.
+> Nakoa recognises the smell as Veylrain work.
 >
-> Nakoa, you do not know what the little lizard is.
+> Whoever handled the relic knew where it came from, but not enough to tie the wrapping properly.
 >
-> But you know it came from the Expanse.
+> Someone expected a tabaxi to come looking.
 >
-> And you know someone wanted you to find the thread instead of the relic.
+> Someone did not want him to find the lizard.
 
 ### What Not to Reveal Here
 
@@ -473,7 +480,7 @@ Choose one based on what the party cared about most.
 | Strake | A clean-coated official asks Strake for Edrin’s body, notes, and witnesses by name. |
 | House Vaelisar | A Vaelisar servant tries to reach the party before the Directorate finds her. |
 | 17 Magpie Lane | A worker notices the party leaving and immediately marks the door with fresh chalk: **17 / CLEARED / HOLD BELOW**. |
-| Nakoa’s note | The green-black thread goes cold for a moment, as if something that once answered it has been moved farther away. |
+| Nakoa’s note | The black-green thread has been cut from a larger wrapping. The rest of the wrapping is gone. |
 
 ## Best Ending Line
 
