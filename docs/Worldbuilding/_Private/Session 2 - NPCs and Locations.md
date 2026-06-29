@@ -18,6 +18,12 @@
 | [[Morfael - NPCs and Sites#Caldus Wye|Caldus Wye]] | Chapel of the Last Lantern | Chapel assistant; manages frightened visitors and gives Halva room to work. | Who has come asking after the dead since the Flood Steps incident. |
 | [[Morfael - NPCs and Sites#Tovin Rusk|Tovin Rusk]] | Black Eel Market or nearby lanes | Optional returning witness. | He may have seen a previous figure rise from the river, or can describe how people reacted after Edrin. |
 | Harro Vennik | Mentioned only | Earlier reanimation case. | A night-soil hauler found near the north bank a month ago. Rose briefly, injured two people, collapsed, and was taken away before rites. |
+| [[#Gate Sergeant Mera Hoth|Gate Sergeant Mera Hoth]] | [[#House Vaelisar Premises]] | Civic Directorate guard sergeant at the sealed Vaelisar gate. | The house was sealed before dawn. She has orders to prevent entry, not explain the case. |
+| [[#Clerk Luthen Brax|Clerk Luthen Brax]] | [[#House Vaelisar Premises]] | Ledger clerk recording names, excuses, deliveries, and attempted access. | The private chapel room and records office are listed separately on the seal order. |
+| [[#Lantern-Warden Ossa Marr|Lantern-Warden Ossa Marr]] | [[#House Vaelisar Premises]] | Religious compliance officer attached to the seal. | The religious charge is real enough to require oversight, but the Directorate wants it treated as paperwork. |
+| [[#Private Joric Vell|Private Joric Vell]] | [[#House Vaelisar Premises]] | Ordinary guard. | He saw household servants removed before dawn. |
+| [[#Private Sarn Dall|Private Sarn Dall]] | [[#House Vaelisar Premises]] | Ordinary guard. | He is bored, cold, and easier to distract than Hoth. |
+| [[#Tavia Vaelisar|Tavia Vaelisar]] | Near the Vaelisar premises | Frightened household servant hiding nearby. | A carriage left before dawn with someone inside, but she does not know whether it was family, clergy, or a body. |
 
 ## New NPC Details
 
@@ -73,6 +79,110 @@ Sella knows paper, wax, seals, copies, merchant marks, and the small differences
 
 **Possible secret:** Sella knows that some old Amakiir trade ledgers were copied in Caer Oryn after the family’s decline.
 
+## Vaelisar Premises NPCs
+
+### Gate Sergeant Mera Hoth
+
+Human woman, late 30s. Civic Directorate guard sergeant.
+
+Hoth is practical, disciplined, and difficult to rattle. She is not cruel. She is there to keep the site sealed, keep bystanders moving, and avoid giving the Directorate a mess to explain.
+
+**Personality:** Controlled, curt, watchful, not easily baited.
+
+**Use her for:** Front-gate authority, controlled refusal, consequences for sloppy stealth.
+
+**Useful lines:**
+
+> “The seal is not a conversation.”
+
+> “If you have authority, state it. If you have curiosity, take it elsewhere.”
+
+**Possible secret:** She saw one Vaelisar retainer removed separately from the staff, under heavier guard.
+
+### Clerk Luthen Brax
+
+Human man, 40s. Civic ledger clerk.
+
+Brax sits under a waxed awning with a slate board, ink case, and sealed ledger. He is more dangerous than he looks because names entered by Brax travel upward.
+
+**Personality:** Fussy, procedural, exact, quietly afraid of making an error.
+
+**Use him for:** Recording names, access attempts, paperwork clues, bureaucratic pressure.
+
+**Useful line:**
+
+> “I do not decide who enters. I record who asked.”
+
+**Possible secret:** The seal order lists the private chapel room and records office as separate closures, which is unusual.
+
+### Lantern-Warden Ossa Marr
+
+Human woman, early 50s. Religious compliance officer.
+
+Ossa is attached to the seal because the Directorate notice includes unauthorised religious practice. She is not clergy, but she knows enough religious law to be irritating. She does not like Teclis, but she respects proper jurisdiction when it is stated cleanly.
+
+**Personality:** Sharp, formal, sceptical, exacting.
+
+**Use her for:** Teclis’ religious authority route.
+
+**Useful lines:**
+
+> “Religious concern is not entry authority. Make it one.”
+
+> “If this is a soul matter, name the rite. If it is curiosity, leave.”
+
+**Possible secret:** She thinks the Directorate is trying to file a spiritual irregularity as household misconduct.
+
+### Private Joric Vell
+
+Human man, 20s. Civic guard.
+
+Joric is new enough to still look uncomfortable at noble scandals. He follows Hoth’s orders but has not learned how to hide every reaction.
+
+**Personality:** Nervous, honest, observant by accident.
+
+**Use him for:** Soft information, guilt, body-language clues.
+
+**Useful line:**
+
+> “They told us no deaths were confirmed. That is not the same as none.”
+
+**Possible secret:** He helped carry sealed boxes from the records office.
+
+### Private Sarn Dall
+
+Human man, 30s. Civic guard.
+
+Sarn is bored, cold, and more interested in getting through the shift than understanding the scandal. He is the easiest guard to distract.
+
+**Personality:** Tired, practical, mildly corruptible, not brave when alone.
+
+**Use him for:** Distraction, bribery, Deception checks, patrol gaps.
+
+**Useful line:**
+
+> “Nobody pays me enough to understand noble houses.”
+
+**Possible secret:** He knows the rear patrol gap because he has been using it to smoke out of the rain.
+
+### Tavia Vaelisar
+
+Human woman with faint aasimar ancestry, early 20s. Household servant and distant Vaelisar relation.
+
+Tavia is not part of the main family line, but she bears the name through service-kin and old household ties. She hid when staff were removed and has been trying to decide whether to flee, speak, or return for something left inside.
+
+**Personality:** Frightened, proud, wary, desperate not to be treated as disposable.
+
+**Use her for:** Humanising House Vaelisar, giving one clue if the party earns trust, creating a non-combat consequence.
+
+**Useful lines:**
+
+> “They said no deaths confirmed because they took the bodies before anyone could confirm them.”
+
+> “My lady kept chapel records separate from the family books. She said prayers should not be filed with property.”
+
+**Possible secret:** She saw a carriage leave before dawn with curtains pinned shut from the inside.
+
 ## Session 2 Locations
 
 | Location | Role in Session 2 | Key Details |
@@ -81,6 +191,7 @@ Sella knows paper, wax, seals, copies, merchant marks, and the small differences
 | [[#The Reedmark Post]] | Nakoa’s letter home and courier-route logistics. | Can send mail toward the Veylrain Expanse, but needs specific destination identifiers and route choices. |
 | [[#The Lumenwell Shrine]] | Cassian’s sky/Sharite thread. | A black-threaded candle or scratched moon token introduces Sharite ideology without a fight. |
 | [[#Marrowgate Checkpoint]] | Blocks immediate access to Caer Oryn and Foundry Quarter. | Cadris’ Day security requires labour token, cargo licence, ecclesiastical writ, watch escort, Crown pass, or forgery. |
+| [[#House Vaelisar Premises]] | Optional investigation site. | Sealed High Quarter townhouse. Can be approached through Teclis’ religious authority or stealth. |
 | [[#Vellum House]] | Alekthar’s false-seal investigation. | Sella can identify the Amakiir mark as cargo authority copied from a record. |
 | [[#Harrowchain Ferry]] | Courier route and geographic pressure point. | Crosses from Morfael’s Harrowchain Yard to Harrow Road Landing across the River Oryn. Useful for discreet traffic but currently watched. |
 
@@ -122,13 +233,27 @@ A temporary checkpoint on the road toward Caer Oryn. It has barriers, Cadris’ 
 
 **Link back:** [[Session 2 - Ashes at the Last Lantern#Scene 5: Blocking Caer Oryn and the Foundry Quarter]].
 
+### House Vaelisar Premises
+
+A sealed townhouse on the lower edge of the High Quarter. Its front gate is chained, the Vaelisar arms are covered in black cloth, and a Civic Directorate notice states that the property is closed under authority due to inheritance irregularity, unauthorised religious practice, and failure to comply with household registration law.
+
+**Session 2 use:** Optional investigation site that allows Caer Oryn play without opening the Foundry Quarter. The party may approach through Teclis’ religious authority or stealth.
+
+**Public areas visible from the street:** front gate, black-covered arms, public notice, guards, clerk’s awning, carriage arch.
+
+**Restricted areas:** records office, private chapel room, carriage house, upper family rooms, rear garden.
+
+**Key NPCs:** Gate Sergeant Mera Hoth, Clerk Luthen Brax, Lantern-Warden Ossa Marr, Private Joric Vell, Private Sarn Dall, Tavia Vaelisar.
+
+**Link back:** [[Session 2 - Ashes at the Last Lantern#Scene 7: House Vaelisar Premises]].
+
 ### Vellum House
 
 A narrow records office where cargo manifests, false invoices, letters, permits, and dockside contracts are written for people who cannot read or cannot safely use official channels.
 
 **Session 2 use:** Alekthar can have the wooden Amakiir-styled stamp examined by Sella Varrow. She reveals it is cargo authority, not noble authority, and likely copied from old paper records.
 
-**Link back:** [[Session 2 - Ashes at the Last Lantern#Scene 7: Alekthar and the False Amakiir Mark]].
+**Link back:** [[Session 2 - Ashes at the Last Lantern#Scene 9: Alekthar and the False Amakiir Mark]].
 
 ### Harrowchain Ferry
 
@@ -157,3 +282,5 @@ Access requires one of:
 - A contact inside the Foundry Quarter.
 
 Do not present this as a hard wall. Present it as a list of doors the party can try to open over the next session or two.
+
+House Vaelisar is a separate High Quarter investigation route. It should not grant Foundry Quarter access by itself.
