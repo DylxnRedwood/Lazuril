@@ -60,49 +60,11 @@ Controls maps, land records, censuses, water routes, mineral claims, Godscar stu
 
 ## Capital City
 
-The capital city of the Vermillion Crown is **Caer Oryn**.
+The capital city of the Vermillion Crown is [Caer Oryn](./The%20Vermillion%20Crown/Caer%20Oryn.md), a wealthy river capital on the **River Oryn** and the political, military, educational, and administrative heart of the state.
 
-Caer Oryn sits on the **River Oryn**, which runs through the lower parts of the city before continuing west toward a great lake and the western waters of the Godscar.
+Caer Oryn’s lower districts sit along the water, while the city rises inland toward the Hillkeep and the Lord Protector’s seat. The city is walled, watched, and heavily regulated, with movement shaped by gates, quays, chain crossings, patrol posts, customs houses, permits, and official records.
 
-The city is walled, but not completely enclosed. Its strongest walls protect the main approaches, higher districts, military roads, and administrative heart of the city, while parts of the riverfront remain more open and heavily watched through quays, chain gates, patrol posts, and customs houses.
-
-The lower districts sit along the water. They contain the docks, warehouses, river labour offices, markets, workshops, modest housing, and much of the daily trade that keeps Caer Oryn alive.
-
-Farther from the river, the land rises toward the main keep. The Lord Protector’s seat stands on a hilltop above the city, removed from the noise of the waterfront and visible from many of the roads leading into Caer Oryn.
-
-Caer Oryn is the political, military, educational, and administrative heart of the Vermillion Crown.
-
-Even the poorer districts are maintained, patrolled, educated, and economically functional.
-
-Caer Oryn has no true peasant quarter within its walls.
-
-Poverty exists, but it is managed through public labour, ration systems, civic schools, temple support, employment registers, and strict urban administration.
-
-The main areas of Caer Oryn are:
-
-### The River Districts
-
-Docks, warehouses, river labour offices, markets, workshops, customs houses, taverns, modest housing, and the working life of the city.
-
-### The Guild Quarter
-
-Merchant houses, banking halls, guild courts, toll registries, caravan offices, trade brokers, and commercial offices.
-
-### The Academy Quarter
-
-Schools, colleges, libraries, officer academies, legal halls, map archives, and magical institutes.
-
-### The Foundry Quarter
-
-Armouries, inspection yards, military workshops, controlled foundries, river-chain mechanisms, and state weapon houses.
-
-### The High Quarter
-
-Ministerial estates, noble homes, embassies, treasury halls, high courts, theatres, civic temples, and formal gardens.
-
-### The Hillkeep
-
-The hilltop seat of power. It contains the Lord Protector’s keep, command chambers, state vaults, national archives, high courts, and the main offices of the Civic Directorate.
+[Morfael](../NPCs%20%26%20Locations/Morfael.md) sits on the outer edge of Caer Oryn, close enough to serve the capital’s river labour, ferry crossings, storage yards, pauper burials, and less formal trade, but not close enough to share fully in its wealth or protection.
 
 ## Other Major Cities
 
