@@ -14,7 +14,7 @@
 | [[#Maela Quist|Maela Quist]] | [[#The Reedmark Post]] | Postmistress who can send Nakoa’s letter toward the Veylrain Expanse. | Veylrain mail needs more than a name: settlement, clan, trail, kin-mark, or known handoff contact. Fast routes are watched. |
 | [[#Ivara Senn|Ivara Senn]] | [[#The Lumenwell Shrine]] | Soft entry point for Cassian’s Sharite thread. | Some locals are being drawn to prayers of concealment, silence, and mercy-through-darkness. She is not necessarily a cultist. |
 | [[#Sella Varrow|Sella Varrow]] | [[#Vellum House]] | Seal-reader and scrivener who can examine the false Amakiir cargo mark. | The stamp imitates cargo authority, not a noble seal. It was copied from paper, not made from a real seal. |
-| [[Arch-Lector Meren Voss]] | Off-screen, Caer Oryn | Teclis’ superior; sends written instruction rather than meeting in person. | Teclis should not approach the Foundry Quarter without writ, escort, or ecclesiastical cover. |
+| [[Arch-Lector Meren Voss]] | Off-screen, Caer Oryn | Teclis’ superior; sends written instruction rather than meeting in person. | Teclis may approach outer Foundry service lanes only with clear cover; Magpie Lane access is not deeper Foundry access. |
 | [[Morfael - NPCs and Sites#Caldus Wye|Caldus Wye]] | Chapel of the Last Lantern | Chapel assistant; manages frightened visitors and gives Halva room to work. | Who has come asking after the dead since the Flood Steps incident. |
 | [[Morfael - NPCs and Sites#Tovin Rusk|Tovin Rusk]] | Black Eel Market or nearby lanes | Optional returning witness. | He may have seen a previous figure rise from the river, or can describe how people reacted after Edrin. |
 | Harro Vennik | Mentioned only | Earlier reanimation case. | A night-soil hauler found near the north bank a month ago. Rose briefly, injured two people, collapsed, and was taken away before rites. |
@@ -24,6 +24,8 @@
 | [[#Private Joric Vell|Private Joric Vell]] | [[#House Vaelisar Premises]] | Ordinary guard. | He saw household servants removed before dawn. |
 | [[#Private Sarn Dall|Private Sarn Dall]] | [[#House Vaelisar Premises]] | Ordinary guard. | He is bored, cold, and easier to distract than Hoth. |
 | [[#Tavia Vaelisar|Tavia Vaelisar]] | Near the Vaelisar premises | Frightened household servant hiding nearby. | A carriage left before dawn with someone inside, but she does not know whether it was family, clergy, or a body. |
+| [[#Clerk Hadrin Voss|Clerk Hadrin Voss]] | Foundry Quarter outer gate / Magpie Lane route | Gate clerk who can permit limited access to Magpie Lane. | He only cares that the address, token, or stated authority matches the ledger closely enough. |
+| [[#Olla Breck|Olla Breck]] | Magpie Lane canteen hatch | Worker canteen keeper near 17 Magpie Lane. | Edrin or someone using Edrin’s route mark passed through before the recent clearing. |
 
 ## New NPC Details
 
@@ -183,6 +185,40 @@ Tavia is not part of the main family line, but she bears the name through servic
 
 **Possible secret:** She saw a carriage leave before dawn with curtains pinned shut from the inside.
 
+## Foundry / Magpie Lane NPCs
+
+### Clerk Hadrin Voss
+
+Human man, 30s. Foundry Quarter gate clerk.
+
+Hadrin is not related to Meren Voss in any useful way, but he is tired of people asking. He manages outer-lane entry for workers, canteen staff, runners, approved visitors, and parcel carriers.
+
+**Personality:** Dry, overworked, procedural, not brave enough to challenge clean paperwork.
+
+**Use him for:** Letting the party into Magpie Lane without opening deeper Foundry access.
+
+**Useful line:**
+
+> “Magpie Lane is not the Foundry Quarter. It is the place people wait before the Foundry Quarter decides they exist.”
+
+**Possible secret:** He has seen Edrin’s route mark before, but only on grey-tag parcels, not on personnel ledgers.
+
+### Olla Breck
+
+Human woman, 40s. Canteen hatch keeper beside 17 Magpie Lane.
+
+Olla serves stew, black tea, hard rolls, and complaints to workers who do not have time to sit down. She knows which doors are used and which doors are only painted to look used.
+
+**Personality:** Fast-talking, unimpressed, good memory, always wiping her hands.
+
+**Use her for:** Magpie Lane local colour, overheard worker gossip, hints that 17 was cleared recently.
+
+**Useful line:**
+
+> “Seventeen? Parcel rest on paper. Nobody rests there.”
+
+**Possible secret:** She saw a man with river-mud on his boots and grey tags at his belt enter 17 Magpie Lane two nights before Edrin washed ashore.
+
 ## Session 2 Locations
 
 | Location | Role in Session 2 | Key Details |
@@ -190,8 +226,9 @@ Tavia is not part of the main family line, but she bears the name through servic
 | [[#Chapel of the Last Lantern]] | Opening aftermath scene. | Halva asks what the town is about to hear. Frightened locals gather. The party decides what to reveal or protect. |
 | [[#The Reedmark Post]] | Nakoa’s letter home and courier-route logistics. | Can send mail toward the Veylrain Expanse, but needs specific destination identifiers and route choices. |
 | [[#The Lumenwell Shrine]] | Cassian’s sky/Sharite thread. | A black-threaded candle or scratched moon token introduces Sharite ideology without a fight. |
-| [[#Marrowgate Checkpoint]] | Blocks immediate access to Caer Oryn and Foundry Quarter. | Cadris’ Day security requires labour token, cargo licence, ecclesiastical writ, watch escort, Crown pass, or forgery. |
+| [[#Marrowgate Checkpoint]] | Access pressure toward Caer Oryn and the Foundry Quarter. | Cadris’ Day security makes entry costly, recorded, or narrow, but does not hard-block Magpie Lane. |
 | [[#House Vaelisar Premises]] | Optional investigation site. | Sealed High Quarter townhouse. Can be approached through Teclis’ religious authority or stealth. |
+| [[#17 Magpie Lane]] | Main Foundry Quarter arrival point. | Former worker residence converted into shift-clerk lodging, parcel room, and canteen store. Contains Nakoa-facing relic note. |
 | [[#Vellum House]] | Alekthar’s false-seal investigation. | Sella can identify the Amakiir mark as cargo authority copied from a record. |
 | [[#Harrowchain Ferry]] | Courier route and geographic pressure point. | Crosses from Morfael’s Harrowchain Yard to Harrow Road Landing across the River Oryn. Useful for discreet traffic but currently watched. |
 
@@ -227,25 +264,37 @@ A Selûnite alcove built into an old flood wall. A shallow basin holds river wat
 
 A temporary checkpoint on the road toward Caer Oryn. It has barriers, Cadris’ Day notices, ledger clerks, watchmen, waiting carts, pilgrims, and foundry workers with stamped tokens.
 
-**Session 2 use:** It blocks immediate access to the Foundry Quarter while making the blockade feel political and logistical, not arbitrary.
+**Session 2 use:** It makes access to the Foundry Quarter feel controlled and politically dangerous. It should not completely stop the party reaching Magpie Lane.
 
-**Access requires:** labour token, cargo licence, ecclesiastical writ, watch escort, Crown pass, forgery, or an inside contact.
+**Access to Magpie Lane can be gained through:** religious grounds from Teclis, Amakiir cargo concern from Alekthar, Nakoa following courier movement, forged or borrowed work token, or quiet help from Strake.
 
-**Link back:** [[Session 2 - Ashes at the Last Lantern#Scene 5: Blocking Caer Oryn and the Foundry Quarter]].
+**Link back:** [[Session 2 - Ashes at the Last Lantern#Scene 7: Accessing the Foundry Quarter]].
 
 ### House Vaelisar Premises
 
 A sealed townhouse on the lower edge of the High Quarter. Its front gate is chained, the Vaelisar arms are covered in black cloth, and a Civic Directorate notice states that the property is closed under authority due to inheritance irregularity, unauthorised religious practice, and failure to comply with household registration law.
 
-**Session 2 use:** Optional investigation site that allows Caer Oryn play without opening the Foundry Quarter. The party may approach through Teclis’ religious authority or stealth.
-
-**Public areas visible from the street:** front gate, black-covered arms, public notice, guards, clerk’s awning, carriage arch.
-
-**Restricted areas:** records office, private chapel room, carriage house, upper family rooms, rear garden.
+**Session 2 use:** Optional investigation site that allows High Quarter play and echoes House Amakiir.
 
 **Key NPCs:** Gate Sergeant Mera Hoth, Clerk Luthen Brax, Lantern-Warden Ossa Marr, Private Joric Vell, Private Sarn Dall, Tavia Vaelisar.
 
-**Link back:** [[Session 2 - Ashes at the Last Lantern#Scene 7: House Vaelisar Premises]].
+**Link back:** [[Session 2 - Ashes at the Last Lantern#Scene 6: Optional House Vaelisar Premises]].
+
+### 17 Magpie Lane
+
+A narrow former worker residence in the outer Foundry Quarter, now converted into a shift-clerk lodging, parcel room, and canteen store for runners.
+
+**Public use:** shift-clerk lodging, parcel rest, canteen storage, and grey-tag routing.
+
+**Actual use:** low-level courier drop and temporary holding room for parcels that need to look like routine foundry paperwork before being moved deeper into Crown systems.
+
+**Visible details:** soot-filmed windows, widened parcel door, black number plate marked **17**, canteen hatch next door, bricked-up passage, chalked shift numbers.
+
+**Session 2 use:** Main arrival point in Magpie Lane. Contains the cryptic note implying Edrin transported a Veylrain relic.
+
+**Nakoa clue:** the note is folded around a green-black thread and a dry fleck of old gold wax. It smells faintly of wet leaves after heat, old bark split by rain, and something metallic buried so long it learned the shape of roots.
+
+**Link back:** [[Session 2 - Ashes at the Last Lantern#Scene 8: 17 Magpie Lane]].
 
 ### Vellum House
 
@@ -253,7 +302,7 @@ A narrow records office where cargo manifests, false invoices, letters, permits,
 
 **Session 2 use:** Alekthar can have the wooden Amakiir-styled stamp examined by Sella Varrow. She reveals it is cargo authority, not noble authority, and likely copied from old paper records.
 
-**Link back:** [[Session 2 - Ashes at the Last Lantern#Scene 9: Alekthar and the False Amakiir Mark]].
+**Link back:** [[Session 2 - Ashes at the Last Lantern#Scene 10: Alekthar and the False Amakiir Mark]].
 
 ### Harrowchain Ferry
 
@@ -267,20 +316,18 @@ It is not a ferry directly into Caer Oryn. It connects Morfael to the old road n
 
 ## Caer Oryn / Foundry Quarter Access Rules
 
-The party should not freely access the Foundry Quarter in Session 2.
+The party can access the outer Foundry Quarter in Session 2, specifically **Magpie Lane** and **17 Magpie Lane**.
 
-The official reason is **Cadris’ Day security**. The practical reasons are processional route control, foundry inspection, forged pass concerns, and Crown sensitivity after the Edrin incident.
+They should not freely access deeper foundry yards, state weapon houses, hidden infrastructure, secure medical spaces, Crown Scar Directorate routes, or anything beneath Magpie Lane.
 
 Access requires one of:
 
+- A plausible religious reason from Teclis.
+- An Amakiir cargo concern from Alekthar.
+- A courier route identified by Nakoa.
 - A foundry labour token.
 - A cargo licence tied to approved freight.
-- An ecclesiastical writ from [[Arch-Lector Meren Voss]].
-- A watch escort authorised above Strake.
-- A Crown pass.
-- A forged pass.
-- A contact inside the Foundry Quarter.
+- A watch escort or quiet help from Strake.
+- A forged or borrowed pass.
 
-Do not present this as a hard wall. Present it as a list of doors the party can try to open over the next session or two.
-
-House Vaelisar is a separate High Quarter investigation route. It should not grant Foundry Quarter access by itself.
+Do not present this as a hard wall. Present it as a narrow door.
