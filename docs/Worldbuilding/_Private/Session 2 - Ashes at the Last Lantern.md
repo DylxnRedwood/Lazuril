@@ -20,7 +20,7 @@
 > - Potentially investigated the sealed Vaelisar premises.
 > - Found a route into the Foundry Quarter through controlled access, forged access, or social pressure.
 > - Reached **17 Magpie Lane**.
-> - Found a cryptic note implying that Edrin transported a Veylrain relic.
+> - Found a cryptic note implying that Edrin delivered a small animal-shaped Veylrain relic there.
 > - Given Nakoa a direct personal thread without fully explaining the relic.
 
 ## Session Tone
@@ -301,7 +301,7 @@ It is not a laboratory. It is not the main conspiracy. It is a hinge.
 | Parcel room | Empty shelves, grey-tag strings, wax flecks, one broken reed tube, smell of dust and oil. |
 | Canteen hatch | Pass-through to the neighbouring worker kitchen, useful for overheard gossip. |
 | Back stair | Leads to a locked upper room and roofline access. |
-| Hearth niche | Conceals the cryptic note about Edrin’s carried relic. |
+| Hearth niche | Conceals the delivery note about Edrin’s Veylrain relic. |
 
 ### Searching 17 Magpie Lane
 
@@ -314,60 +314,61 @@ It is not a laboratory. It is not the main conspiracy. It is a hinge.
 | Survival or Perception, Nakoa advantage | 13 | The scent and fibre residue in the parcel room match Veylrain wrapping practices, but the knotting was done by someone imitating them. |
 | Investigation, Nakoa advantage | 15 | The hearth niche contains the note folded around a green-black thread and a dry fleck of old gold wax. |
 
-## The Cryptic Note for Nakoa
+## The Delivery Note for Nakoa
 
 This note should be found in the hearth niche, under a loose stone, inside a burnt meal-tin, or folded behind the shift board.
 
-It should not say “Veylrain relic” outright. It should feel like a courier warning written by someone who knew enough to be afraid, but not enough to understand.
+It should confirm that a relic was delivered here, but it should not explain what the relic does. The relic is a small animal-shaped object, not feline. Use a **lizard-shaped relic** unless you later want to tie it to a different Veylrain animal.
 
 > [!readaloud] The Note
-> Vaal brought the old tooth through under meal-cover.
+> Vaal delivered the little green lizard to Seventeen.
+>
+> Wrapped in black leaf-cloth. Wrong knot. Right smell.
 >
 > Not Crown stone. Not red meal.
 >
-> Wrapped green-black, tied wrong, but it answered all the same.
+> Do not log it with the clerks.
 >
-> Keep it sleeping. Do not warm it. Do not let the clerks weigh it.
+> Do not warm it near the furnace wall.
 >
-> If the cat from the breathing land comes sniffing after it, he is not to see the tooth.
+> Hold it until the third hammer stops.
 >
-> Let him find thread instead.
->
-> Send the tooth below when the third hammer stops.
+> If the Veylrain cat comes asking, he gets the thread. Not the lizard.
 
 ### What the Note Means
 
 - **Vaal** is Edrin Vaal.
-- **Old tooth** means the Veylrain relic.
-- **Meal-cover** means it travelled disguised as ordinary foundry meal, grit, or mineral feedstock.
-- **Not Crown stone. Not red meal** separates it from the red veinstone dust.
-- **Wrapped green-black** points to Veylrain cloth or old jungle wrapping.
-- **Tied wrong** means someone imitated Veylrain methods.
-- **Cat from the breathing land** points to Nakoa.
-- **Let him find thread instead** means someone expected Nakoa might trace it and wanted him misdirected.
-- **Below when the third hammer stops** points to a timed movement into deeper Foundry infrastructure, not a place the party can fully access yet.
+- **The little green lizard** is a small lizard-shaped Veylrain relic.
+- **Seventeen** means 17 Magpie Lane.
+- **Black leaf-cloth** points to Veylrain wrapping.
+- **Wrong knot** means someone imitated Veylrain methods rather than tying it correctly.
+- **Right smell** means the relic is genuinely from the Veylrain Expanse.
+- **Not Crown stone. Not red meal** separates it from red veinstone dust and ordinary foundry material.
+- **Third hammer** points to a timed movement deeper into Foundry infrastructure.
+- **Veylrain cat** points to Nakoa, but it is phrased crudely by someone outside his culture.
+- **He gets the thread. Not the lizard** means someone expected Nakoa might trace the delivery and wanted him misdirected.
 
 ### Nakoa-Specific Beat
 
 If Nakoa reads, touches, or smells the note:
 
 > [!readaloud] Nakoa Beat
-> The words are ordinary ink. The paper is ordinary paper.
+> The ink is plain. The paper is cheap. Whoever wrote this did not understand what they were handling.
 >
-> But the thread folded into it is not ordinary.
+> But the thread folded into the note is not ordinary.
 >
-> It smells faintly of wet leaves after heat, old bark split by rain, and something metallic buried so long it learned the shape of roots.
+> It carries the smell of wet bark, crushed leaves, old rain, and the faint green-metal tang of something buried too long beneath living roots.
 >
-> For a moment, the black-and-gold memory inside you answers.
+> Nakoa, you do not know what the little lizard is.
 >
-> Not loudly. Not enough for anyone else to hear.
+> But you know it came from the Expanse.
 >
-> Enough to know this was not just cargo.
+> And you know someone wanted you to find the thread instead of the relic.
 
 ### What Not to Reveal Here
 
 - Do not show the relic yet unless you want the campaign to accelerate hard.
-- Do not explain what the relic does.
+- Do not explain what the lizard relic does.
 - Do not reveal who wrote the note.
 - Do not connect the relic fully to the old god yet.
 - Do not make Nakoa automatically understand it. Give him recognition, not answers.
@@ -472,13 +473,13 @@ Choose one based on what the party cared about most.
 | Strake | A clean-coated official asks Strake for Edrin’s body, notes, and witnesses by name. |
 | House Vaelisar | A Vaelisar servant tries to reach the party before the Directorate finds her. |
 | 17 Magpie Lane | A worker notices the party leaving and immediately marks the door with fresh chalk: **17 / CLEARED / HOLD BELOW**. |
-| Nakoa’s note | The green-black thread goes cold, then briefly tightens around itself like a living root. |
+| Nakoa’s note | The green-black thread goes cold for a moment, as if something that once answered it has been moved farther away. |
 
 ## Best Ending Line
 
 Halva, Strake, Maela, or Sella can frame the next choice:
 
-> “You have a road north, a dead man whose soul did not pass cleanly, a family mark used by strangers, another aasimar house sealed before dawn, a note that names a cat without naming him, and a sky your paladin does not trust.”
+> “You have a road north, a dead man whose soul did not pass cleanly, a family mark used by strangers, another aasimar house sealed before dawn, a delivered relic that was moved before you could see it, and a sky your paladin does not trust.”
 >
 > “So. Which trouble do you want to anger first?”
 
