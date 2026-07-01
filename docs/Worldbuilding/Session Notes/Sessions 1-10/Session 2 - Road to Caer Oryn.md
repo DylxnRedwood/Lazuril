@@ -8,21 +8,15 @@
 
 ## Leaving Gullhook Loft
 
-After the discoveries at [[Gullhook Loft]], the party gathered themselves and left Edrin Vaal’s cramped room behind. The hidden bundle beneath the floorboards had given them more questions than answers: Veylrain cloth, a red-gold candle, courier tags pointing toward [[Magpie Lane]], and the carved shape of House Amakiir authority being used where it had no right to be.
+After leaving [[Gullhook Loft]], the party made their way back into the streets of [[Morfael]] and began heading toward [[Caer Oryn]]. The discoveries beneath Edrin Vaal’s floorboards remained unresolved: Veylrain cloth, a red-gold candle, courier tags pointing toward [[Magpie Lane]], and a small wooden stamp carved with the sigil of House Amakiir.
 
-With no reason to remain in the loft and every reason to keep moving, the group made their way back down into the wet streets of [[Morfael]]. The town was no longer in the unsettled hush that had followed the horror at the Flood Steps. Morning was properly taking hold. Doors had opened. Traders were shouting. Carts were starting to block one another at narrow turns. People had begun doing what people in Morfael always did after trouble: they worked, watched, whispered, and pretended they were not afraid.
-
-The party headed through the streets toward the road for [[Caer Oryn]].
+Morfael was growing busier as the morning moved on. Streets filled with workers, traders, carts, and townsfolk already passing rumours between one another after the disturbance at the Flood Steps.
 
 ---
 
 ## Caer Oryn’s Morning Post
 
-As they passed near [[Vellum House]], the street thickened with bodies and errands. A small working boy came hurrying through the crowd with a stack of fresh broadsheets under one arm, his boots skidding slightly on the damp stone. He dropped the bundle on the steps, muttered something to the clerk at the door, and was gone almost before anyone could properly look at him.
-
-The top paper was still clean enough to read. The masthead named it as **Caer Oryn’s Morning Post**.
-
-The headline caught the attention of several members of the party.
+As the party passed near [[Vellum House]], a small working boy dropped a stack of fresh copies of **Caer Oryn’s Morning Post** on the steps. The headline caught the attention of several members of the party.
 
 > ## HOUSE VAELISAR SEALED BY CIVIC DIRECTORATE
 >
@@ -42,54 +36,32 @@ The headline caught the attention of several members of the party.
 >
 > No further statement has been issued.
 
-The news drew immediate attention from the group. It was the sort of headline that might have passed as upper-city scandal to most of Morfael: another noble household caught in some inheritance dispute, another civic seal, another black cloth thrown over a name people lower down would never touch.
-
-For the party, it landed differently.
-
-The mention of House Amakiir made the matter impossible to ignore. Alekthar in particular had reason to feel the weight of it. House Vaelisar was not merely another noble name in the paper. It was another old aasimar bloodline being placed under civic control, another family record dragged into public accusation, and another sign that the city’s laws could be made to close around a house before the truth had any room to breathe.
-
-No one in the street seemed eager to say too much about it aloud. Morfael knew how to read dangerous news quietly.
+The news raised eyebrows among the group, especially from [[Alekthar]]. The mention of House Amakiir gave the notice an immediate personal weight, and the sealing of another recognised aasimar bloodline made the matter difficult to dismiss as ordinary noble scandal.
 
 ---
 
-## Out of Morfael
+## The Road Out of Morfael
 
-From there, the party continued through Morfael and followed the river out toward the open fields. The buildings thinned by degrees. Stone gave way to rougher road. The smell of fish, coal smoke, vellum glue, and wet market timber slowly fell behind them, replaced by damp grass, churned cart-ruts, and the broader cold breath of the river.
+The party continued through Morfael and followed the river out toward the open fields. The town thinned behind them as they left the tighter streets and moved onto the road toward Caer Oryn.
 
-Caer Oryn was close now. Morfael did not sit far from the capital’s reach, and the road made that closeness difficult to forget. The journey to the outskirts took roughly forty-five minutes, long enough for the town’s noise to fade but not long enough for the party to feel they had left its trouble behind.
-
-Ahead, the walls of [[Caer Oryn]] rose into view.
+The journey to the outskirts took roughly forty-five minutes. Ahead, the walls of [[Caer Oryn]] came into view.
 
 ---
 
 ## The First Gate
 
-As the party approached the first gate and saw the city walls up close, the scale of Caer Oryn became harder to treat as a distant idea. The capital stood above the road in layered stone, gatework, shadow, and morning light. Its silhouette cut against the eastern sky while traffic gathered beneath it: carts, workers, walkers, messengers, guards, and the slow friction of a city deciding who was allowed to enter.
+As the party approached the first gate, they saw the walls of Caer Oryn up close. The sun began to appear from behind the city’s silhouette and above the horizon.
 
-Behind the shape of the city, the sun began to rise.
+The sun is known as **the Crown Magnetar**.
 
-The people of Lazuril know the sun as **the Crown Magnetar**. At that moment, it edged above the horizon from behind Caer Oryn’s dark outline, its light spilling around the walls and catching on the upper stonework.
+All of the party except [[Cassian Clarke]] noticed something unusual: a visible black spot on the accretion disc of the Crown Magnetar. It had not been there the day before.
 
-All of the party except [[Cassian Clarke]] noticed something wrong.
+When the others pointed it out to Cassian, he looked up in awe. He had spent years searching the sky for clues about the world’s existence, its place in the universe, and the order of the heavens above Lazuril.
 
-There was a black spot on the accretion disc of the Crown Magnetar.
-
-It was small, but visible. Not a cloud. Not smoke. Not a trick of the city’s silhouette. It sat against the disc itself, a dark imperfection in a place that should not have changed overnight.
-
-It had not been there the day before.
-
-When the others pointed it out to Cassian, he looked up and understood the significance at once. Cassian had spent years searching the sky for clues: the world’s place in the universe, the order of the heavens, the meaning of the stars, and the deeper truth behind Lazuril’s existence. He had watched, studied, prayed, measured, and wondered.
-
-This was new.
-
-Something had appeared on the Crown Magnetar’s disc that he had never seen before.
-
-Cassian looked upon it with awe, but not comfort. Whatever this was, it was not a familiar sign and not a remembered omen. It was a change in the sky itself, and it had come at the same time as dead men rising from rivers, noble houses being sealed before dawn, and old family marks being used by strangers.
-
-The party stood near the gate of Caer Oryn with the city before them and the altered sun above them.
+This was new. It was something he had not seen before.
 
 ---
 
-## Session Notes Still in Progress
+## End Point So Far
 
-The session notes are currently recorded up to the party’s arrival at the first gate of [[Caer Oryn]] and the first sighting of the black spot on the accretion disc of the [[Crown Magnetar]].
+The notes currently end with the party near the first gate of [[Caer Oryn]], looking up at the newly visible black spot on the accretion disc of the [[Crown Magnetar]].
