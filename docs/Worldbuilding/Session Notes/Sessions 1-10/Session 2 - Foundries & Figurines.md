@@ -36,7 +36,7 @@ As the party passed near Vellum House, a small working boy dropped a stack of fr
 >
 > No further statement has been issued.
 
-The news raised eyebrows among the group, especially from Alekthar. The mention of House Amakiir gave the notice an immediate personal weight, and the sealing of another recognised aasimar bloodline made the matter difficult to dismiss as ordinary noble scandal.
+The news raised eyebrows among the group, especially from Alekthar. The mention of House Amakiir gave the notice an immediate personal weight.
 
 ---
 
@@ -44,7 +44,7 @@ The news raised eyebrows among the group, especially from Alekthar. The mention 
 
 The party continued through Morfael and followed the river out toward the open fields. The town thinned behind them as they left the tighter streets and moved onto the road toward Caer Oryn.
 
-The journey to the outskirts took roughly forty-five minutes. Ahead, the walls of Caer Oryn came into view.
+The journey to the outskirts took roughly forty-five minutes. Ahead, the walls of Caer Oryn came fully into view.
 
 ---
 
@@ -52,9 +52,7 @@ The journey to the outskirts took roughly forty-five minutes. Ahead, the walls o
 
 As the party approached the first gate, they saw the walls of Caer Oryn up close. The sun began to appear from behind the city’s silhouette and above the horizon.
 
-The sun is known as **the Crown Magnetar**.
-
-All of the party except Cassian Clarke noticed something unusual: a visible black spot on the accretion disc of the Crown Magnetar. It had not been there the day before.
+All of the party except Cassian noticed something unusual: a visible black spot on the accretion disc of the Crown Magnetar. It had not been there the day before.
 
 When the others pointed it out to Cassian, he looked up in awe. He had spent years searching the sky for clues about the world’s existence, its place in the universe, and the order of the heavens above Lazuril.
 
