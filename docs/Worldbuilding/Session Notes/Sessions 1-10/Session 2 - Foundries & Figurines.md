@@ -60,6 +60,60 @@ This was new. It was something he had not seen before.
 
 ---
 
-## End Point So Far
+## Into Caer Oryn
 
-The notes currently end with the party near the first gate of Caer Oryn, looking up at the newly visible black spot on the accretion disc of the Crown Magnetar.
+After passing through the first gate, the party entered Caer Oryn. The capital was already stirring with the pressures of the day: city traffic, working crowds, and the early signs of preparation for Cadris’ Day.
+
+Once inside, Nakoa arranged for a letter to be sent back home. The full contents of the letter have not yet been disclosed, but a response is expected in roughly four days.
+
+---
+
+## Entry to the Foundry Quarter
+
+The party then made their way toward the Foundry Quarter. Entry was more difficult than usual because of the preparations for Cadris’ Day. Banners were being hung, work crews were moving through the streets, and the quarter had the ordered disorder of a city preparing itself for public celebration while still trying to keep its industry moving.
+
+Two guards blocked the main entry point into the quarter. Teclis attempted to overrule them using his position as Inquisitor-Scriptor, but without proper papers and authority from Voss, the guards refused to let the party through.
+
+To create a distraction, Teclis conjured the image and sound of the wife of the guard he was speaking to being intimate with the guard’s best mate and shift-partner, who was standing beside him.
+
+The illusion had the intended effect. Horrified by what he appeared to witness, the guard turned on his companion, and the pair began arguing long enough for the group to slip past. The party were not entirely unnoticed, but the guards had more immediate personal concerns to deal with.
+
+---
+
+## 17 Magpie Lane
+
+The party headed to Magpie Lane and found number 17. Rather than an active office or working address, the building was derelict.
+
+A local worker confirmed that it had once served as an office for a shift manager, but no one had worked there in months.
+
+Inside, dust had built up in the front room. The place had the stale stillness of a building left unused rather than simply left quiet. In the back room, however, there were signs of a struggle. A chair had been broken, and a table had been overturned.
+
+The group searched more closely and noticed a sealed passageway in the back room. Along the vertical line of the hidden door, there was a small hole covered by an illusion of brick mortar. Beyond it was a route down into a hidden basement.
+
+---
+
+## The Hidden Basement
+
+The basement beneath 17 Magpie Lane was filled with barrels. Most appeared to contain old vegetables and simple stores, but tucked behind the barrels was a small gilded chest.
+
+At the top of the chest, a small piece of string was exposed. The group approached it cautiously and decided that Nakoa should pull it free.
+
+The string was attached to a courier tag similar to the one found in Edrin’s room.
+
+> Courier: Edrin Vaal  
+> Address: 17 Magpie Lane  
+> Item: small green lizard figure, Veylrain origin
+
+On the advice of the group, Nakoa checked the chest more carefully for traps. He found a small spring-loaded mechanism inside and disabled it before unlocking the chest.
+
+The trap had been arranged to smash together a vial of poison and a vial of alchemist’s fire. Beneath the mechanism was more Veylrain cloth.
+
+After securing the dangerous vials and inspecting the surrounding barrels, the party found only old vegetables and simple stored goods. With the chest dealt with and the main clue recovered, they left 17 Magpie Lane.
+
+---
+
+## Toward House Vaelisar
+
+With the courier tag confirming Edrin Vaal’s connection to 17 Magpie Lane and a small green lizard figure of Veylrain origin, the party decided to make their way toward House Vaelisar.
+
+The session notes currently end with the group leaving Magpie Lane and heading toward the sealed noble house.
