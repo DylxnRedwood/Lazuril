@@ -104,16 +104,60 @@ The string was attached to a courier tag similar to the one found in Edrin’s r
 > Address: 17 Magpie Lane  
 > Item: small green lizard figure, Veylrain origin
 
+The party did not find or recover the figurine itself. The courier tag only confirmed that such an item had been linked to Edrin Vaal and 17 Magpie Lane.
+
 On the advice of the group, Nakoa checked the chest more carefully for traps. He found a small spring-loaded mechanism inside and disabled it before unlocking the chest.
 
 The trap had been arranged to smash together a vial of poison and a vial of alchemist’s fire. Beneath the mechanism was more Veylrain cloth.
 
-After securing the dangerous vials and inspecting the surrounding barrels, the party found only old vegetables and simple stored goods. With the chest dealt with and the main clue recovered, they left 17 Magpie Lane.
+As the group continued their search, they also found blood seeping between the basement floorboards. There were dragged footmarks leading back toward the stairs, suggesting that someone had been wounded or moved through the basement after the struggle above. The blood was human.
+
+After securing the dangerous vials and inspecting the surrounding barrels, the party found only old vegetables and simple stored goods. With the chest dealt with and the courier tag recovered, they left 17 Magpie Lane.
 
 ---
 
-## Toward House Vaelisar
+## The Blacksmith of Magpie Lane
 
-With the courier tag confirming Edrin Vaal’s connection to 17 Magpie Lane and a small green lizard figure of Veylrain origin, the party decided to make their way toward House Vaelisar.
+Upon leaving number 17, Teclis and Cassian spoke with a local blacksmith working a few doors down.
 
-The session notes currently end with the group leaving Magpie Lane and heading toward the sealed noble house.
+The blacksmith confirmed that he had seen people entering the derelict building a few days earlier. One of them matched the description of Halwin, and cloaked figures followed shortly after. He also heard signs of a scuffle from the building, but he had decided that it was not his business to investigate.
+
+He told the party that there was no ordinary way out of Magpie Lane without passing his forge. If the people involved had not come back past him, then they must have left by the closed-off section at the end of the lane.
+
+That end of the street formed a small cul-de-sac, with only a large sewer drain and scaffolding leading upward toward the rooftops.
+
+---
+
+## The End of the Lane
+
+The party travelled down Magpie Lane and inspected the closed-off area. The sewer drain was large enough for someone to climb down through, while the scaffolding was easy enough to climb for anyone skilled or desperate enough.
+
+As they were checking the area, Cassian was struck in the chest by a crossbow bolt.
+
+A figure on the rooftop quickly moved behind a chimney tower. Nakoa gave chase at once, climbing after the attacker while the others kept their distance below.
+
+Cassian healed himself and, in the moment after the wound closed, realised how far beyond him the magic of Teclis and Alekthar seemed to be. He had learned to smite his enemies, but he had not yet learned to channel divine power into more controlled and practised magic.
+
+---
+
+## Rooftop Chase
+
+Nakoa fired his bow at the rooftop figure and pointed the attacker out to the rest of the party, giving those below a clear line of sight.
+
+Two daggers flew back at Nakoa and wounded him badly, but he pressed on. Teclis created the illusion of a ladder beneath the cloaked figure, causing the attacker to waste precious moments kicking and reacting to something that was not truly there.
+
+That brief delay was enough for Nakoa to close the gap.
+
+The chase continued across the rooftops. Both Nakoa and the cloaked figure leapt a gap between buildings, bringing the pursuit into range of the rest of the party below.
+
+Alekthar judged the movement of the target and called down sacred flame from the sky. Teclis followed with the tolling force of Toll the Dead, a familiar staple of his magic. Between those strikes, Nakoa’s pressure, and a swipe from his rapier, the cloaked figure finally lost their footing.
+
+The figure stumbled and fell from the roof, crashing into a barrel below.
+
+They landed unconscious and prone, leaving the party to decide what to do next.
+
+---
+
+## End Point So Far
+
+The session notes currently end with the cloaked rooftop attacker unconscious after falling from the roof at the end of Magpie Lane.
