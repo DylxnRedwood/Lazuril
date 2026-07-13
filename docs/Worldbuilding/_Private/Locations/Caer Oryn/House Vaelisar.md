@@ -2,6 +2,7 @@
 title: House Vaelisar
 aliases:
   - Vaelisar Manor
+  - Vaelisar House
   - House Vaelisar Manor
 tags:
   - private
@@ -10,16 +11,18 @@ tags:
   - high-quarter
   - veinstone
   - civic-directorate
+  - aasimar-houses
+  - old-god-seal
 ---
 
 # House Vaelisar
 
 > [!dm] Private DM Notes
-> This page is private-facing. It contains infiltration routes, encounter mechanics, hidden evidence, and the truth behind the manor incident.
+> This page is private-facing. It contains infiltration routes, labelled room descriptions, encounter mechanics, hidden evidence, treasure, and the true Vaelisar family secret.
 
-House Vaelisar is a sealed noble manor in the [[Caer Oryn]] High Quarter. The [[Civic Directorate]] sealed the property overnight under an emergency civil order. The public reason is structural danger after a night collapse. The real reason is that something inside the manor has gone wrong: an artificial containment field on the first floor has destabilised around a black-purple orb connected to veinstone movement, relic handling, and covert experimentation.
+House Vaelisar is a sealed noble manor in the [[Caer Oryn]] High Quarter. The [[Civic Directorate]] sealed the property overnight under an emergency civil order. The public reason is structural danger after a night collapse. The real reason is that something inside the manor has gone wrong: an artificial containment field on the first floor has destabilised around a dull black orb connected to veinstone movement, relic handling, and the older aasimar house-seals.
 
-The party should not be able to walk in cleanly. This is a High Quarter civic lockdown, not a temple matter. [[Teclis Nimule Sílorion]] can push, argue, and intimidate, but his religious office does not override a Civic Preservation Seal.
+The manor should feel like a noble home that was searched, damaged, and abandoned in a hurry. The Vaelisar family were not innocent bystanders, but they were not fully in control either. Someone used their bloodline secret, their debts, and their old oath against them.
 
 ---
 
@@ -27,7 +30,7 @@ The party should not be able to walk in cleanly. This is a High Quarter civic lo
 
 House Vaelisar sits inside Caer Oryn's High Quarter, not in a normal residential street. The party cannot simply walk up and invoke religious authority. The Civic Directorate has sealed the property under an emergency civil order, and the order is written specifically to exclude church officials, private guards, family retainers, and unauthorised investigators.
 
-### Why Teclis' authority does not work
+### Why Teclis' Authority Does Not Work
 
 The seal is not religious, criminal, or funerary. It is a **Civic Preservation Seal**, used when a noble residence is considered structurally unsafe, politically sensitive, contaminated by unknown materials, or subject to Directorate investigation.
 
@@ -35,7 +38,7 @@ The Directorate officer at the cordon does not argue theology. He says:
 
 > "This is not a matter of burial, confession, exorcism, inheritance, or sanctuary. This is a sealed civic site under Directorate authority. If your temple wants entry, it can petition the Hall of Measures like everyone else."
 
-If Teclis pushes harder:
+If [[Teclis Nimule Sílorion]] pushes harder:
 
 > "Your office gives you standing with the dead. It does not give you keys to a quarantined noble estate."
 
@@ -57,7 +60,7 @@ The road into the Vaelisar estate row has been closed by iron crowd rails and tw
 
 That is only partly true.
 
-There are six Directorate guards, one clerk, and one plain-clothed observer watching who asks too many questions. The observer is not visibly armed, but they study faces and remember names.
+There are six Directorate guards, one clerk, and one plain-clothed observer watching anyone who asks too many questions. The observer is not visibly armed, but they study faces and remember names.
 
 Possible ways through:
 
@@ -110,6 +113,32 @@ From closer up, it feels occupied.
 
 ---
 
+# Vaelisar Family Secret: The Dawnmantle
+
+House Vaelisar's hidden inheritance is called **the Dawnmantle**.
+
+Publicly, the Dawnmantle was presented as an old-fashioned noble rite. It supposedly marked Vaelisar men who had reached adulthood and were ready to carry the family's public duties. Portraits show inducted men wearing a gold-threaded mantle, a narrow sunburst clasp, and a formal high-collared coat. To outsiders, it looked like vanity.
+
+Privately, it was one branch of the same ancient seal-work that binds the old god beneath the [[Godscar]]. Like the [[Bound Radiance]] in [[Alekthar of House Amakiir|Alekthar's]] family line, the Dawnmantle tied celestial blood to a terrestrial lock-point. The Vaelisar line did not understand the full truth in modern times, but they preserved enough ritual, blood-records, and induction law to remain useful to people who knew more.
+
+## Key Differences from the Bound Radiance
+
+- Only **male aasimar of House Vaelisar** were inducted into the Dawnmantle.
+- The rite was patriarchal, secretive, and treated as inheritance rather than blessing.
+- Inducted men carried a small sunburst scar or brand beneath the right collarbone.
+- The family taught that the Dawnmantle was about duty to Caer Oryn and the Crown.
+- The truth is older: the rite preserved one seal-thread in the lattice holding the old god shut away.
+
+## The Family's Modern Problem
+
+The current Vaelisar generation had money, status, and an inherited secret they no longer fully understood. They knew they were important. They did not know how dangerous that importance was.
+
+Someone exploited them.
+
+The house's debts, hidden rite, and connection to other aasimar houses made it a perfect storage and transit site for material that should never have been brought into the city.
+
+---
+
 # Exterior Description
 
 House Vaelisar is a broad, old High Quarter manor set behind low stone walls, ornamental trees, cracked paving, and a formal front terrace. It was once expensive in the confident, old-money way: pale stone columns, matching fountains, tiled approach, tall windows, and dark timbered upper rooms polished by age.
@@ -128,11 +157,23 @@ Something happened here before the Directorate arrived.
 
 ---
 
-# Ground Floor
+# General Loot Guidance
+
+House Vaelisar is noble, but it has already been searched and partially stripped. The party can find useful coin and trinkets, but not a fortune.
+
+Suggested total if they search sensibly and take portable valuables: **90 to 160 gp equivalent**.
+
+Do not make the manor a treasury. Large paintings, furniture, silver mirrors, and decorative objects are valuable but bulky, obvious, and hard to sell without attracting attention.
+
+---
+
+# Ground Floor Layout
+
+Use the annotated ground floor map. The labelled areas are G1 to G10.
 
 The ground floor is the part of the house that still looks most like a manor, though barely. It has marble, wood, old money, and ruin all mixed together. The central rooms show the worst collapse, while the side chambers still hold traces of domestic life.
 
-## Overall Feel
+## Ground Floor Overall Feel
 
 Inside, the air is cold and still. There is dust everywhere, but not evenly. Some areas look long-abandoned. Others have fresh footprints, dragged furniture marks, and recently disturbed debris.
 
@@ -144,99 +185,155 @@ Sound does not travel properly. A whispered conversation in one room feels too l
 
 ## G1. Front Terrace and Main Entrance
 
-The party enters from the southern terrace if they use the obvious approach. Twin circular fountains flank the entrance. The stonework is expensive but neglected. Leaves have gathered in the corners. The steps are chipped and cracked.
+The front terrace is the formal approach to the manor. Twin circular fountains flank the entrance. The stone paving is cracked, the steps are chipped, and the ornamental plants have been trampled by boots rather than weather.
 
-The main doors have been forced shut from outside by Directorate seal bars. The locks are not complicated, but the bars are obvious. Removing them quietly is harder than opening the door.
+The main doors have been barred from the outside with Directorate seal-plates. The wax is fresh and stamped cleanly. This was not done by panicked guards. It was done by officials who expected the site to remain closed.
 
-Inside the doors is a pale stone entrance hall. The floor is cracked and streaked with dust. A dark smear runs from the threshold toward the central staircase, partly wiped away by later foot traffic.
+### What Can Be Found
 
-This is not fresh blood, but it was blood.
+- Fresh boot tracks from Directorate guards and workmen.
+- A broken wax seal stamped with the Civic Directorate mark.
+- Scratches on the door frame where someone tried to open the door from inside before the bars were fixed.
+- A dropped brass pin from a civic workman's cloak, worth almost nothing but useful as proof of official presence.
+
+### Checks
+
+- **Investigation DC 12:** The exterior damage predates the official seal. The Directorate arrived after something had already gone wrong.
+- **Perception DC 13:** One set of boot tracks leads around toward the rear rather than away from the manor.
+- **Thieves' Tools DC 14:** The door lock can be opened, but the seal-bars must still be dealt with.
+- **Stealth DC 14:** Removing or bypassing the seal quietly avoids alerting the nearest outside patrol.
 
 ---
 
-## G2. Entrance Hall
+## G2. Entrance Hall and Stair Base
 
-The entrance hall has white stone flooring, black decorative tile borders, and a central view up toward the main staircase. A fallen statue lies near the middle, broken at the shoulder and hip. It once depicted a robed Vaelisar ancestor holding a scroll.
+The entrance hall has pale stone flooring, dark decorative borders, and a formal view toward the main staircase. A broken statue of a Vaelisar patriarch lies near the centre. It once showed a robed man holding a scroll and wearing a sunburst clasp at the throat.
 
-The statue's face has been deliberately smashed.
+The face has been deliberately smashed.
 
 Not weathered. Not collapsed. Smashed.
 
-Near the north side of the hall, the main stairs rise upward. Debris has spilled down from above. Dust lies thick on the lower steps, except for several clean marks where boots recently passed.
+Dust lies thick on the lower steps, except for several clean marks where boots recently passed. A dark smear runs from the front threshold toward the stair, partly wiped away by later foot traffic.
 
-This is the main route to the first floor, but it is exposed. Anyone above could see or hear people coming.
+This is not fresh blood, but it was blood.
+
+### What Can Be Found
+
+- A broken stone sunburst clasp from the statue.
+- Old blood dragged toward the stairs.
+- A loose signet ring under the broken statue hand, worth **20 gp** if sold, or more valuable as proof of Vaelisar identity.
+- Carved family motto beneath the statue base: **The Dawn Is Carried, Not Chosen.**
+
+### Checks
+
+- **Medicine DC 12:** The blood pattern suggests someone was dragged while still alive or recently dead.
+- **History DC 14:** The statue's clothing is ceremonial, not normal noble dress.
+- **Religion DC 15:** The sunburst motif is not standard church iconography. It is family-specific and older than the current Vaelisar public crest.
+- **Investigation DC 16:** The smashed face was targeted. Whoever did it wanted to destroy identity, not loot stonework.
 
 ---
 
-## G3. Grand Central Hall
+## G3. Grand Central Hall and Lower Collapse
 
-Beyond the entrance hall lies the grand central chamber. This was probably a reception room or formal gathering hall, floored in pale marble with dark patterned edging. It is now the most damaged part of the ground floor.
+This was the manor's formal reception chamber, floored in pale marble with dark patterned edging. It is now the most damaged part of the ground floor. The ceiling has partially collapsed, leaving broken boards, beams, furniture, and plaster scattered across the room.
 
-The ceiling has partially collapsed. Long beams, broken boards, furniture, and plaster are scattered across the room. There are two large fireplaces on opposite walls. Both are cold. The fine floor is cracked and powdered with grey dust.
+A large hole opens upward into the first floor. From here, the party can see the underside of the break and, if they look carefully, the dull black orb floating above the upper hole.
 
-A large hole opens upward through the ceiling and into the first floor above. This is where the upper-floor anomaly sits.
+At first, the orb is inactive.
 
-From below, the party can see a faint black-purple shimmer through gaps in the broken flooring above. It looks like a bruise in the air.
+It does not glow. It does not hum. It simply hangs there, matte black and wrong, as if a piece of night has been pinned inside the house.
 
 The closer someone gets to the centre of this room, the more their teeth ache. Loose metal objects give tiny clicks. Spells feel difficult to hold in the mind, not impossible yet, but strained.
 
-This is a warning area, not the full effect.
+### What Can Be Found
+
+- Black-purple grit gathered in floor cracks beneath the upper hole.
+- Broken pieces of a reinforced crate, lined on the inside with copper foil.
+- A scorched patch where something was set down briefly and then removed.
+- A silver candelabrum bent under debris, worth **25 gp**, but awkward to carry.
+- Splinters punched downward from the first floor, suggesting the damage came from above rather than below.
+
+### Checks
+
+- **Arcana DC 13:** The orb is not giving off ordinary active magic. It feels like a blank spot or suppression point.
+- **Investigation DC 14:** The crate was built to transport something delicate and dangerous, not household goods.
+- **Nature or Arcana DC 15:** The black-purple grit is mineral-like, but it behaves oddly when touched with metal.
+- **Strength DC 14:** A heavy beam can be shifted to expose more of the broken crate.
 
 ---
 
-## G4. West Reception Rooms
+## G4. Southwest Service Entry and Tiled Work Area
 
-The west side of the manor contains a series of battered reception rooms with wooden floors. These were once drawing rooms, smoking rooms, or private waiting rooms.
+This tiled area sits near the side of the manor and links to the service route. It is less grand than the central hall and more practical, with storage space, hearth remains, and access toward the servants' side of the house.
 
-The furniture is ruined, but not randomly. Chairs have been thrown against walls. Cabinets have been overturned and searched. One broken display case contains empty velvet spaces where small objects used to rest.
+The damage here is rough and hurried. Furniture has been knocked aside. A small outer door has been forced, repaired, then forced again.
 
-The party can find:
+### What Can Be Found
 
-- Scrape marks where a heavy cabinet was dragged aside.
-- A broken picture frame showing a formal Vaelisar family portrait, with the faces cut out.
-- A cracked liquor cabinet with most bottles intact, meaning this was not simple looting.
-- A thin line of black-purple dust collected in the gaps between floorboards.
+- A cold hearth with disturbed ash.
+- A torn strip of cloth bearing a tiny stitched Vaelisar house-mark.
+- A servant's hidden wage purse tucked behind a loose tile, containing **8 gp and 14 sp**.
+- A half-burnt note: **Do not let them take Lord Merenic upstairs again.**
 
----
+### Checks
 
-## G5. Western Service Rooms
-
-The lower-left side of the ground floor is more cramped and practical. These rooms were used by servants: storage, small workrooms, preparation spaces, and service corridors.
-
-The damage here is different. Less collapse, more hurried movement.
-
-There are signs people sheltered here briefly:
-
-- A chair wedged under a door handle.
-- A candle burned down to the holder.
-- A snapped knife blade on the floor.
-- Bloody fingerprints low on a door frame, as if someone crawled through.
-
-One small room has a cold hearth or stove. The ashes have been disturbed recently. Hidden in the ash is a torn strip of cloth bearing a tiny stitched Vaelisar house-mark.
+- **Investigation DC 13:** The ash was disturbed recently by someone searching for hidden papers.
+- **Perception DC 14:** The loose tile sits slightly higher than the others.
+- **History DC 15:** The house-mark on the cloth belongs to senior indoor servants, not kitchen staff.
 
 ---
 
-## G6. Southwest Private Room
+## G5. Western Service Rooms and Staff Shelter
 
-This room still has a partial rug, collapsed furniture, and a broken framed mirror. It looks like a minor sitting room or private office.
+These rooms were used by household staff: storage, servant movement, linen, minor repairs, and temporary rest. They look less collapsed than the central hall but more desperate.
 
-The mirror is cracked, but one shard reflects the room incorrectly for a moment. Not enough to become a full magical event. Just enough to make the players uncomfortable.
+There are signs people sheltered here briefly.
 
-A desk has been emptied. The drawers are on the floor. Someone took papers from here before the Directorate sealed the house.
+A chair is wedged under a door handle. A candle has burned down to the holder. A snapped knife blade lies on the floor. Bloody fingerprints sit low on one door frame, as if someone crawled through.
 
-A successful search can reveal an overlooked scrap:
+### What Can Be Found
 
-> "Third delivery refused. E.V. says the relic is unstable near the prepared stock. Do not bring it upstairs again."
+- A servant's knife, broken at the tip.
+- A small brass key labelled **West Stores**.
+- A locked drawer containing **11 gp**, **22 sp**, and a cheap garnet brooch worth **10 gp**.
+- A servant's note written in a shaking hand: **The black room is quiet until men speak near it. Do not answer if it speaks back.**
 
-This connects the manor to the veinstone and relic movement without explaining everything.
+### Checks
+
+- **Investigation DC 12:** The room was barricaded from the inside.
+- **Medicine DC 13:** The bloody handprints came from someone crawling or being dragged low to the ground.
+- **Perception DC 14:** The locked drawer has scrape marks around it, but whoever searched here missed it.
+- **Thieves' Tools DC 13:** Opens the drawer quietly.
 
 ---
 
-## G7. Eastern Hall and Parlour
+## G6. Lower East Private Parlour
 
-The eastern ground floor is broader and more open. The wooden flooring is in better condition, but broken furniture lies everywhere. A long room has scorch marks near one wall and a partially collapsed ceiling section.
+This was a private parlour or lesser receiving room. It still has traces of comfort: a ruined rug, broken chairs, a writing table, and a damaged cabinet. Compared with the rest of the house, it feels more personal.
 
-There is a fireplace here too, with a brick surround. The soot pattern is wrong. It looks as if the fire burned outward from the room, not up the chimney.
+A portrait frame lies face-down near the wall. The glass is broken, but the painting survives. It shows three generations of Vaelisar men, each with a gold-threaded mantle and a sunburst clasp at the throat. The women of the family are present, but seated behind them and not mantled.
+
+This is the first clear clue to the Dawnmantle.
+
+### What Can Be Found
+
+- The family portrait showing inducted Vaelisar men.
+- A small jewellery dish containing two silver collar pins, worth **12 gp** total.
+- A lacquered letter tube hidden behind the writing table.
+- A draft letter from Lady Serain Vaelisar, never sent: **They call it inheritance, but inheritance does not bruise the skin and make boys dream of the sun going black.**
+
+### Checks
+
+- **Investigation DC 14:** Finds the hidden letter tube.
+- **History DC 14:** The mantle style is older than current High Quarter fashion by several centuries.
+- **Insight DC 15:** The portrait composition is deliberate. The inducted men are being marked as the true carriers of the family burden.
+- **Religion DC 16:** The phrase about the sun going black has apocalyptic weight, but it is not part of any common temple doctrine.
+
+---
+
+## G7. Eastern Hall and Grand Parlour
+
+This broad eastern chamber was once a formal parlour or entertaining room. The wooden flooring is better preserved, but broken furniture lies everywhere. There is a fireplace with a brick surround. The soot pattern is wrong. It looks as if a fire burned outward from the room rather than up the chimney.
 
 A large cabinet has been tipped over to block one doorway. It was done from the inside.
 
@@ -244,205 +341,273 @@ Something was being kept out.
 
 Or something was being kept in.
 
+### What Can Be Found
+
+- A tipped cabinet with claw marks on the inner side.
+- A scorched hearth with traces of violet-black residue.
+- A sealed but unsent household account packet.
+- A gold-inlaid pipe case worth **18 gp**.
+- A ledger page showing payments from an unnamed civic intermediary, recorded only as **Morrow Office disbursement**.
+
+### Checks
+
+- **Investigation DC 13:** The cabinet was moved in a hurry by at least two people.
+- **Arcana DC 15:** The residue is consistent with proximity to the orb's suppression field, not normal fire.
+- **Investigation DC 16:** The account packet includes a payment that does not match any known Vaelisar household expense.
+
 ---
 
 ## G8. Billiard Room
 
-On the far eastern side is a green-felt billiard room, surprisingly intact compared with the rest of the manor. The table is damaged but still recognisable. Cue racks are broken. Balls are scattered underfoot.
+The billiard room is surprisingly intact compared with the rest of the manor. The green table is damaged but recognisable. Cue racks are broken. Balls are scattered underfoot.
 
-This room gives the party a good quiet place to regroup, but it has one problem: the door to the north or east exterior area is visible from the garden side. If any Directorate patrol circles the grounds, light or movement here may be seen.
+This room is a good place to regroup, but it is visible from the garden side. If any Directorate patrol circles the grounds, light or movement here may be seen.
 
-There are also two useful finds:
+### What Can Be Found
 
-- A heavy cue that can wedge a door.
-- A loose floorboard under the table containing a small locked case.
+- A heavy billiard cue that can wedge a door.
+- A loose floorboard under the table.
+- A small locked case beneath the loose board containing **23 gp**, two agate billiard markers worth **15 gp** total, and a folded coded note.
+- The coded note reads, once solved: **The third line crosses Cael Tharos before it returns to Vaelisar. Do not show the chart to the Directorate.**
 
-The case may hold Vaelisar signet papers, old coins, or a coded letter depending on what the party needs to have.
+### Checks
+
+- **Perception DC 13:** Notices one section of floorboard sits slightly proud beneath the table.
+- **Investigation DC 14:** Finds the hidden case.
+- **Thieves' Tools DC 14:** Opens the case without damage.
+- **Investigation or Intelligence DC 15:** Recognises the note as a simple substitution code.
+- **History DC 16:** Cael Tharos is not a place in Caer Oryn. It is tied to another old aasimar house.
 
 ---
 
-## G9. Rear Rooms and Garden Access
+## G9. Northern Rear Rooms and Garden Wing
 
-The northern side of the ground floor opens toward decking, rear paths, and a small enclosed garden area. These rooms are badly broken. Some walls are missing entirely. Rain has entered here, making the floors swollen and treacherous.
+The northern side of the ground floor opens toward decking, rear paths, and a small enclosed garden area. The rooms are badly broken. Some walls are missing entirely. Rain has entered here, making the floors swollen and treacherous.
 
 The garden doors are easier to enter through than the front, but the ground is muddy and records tracks clearly.
-
-If the party enters from here, they can avoid the front seal, but they leave evidence unless they are careful.
 
 One rear chamber contains a collapsed roof section and a smell of wet timber. Another has a table turned on its side like a barricade. There are claw marks in the wood, but very small ones. Too many fingers. Too many points.
 
 This foreshadows the tiny aberrations.
 
+### What Can Be Found
+
+- Muddy boot tracks entering from the garden after the collapse.
+- A broken crate marked as civic survey equipment.
+- Inside the crate: copper lining, purple-stained padding, and empty ties where something round was secured.
+- A discarded glove stained black across the fingertips.
+- A pouch of mixed silver worth **9 gp** total.
+
+### Checks
+
+- **Survival DC 13:** The muddy tracks show two people entered after the rain, then left separately.
+- **Investigation DC 14:** The crate label is false. It was made to look like Directorate equipment after the fact.
+- **Arcana DC 15:** The purple-stained padding was used to hold something that suppressed or distorted magic.
+- **Perception DC 15:** Finds the silver pouch tucked behind a broken planter box.
+
 ---
 
-## G10. Staircase
+## G10. Rear Stair and Upper Approach
 
-The central staircase is the main route upward. It is wide, formal, and partially damaged. The lower stairs are stone or pale tile, but higher up the structure becomes wood and cracked plaster.
+This rear stair connects the northern ground floor to the first floor. It is less formal than the main stair but more useful for moving unseen. The boards are cracked, the green stair runner is torn, and debris has been dragged across the landing.
 
-Halfway up, the air changes.
+The air changes halfway up.
 
 Spoken words sound slightly delayed. Cantrips flicker. Divine senses give confused impressions: not undead, not fiend, not celestial, not exactly aberrant yet, but something pressing through.
 
-The banister is broken near the top. Anyone moving quickly risks stepping onto unstable debris.
+### What Can Be Found
+
+- Fresh scrape marks on the stair rail.
+- A torn scrap of formal black cloth caught on a nail.
+- A snapped silver chain worth **6 gp**.
+- A smear of black dust on the wall at shoulder height.
+
+### Checks
+
+- **Acrobatics DC 12:** Move up the damaged stair without causing a loud creak or collapse of loose boards.
+- **Perception DC 13:** The black cloth is too fine for a workman.
+- **Arcana DC 15:** The black dust reacts faintly when brought near a spell focus or holy symbol.
 
 ---
 
-# First Floor
+# First Floor Layout
 
-The first floor is much worse. This is where the house stops feeling abandoned and starts feeling wounded. The upper rooms are split by broken walls, exposed beams, collapsed floors, and strange pockets of silence.
+Use the annotated first floor map. The labelled areas are F1, F2, F3, F4, F5, F6, F7, F8, and F10.
 
-This floor should feel more dangerous than the ground floor. The party is now close to the orb.
+There is no F9 label on the current annotated map. Treat the green-carpeted passage through the centre and west side as connecting space rather than a separate keyed room unless you want to add one at the table.
 
-## Overall Feel
+The first floor is much worse than the ground floor. This is where the house stops feeling abandoned and starts feeling wounded. The upper rooms are split by broken walls, exposed beams, collapsed floors, and strange pockets of silence.
+
+## First Floor Overall Feel
 
 The first floor has wooden floors, expensive carpets, ruined bedrooms, upper parlours, and private chambers. There are holes through the floor where the ground floor can be seen below. Some rooms are still furnished. Others are stripped, smashed, or opened to the sky.
 
-A green carpeted corridor runs through parts of the floor, but it is torn, stained, and interrupted by collapsed sections.
-
 The orb's presence makes the whole level feel slightly underwater. The air has pressure. Loose hair lifts. Dust hangs too long before falling.
 
-Magic is unreliable near the centre.
+At first, the orb is inactive.
+
+Magic feels unreliable near the centre, but the encounter should not immediately punish the party for arriving. Let them see the orb, investigate the room, and make decisions before it wakes.
 
 ---
 
-## F1. Upper Landing
+## F1. Upper Landing and Stair Hall
 
-The stairs emerge onto a damaged upper landing. The railing is broken in places and the floor has split near the central void.
+The stairs emerge onto a damaged upper landing. The floor is cracked, the railing is broken in places, and the space looks as though people came through quickly while carrying something heavy.
 
-This is the first clear view of the orb.
+This is the threshold between the ruined house and the true anomaly. From here, the party can see toward the central chamber where the dull black orb floats above the broken floor.
 
-A small black-purple sphere floats above the broken hole in the floor ahead. It is roughly the size of a large apple or clenched fist. It does not glow brightly. Instead, it stains the air around it, as if the room itself has bruised.
+### What Can Be Found
 
-It rotates slowly, but not on one axis. Its surface folds inward in impossible little movements. Every few seconds, a thin line of purple light appears across it, then seals shut like an eye closing.
+- Drag marks leading from the stair toward F2.
+- One broken boot heel from a Directorate issue boot.
+- A torn page from a household inventory, listing **mantle chest, reliquary frame, western portrait keys**.
+- A narrow smear of gold dust on the stair rail.
 
-Around it is a near-invisible force shell. Dust touches the shell and slides sideways. Loose splinters hang against it without falling.
+### Checks
 
-The orb is not loud.
-
-That makes it worse.
+- **Investigation DC 13:** The drag marks are from a heavy object, not a body.
+- **Perception DC 14:** The broken boot heel matches the type worn by civic officers, not servants.
+- **History DC 15:** A mantle chest would be ceremonial storage, not ordinary clothing storage.
 
 ---
 
-## F2. The Orb Chamber / Broken Central Floor
+## F2. Orb Chamber and Broken Central Floor
 
 This is the main threat location.
 
-The floor has collapsed around the central area, creating a jagged opening down into the ground floor's grand hall. Broken planks, cracked tiles, and hanging beams form dangerous footing around the void.
+The floor has collapsed around the central area, creating a jagged opening down into G3. Broken planks, cracked boards, torn carpet, and hanging beams form dangerous footing around the void.
 
-The orb floats directly above the hole, suspended at about chest height for a standing person on the first floor. It is surrounded by two effects: an antimagic skin and a force shell.
+A dull black orb floats above the hole at about chest height. It is roughly the size of a clenched fist or large apple. It does not glow. It does not hum. It does not spin dramatically. It sits there in the air, matte and lightless, as if it is refusing to reflect the room around it.
 
-### Antimagic Skin
+Around it is a near-invisible force shell, but while inactive the shell is tight and quiet. Dust touching it slides sideways. Loose splinters hang near it without falling.
 
-Within a short radius, active magic is suppressed or distorted.
+The orb should feel wrong before it feels aggressive.
 
-Practical effects:
+### What Can Be Found
 
-- Mage hand fails or becomes weak and twitching.
-- Detect magic gives a blinding blank spot rather than a school.
-- Magical light dims.
-- Summoned effects collapse.
-- Enchanted items feel cold and sluggish, though not necessarily permanently disabled.
+- Three blackened iron pins driven into the floor around the hole.
+- A copper-and-silver wire loop built into the damaged floorboards.
+- A cracked reliquary frame hidden beneath broken timber.
+- Black-purple grit gathered around the pins.
+- A narrow strip of vellum caught under one pin, marked with the words: **Hold until the line is cut.**
 
-This should not feel like a normal antimagic field created by a wizard. It feels crude, artificial, and forced.
+### Inactive Orb Rules
 
-### Force Shell
+At first, the orb is dormant.
 
-The orb cannot simply be grabbed, shot, stabbed, or dispelled at first.
+It becomes active if one or more of the following happens:
 
-Physical objects hit something hard and invisible before reaching it. A crossbow bolt stops dead and hangs in the air for half a second before dropping. A sword strike rebounds with a painful shock through the hand.
+- A spell is cast within 10 feet of it.
+- The force shell is struck hard.
+- One of the floor anchors is removed or damaged.
+- Someone tries to grab, cover, bottle, or physically move the orb.
+- A veinstone-reactive object is brought directly against the force shell.
 
-The force shell is not invincible, but it is not meant to be beaten by ordinary attacks immediately. It should require investigation, environmental action, damaging nearby anchors, waiting for instability, or surviving its discharge.
+When it activates, do not immediately flood the room. Start with pressure, sound, and one small breach.
 
-### Behaviour
+### Checks
 
-At first, the orb is passive.
-
-Then it responds.
-
-Signs of escalation:
-
-1. The purple lines across its surface open more often.
-2. The force shell expands by inches, pushing dust and debris outward.
-3. A low pressure builds in everyone's ears.
-4. Small wet clicking noises come from inside the walls.
-5. The first aberration drops from the underside of the broken floor.
+- **Arcana DC 13:** The orb is not giving off normal magic. It is a blank spot, almost like magic is being swallowed at its edge.
+- **Investigation DC 14:** The iron pins, wire loop, and reliquary frame are part of a containment setup.
+- **Religion DC 15:** The arrangement imitates a binding rite, but it has been crudely adapted through arcane engineering.
+- **Arcana DC 17:** The field is suppressive rather than protective. It was meant to keep something still.
+- **Tools or Arcana DC 18:** One anchor can be disabled without instantly waking the orb, but a failure causes the orb to activate.
 
 ---
 
-## F3. Aberration Emergence
+## F3. Northern East Private Chamber
 
-The orb does not explode immediately. It leaks.
+This room is a private upper chamber or secure storage room. The furniture has been shoved aside and searched. A broken mirror lies on the floor. One wall cabinet has been pried open.
 
-Tiny aberrations begin to squeeze through cracks in the air around the orb and through gaps in the splintered floor. They are small enough to be individually weak, but wrong enough to be disturbing.
+The room feels less violently damaged than F2, but more deliberately stripped. Someone knew there were valuables here.
 
-Suggested description:
+### What Can Be Found
 
-> They are the size of rats or large spiders, but they are neither. Each has a soft black-purple body, too many jointed limbs, and a hard little beak or tooth-ring where a face should be. Their movement is frantic and twitching, like insects trapped under skin. When killed, they collapse into dark fluid and pale grit.
+- An empty velvet-lined case shaped for a mantle clasp.
+- Two ceremonial bracers of old gold-washed silver, worth **35 gp** total.
+- A letter from a Cael Tharos contact, carefully worded: **Your line cannot be read in isolation. Vaelisar is a crossing point, not an end.**
+- A broken portrait miniature of a young male aasimar with a faint sunburst mark visible beneath his collar.
 
-They are not intelligent. They are scouts, leakage, or waste matter from whatever the orb is connected to.
+### Checks
 
-They should come in waves, not one big dump.
-
-- First wave: 3-5 creatures.
-- Second wave: more, coming from multiple cracks.
-- Third wave: something slightly larger or fused together, if the party lingers.
-
----
-
-## F4. Northern Upper Rooms
-
-The north side of the first floor contains broken private rooms and storage spaces. Some have collapsed walls. One room has a large white bathtub or covered furnishing amid the wreckage, giving it a strangely domestic feel compared with the horror near the centre.
-
-These rooms show signs of panic.
-
-Furniture has been shoved against doors. Bedding has been dragged into corners. A wardrobe lies face-down, its back panel broken out. Someone hid inside it and escaped through the rear.
-
-Possible clue:
-
-> "Do not go near the black room when it hums."
-
-This has been scratched into the underside of a drawer by a servant. It implies the orb, or its precursor, was present before the final disaster.
+- **Investigation DC 13:** The empty case held something removed before the house was sealed.
+- **History DC 15:** The bracers are ceremonial and likely tied to induction.
+- **Insight DC 15:** The Cael Tharos letter is warning Vaelisar that their family rite connects to something larger.
+- **Perception DC 16:** The portrait miniature is lodged under a fallen chair leg.
 
 ---
 
-## F5. Upper West Rooms
+## F4. Northern Bedroom and Bathing Room
 
-The west side has a row of wooden chambers, likely bedrooms or guest rooms. The floors are badly damaged in places. Some rooms have parquet flooring, others plain boards.
+This room was a private bedroom or upper guest suite with bathing space nearby. It contains broken furniture, domestic wreckage, and signs of someone hiding here during the worst of the incident.
 
-The destruction here is not uniform. One room is overturned and searched. Another is almost untouched except for dust and a single chair facing the wall.
+The room is uncomfortable because it feels personal. Bedding has been dragged into a corner. A wardrobe lies face-down, its back panel broken out. Someone hid inside it and escaped through the rear.
 
-Useful details:
+### What Can Be Found
 
-- Torn noble clothing in a wardrobe.
-- A jewellery box emptied but left behind.
-- A concealed servant bell cord cut with a blade.
-- Fine ash on one windowsill, though there is no fireplace nearby.
+- A wash basin stained faintly black at the drain.
+- A hidden prayer token under the bed, not to a public god but to **the first dawn after the dark**.
+- Silver cufflinks worth **16 gp**.
+- Scratched writing under a drawer: **Do not go near the black room when it hums.**
+- A servant's small devotional cord, torn in half.
 
-A character looking out from a west window can see part of the High Quarter cordon and the street beyond. This is a good moment to remind them that leaving may be harder than entering.
+### Checks
 
----
-
-## F6. Upper East Rooms
-
-The east wing is broader and includes what looks like a larger suite or formal upper room. Parts of the roof have collapsed. Rain has damaged the floorboards. The easternmost section is partly open to the elements.
-
-One room has a reddish tiled or roofed section visible where the structure has broken open. It offers a possible escape route onto lower roofing or scaffolding, but it is unstable.
-
-This area is useful if the party needs an alternative route out once the orb activates.
-
-The eastern rooms also contain one of the better clues.
-
-A table has been split in half, but a strip of paper remains pinned under one broken leg:
-
-> "The Directorate is not to be allowed into the upper room until the removal is complete. If Vaelisar objects, remind him whose protection paid his debts."
-
-This points toward powerful people using the family estate, rather than House Vaelisar simply being guilty alone.
+- **Investigation DC 12:** Finds the scratched writing under the drawer.
+- **Religion DC 14:** The prayer token is not a normal temple item. It is household ritual material.
+- **Medicine DC 15:** The basin residue contains traces of blood mixed with mineral grit.
+- **Perception DC 15:** Finds the cufflinks hidden in a cracked floorboard gap.
 
 ---
 
-## F7. Private Bath / Dressing Rooms
+## F5. Western Gallery and Upper Rooms
 
-Several small tiled rooms sit off the central and eastern areas. These are quieter, more intimate spaces: dressing rooms, washrooms, private preparation chambers.
+The western side contains upper bedrooms, storage rooms, and a long green-carpeted passage. The floors are badly damaged in places. Some rooms have parquet flooring, others plain boards.
+
+The destruction here is uneven. One room has been overturned and searched. Another is almost untouched except for dust and a single chair facing the wall.
+
+The most important feature is the portrait wall. Several portraits have been removed or cut, but enough remain to show a pattern: Vaelisar men in formal gold-threaded mantles, always painted beneath a stylised dawn. No women wear the mantle.
+
+### What Can Be Found
+
+- A torn genealogy roll showing male Vaelisar heirs marked with a small sun symbol.
+- A locked portrait cabinet with three old family seals.
+- A small box of old silver buttons worth **14 gp**.
+- A handwritten tutor's note: **He asked again why his sister is not taught the words. I told him the old answer. He did not like it.**
+
+### Checks
+
+- **Investigation DC 13:** The genealogy roll has been deliberately torn where recent names appear.
+- **History DC 14:** The marked male heirs correspond to formal induction age, not birth order alone.
+- **Thieves' Tools DC 14:** Opens the portrait cabinet.
+- **Religion DC 16:** The repeated dawn motif suggests ritual continuity, not just heraldry.
+
+---
+
+## F6. Southwest Bedchamber
+
+This chamber belonged to someone important but not central to the Dawnmantle rite. It is more comfortable and less ceremonial than the northern rooms. It likely belonged to a wife, mother, or unmarried adult daughter of the family.
+
+The room shows signs of anger. Drawers have been pulled out. A jewellery stand has been smashed. A writing desk has been split by force.
+
+### What Can Be Found
+
+- A small purse containing **19 gp** and **31 sp**.
+- A silver hair comb worth **10 gp**.
+- A private letter from Lady Serain Vaelisar: **They kept the old words from us and called it protection. Now the men who knew them are either dead, missing, or bought.**
+- A cracked locket with a portrait of two Vaelisar children, one boy and one girl.
+
+### Checks
+
+- **Investigation DC 13:** Finds the purse inside a torn mattress seam.
+- **Insight DC 14:** The letter suggests resentment within the family over who was allowed to know the Dawnmantle rites.
+- **Perception DC 15:** Finds the locket beneath the broken desk panel.
+
+---
+
+## F7. Eastern Dressing Rooms and Washrooms
+
+These smaller rooms sit off the eastern side of the floor. They were used for dressing, washing, and private preparation before formal appearances.
 
 The tiles are cracked. One basin is stained purple-black around the drain. Water in the basin has separated into a dark lower layer and a clear upper layer.
 
@@ -450,42 +615,74 @@ Anything organic placed into the dark layer curls, tightens, or goes numb.
 
 Not instant death. Just wrong.
 
-This hints that whatever the orb is doing affects matter and living tissue, not just magic.
+### What Can Be Found
+
+- A silver shaving razor worth **8 gp**.
+- Stained cloths hidden beneath broken tiles.
+- A copper bowl etched with a crude suppressive circle.
+- A small packet of black grit wrapped in waxed paper.
+
+### Checks
+
+- **Medicine DC 13:** The stained cloths were used to clean injuries around the collarbone or upper chest.
+- **Arcana DC 15:** The copper bowl is not old Vaelisar ritual work. It was added recently by someone trying to manipulate the house rite.
+- **Investigation DC 15:** Finds the packet of black grit.
+- **Constitution Save DC 12:** Anyone directly touching the separated black water with bare skin feels numbness in the fingers for 10 minutes.
 
 ---
 
-## F8. Upper Study or Record Room
+## F8. Eastern Grand Suite and Record Room
 
-One first-floor chamber appears to have been used for records, letters, or accounts. Shelves are smashed. Papers have been taken. A few remain under debris.
+This is one of the most important rooms in the manor. It was once an upper salon or private family record room. The eastern wall and roofline are badly damaged, and the room has partially opened to the elements.
 
-This room should reward careful searching.
+Shelves have been smashed. Papers have been taken. A few remain under debris. Whoever searched here knew what they wanted, but they were interrupted or careless.
 
-Possible finds:
+### What Can Be Found
 
-- A list of deliveries marked only by numbers, weights, and times.
-- References to "stone-wrapped reliquaries."
-- Payment from a Directorate-adjacent office, not directly named.
-- A note that says:
+- A split writing table with a hidden compartment.
+- The **Dawnline Map**, rolled inside a cracked brass map tube.
+- A narrow account book showing payments routed through a Directorate-adjacent office.
+- Three small moonstones worth **30 gp** total.
+- A broken crate label reading **civic survey glass**.
 
-> "Do not store near active samples. The field agitates them."
+### The Dawnline Map
 
-This gives the party a practical warning: the orb may react to veinstone, relics, or imbued material they carry.
+This is the key find.
+
+The map is old vellum, reinforced at the corners with thin gold leaf. At first glance it looks like a noble genealogy chart overlaid on a regional map. On closer inspection, it is not mapping roads, holdings, or trade routes.
+
+It shows crossing lines between aasimar houses.
+
+Named points include:
+
+- **House Vaelisar**.
+- **Cael Tharos**.
+- **House Amakiir**, though this may be written in an older or abbreviated hand.
+- Several other house names, some crossed out, some circled, some reduced to initials or heraldic marks.
+
+The lines cross over one another in a lattice. Certain points are marked with small gold suns, black circles, and red thread knots. Vaelisar is not shown as the centre. It is shown as a crossing point.
+
+A note in the margin reads:
+
+> **When the bloodlines fail, the lock remembers the shape but not the song.**
+
+Another note reads:
+
+> **Cael Tharos remains bright. Vaelisar dims. Amakiir unstable but unbroken.**
+
+This should be enough to make Alekthar's player sit up without explaining the full cosmology immediately.
+
+### Checks
+
+- **Investigation DC 14:** Finds the hidden compartment in the split writing table.
+- **History DC 15:** Identifies Cael Tharos as another old aasimar house, not a place in Caer Oryn.
+- **Religion DC 16:** The map is not a family tree. It is a sacred or cosmological binding diagram disguised as genealogy.
+- **Arcana DC 17:** The crossing lines resemble stabilisation geometry. The houses are being used as living anchor points.
+- **If Alekthar studies the map:** He recognises enough Amakiir patterning to know this touches his family. No roll required for that basic recognition.
 
 ---
 
-## F9. The Green-Carpet Corridor
-
-A torn green carpet runs through the upper floor, connecting rooms around the central collapse. It is useful visually: the party can follow it, and it gives a clear path through the upper level.
-
-But the carpet hides weak boards.
-
-When the orb starts pulsing, the corridor becomes dangerous. Nails lift. Boards flex. Tiny aberrations can move under the carpet, creating small travelling bulges before they burst through.
-
-This is a good place for a sudden attack without using a full ambush.
-
----
-
-## F10. Roof and Exterior Escape
+## F10. Broken Roof, Eastern Exit, and Scaffolding Route
 
 The broken eastern side of the first floor gives access to damaged roof sections, scaffolding, and possibly a drop into the garden.
 
@@ -493,20 +690,27 @@ This is not a clean exit. It is noisy, visible, and dangerous.
 
 But once the orb begins producing aberrations, the front door may become the worst possible way out.
 
-A good escape sequence:
+### What Can Be Found
 
-1. The orb pulses.
-2. The stairs crack or become swarmed.
-3. Directorate guards outside hear something and begin entering the grounds.
-4. The party has to choose between fighting down the main stair, fleeing across roof tiles, or barricading inside and dealing with the orb.
+- A torn Directorate work permit caught under a roof tile.
+- A small courier satchel hidden behind broken roofing, containing **12 gp**, a waxed tinder packet, and a folded route note.
+- The route note reads: **Do not leave by the front. West cordon watches faces. East roof after second bell.**
+- A snapped crossbow bolt lodged in a roof beam.
+
+### Checks
+
+- **Acrobatics DC 13:** Cross the roof break safely.
+- **Perception DC 14:** Finds the hidden courier satchel.
+- **Investigation DC 15:** The work permit was real, but issued under a false name.
+- **Stealth DC 15:** Leave by the scaffolding without being spotted by the nearest patrol.
 
 ---
 
-# The Orb
+# The Orb Encounter
 
 The orb should not feel like a random monster spawner. It should feel like a device, containment failure, or failed experiment.
 
-Behind the screen, the orb is a **containment knot** created to suspend or stabilise something moved through House Vaelisar. It was meant to hold a relic, sample, or veinstone-reactive object in a dead magical field. Something went wrong. Instead of containing the breach, the orb is now acting as a pressure valve.
+Behind the screen, the orb is a **containment knot** created to suspend or stabilise something moved through House Vaelisar. It was meant to hold a relic, sample, or veinstone-reactive object in a dead magical field. Something went wrong. Instead of safely containing the breach, the orb is now acting as a pressure valve.
 
 The antimagic effect is not natural. It is a crude suppression field.
 
@@ -522,9 +726,9 @@ The party can learn something important here: whoever made this has resources, k
 
 Start restrained. Do not have it immediately attack.
 
-### Stage One: Discovery
+### Stage One: Dormant Discovery
 
-The orb floats silently. Magic near it weakens. The room is tense but still.
+The orb floats silently. It is dull black, inactive, and almost featureless. Magic near it weakens slightly, but the field has not fully opened.
 
 Let the party investigate.
 
@@ -538,13 +742,15 @@ They may try:
 - Looking for anchors or damage points.
 - Checking the room below.
 
-### Stage Two: Reaction
+### Stage Two: First Reaction
 
-The orb reacts to interference, loud impact, spellcasting, or proximity.
+The orb reacts to interference, loud impact, spellcasting, anchor damage, or direct attempts to move it.
 
 Description:
 
-> The black surface tightens. A purple seam opens across it. For half a second, something moves behind the seam, pressing outward. Then the whole room clicks.
+> The black surface tightens. It does not glow. It deepens, as if a shadow inside it has folded over itself. Then a single purple seam opens across the surface and seals shut like an eye closing.
+>
+> The whole room clicks.
 
 The first tiny aberrations appear.
 
@@ -555,6 +761,7 @@ The force shell begins expanding and contracting like a lung. Each pulse causes:
 - Floorboards to crack.
 - Loose weapons to drag slightly toward the orb.
 - Magic to stutter.
+- Small wet clicking noises inside the walls.
 - More aberrations to emerge.
 
 ### Stage Four: Decision Point
@@ -582,9 +789,29 @@ Then the orb either collapses inward or spits out one final wave.
 
 ---
 
-# Evidence the Party Can Find
+## Tiny Aberrations
 
-Use a few of these, not all.
+The orb does not explode immediately. It leaks.
+
+Tiny aberrations begin to squeeze through cracks in the air around the orb and through gaps in the splintered floor. They are small enough to be individually weak, but wrong enough to be disturbing.
+
+Suggested description:
+
+> They are the size of rats or large spiders, but they are neither. Each has a soft black-purple body, too many jointed limbs, and a hard little beak or tooth-ring where a face should be. Their movement is frantic and twitching, like insects trapped under skin. When killed, they collapse into dark fluid and pale grit.
+
+They are not intelligent. They are scouts, leakage, or waste matter from whatever the orb is connected to.
+
+They should come in waves, not one big dump.
+
+- First wave: 3-5 creatures.
+- Second wave: more, coming from multiple cracks.
+- Third wave: something slightly larger or fused together, if the party lingers.
+
+---
+
+# Evidence Summary
+
+Use a few of these, not all. The strongest path is G6, G8, F3, F5, and F8.
 
 ## Evidence of House Vaelisar Involvement
 
@@ -592,6 +819,7 @@ Use a few of these, not all.
 - A private room used for storage.
 - Servants' areas showing people were afraid before the seal.
 - A hidden ledger with unusual payments.
+- Portraits and genealogy proving the Dawnmantle induction pattern.
 
 ## Evidence Vaelisar Were Not Fully in Control
 
@@ -599,20 +827,43 @@ Use a few of these, not all.
 - Directorate involvement before the official seal.
 - Rooms searched before the party arrived.
 - A note implying Vaelisar debt or coercion.
+- Lady Serain's letters suggesting the family was divided and frightened.
 
 ## Evidence Linking to the Wider Faction
 
 - The eye-and-tear crown sigil branded or stamped on a strip of binding cloth.
 - A faded mark on a medical wrapping.
 - A small black case lined with purple-stained padding.
-- A coded reference to "the prepared men" or "the second binding."
+- A coded reference to the prepared men or the second binding.
+- Civic survey labels used as cover for containment equipment.
 
-## Evidence Linking to Veinstone Relic Movement
+## Evidence Linking to the Aasimar Seal-Lines
 
-- Residue in floor cracks.
-- Scratched warning: "do not warm it."
-- Delivery weights that do not match normal household goods.
-- A broken crate labelled as civic survey equipment but lined like a reliquary box.
+- The Dawnline Map in F8.
+- Cael Tharos reference in G8 and F3.
+- House Amakiir marked on the Dawnline Map.
+- Male-only induction pattern in G6 and F5.
+- The phrase: **The Dawn Is Carried, Not Chosen.**
+
+---
+
+# Check Summary
+
+Use these if you want fast table handling rather than room-by-room checks.
+
+| Check | DC | Result |
+|---|---:|---|
+| Investigation | 12 | Notices the Directorate seal came after the main damage. |
+| Perception | 13 | Finds signs of rear access and post-collapse movement. |
+| Medicine | 13 | Confirms some victims were alive when dragged or treated. |
+| History | 14 | Identifies Vaelisar mantle imagery as ceremonial and old. |
+| Investigation | 14 | Finds hidden containers, letter tubes, or missed drawers. |
+| Religion | 15 | Recognises the Dawnmantle as ritual inheritance, not normal heraldry. |
+| Arcana | 15 | Identifies suppressive field residue and black-purple grit. |
+| Investigation | 16 | Finds payment links to a Directorate-adjacent office. |
+| Arcana | 17 | Understands the orb as containment machinery rather than a simple magical object. |
+| Religion or Arcana | 17 | Understands the Dawnline Map as a binding lattice between aasimar houses. |
+| Tools or Arcana | 18 | Disables one orb anchor without immediately triggering a breach. |
 
 ---
 
@@ -628,7 +879,7 @@ Guards outside hear the disturbance and enter. They are not ready for aberration
 
 Good line:
 
-> "Weapons down! By order of the Civic- gods below, what is that?"
+> "Weapons down! By order of the Civic... gods below, what is that?"
 
 ## 2. The Plain-Clothed Observer Escapes
 
@@ -638,7 +889,7 @@ This creates a later problem.
 
 ## 3. The Manor Seal Breaks Publicly
 
-A pulse blows open upper shutters. Purple-black light flashes over the High Quarter rooftops. Now the incident cannot be buried cleanly.
+A pulse blows open upper shutters. Purple-black darkness flashes over the High Quarter rooftops. Now the incident cannot be buried cleanly.
 
 ## 4. Something Leaves Through the Walls
 
