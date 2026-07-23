@@ -40,7 +40,7 @@ Nakoa’s claws at Garron’s throat and the fear of the guillotine illusion did
 
 ## What Garron Revealed
 
-Garron told the party that the drop-off for the lizard idol was at the Gilded Heart, in room 13.
+Garron told the party that the drop-off for the lizard idol was at the Gilded Hart, in room 13.
 
 He also confirmed that Edrin Vaal had been taken down the drain where the party later fought him, but Garron claimed not to know where Edrin had been taken after that. The drain was a route, not the final destination.
 
@@ -130,7 +130,7 @@ Before leaving the matter with Sister Dorn, the party warned that the townsfolk 
 
 ## End Point
 
-The session left the party with several clear threads: the Obsidian Register now had a name, Garron Duskholt had pointed them toward the Gilded Heart and room 13, Odran Kesh had been identified at the Counting House in the Foundry Quarter, and Quincy Adams had confirmed the red dust as veinstone.
+The session left the party with several clear threads: the Obsidian Register now had a name, Garron Duskholt had pointed them toward the Gilded Hart and room 13, Odran Kesh had been identified at the Counting House in the Foundry Quarter, and Quincy Adams had confirmed the red dust as veinstone.
 
 At the same time, House Vaelisar had become more ominous. Garron claimed the Register would not interfere with noble houses, yet body bags had reportedly been carried from the manor. Whatever happened there was larger than a simple civic sealing.
 
