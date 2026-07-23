@@ -249,7 +249,7 @@ He wants the following recorded:
 - A drawing of the crying-eye brand.
 - Odran Kesh's name.
 - The location of the Counting House.
-- The Gilded Heart and room 13.
+- The Gilded Hart and room 13.
 - The route through the drains.
 - The connection to Edrin Vaal.
 - Any known Crown involvement.
