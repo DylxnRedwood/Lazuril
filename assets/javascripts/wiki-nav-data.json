@@ -536,6 +536,14 @@
     "title": "NPCs & Locations",
     "children": [
       {
+        "title": "Academy Quarter",
+        "href": "Worldbuilding/NPCs%20%26%20Locations/Academy%20Quarter/"
+      },
+      {
+        "title": "Foundry Quarter",
+        "href": "Worldbuilding/NPCs%20%26%20Locations/Foundry%20Quarter/"
+      },
+      {
         "title": "Morfael",
         "href": "Worldbuilding/NPCs%20%26%20Locations/Morfael/"
       }
